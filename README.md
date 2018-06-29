@@ -73,6 +73,7 @@ The Blockchain Commons maintains the following communication channels:
 
 - Shared Document Repositories (github): https://github.com/BlockchainCommons
 - Community Documents (github): https://github.com/BlockchainCommons/BlockchainCommonsCommunity
+- Research Agend (github): https://github.com/BlockchainCommons/ResearchAgenda
 - Twitter: TBD
 - Forum/Mailing List: TBD
 
