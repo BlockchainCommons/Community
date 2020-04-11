@@ -53,6 +53,9 @@ The Blockchain Commons members are:
   * Code on [Github](https://github.com/maaku) and on Twitter is [@MarkFriedenbach](https://twitter.com/markfriedenbach)
   * Resides in the Bay Area of California USA
 
+* [Vinay Taylor](mailto:vinay@nomqa.com)
+
+
 ## Patrons
 
 * [Tuur Demeester](mailto:tuurdemeester@gmail.com)
