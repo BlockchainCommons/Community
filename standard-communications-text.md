@@ -105,3 +105,5 @@ As an open-source, open-development community, Blockchain Commons does not have 
 
 If your company requires support to use our projects, please feel free to contact us directly about options. We may be able to offer you a contract for support from one of our contributors, or we might be able to point you to another entity who can offer the contractual support that you need.
 
+Vinay Taylor
+
