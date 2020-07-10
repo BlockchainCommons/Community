@@ -4,7 +4,7 @@ The purpose of the [Blockchain Commons](https://github.com/BlockchainCommons) is
 * Support blockchain [commons](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html) initiatives such as free and open-source software (FOSS), security & cryptography infrastructure, improvements to digital asset security best practices, and applied blockchain research to benefit the larger ecosystem.
 * Allow patrons to be able to contribute back to support the open source blockchain ecosystem that allowed them to be successful.
 * Support senior software engineers & technology companies to participate in the commons by sharing knowledge and best practices of security engineering & architecture.
-* Incentivize junior software engineers or those new to blockchain develop to learn the best practices of the community, and allow more experienced engineers a place to mentor them.
+* Incentivize junior software engineers or those new to blockchain development to learn the best practices of the community, and allow more experienced engineers a place to mentor them.
 * Support blockchain documentation, example code, libraries, tutorials, etc.
 
 Under discussion:
@@ -14,7 +14,6 @@ Under discussion:
 * All intellectual output Free and Open Source (FOSS) either patent free or defensive patent licenses.
 * "Rough consensus & working code"
 * A learning community
-* Externships (see [Thread](https://twitter.com/christophera/status/988856246349508609?s=21)
 
 ## News
 
@@ -76,8 +75,8 @@ The Blockchain Commons maintains the following communication channels:
 
 - Shared Document Repositories (github): https://github.com/BlockchainCommons
 - Community Documents (github): https://github.com/BlockchainCommons/BlockchainCommonsCommunity
-- Research Agend (github): https://github.com/BlockchainCommons/ResearchAgenda
-- Twitter: TBD
+- Research Agenda (github): https://github.com/BlockchainCommons/ResearchAgenda
+- Twitter: https://twitter.com/BlockchainCmns
 - Forum/Mailing List: TBD
 
 More will be added as needed.
