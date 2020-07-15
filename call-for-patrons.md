@@ -1,4 +1,4 @@
-In the last few years you have gotten to know me through my work, either as an decentralized identity advocate or as a blockchain architect either at Blockstream, in a internest standards community, as a speaker at a blockchain conference, or through [Twitter](https://twitter.com/ChristopherA).
+In the last few years you have gotten to know me through my work, either as an decentralized identity advocate or as a blockchain architect. This may have been when I was at Blockstream, my support of internet standards, as a speaker at a blockchain conference, or through [Twitter](https://twitter.com/ChristopherA) or my [blog](https://www.LifeWithAlacrity.com).
 
 I am seeking your support for [Blockchain Commons](https://www.BlockchainCommons.com) open infrastructure initiatives, and my own advococy.
 
