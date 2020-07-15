@@ -8,7 +8,7 @@ We proudly a "not-for-profit" social benefit corporation committed to open sourc
 
 I'm hoping that you can join us, to support this open infrastructure work, and to spread the word to others who might also help. Please consider becoming a Patron of Blockchain Commons by contributing Bitcoin at our [BTCPay Server](https://btcpay.BlockchainCommons.com) or becoming a [Github Sponsor](https://github.com/sponsors/BlockchainCommons) through monthly ongoing patronage in fiat.
 
-I'm also kicking off my personal campaign to solicit support specifically for my human rights privacy & decentralized identity advocacy and related efforts. I am seeking sponsorships that start at $5 a month through GitHub Sponsors — and they are matching the first $5K!
+I'm also kicking off my personal campaign to solicit support specifically for my digital civil liberties, human rights privacy, and decentralized identity advocacy and related efforts in places like Wyoming, the Netherlands, Taiwan, and more. I am seeking sponsorships that start at $5 a month through GitHub Sponsors — and they are matching the first $5K!
 
 Your becoming a GitHub sponsor at any level can be particularly valuable because it creates social proof that can encourage other people, companies, and foundations to match! So please show your "badge" of honor by sponsoring Blockchain Commons at https://github.com/sponsors/BlockchainCommons or me personally at https://github.com/sponsors/ChristopherA.
 
