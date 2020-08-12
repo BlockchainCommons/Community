@@ -6,6 +6,16 @@ This is a free and open source project and we welcome contributions.
 
 First, make sure you have a [GitHub account](https://github.com/signup/free).
 
+## Contributor's License Agreements
+
+If you're submitting changes to any Blockchain Commons codebases which run in production (not solely documentation), you'll need to upload a signed Contributor's License Agreement for that repository.
+
+To sign a Contributor License Agreement, fill in the relevant fields (indicated like this in the plaintext: $field). 
+
+Then sign using GPG using the following command gpg --armor --clearsign --output ./CLA-signed/CLA.YOURGITHUBNAME.YOURGPGFINGERPRINT.asc CLA.md.
+
+You can either submit your signed Contributor License Agreement to this repo as a GPG signed Pull Request or email it to ChristopherA@BlockchainCommons.com.
+
 ## Changes
   * Significant improvements should be documented as GitHub issues first.
   * Fork the repository.
