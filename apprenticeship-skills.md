@@ -65,13 +65,15 @@ http://starwars.wikia.com/wiki/Reciprocal_apprenticeship
 
 ###### General
 
+- A ['pattern language'](https://en.wikipedia.org/wiki/Pattern_language) is a collected way of describing patterns that fall within the design field of complex problems. 
+- 
 ###### GroupWorks Pattern Language
 
-- https://www.dropbox.com/s/ek9jjm1e9do3ffs/Introduction%20to%20Group%20Works.pdf?dl=0
+- A pattern language for designing meaningful and engaging meetings and gatherings- [great in-depth PDF here](https://www.dropbox.com/s/ek9jjm1e9do3ffs/Introduction%20to%20Group%20Works.pdf?dl=0)
 
 ###### Wise Democracy Pattern Language
 
-- https://www.wd-pl.com/
+- The [Wise Democracy Pattern Language](https://www.wd-pl.com/) focuses on modeling resources for collaborative self-governance in the 21st century.
 
 ###### Pattern Language of Cooperative Play
 
@@ -79,7 +81,7 @@ http://starwars.wikia.com/wiki/Reciprocal_apprenticeship
 
 ###### Design with Intent
 
-- http://danlockton.com/design-with-intent/
+- The [Design With Intent](http://danlockton.com/design-with-intent/) toolkit focuses on influencing socially and environmentally beneficial behavior through design.
 
 ##### Models
 
@@ -121,6 +123,8 @@ Definition
 
 ### Open Source Culture
 
+- ["Open Source is a decentralized software development model that encourages open collaboration."](https://en.wikipedia.org/wiki/Open-source_model)
+
 ### Cooperation & Collaboration
 
 ### Decision Making, Rationality, Cognitive Bias
@@ -145,11 +149,11 @@ Definition
 
 #### Pedagogy/Androgogy
 
-##### Skill Trees/Heirarchy
+##### Skill Trees/Hierarchy
 
 ##### Proficiency Ladder / Flow
 
-- https://www.slideshare.net/ChristopherA/the-proficiency-ladder
+- [Slide deck on the proficiency ladder model for designing instructional objectives](https://www.slideshare.net/ChristopherA/the-proficiency-ladder)
 
 ### Management
 
@@ -161,9 +165,9 @@ Definition
 
 ###### Using GroupWorks Pattern Language
 
-- https://groupworksdeck.org/
-- https://www.resilience.org/stories/2015-05-29/the-power-of-pattern-languages/
-- https://www.dropbox.com/s/ek9jjm1e9do3ffs/Introduction%20to%20Group%20Works.pdf?dl=0
+- [Group Works Patterns deck](https://groupworksdeck.org/)
+- [Article on the power of pattern languages](https://www.resilience.org/stories/2015-05-29/the-power-of-pattern-languages/)
+- A pattern language for designing meaningful and engaging meetings and gatherings- [great in-depth PDF here](https://www.dropbox.com/s/ek9jjm1e9do3ffs/Introduction%20to%20Group%20Works.pdf?dl=0)
 
 ### Technical Skills (in particular computer, but not exclusively)
 
@@ -173,19 +177,26 @@ Definition
 
 ##### Command Line (in particular on Mac)
 
-- Intro to the Mac Command Line https://github.com/ChristopherA/intro-mac-command-line
+- [Intro to the Mac Command Line](https://github.com/ChristopherA/intro-mac-command-line)
 
 ##### Dotfiles
 
-- Basics - Prepare MacOS for CLI Development (need to update) https://github.com/ChristopherA/prepare-osx-for-webdev)
-- Christopher's  more advanced approach https://github.com/ChristopherA/.dotfiles
+- Basics - [Prepare MacOS for CLI Development (need to update)](https://github.com/ChristopherA/prepare-osx-for-webdev)
+- [Christopher's  more advanced approach](https://github.com/ChristopherA/.dotfiles)
 
 #### Markdown
 
 - Basic Markdown & History
+  - [Intro to Markdown Guide](https://www.markdownguide.org/)
+  - [Markdown's History](http://aaronbeveridge.com/markdown/history.html#a-brief-history-of-markdown)
+
 - Github-Flavored Markdown
+  - [Github's Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+
 - Github Pages Markup
+
 - Markua Book
+  - [Markua Technical Spec](http://markua.com/)
 
 #### Git & GitHub
 
@@ -231,7 +242,7 @@ Definition
 
 ##### Master Password
 
-- Password Basics  http://www.lifewithalacrity.com/previous/2009/09/password-best-practices.html
+- [Password Basics](http://www.lifewithalacrity.com/previous/2009/09/password-best-practices.html)
 
 ##### Password Management
 
@@ -247,7 +258,7 @@ Definition
 
 ###### Mullvad
 
-- https://mullvad.net/en/
+- [Mullvad VPN](https://mullvad.net/en/)
 
 ###### Personal VPN on VPS
 
@@ -263,18 +274,18 @@ Definition
 
 ###### Developing with Bitcoin Core
 
-- https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line
+- [Learning Bitcoin from the Command Line open course](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line)
 
 ###### Lightning
 
-- LND: https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340
-- C-Lighning: http://librecryp.to/using-lightning-on-macos
+- [LND](https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340)
+- [C-Lightning](http://librecryp.to/using-lightning-on-macos)
 
 #### SmartCustody
 
 ##### First Workshop
 
-- https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481
+- [Smart Custody: Simple Cold Storage Self Custody Workshop](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481)
 
 #### Anonymity
 
@@ -299,21 +310,18 @@ Definition
 - Persistent Volumes
 - Opening Persistent Volumes on Mac
 - Customizing Tails
-  - https://github.com/ChristopherA/bash-dotfiles-for-tails
+  - [Bash Dotfiles for Tails](https://github.com/ChristopherA/bash-dotfiles-for-tails)
 
 ##### Other Anonymous OS
 
-- Whonix https://www.whonix.org/
+- [Whonix](https://www.whonix.org/)
   - Uses host operating system and two VirtualBox VMs
-- Qubes https://www.qubes-os.org/
+- [Qubes](https://www.qubes-os.org/)
   - Hardware level privacy, but limited drivers
-
-
 
 ##### Anonymity Best Practices
 
 -
-
 
 
 ## Projects
@@ -384,14 +392,14 @@ Definition
 
     With some thinking I would add quite a few more topics, for instance what is going on with blockchain and cryptographic ledgers, decentralized autonomous organization, smart contracts, censorship- & power-resistant systems, incentives, neurology of decision making, austrian economics, etc.
 
-    For an example of a more intensive 12 week hybrid (both F2F & online) course I ran in 2012, here is my syllabus for Using the Social Web for Social Change: http://www.lifewithalacrity.com/2012/10/using-the-social-web-for-social-change-syllabus-sw4sx.html
+    For an example of a more intensive 12 week hybrid (both F2F & online) course I ran in 2012, [here is my syllabus for Using the Social Web for Social Change](http://www.lifewithalacrity.com/2012/10/using-the-social-web-for-social-change-syllabus-sw4sx.html)
 
-    Here is an example of the first two weeks of that more intensive course. http://www.lifewithalacrity.com/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html
+    [Here is an example of the first two weeks of that more intensive course.](http://www.lifewithalacrity.com/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html)
 
     Some of these digital influence topics from this class are additional possible topics students could select from.
 
     I think the format for class would be pick a topic & three Tuesday's that work for about 7 students. Week 1 would start with Scan — I would provide a list of read ahead articles & videos, and discussion asynchronous and in online chat room would be about them. Week 2 would be Focus — picking a sub-topic to dive deeper into, with some assignments for all to do some research. Week 3 would be Synthesis — collaboratively write up best synthesis and links about topic, with the audience being the next time class might be run on same topic or for use by professional practitioners. Commitment: 4-1/2 hours in synchronous class (1-1/2 per meeting), about 3 hours of reading and research and 2 hours writing.
 
-    See the recommendations from my students in my LinkedIn profile about my classes. https://www.linkedin.com/in/christophera#experience-88412676
+    [See the recommendations from my students in my LinkedIn profile about my classes.](https://www.linkedin.com/in/christophera#experience-88412676)
 
-    Send me email at ChristopherA@LifeWithAlacrity.com if you are interested.
+    Send me email at [mailto:ChristopherA@LifeWithAlacrity.com](ChristopherA@LifeWithAlacrity.com) if you are interested.
