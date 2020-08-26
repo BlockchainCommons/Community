@@ -1,5 +1,7 @@
 # Blockchain Commons Community
 
+*(this section is in process of being updated 2020 Sept)*
+
 The purpose of the [Blockchain Commons](https://github.com/BlockchainCommons) is to:
 * Support blockchain [commons](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html) initiatives such as free and open-source software (FOSS), security & cryptography infrastructure, improvements to digital asset security best practices, and applied blockchain research to benefit the larger ecosystem.
 * Allow patrons to be able to contribute back to support the open source blockchain ecosystem that allowed them to be successful.
@@ -15,21 +17,28 @@ Under discussion:
 * "Rough consensus & working code"
 * A learning community
 
+## Virtual Internships
+
+We had a successful virtual internship program this summer, and are hoping to repeat it this fall. See https://github.com/BlockchainCommons/Community/issues/17 for more details.
+
 ## News
 
 * 2018-05: We have received initial funds to fund the legal formation of a #BlockchainCommons organization and initial projects, including US\$20K from Adamant Capital & US\$50K from Tierion.
 
 ## Projects
 
+* Current Projects:
+  * (TBW)
 * Projects under consideration:
+  * (TBW)
   * P & Q Bulletproofs Reference Implementation
   * Sidechain Security & Architecture Review
 
-If you are interested in supporting a specific blockchain FOSS project, feature or bug bounty, or wish to support the blockchain commons or infrastructure in general, contact [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com) — we are investigating non-profit options (such as working with the Software Freedom Conservancy) but we do not have it at this time, so any contributions are not individually tax-deductible, however, any contributions by businesses are tax-deductible as an expense.
+If you are interested in supporting a specific blockchain FOSS project, feature or bug bounty, or wish to support the blockchain commons or infrastructure in general, contact [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com) — we are investigating non-profit options (such as working with the Human Rights Founding) but we are not a charitable non-profit at this time, so any contributions are not individually tax-deductible, however, any contributions by businesses are tax-deductible as an expense. See https://github.com/sponsors/BlockchainCommons for details.
 
 ## Learning Resources
 
-- [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line) — The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.
+- [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) — The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.
 
 ## Members
 
@@ -54,8 +63,9 @@ The Blockchain Commons members are:
 
 * [Vinay Taylor](mailto:vinay@nomqa.com)
 
+## Current Sustaining Patrons
 
-## Patrons
+## Past Sustaining Patrons
 
 * [Tuur Demeester](mailto:tuurdemeester@gmail.com)
   * Investment analyst, recommended Bitcoin since 2012
@@ -74,7 +84,7 @@ The Blockchain Commons members are:
 The Blockchain Commons maintains the following communication channels:
 
 - Shared Document Repositories (github): https://github.com/BlockchainCommons
-- Community Documents (github): https://github.com/BlockchainCommons/BlockchainCommonsCommunity
+- Community Documents (github): https://github.com/BlockchainCommons/Community
 - Research Agenda (github): https://github.com/BlockchainCommons/ResearchAgenda
 - Twitter: https://twitter.com/BlockchainCmns
 - Forum/Mailing List: TBD
