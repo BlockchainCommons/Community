@@ -1,12 +1,10 @@
 # Blockchain Commons Community
 
-*(this section is in process of being updated 2020 Sept)*
-
 The purpose of the [Blockchain Commons](https://github.com/BlockchainCommons) is to:
-* Support blockchain [commons](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html) initiatives such as free and open-source software (FOSS), security & cryptography infrastructure, improvements to digital asset security best practices, and applied blockchain research to benefit the larger ecosystem.
-* Allow patrons to be able to contribute back to support the open source blockchain ecosystem that allowed them to be successful.
-* Support senior software engineers & technology companies to participate in the commons by sharing knowledge and best practices of security engineering & architecture.
-* Incentivize junior software engineers or those new to blockchain development to learn the best practices of the community, and allow more experienced engineers a place to mentor them.
+* Support open infrastructure that allows people to interact with each on other on the internet in trustless ways.
+* Create applications that both exempify best practices and act as real-life tools
+* Nurture new talent through internship programs.
+* Allow patrons to support the open source blockchain ecosystem that allowed them to be successful.
 * Support blockchain documentation, example code, libraries, tutorials, etc.
 
 Under discussion:
@@ -23,34 +21,44 @@ We had a successful virtual internship program this summer, and are hoping to re
 
 ## News
 
+* 2090-01: Bitcoin Framework for iOS released.
+* 2019-01: First #SmartCustody workshop held.
 * 2018-05: We have received initial funds to fund the legal formation of a #BlockchainCommons organization and initial projects, including US\$20K from Adamant Capital & US\$50K from Tierion.
 
 ## Projects
 
 * Current Projects:
-  * (TBW)
+  * [The Gordian system](https://github.com/BlockchainCommons/Gordian)
+     * [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS)
+     * [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS)
+  * [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+  * [LetheKit](https://github.com/BlockchainCommons/bc-lethekit)
+  * [#SmartCustody](https://github.com/BlockchainCommons/SmartCustodyBook)
+  * [Spotbit](https://github.com/BlockchainCommons/spotbit)
+  * [URKit](https://github.com/BlockchainCommons/URKit)
 * Projects under consideration:
   * (TBW)
   * P & Q Bulletproofs Reference Implementation
   * Sidechain Security & Architecture Review
 
-If you are interested in supporting a specific blockchain FOSS project, feature or bug bounty, or wish to support the blockchain commons or infrastructure in general, contact [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com) — we are investigating non-profit options (such as working with the Human Rights Founding) but we are not a charitable non-profit at this time, so any contributions are not individually tax-deductible, however, any contributions by businesses are tax-deductible as an expense. See https://github.com/sponsors/BlockchainCommons for details.
+If you are interested in supporting a specific blockchain FOSS (free and open-source software) project, feature, or bug bounty, or wish to support the Blockchain Commons or open infrastructure in general, please [become an ongoing sponsor](https://github.com/sponsors/BlockchainCommons) or if you prefer [make a donation to our BTCPay](https://btcpay.blockchaincommons.com/). We are investigating non-profit options (such as working with the Human Rights Founding) but we are not a charitable non-profit at this time, so any contributions are not individually tax-deductible; however, any contributions by businesses are tax-deductible as an expense. See https://github.com/sponsors/BlockchainCommons for details.
 
 ## Learning Resources
 
 - [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) — The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.
+- [#SmartCustody](https://github.com/BlockchainCommons/SmartCustodyBook) — The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets
 
 ## Members
 
 The Blockchain Commons members are:
 
 * [Christopher Allen](mailto:ChristopherA@LifeWithAlacrity.com):
-  * Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard
-  * Decentralized Identity Advocate — host of [#RebootingWebOfTrust](http://www.WebOfTrust.info) & co-chair of the [W3C Credentials Community](https://w3c-ccg.github.io)
+  * Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer —  Co-author TLS Security Standard
+  * Decentralized Identity Advocate — founder of [#RebootingWebOfTrust](http://www.WebOfTrust.info) & co-chair of the [W3C Credentials Community](https://w3c-ccg.github.io)
   * Former Principal Architect — Blockstream Corporation, Former VP — Blackphone, Former CTO — Certicom
   * Technology Leadership — former Faculty in the MBA in Sustainable Systems program at [Pinchot.edu](http://bgi.pinchot.edu)
   * Blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com), code on [Github](https://github.com/ChristopherA) and on Twitter is [@ChristopherA](@ChristopherA)
-  * Resides in the Bay Area of California USA
+  * Resides in the Bay Area of California, USA
 
 * [Mark Friedenbach](mailto:mark@friedenbach.org)
   * Software Engineer & Independent Bitcoin Protocol Developer
@@ -59,7 +67,7 @@ The Blockchain Commons members are:
   * Co-author Pegged Sidechains [white paper](https://blockstream.com/sidechains.pdf), Confidential Assets [white paper](https://blockstream.com/bitcoin17-final41.pdf), Strong Federations [white paper](https://arxiv.org/abs/1612.05491)
   * Core developer of demurrage-token based [Freicoin](http://freico.in/)
   * Code on [Github](https://github.com/maaku) and on Twitter is [@MarkFriedenbach](https://twitter.com/markfriedenbach)
-  * Resides in the Bay Area of California USA
+  * Resides in the Bay Area of California, USA
 
 * [Vinay Taylor](mailto:vinay@nomqa.com)
 
@@ -93,17 +101,19 @@ More will be added as needed.
 
 ## Disclaimer
 
-TBD
+Please read the statuses in individual repos. Many projects are still in testing phase and should not be used for production tasks until they have had further testing and auditing.
 
 ## Copyright & License
 
-These documents in this #BlockchainCommons Community repository are Copyright (c) 2018 by [Blockchain Commons](https://github.com/BlockchainCommons) and are licensed CC-BY ([Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/))
+Unless otherwise noted (either in the README.md for an individual repo or in an individual file's header comments) the contents of this GitHub are Copyright © 2020 by Blockchain Commons, LLC, and are [licensed](./LICENSE) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+
+In most cases, the authors, copyright, and license for each file reside in header comments in the source code. When it does not, we have attempted to attribute it accurately tables in individual READMEs.
 
 ## Contributing
 
 This is an open source project and we welcome contributions. There are many ways to help.
 
-To get started, please read the [contribution guidelines](CONTRIBUTING.md).
+To get started, please read the [contribution guidelines](CONTRIBUTING.md). Please be sure to fill out a CLA agreement for any repo that you make contributions to.
 
 ### Reporting Problems
 
@@ -111,6 +121,7 @@ If you find typos, mistakes, inconsistencies or other problems in the Blockchain
 
 ## Version History
 
+* 2020-08:Community  README updated
 * 2018-05: Community repository started on Github
 
 ## Community RoadMap
@@ -119,8 +130,8 @@ If you find typos, mistakes, inconsistencies or other problems in the Blockchain
   - [ ] Review content with members & patrons
 - [x] We need a CONTRIBUTING.md, something along the lines of [ParticipatoryOrgs-Community/CONTRIBUTING.md](https://github.com/ParticipatoryOrgs/ParticipatoryOrgs-Community/blob/master/CONTRIBUTING.md) & [ipfs/contributing.md](https://github.com/ipfs/community/blob/master/contributing.md)
   - [ ] Review content with members & patrons
-  - [ ] We need a Contributors Agreement (pending legal formation)
-- [ ] Create website for blockchaincommons.com, maybe blockchaincommons.org (ChristopherA currently holds these domains)
+  - [x] We need a Contributors Agreement (pending legal formation)
+- [x] Create website for blockchaincommons.com, maybe blockchaincommons.org (ChristopherA currently holds these domains)
 - [ ] Legal formation
   - [ ] Investigate legal formation options (LLC, L4C, etc.) and legal venues (US, Deleware, Wyoming, overseas,etc.)
   - [ ] Investigate a formal relationship with [Software Freedom Conservancy](https://sfconservancy.org/) for those US patrons who wish to contribute tax-deductible funds.
