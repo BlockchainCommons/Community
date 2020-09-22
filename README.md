@@ -17,7 +17,7 @@ Under discussion:
 
 ## Virtual Internships
 
-We had a successful virtual internship program this summer, and are hoping to repeat it this fall. See https://github.com/BlockchainCommons/Community/issues/17 for more details.
+We had a successful virtual internship program this summer, and are hoping to repeat it this fall. See https://github.com/BlockchainCommons/Community/issues/17 for more details. The deadline for signups is September 23rd.
 
 ## News
 
