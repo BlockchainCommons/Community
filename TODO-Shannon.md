@@ -11,8 +11,7 @@
 1. Create master projects page on web (week of 10/13, est. a few hours)
    * A few paragraphs and a picture for each project
    * Link in tab on main page (replacing #SC link)
-1.  Write Post on COPA (probably week of 10/13, est. a few hours)
+1. Write Post on COPA (probably week of 10/13, est. a few hours)
    * Talk about history with patents
    * Our belief in defensive patents
-1.
 
