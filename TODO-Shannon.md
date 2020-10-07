@@ -1,7 +1,7 @@
 # Shannon's Open Tasks
 
 1. Edit, finalize, and publish Lightning chapters for LBTCftCL (top priority, est. 2 days)
-1. Do other finalization of LBCftCL per [Learning Bitcoin TODO](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO.md) (high priority; close out in October, est. 1 day
+1. Do other finalization of LBCftCL per [Learning Bitcoin TODO](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO.md) (high priority; close out in October, est. 1 day)
    * Take out warnings for all old chapters
    * Add new first chapter, indicating places to start for people of different levels
    * Decide where to place current first chapter in relation to that (before? after? glossary?)
