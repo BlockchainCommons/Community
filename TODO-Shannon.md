@@ -5,6 +5,7 @@
    * Take out warnings for all old chapters
    * Add new first chapter, indicating places to start for people of different levels
    * Decide where to place current first chapter in relation to that (before? after? glossary?)
+   * Add other Bitcoin standup options to Ch. 2
    * Move any coding appendices (e.g., JQ interlude) to src code directory
    * Write letter about new edition
    * Write tweetstorm about new edition
