@@ -1,23 +1,18 @@
 # Blockchain Commons Community
 
-The purpose of the [Blockchain Commons](https://github.com/BlockchainCommons) is to:
-* Support open infrastructure that allows people to interact with each on other on the internet in trustless ways.
-* Create applications that both exempify best practices and act as real-life tools
-* Nurture new talent through internship programs.
-* Allow patrons to support the open source blockchain ecosystem that allowed them to be successful.
-* Support blockchain documentation, example code, libraries, tutorials, etc.
+## Objectives
 
-Under discussion:
-* Legal formation TBD to support organization not requiring an exit, but not necessarily a non-profit.
-* Transparency to all stakeholders (patrons, customers, management, membership)
-* Participatory and inclusive practices, non-hierarchical and decentralized as possible
-* All intellectual output Free and Open Source (FOSS) either patent free or defensive patent licenses.
-* "Rough consensus & working code"
-* A learning community
+1. **Blockchain Commons:** Create a specific commons that is dedicated to the realization of open infrastructure for secure, compassionate, decentralized systems.
+1. **Open Infrastructure:** Define and advocate a specific and actionable notion of “open infrastructure” as a self-organizing approach to collaborative resource generation.
+1. **Architecture:** Research, define, and evangelize an interoperable architecture for secure decentralized systems that are resilient, pragmatic, and easy to use.
+1. **Demand:** Define and advocate a new techno-social contract of decentralized infrastructure, based on human dignity, respect for the individual, and mutual benefit for all contributors.
+1. **Peers:** Increase the demand for, and population of, people who understand the effective development, and use of, secure decentralized systems.
+
+See also [our current strategies](Strategies.md).
 
 ## Virtual Internships
 
-We had a successful virtual internship program this summer, and are hoping to repeat it this fall. See https://github.com/BlockchainCommons/Community/issues/17 for more details. The deadline for signups is September 23rd (now extended to September 28th).
+We had a successful virtual internship program this summer, and are hoping to repeat it this fall. See https://github.com/BlockchainCommons/Community/issues/17 for more details. The deadline for signups passed on September 28th.
 
 ## News
 
