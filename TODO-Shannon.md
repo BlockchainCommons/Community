@@ -9,6 +9,7 @@
    * Move any coding appendices (e.g., JQ interlude) to src code directory
    * Write letter about new edition
    * Write tweetstorm about new edition
+1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
 1. Create master projects page on web (week of 10/13, est. a few hours)
    * A few paragraphs and a picture for each project
    * Link in tab on main page (replacing #SC link)
