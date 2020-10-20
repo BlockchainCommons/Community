@@ -17,3 +17,9 @@
    * Our belief in defensive patents
 1. * [ ] Changes in above may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [ ] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
+1. * [ ] Edit New Gordian READMEs
+   * [ ] GordianSigner-Android
+   * [ ] GordianSigner-Catalyst
+   * [ ] GordianSigner-MacOS
+1. * [ ] Add New Gordian Repos to Main Gordian README
+   
