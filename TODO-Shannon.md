@@ -5,7 +5,7 @@
    * [ ] Add new first chapter, indicating places to start for people of different levels
    * [ ] Decide where to place current first chapter in relation to that (before? after? glossary?)
    * [ ] Add other Bitcoin standup options to Ch. 2
-   * [ ] Move any coding appendices (e.g., JQ interlude) to src code directory
+   * [X] Move any coding appendices (e.g., JQ interlude) to src code directory
    * [ ] Write letter about new edition
    * [ ] Write tweetstorm about new edition
 1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
