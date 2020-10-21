@@ -17,9 +17,9 @@
    * Our belief in defensive patents
 1. * [ ] Changes in above may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [ ] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
-1. * [ ] Edit New Gordian READMEs
-   * [ ] GordianSigner-Android
-   * [ ] GordianSigner-Catalyst
-   * [ ] GordianSigner-MacOS
+1. * [X] Edit New Gordian READMEs
+   * [X] GordianSigner-Android
+   * [X] GordianSigner-Catalyst
+   * [X] GordianSigner-MacOS
 1. * [X] Add New Gordian Repos to Main Gordian README
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
