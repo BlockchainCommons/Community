@@ -21,5 +21,5 @@
    * [ ] GordianSigner-Android
    * [ ] GordianSigner-Catalyst
    * [ ] GordianSigner-MacOS
-1. * [ ] Add New Gordian Repos to Main Gordian README
+1. * [X] Add New Gordian Repos to Main Gordian README
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
