@@ -27,3 +27,14 @@
 1. * [X] Add New Gordian Repos to Main Gordian README
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
 1. * [ ] Set Up Monitoring of BCC Machines?
+1. * [ ] Write Endscript about patrons for videos (see LetheKit video)
+1. * [ ] Write Script for Gordian System (see current video)
+1. * [ ] Look at letter to U.C.
+   * [ ] How to Improve?
+   * [ ] anything to incorporate?
+1. * [ ] Connect Together Our Systems
+   * [ ] Outline Connections for a complete air-gapped system
+   * [ ] How do the parts fit together?
+   * [ ] Rough out diagrams about fitting together
+   * [ ] Overview why each system is important
+1. * [ ] Create 640x320 Social Preview for Learning Bitcoin (by EOD Wednesday)
