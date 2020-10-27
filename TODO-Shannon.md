@@ -4,7 +4,7 @@
    * [X] Take out warnings for all old chapters
    * [X] Add new first chapter, indicating places to start for people of different levels
    * [X] Decide where to place current first chapter in relation to that (before? after? glossary?)
-   * [ ] Add other Bitcoin standup options to Ch. 2
+   * [X] Add other Bitcoin standup options to Ch. 2
    * [X] Move any coding appendices (e.g., JQ interlude) to src code directory
    * [ ] Write letter about new edition
    * [ ] Write tweetstorm about new edition
