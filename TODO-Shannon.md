@@ -38,3 +38,6 @@
    * [ ] Rough out diagrams about fitting together
    * [ ] Overview why each system is important
 1. * [ ] Create 640x320 Social Preview for Learning Bitcoin (by EOD Wednesday)
+1. * [ ] Create Tweetstorms for LetheKit
+   * [ ] Tactical Tweetstorm for Gorazdko
+   * [ ] Strategic Tweetstorm for Christopher
