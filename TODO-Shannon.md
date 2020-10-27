@@ -44,4 +44,4 @@
 1. * [X] Create Tweetstorms for LetheKit
    * [X] Tactical Tweetstorm for Gorazdko
    * [X] Strategic Tweetstorm for Christopher
-1. * [ ] Edit Spotbit Interface Text
+1. * [X] Edit Spotbit Interface Text
