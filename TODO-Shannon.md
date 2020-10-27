@@ -25,6 +25,9 @@
    * [X] GordianSigner-Catalyst
    * [X] GordianSigner-MacOS
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
+   * [ ] Gordian
+      * Gordian Logo
+   * [ ] Learning Bitcoin (by EOD Wednesday)
 1. * [X] Add New Gordian Repos to Main Gordian README
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
 1. * [ ] Set Up Monitoring of BCC Machines?
@@ -38,7 +41,6 @@
    * [ ] How do the parts fit together?
    * [ ] Rough out diagrams about fitting together
    * [ ] Overview why each system is important
-1. * [ ] Create 640x320 Social Preview for Learning Bitcoin (by EOD Wednesday)
 1. * [X] Create Tweetstorms for LetheKit
    * [X] Tactical Tweetstorm for Gorazdko
    * [X] Strategic Tweetstorm for Christopher
