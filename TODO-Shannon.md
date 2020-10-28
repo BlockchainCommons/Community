@@ -1,14 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Do other finalization of LBCftCL per [Learning Bitcoin TODO](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO.md) (high priority; close out in October, est. 1 day)
-   * [X] Take out warnings for all old chapters
-   * [X] Add new first chapter, indicating places to start for people of different levels
-   * [X] Talk about knowledge level, community, issues, translations, and discussion in new first chapter
-   * [X] Decide where to place current first chapter in relation to that (before? after? glossary?)
-   * [X] Add other Bitcoin standup options to Ch. 2
-   * [X] Move any coding appendices (e.g., JQ interlude) to src code directory
-   * [ ] Write letter about new edition
-   * [X] Write tweetstorm about new edition
 1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
    * [ ] LBTCftCL
    * [ ] BC-Community
@@ -37,6 +28,15 @@
 
 ## Recently Completed
 
+1. * [X] Do other finalization of LBCftCL per [Learning Bitcoin TODO](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO.md) (high priority; close out in October, est. 1 day)
+   * [X] Take out warnings for all old chapters
+   * [X] Add new first chapter, indicating places to start for people of different levels
+   * [X] Talk about knowledge level, community, issues, translations, and discussion in new first chapter
+   * [X] Decide where to place current first chapter in relation to that (before? after? glossary?)
+   * [X] Add other Bitcoin standup options to Ch. 2
+   * [X] Move any coding appendices (e.g., JQ interlude) to src code directory
+   * [X] Write letter about new edition
+   * [X] Write tweetstorm about new edition
 1. * [X] Edit Spotbit Interface Text
 1. * [X] Create Tweetstorms for LetheKit
    * [X] Tactical Tweetstorm for Gorazdko
