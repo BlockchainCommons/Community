@@ -33,6 +33,7 @@
    * [ ] How do the parts fit together?
    * [ ] Rough out diagrams about fitting together
    * [ ] Overview why each system is important
+1. * [ ] Improve Links to Bitcoin Donation Server
 
 ## Recently Completed
 
