@@ -12,23 +12,15 @@
 1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
    * [ ] LBTCftCL
    * [ ] BC-Community
-1. * [X] Create master projects page on web (week of 10/13, est. a few hours)
-   * A few paragraphs and a picture for each project
-   * Link in tab on main page (replacing #SC link)
 1. * [ ] Write Post on COPA (probably week of 10/13, est. a few hours)
    * Talk about history with patents
    * Our belief in defensive patents
 1. * [ ] Changes in above may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [ ] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
-1. * [X] Edit New Gordian READMEs
-   * [X] GordianSigner-Android
-   * [X] GordianSigner-Catalyst
-   * [X] GordianSigner-MacOS
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [ ] Gordian
       * Gordian Logo
    * [ ] Learning Bitcoin (by EOD Wednesday)
-1. * [X] Add New Gordian Repos to Main Gordian README
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] Write Endscript about patrons for videos (see LetheKit video)
@@ -41,7 +33,18 @@
    * [ ] How do the parts fit together?
    * [ ] Rough out diagrams about fitting together
    * [ ] Overview why each system is important
+
+## Recently Completed
+
+1. * [X] Edit Spotbit Interface Text
 1. * [X] Create Tweetstorms for LetheKit
    * [X] Tactical Tweetstorm for Gorazdko
    * [X] Strategic Tweetstorm for Christopher
-1. * [X] Edit Spotbit Interface Text
+1. * [X] Edit New Gordian READMEs
+   * [X] GordianSigner-Android
+   * [X] GordianSigner-Catalyst
+   * [X] GordianSigner-MacOS
+1. * [X] Add New Gordian Repos to Main Gordian README
+1. * [X] Create master projects page on web (week of 10/13, est. a few hours)
+   * A few paragraphs and a picture for each project
+   * Link in tab on main page (replacing #SC link)
