@@ -4,8 +4,8 @@
    * [ ] LBTCftCL
    * [ ] BC-Community
 1. * [ ] Write Post on COPA (probably week of 10/13, est. a few hours)
-   * Talk about history with patents
-   * Our belief in defensive patents
+   * [X] Write Post
+   * [ ] Edit & Release
 1. * [ ] Changes in above may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [ ] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
