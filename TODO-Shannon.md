@@ -3,7 +3,7 @@
 1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
    * [ ] LBTCftCL
    * [ ] BC-Community
-1. * [ ] Write Post on COPA (probably week of 10/13, est. a few hours)
+1. * [ ] Write Post on COPA
    * [X] Write Post
    * [ ] Edit & Release
 1. * [ ] Changes in above may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
@@ -26,6 +26,8 @@
    * [ ] Overview why each system is important
 1. * [ ] Improve Links to Bitcoin Donation Server
 1. * [ ] Write LetheKit Blog Post
+   * [X] Write Post
+   * [ ] Edit & Release
 1. * [ ] Convert Learning Bitcoin Letter into Blog Post, as PR
    * [ ] Design Image
    
