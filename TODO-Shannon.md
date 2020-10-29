@@ -25,17 +25,17 @@
    * [ ] Rough out diagrams about fitting together
    * [ ] Overview why each system is important
 1. * [ ] Improve Links to Bitcoin Donation Server
-1. * [ ] Write LetheKit Blog Post
-   * [X] Write Post
-   * [X] Edit & Release
-   * [ ] Link Project Page to Blog Post
-1. * [ ] Convert Learning Bitcoin Letter into Blog Post, as PR
-   * [ ] Design Image
 1. * [ ] Add Title Summary of BLog Posts to Front-Page of www.bcc
 1. * [ ] Is there a way to get "[more]" on posts page of www.bcc?
 
 ## Recently Completed
 
+1. * [X] Write LetheKit Blog Post
+   * [X] Write Post
+   * [X] Edit & Release
+   * [X] Link Project Page to Blog Post
+1. * [X] Convert Learning Bitcoin Letter into Blog Post, as PR
+   * [X] Design Image
 1. * [X] Do other finalization of LBCftCL per [Learning Bitcoin TODO](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO.md) (high priority; close out in October, est. 1 day)
    * [X] Take out warnings for all old chapters
    * [X] Add new first chapter, indicating places to start for people of different levels
