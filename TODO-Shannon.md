@@ -19,6 +19,8 @@
    * [ ] Gordian
       * Gordian Logo
    * [ ] Learning Bitcoin (by EOD Wednesday)
+1. * [ ] More targeted letters to sponsors
+     * [ ] https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] Write Endscript about patrons for videos (see LetheKit video)
