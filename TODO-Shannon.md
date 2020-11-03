@@ -12,7 +12,7 @@
 1. * [ ] Write Post on COPA
    * [X] Write Post
    * [ ] Following Comments from COPA: Make Any Changes, Edit, Release
-1. * [ ] Changes in above may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
+1. * [ ] Changes in Gordian repos may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [ ] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [ ] Gordian
