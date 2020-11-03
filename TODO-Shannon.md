@@ -8,43 +8,46 @@
      * or to write separate programming tutorials for other bitcoin or close related technology (LND, Zcash).
 1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
    * [ ] LBTCftCL
+   * [ ] Tag as 2.0
    * [ ] BC-Community
 1. * [ ] Write Post on COPA
    * [X] Write Post
-   * [ ] Following Comments from COPA: Make Any Changes, Edit, Release
+   * [ ] Create PR (Today)
 1. * [ ] Changes in Gordian repos may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [ ] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [ ] Gordian
       * Gordian Logo
-   * [ ] Learning Bitcoin (by EOD Wednesday)
-1. * [ ] More targeted letters to sponsors
-     * [ ] https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
-     * [ ] Talk about how our standards are going into wallets
+   * [ ] Seedtool
+   * [ ] Keytool
+   * [X] Learning Bitcoin (by EOD Wednesday)
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
-1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] Write Endscript about patrons for videos (see LetheKit video)
 1. * [ ] Write Script for Gordian System (see current video)
-1. * [ ] Look at letter to U.C.
-   * [ ] How to Improve?
-   * [ ] anything to incorporate?
-1. * [ ] Connect Together Our Systems
-   * [ ] Outline Connections for a complete air-gapped system
-   * [ ] How do the parts fit together?
-   * [ ] Rough out diagrams about fitting together
-   * [ ] Overview why each system is important
 1. * [ ] Improve Links to Bitcoin Donation Server
-1. * [ ] Is there a way to get "[more]" on posts page of www.bcc?
-1. * [ ] Is there a way to automate short listing of posts on home page of BCC? <!--posts--> wasn't working ...
 1. * [ ] Seedtool / Keytool / Libraries
    * [ ] Brainstorm on Naming of Category
    * [ ] Prepare an Overview on HackMD
    * Include bc-base-crypto, bc-shamir, others used by those tools, bc-ur-kit [Swift port for bc-ur]
    * Talk about Seedtool and Keytool as ways to exercise libraries, test them, show they work
       * We're not sure if they're the ultimate thing to build dev systems in
+1. * [ ] Connect Together Our Systems
+   * [ ] Outline Connections for a complete air-gapped system
+   * [ ] How do the parts fit together?
+   * [ ] Rough out diagrams about fitting together
+   * [ ] Overview why each system is important
+   * [ ] Why CL tools? Why Gordian? Why LetheKit?
 1. * [ ] BC-UR Support
    * [ ] PR with Wallet Info, Our Video
    * What it is, why it's important, from a power user
+1. * [ ] More targeted letters to sponsors
+     * [ ] https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
+     * [ ] Talk about how our standards are going into wallets
+1. * [ ] Look at letter to U.C. (targeted letters)
+   * [ ] How to Improve?
+   * [ ] anything to incorporate?
+1. * [ ] Is there a way to get "[more]" on posts page of www.bcc?
+1. * [ ] Is there a way to automate short listing of posts on home page of BCC? <!--posts--> wasn't working ...
 
 ## Future Possibilities
 
@@ -54,6 +57,7 @@
 1. Section in LBTCftCL on BC-UR
 1. Is there more we can do on BC-UR? Intro? Other Stuff?
 1. v2 of #SC
+1. Set Up Monitoring of BCC Machines?
 
 ## Recently Completed
 
