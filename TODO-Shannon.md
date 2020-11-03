@@ -33,7 +33,6 @@
    * [ ] Rough out diagrams about fitting together
    * [ ] Overview why each system is important
 1. * [ ] Improve Links to Bitcoin Donation Server
-1. * [ ] Add Title Summary of BLog Posts to Front-Page of www.bcc
 1. * [ ] Is there a way to get "[more]" on posts page of www.bcc?
 1. * [ ] Is there a way to automate short listing of posts on home page of BCC? <!--posts--> wasn't working ...
 
