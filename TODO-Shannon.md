@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Proof @ChristopherA's most recent tweaks to [LBftCL blog post](https://github.com/BlockchainCommons/www.blockchaincommons.com/blob/master/_posts/2020-10-30-Learning-Bitcoin-Upgrades-to-v2.md).
 1.  * [ ] Draft letter, audience foundations, educators, and companies offer CLI or library related code, to sharing about v2 release to ask for:
      * support for future updates to LBftCL course for future releases of Bitcoin, in particular miniscript, signet with taproot & schnorr.
      * Adding teacher guides, simple CLI screen recording https://asciinema.org, videos, etc.
@@ -36,10 +35,11 @@
 1. * [ ] Improve Links to Bitcoin Donation Server
 1. * [ ] Add Title Summary of BLog Posts to Front-Page of www.bcc
 1. * [ ] Is there a way to get "[more]" on posts page of www.bcc?
-
+1. * [ ] Is there a way to automate short listing of posts on home page of BCC? <!--posts--> wasn't working ...
 
 ## Recently Completed
 
+1. * [X] Proof @ChristopherA's most recent tweaks to [LBftCL blog post](https://github.com/BlockchainCommons/www.blockchaincommons.com/blob/master/_posts/2020-10-30-Learning-Bitcoin-Upgrades-to-v2.md).
 1. * [X] Write LetheKit Blog Post
    * [X] Write Post
    * [X] Edit & Release
