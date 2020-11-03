@@ -1,7 +1,7 @@
 # Shannon's Open Tasks
 
 1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
-   * [ ] LBTCftCL
+   * [X] LBTCftCL
    * [ ] Tag as 2.0
    * [ ] BC-Community
 1. * [ ] Write Post on COPA
