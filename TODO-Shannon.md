@@ -1,7 +1,7 @@
 # Shannon's Open Tasks
 
 1. * [ ] Proof @ChristopherA's most recent tweaks to [LBftCL blog post](https://github.com/BlockchainCommons/www.blockchaincommons.com/blob/master/_posts/2020-10-30-Learning-Bitcoin-Upgrades-to-v2.md).
-   * [ ] Draft letter, audience foundations, educators, and companies offer CLI or library related code, to sharing about v2 release to ask for:
+1.  * [ ] Draft letter, audience foundations, educators, and companies offer CLI or library related code, to sharing about v2 release to ask for:
      * support for future updates to LBftCL course for future releases of Bitcoin, in particular miniscript, signet with taproot & schnorr.
      * Adding teacher guides, simple CLI screen recording https://asciinema.org, videos, etc.
      * Create a formal book (O'Reilly)
