@@ -25,7 +25,6 @@
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
 1. * [ ] Write Endscript about patrons for videos (see LetheKit video)
 1. * [ ] Write Script for Gordian System (see current video)
-1. * [ ] Improve Links to Bitcoin Donation Server
 1. * [ ] Seedtool / Keytool / Libraries
    * [ ] Brainstorm on Naming of Category
    * [ ] Prepare an Overview on HackMD
@@ -63,6 +62,7 @@
 
 ## Recently Completed
 
+1. * [X] Improve Links to Bitcoin Donation Server
 1. * [X] Proof @ChristopherA's most recent tweaks to [LBftCL blog post](https://github.com/BlockchainCommons/www.blockchaincommons.com/blob/master/_posts/2020-10-30-Learning-Bitcoin-Upgrades-to-v2.md).
 1. * [X] Write LetheKit Blog Post
    * [X] Write Post
