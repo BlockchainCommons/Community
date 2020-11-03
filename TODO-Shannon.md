@@ -1,9 +1,6 @@
 # Shannon's Open Tasks
 
-1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
-   * [X] LBTCftCL
-   * [ ] Tag as 2.0
-   * [ ] BC-Community
+1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues).
 1. * [ ] Write Post on COPA
    * [X] Write Post
    * [ ] Create PR (Today)
@@ -55,6 +52,9 @@
 
 ## Recently Completed
 
+1. * [X] Resolve final Learning Bitcoin v2.0 Issues
+   * [X] LBTCftCL Issues
+   * [X] Tag as v2.0
 1.  * [X] Draft letter, audience foundations, educators, and companies offer CLI or library related code, to sharing about v2 release to ask for:
      * support for future updates to LBftCL course for future releases of Bitcoin, in particular miniscript, signet with taproot & schnorr.
      * Adding teacher guides, simple CLI screen recording https://asciinema.org, videos, etc.
