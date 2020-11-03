@@ -12,7 +12,7 @@
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [ ] Gordian
       * Gordian Logo
-   * [ ] Seedtool
+   * [X] Seedtool
    * [ ] Keytool
    * [X] Learning Bitcoin (by EOD Wednesday)
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
