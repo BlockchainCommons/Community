@@ -7,7 +7,7 @@
      * Create a formal book (O'Reilly)
      * Adding to course to demonstrate how to program their new tech or libraries (Blockstream's miniscrip, Magical Bitcoin's wallet https://magicalbitcoin.org, discrete log contracts)
      * or to write separate programming tutorials for other bitcoin or close related technology (LND, Zcash).
-   * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
+1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues) or issues in LBTCftCL.
    * [ ] LBTCftCL
    * [ ] BC-Community
 1. * [ ] Write Post on COPA
