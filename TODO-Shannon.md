@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Changes in Gordian repos may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [ ] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [ ] Gordian
@@ -48,6 +47,7 @@
 
 ## Recently Completed
 
+1. * [X] Changes in Gordian repos may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [X] Write Post on COPA
    * [X] Write Post
    * [X] Create PR (Today)
