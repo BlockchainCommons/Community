@@ -26,6 +26,10 @@ We had a successful virtual internship program this summer, and are hoping to re
   * [The Gordian system](https://github.com/BlockchainCommons/Gordian)
      * [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS)
      * [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS)
+     * GordianSigner
+        * [Android](https://github.com/BlockchainCommons/GordianSigner-Android)
+        * [Catalyst](https://github.com/BlockchainCommons/GordianSigner-Catalyst)
+        * [macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)
   * [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
   * [LetheKit](https://github.com/BlockchainCommons/bc-lethekit)
   * [#SmartCustody](https://github.com/BlockchainCommons/SmartCustodyBook)
