@@ -7,6 +7,11 @@
    * [X] Seedtool
    * [X] Keytool
    * [X] Learning Bitcoin (by EOD Wednesday)
+   * [ ] SmartCustodyBook
+   * [ ] Airgapped-Wallet-Community
+   * [ ] Community
+   * [ ] Spotbit
+   * [ ] Research
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
 1. * [ ] Write Endscript about patrons for videos (see LetheKit video)
 1. * [ ] Write Script for Gordian System (see current video)
