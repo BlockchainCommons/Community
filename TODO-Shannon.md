@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues).
 1. * [ ] Write Post on COPA
    * [X] Write Post
    * [ ] Create PR (Today)
@@ -52,6 +51,7 @@
 
 ## Recently Completed
 
+1. * [X] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues).
 1. * [X] Resolve final Learning Bitcoin v2.0 Issues
    * [X] LBTCftCL Issues
    * [X] Tag as v2.0
