@@ -1,8 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Write Post on COPA
-   * [X] Write Post
-   * [ ] Create PR (Today)
 1. * [ ] Changes in Gordian repos may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [ ] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
@@ -51,6 +48,9 @@
 
 ## Recently Completed
 
+1. * [X] Write Post on COPA
+   * [X] Write Post
+   * [X] Create PR (Today)
 1. * [X] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues).
 1. * [X] Resolve final Learning Bitcoin v2.0 Issues
    * [X] LBTCftCL Issues
