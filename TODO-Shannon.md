@@ -12,7 +12,7 @@
 1. * [ ] Write Endscript about patrons for videos (see LetheKit video)
 1. * [ ] Write Script for Gordian System (see current video)
 1. * [ ] Seedtool / Keytool / Libraries
-   * [ ] Brainstorm on Naming of Category
+   * [X] Brainstorm on Naming of Category
    * [ ] Prepare an Overview on HackMD
    * Include bc-base-crypto, bc-shamir, others used by those tools, bc-ur-kit [Swift port for bc-ur]
    * Talk about Seedtool and Keytool as ways to exercise libraries, test them, show they work
