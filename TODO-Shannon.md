@@ -6,7 +6,7 @@
    * [ ] Gordian
       * Gordian Logo
    * [X] Seedtool
-   * [ ] Keytool
+   * [X] Keytool
    * [X] Learning Bitcoin (by EOD Wednesday)
 1. * [ ] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
 1. * [ ] Write Endscript about patrons for videos (see LetheKit video)
