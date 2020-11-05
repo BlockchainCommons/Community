@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [ ] Gordian
       * Gordian Logo
@@ -12,8 +11,6 @@
    * [ ] Community
    * [ ] Spotbit
    * [ ] Research
-1. * [ ] Write Endscript about patrons for videos (see LetheKit video)
-1. * [ ] Write Script for Gordian System (see current video)
 1. * [ ] Seedtool / Keytool / Libraries
    * [X] Brainstorm on Naming of Category
    * [ ] Prepare an Overview on HackMD
@@ -51,6 +48,9 @@
 
 ## Recently Completed
 
+1. * [X] Write Script for Gordian System (see current video)
+1. * [X] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
+1. * [X] Write Endscript about patrons for videos (see LetheKit video)
 1. * [X] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
 1. * [X] Changes in Gordian repos may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
 1. * [X] Write Post on COPA
