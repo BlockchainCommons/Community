@@ -48,6 +48,7 @@
 
 ## Recently Completed
 
+1. * [X] Write COPA Tweetstorm
 1. * [X] Write Script for Gordian System (see current video)
 1. * [X] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
 1. * [X] Write Endscript about patrons for videos (see LetheKit video)
@@ -68,30 +69,3 @@
      * or to write separate programming tutorials for other bitcoin or close related technology (LND, Zcash).
 1. * [X] Improve Links to Bitcoin Donation Server
 1. * [X] Proof @ChristopherA's most recent tweaks to [LBftCL blog post](https://github.com/BlockchainCommons/www.blockchaincommons.com/blob/master/_posts/2020-10-30-Learning-Bitcoin-Upgrades-to-v2.md).
-1. * [X] Write LetheKit Blog Post
-   * [X] Write Post
-   * [X] Edit & Release
-   * [X] Link Project Page to Blog Post
-1. * [X] Convert Learning Bitcoin Letter into Blog Post, as PR
-   * [X] Design Image
-1. * [X] Do other finalization of LBCftCL per [Learning Bitcoin TODO](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO.md) (high priority; close out in October, est. 1 day)
-   * [X] Take out warnings for all old chapters
-   * [X] Add new first chapter, indicating places to start for people of different levels
-   * [X] Talk about knowledge level, community, issues, translations, and discussion in new first chapter
-   * [X] Decide where to place current first chapter in relation to that (before? after? glossary?)
-   * [X] Add other Bitcoin standup options to Ch. 2
-   * [X] Move any coding appendices (e.g., JQ interlude) to src code directory
-   * [X] Write letter about new edition
-   * [X] Write tweetstorm about new edition
-1. * [X] Edit Spotbit Interface Text
-1. * [X] Create Tweetstorms for LetheKit
-   * [X] Tactical Tweetstorm for Gorazdko
-   * [X] Strategic Tweetstorm for Christopher
-1. * [X] Edit New Gordian READMEs
-   * [X] GordianSigner-Android
-   * [X] GordianSigner-Catalyst
-   * [X] GordianSigner-MacOS
-1. * [X] Add New Gordian Repos to Main Gordian README
-1. * [X] Create master projects page on web (week of 10/13, est. a few hours)
-   * A few paragraphs and a picture for each project
-   * Link in tab on main page (replacing #SC link)
