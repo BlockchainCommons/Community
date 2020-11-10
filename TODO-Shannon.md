@@ -1,7 +1,9 @@
 # Shannon's Open Tasks
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [ ] Gordian
-      * Gordian Logo
+   * [X] Gordian Wallet
+   * [ ] Gordian Signer
+   * [ ] Gordian Server
    * [X] Seedtool
    * [X] Keytool
    * [X] Learning Bitcoin (by EOD Wednesday)
