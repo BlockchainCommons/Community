@@ -1,5 +1,4 @@
 # Shannon's Open Tasks
-1. * [ ] Add existing Social Media previews to image folder of all repos, in .jpg and .png, and a layered file if it exists.
 1. * [ ] Use or adapt/resize existing Social Media previews for the top of relevant README.md of repos.
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [ ] Gordian
@@ -49,6 +48,7 @@
 
 ## Recently Completed
 
+1. * [X] Add existing Social Media previews to image folder of all repos, in .jpg and .png, and a layered file if it exists.
 1. * [X] Write COPA Tweetstorm
 1. * [X] Write Script for Gordian System (see current video)
 1. * [X] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
