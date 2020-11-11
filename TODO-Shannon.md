@@ -9,9 +9,9 @@
    * [X] Keytool
    * [X] Learning Bitcoin (by EOD Wednesday)
    * [ ] SmartCustodyBook
+   * [ ] Spotbit
    * [ ] Airgapped-Wallet-Community
    * [ ] Community
-   * [ ] Spotbit
    * [ ] Research
 1. * [ ] Seedtool / Keytool / Libraries
    * [X] Brainstorm on Naming of Category
