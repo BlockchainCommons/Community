@@ -3,7 +3,7 @@
    * [X] Gordian
    * [X] Gordian Wallet
    * [X] Gordian Signer
-      * Add Logo + Images to Create Actually Preview
+      * [ ] Add Logo + Images to Create Actually Preview
    * [X] Gordian Server
    * [X] Seedtool
    * [X] Keytool
