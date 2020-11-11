@@ -3,7 +3,7 @@
    * [X] Gordian
    * [X] Gordian Wallet
    * [X] Gordian Signer
-      * [ ] Add Logo + Images to Create Actually Preview
+      * [X] Add Logo + Images to Create Actually Preview
    * [X] Gordian Server
    * [X] Seedtool
    * [X] Keytool
@@ -14,6 +14,8 @@
    * [ ] Community
    * [ ] Research
 1. * [ ] Connect Together Our Systems
+   * [ ] Outline Potential Document
+   * [ ] Outline Potential Article
    * [ ] Outline Connections for a complete air-gapped system
    * [ ] How do the parts fit together?
    * [ ] Rough out diagrams about fitting together
@@ -32,6 +34,7 @@
 1. * [ ] Is there a way to automate short listing of posts on home page of BCC? <!--posts--> wasn't working ...
 1. * [ ] Link in Blog Posts on Projects Page
 1. * [ ] Create list of machines for community
+1. * [ ] Edit/Update text in python files for Spotbit [Tor file]
 
 ## Future Possibilities
 
