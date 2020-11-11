@@ -13,12 +13,6 @@
    * [ ] Airgapped-Wallet-Community
    * [ ] Community
    * [ ] Research
-1. * [ ] Seedtool / Keytool / Libraries
-   * [X] Brainstorm on Naming of Category
-   * [ ] Prepare an Overview on HackMD
-   * Include bc-base-crypto, bc-shamir, others used by those tools, bc-ur-kit [Swift port for bc-ur]
-   * Talk about Seedtool and Keytool as ways to exercise libraries, test them, show they work
-      * We're not sure if they're the ultimate thing to build dev systems in
 1. * [ ] Connect Together Our Systems
    * [ ] Outline Connections for a complete air-gapped system
    * [ ] How do the parts fit together?
@@ -51,6 +45,12 @@
 
 ## Recently Completed
 
+1. * [X] Seedtool / Keytool / Libraries
+   * [X] Brainstorm on Naming of Category
+   * [X] Prepare an Overview on HackMD
+   * Include bc-base-crypto, bc-shamir, others used by those tools, bc-ur-kit [Swift port for bc-ur]
+   * Talk about Seedtool and Keytool as ways to exercise libraries, test them, show they work
+      * We're not sure if they're the ultimate thing to build dev systems in
 1. * [X] Use or adapt/resize existing Social Media previews for the top of relevant README.md of repos.
 1. * [X] Add existing Social Media previews to image folder of all repos, in .jpg and .png, and a layered file if it exists.
 1. * [X] Write COPA Tweetstorm
