@@ -36,6 +36,7 @@
 1. * [ ] Link in Blog Posts on Projects Page
 1. * [ ] Create list of machines for community
 1. * [ ] Edit/Update text in python files for Spotbit [Tor file]
+1. * [ ] Proof https://github.com/BlockchainCommons/rsign2-did README
 
 ## Future Possibilities
 
