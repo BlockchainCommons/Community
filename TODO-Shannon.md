@@ -4,7 +4,7 @@
    * [X] Gordian Wallet
    * [X] Gordian Signer
       * [X] Add Logo + Images to Create Actually Preview
-      * [ ] Redo Android with its own images
+      * [X] Redo Android with its own images
    * [X] Gordian Server
    * [X] Seedtool
    * [X] Keytool
