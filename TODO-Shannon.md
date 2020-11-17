@@ -39,6 +39,10 @@
 1. * [ ] Create list of machines for community
 1. * [ ] Edit/Update text in python files for Spotbit [Tor file]
 1. * [ ] Proof https://github.com/BlockchainCommons/rsign2-did README
+1. * [ ] Check Spotbit Performance
+   * [ ] EOD 11/18
+   * [ ] 11/25
+   * If problems, look at memory usage, logs
 
 ## Future Possibilities
 
@@ -52,6 +56,7 @@
 
 ## Recently Completed
 
+1. * [X] Fix Spotbit Restart
 1. * [X] Seedtool / Keytool / Libraries
    * [X] Brainstorm on Naming of Category
    * [X] Prepare an Overview on HackMD
