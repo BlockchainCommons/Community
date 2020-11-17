@@ -10,7 +10,7 @@
    * [X] Keytool
    * [X] Learning Bitcoin (by EOD Wednesday)
    * [ ] SmartCustodyBook
-   * [ ] Spotbit
+   * [X] Spotbit
    * [ ] Airgapped-Wallet-Community
    * [ ] Community
    * [ ] Research
