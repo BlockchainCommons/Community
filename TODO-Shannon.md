@@ -36,7 +36,6 @@
 1. * [ ] Is there a way to get "[more]" on posts page of www.bcc?
 1. * [ ] Is there a way to automate short listing of posts on home page of BCC? <!--posts--> wasn't working ...
 1. * [ ] Create list of machines for community
-1. * [ ] Edit/Update text in python files for Spotbit [Tor file]
 1. * [ ] Proof https://github.com/BlockchainCommons/rsign2-did README
 1. * [ ] Check Spotbit Performance
    * [ ] EOD 11/18
@@ -55,6 +54,7 @@
 
 ## Recently Completed
 
+1. * [X] Edit/Update text in python files for Spotbit [Tor file]
 1. * [X] Link in Blog Posts on Projects Page
 1. * [X] Fix Spotbit Restart
 1. * [X] Seedtool / Keytool / Libraries
