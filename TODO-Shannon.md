@@ -11,13 +11,17 @@
    * [X] Learning Bitcoin (by EOD Wednesday)
    * [X] SmartCustodyBook
    * [X] Spotbit
+   * [ ] LetheKit
+      * [X] Logo
+      * [ ] Update Social Media
    * [ ] Airgapped-Wallet-Community
    * [ ] Community
    * [ ] Research
 1. * [ ] Connect Together Our Systems
    * [X] Outline Potential Document
    * [X] Outline Potential Article
-   * [ ] Write Document?
+   * [ ] Write Document
+      * [X] Create Graph
    * [ ] Write Article?
    * Outline Connections for a complete air-gapped system
    * How do the parts fit together?
