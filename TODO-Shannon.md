@@ -46,6 +46,7 @@
    * If problems, look at memory usage, logs
 1. * [ ] Edit Henk's revisions to rsign
 1. * [ ] Revise Development Phrases 
+1. * [ ] Add LetheKit and SpotBit to Gordian overview?
 
 ## Future Possibilities
 
