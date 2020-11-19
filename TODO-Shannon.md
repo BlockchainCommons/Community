@@ -45,7 +45,6 @@
    * [ ] 11/25
    * If problems, look at memory usage, logs
 1. * [ ] Edit Henk's revisions to rsign
-1. * [ ] Revise Development Phrases 
 1. * [ ] Add LetheKit and SpotBit to Gordian overview?
 
 ## Future Possibilities
@@ -60,6 +59,7 @@
 
 ## Recently Completed
 
+1. * [X] Revise Development Phrases 
 1. * [X] Proof https://github.com/BlockchainCommons/rsign2-did README (https://github.com/BlockchainCommons/torgap-sig-cli-rust)
 1. * [X] Edit/Update text in python files for Spotbit [Tor file]
 1. * [X] Link in Blog Posts on Projects Page
