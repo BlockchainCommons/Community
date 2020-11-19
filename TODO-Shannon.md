@@ -1,4 +1,8 @@
 # Shannon's Open Tasks
+
+1. * [ ] Integrate BCC Overview into Gordian System Page
+1. * [ ] Create Crypto Commons repo
+   * [ ] Incorporate Crypto Commons overview
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [X] Gordian
    * [X] Gordian Wallet
@@ -75,22 +79,3 @@
 1. * [X] Add existing Social Media previews to image folder of all repos, in .jpg and .png, and a layered file if it exists.
 1. * [X] Write COPA Tweetstorm
 1. * [X] Write Script for Gordian System (see current video)
-1. * [X] Create outline of key phrases for presenting Gordian wallet and tech, to communicate our open infrastucture and other messages
-1. * [X] Write Endscript about patrons for videos (see LetheKit video)
-1. * [X] Redo [bc-qr-vault-catalyst PR #2](https://github.com/BlockchainCommons/bc-qr-vault-catalyst/pull/2#pullrequestreview-513101585)
-1. * [X] Changes in Gordian repos may require some changes or links to them on home page, sponsors page, community page, airgap community page, gordian master page.
-1. * [X] Write Post on COPA
-   * [X] Write Post
-   * [X] Create PR (Today)
-1. * [X] Comment/thank, and close out any intern items in [bc-community](https://github.com/BlockchainCommons/Community/issues).
-1. * [X] Resolve final Learning Bitcoin v2.0 Issues
-   * [X] LBTCftCL Issues
-   * [X] Tag as v2.0
-1.  * [X] Draft letter, audience foundations, educators, and companies offer CLI or library related code, to sharing about v2 release to ask for:
-     * support for future updates to LBftCL course for future releases of Bitcoin, in particular miniscript, signet with taproot & schnorr.
-     * Adding teacher guides, simple CLI screen recording https://asciinema.org, videos, etc.
-     * Create a formal book (O'Reilly)
-     * Adding to course to demonstrate how to program their new tech or libraries (Blockstream's miniscrip, Magical Bitcoin's wallet https://magicalbitcoin.org, discrete log contracts)
-     * or to write separate programming tutorials for other bitcoin or close related technology (LND, Zcash).
-1. * [X] Improve Links to Bitcoin Donation Server
-1. * [X] Proof @ChristopherA's most recent tweaks to [LBftCL blog post](https://github.com/BlockchainCommons/www.blockchaincommons.com/blob/master/_posts/2020-10-30-Learning-Bitcoin-Upgrades-to-v2.md).
