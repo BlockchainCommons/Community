@@ -11,7 +11,7 @@
    * [X] Learning Bitcoin (by EOD Wednesday)
    * [X] SmartCustodyBook
    * [X] Spotbit
-   * [ ] LetheKit
+   * [X] LetheKit
       * [X] Logo
       * [ ] Update Social Media
    * [ ] Airgapped-Wallet-Community
