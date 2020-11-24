@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Integrate BCC Overview into Gordian System Page
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [X] Gordian
    * [X] Gordian Wallet
@@ -39,6 +38,8 @@
    * [ ] Talk with Chris
 1. * [ ] Add LetheKit and SpotBit to Gordian overview?
 1. * [ ] Write Torgap FAQ
+   * [ ] Produce Outline
+   * [ ] Edit
    * Torgap Architecture
    * Utility of Tor
    * Value Prop of Tor Addresses for DIDs, VCs
@@ -63,6 +64,7 @@
 
 ## Recently Completed
 
+1. * [X] Integrate BCC Overview into Gordian System Page
 1. * [X] Revise Development Phrases 
 1. * [X] Proof https://github.com/BlockchainCommons/rsign2-did README (https://github.com/BlockchainCommons/torgap-sig-cli-rust)
 1. * [X] Edit/Update text in python files for Spotbit [Tor file]
