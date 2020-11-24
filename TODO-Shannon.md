@@ -14,29 +14,18 @@
    * [X] Spotbit
    * [X] LetheKit
       * [X] Logo
-      * [ ] Update Social Media
+      * [X] Update Social Media
    * [ ] Airgapped-Wallet-Community
+      * (Use Airgap symbol around people who are using)
    * [ ] Community
    * [ ] Research
    * [ ] Crypto Commons
-1. * [ ] BC-UR Support
-   * [ ] PR with Wallet Info, Our Video
-   * What it is, why it's important, from a power user
-1. * [ ] More targeted letters to sponsors
-     * [ ] https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
-     * [ ] Talk about how our standards are going into wallets
-1. * [ ] Look at letter to U.C. (targeted letters)
-   * [ ] How to Improve?
-   * [ ] anything to incorporate?
-1. * [ ] Is there a way to get "[more]" on posts page of www.bcc?
-1. * [ ] Is there a way to automate short listing of posts on home page of BCC? <!--posts--> wasn't working ...
 1. * [ ] Create list of machines for community
 1. * [ ] Check Spotbit Performance
-   * [ ] EOD 11/18
-   * [ ] 11/25
    * If problems, look at memory usage, logs
-1. * [ ] Edit Henk's revisions to rsign
-   * [ ] Talk with Chris
+1. * [ ] Edit Henk's revisions to torgap-sig-cli-rust
+   * [X] Talk with Chris
+1. * [ ] Create Torgap Repo
 1. * [ ] Write Torgap FAQ
    * [ ] Produce Outline
    * [ ] Edit
@@ -44,7 +33,19 @@
    * Utility of Tor
    * Value Prop of Tor Addresses for DIDs, VCs
    * Future Possibility of use with Lightning
-
+1. * [ ] BC-UR Blog Post
+   * What it is, why it's important, from a power user
+   * Talk about other Creators 
+1. * [ ] More targeted letters to sponsors
+     * [ ] https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
+     * [ ] Talk about how our standards are going into wallets
+1. * [ ] Look at letter to U.C. (targeted letters)
+   * [ ] How to Improve?
+   * [ ] anything to incorporate?
+1. * [ ] Write List of Things that Chris Should Give to Theme Designer
+   * [ ] Look at #SC for Options
+   * <!--posts-->, [more]
+   
 ## Future Possibilities
 
 1. Scope These Other Possibilities
