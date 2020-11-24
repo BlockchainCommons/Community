@@ -18,6 +18,7 @@
    * [ ] Airgapped-Wallet-Community
    * [ ] Community
    * [ ] Research
+   * [ ] Crypto Commons
 1. * [ ] BC-UR Support
    * [ ] PR with Wallet Info, Our Video
    * What it is, why it's important, from a power user
