@@ -40,6 +40,7 @@
 1. * [ ] Edit Henk's revisions to rsign
    * [ ] Talk with Chris
 1. * [ ] Add LetheKit and SpotBit to Gordian overview?
+1. * [ ] Write Torgap FAQ
 
 ## Future Possibilities
 
