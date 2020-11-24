@@ -41,6 +41,10 @@
    * [ ] Talk with Chris
 1. * [ ] Add LetheKit and SpotBit to Gordian overview?
 1. * [ ] Write Torgap FAQ
+   * Torgap Architecture
+   * Utility of Tor
+   * Value Prop of Tor Addresses for DIDs, VCs
+   * Future Possibility of use with Lightning
 
 ## Future Possibilities
 
