@@ -1,8 +1,6 @@
 # Shannon's Open Tasks
 
 1. * [ ] Integrate BCC Overview into Gordian System Page
-1. * [ ] Create Crypto Commons repo
-   * [ ] Incorporate Crypto Commons overview
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [X] Gordian
    * [X] Gordian Wallet
@@ -48,6 +46,8 @@
 
 ## Future Possibilities
 
+1. * [X] Create Crypto Commons repo
+   * [X] Incorporate Crypto Commons overview
 1. * [X] Connect Together Our Systems
    * [X] Outline Potential Document
    * [X] Outline Potential Article
