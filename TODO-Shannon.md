@@ -21,17 +21,6 @@
    * [ ] Airgapped-Wallet-Community
    * [ ] Community
    * [ ] Research
-1. * [ ] Connect Together Our Systems
-   * [X] Outline Potential Document
-   * [X] Outline Potential Article
-   * [ ] Write Document
-      * [X] Create Graph
-   * [ ] Write Article?
-   * Outline Connections for a complete air-gapped system
-   * How do the parts fit together?
-   * Rough out diagrams about fitting together
-   * Overview why each system is important
-   * Why CL tools? Why Gordian? Why LetheKit?
 1. * [ ] BC-UR Support
    * [ ] PR with Wallet Info, Our Video
    * What it is, why it's important, from a power user
@@ -54,6 +43,11 @@
 
 ## Future Possibilities
 
+1. * [X] Connect Together Our Systems
+   * [X] Outline Potential Document
+   * [X] Outline Potential Article
+   * [X] Write Document
+      * [X] Create Graph
 1. Scope These Other Possibilities
 1. Chapter in LBTCftCL on BCC CLIs
 1. Chapter in LBTCftCL on BCC libraries
