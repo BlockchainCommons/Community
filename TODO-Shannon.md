@@ -46,14 +46,6 @@
 
 ## Future Possibilities
 
-1. * [X] Add LetheKit and SpotBit to Gordian overview?
-1. * [X] Create Crypto Commons repo
-   * [X] Incorporate Crypto Commons overview
-1. * [X] Connect Together Our Systems
-   * [X] Outline Potential Document
-   * [X] Outline Potential Article
-   * [X] Write Document
-      * [X] Create Graph
 1. Scope These Other Possibilities
 1. Chapter in LBTCftCL on BCC CLIs
 1. Chapter in LBTCftCL on BCC libraries
@@ -64,6 +56,15 @@
 
 ## Recently Completed
 
+1. * [X] Add LetheKit and SpotBit to Gordian overview?
+1. * [X] Create Crypto Commons repo
+   * [X] Incorporate Crypto Commons overview
+   * [X] Reorganize & reformat
+1. * [X] Connect Together Our Systems
+   * [X] Outline Potential Document
+   * [X] Outline Potential Article
+   * [X] Write Document
+      * [X] Create Graph
 1. * [X] Integrate BCC Overview into Gordian System Page
 1. * [X] Revise Development Phrases 
 1. * [X] Proof https://github.com/BlockchainCommons/rsign2-did README (https://github.com/BlockchainCommons/torgap-sig-cli-rust)
