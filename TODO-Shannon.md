@@ -36,7 +36,6 @@
    * If problems, look at memory usage, logs
 1. * [ ] Edit Henk's revisions to rsign
    * [ ] Talk with Chris
-1. * [ ] Add LetheKit and SpotBit to Gordian overview?
 1. * [ ] Write Torgap FAQ
    * [ ] Produce Outline
    * [ ] Edit
@@ -47,6 +46,7 @@
 
 ## Future Possibilities
 
+1. * [X] Add LetheKit and SpotBit to Gordian overview?
 1. * [X] Create Crypto Commons repo
    * [X] Incorporate Crypto Commons overview
 1. * [X] Connect Together Our Systems
