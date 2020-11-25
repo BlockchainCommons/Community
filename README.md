@@ -14,6 +14,21 @@ See also [our current strategies](Strategies.md).
 
 We had a successful virtual internship program this summer, and are hoping to repeat it this fall. See https://github.com/BlockchainCommons/Community/issues/17 for more details. The deadline for signups passed on September 28th.
 
+## Server List
+
+The following servers are currently running Blockchain Commons services. If you need access, please ask.
+
+   * BTCPay: 45.79.86.32
+      * Our secure server, currently used for BTCPay
+   * Spotbit: 104.200.29.8
+      * Our services server, currently used for Spotbit (http://h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion)
+   * Standupsh: 45.118.132.204
+      * ?. This may be our default full node for Gordian Wallet
+   * Research-0: 45.33.43.151
+      * Our main server for research projects
+   * Ss-conf: 172.105.248.106
+      * A temporary research server, currently being used for esplora experimentation
+      
 ## News
 
 * 2090-01: Bitcoin Framework for iOS released.
