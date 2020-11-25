@@ -21,8 +21,6 @@
    * [ ] Research
    * [ ] Crypto Commons
 1. * [ ] Create list of machines for community
-1. * [ ] Check Spotbit Performance
-   * If problems, look at memory usage, logs
 1. * [ ] Edit Henk's revisions to torgap-sig-cli-rust
    * [X] Talk with Chris
 1. * [ ] Create Torgap Repo
@@ -59,6 +57,8 @@
 
 ## Recently Completed
 
+1. * [X] Check/Analyze Spotbit Performance
+   * If problems, look at memory usage, logs
 1. * [X] Add LetheKit and SpotBit to Gordian overview?
 1. * [X] Create Crypto Commons repo
    * [X] Incorporate Crypto Commons overview
