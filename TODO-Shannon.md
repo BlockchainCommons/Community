@@ -20,8 +20,7 @@
    * [ ] Community
    * [ ] Research
    * [ ] Crypto Commons
-1. * [ ] Create list of machines for community
-1. * [ ] Edit Henk's revisions to torgap-sig-cli-rust
+1. * [ ] Edit torgap-sig-cli-rust to tell story of Torgap, signatures, and DIDs
    * [X] Talk with Chris
 1. * [ ] Create Torgap Repo
 1. * [ ] Write Torgap FAQ
@@ -57,6 +56,7 @@
 
 ## Recently Completed
 
+1. * [X] Create list of machines for community
 1. * [X] Check/Analyze Spotbit Performance
    * If problems, look at memory usage, logs
 1. * [X] Add LetheKit and SpotBit to Gordian overview?
