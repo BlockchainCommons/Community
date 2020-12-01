@@ -43,6 +43,13 @@
    * [ ] Look at #SC for Options
    * <!--posts-->, [more]
    
+## Pending
+
+1. * [ ] Gordian Signer Review for App Store Release
+   * [ ] App Store Page
+   * [ ] Help Pages
+   * [ ] GH Pages
+   
 ## Future Possibilities
 
 1. Scope These Other Possibilities
