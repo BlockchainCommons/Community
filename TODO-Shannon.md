@@ -20,8 +20,6 @@
    * [ ] Community
    * [ ] Research
    * [ ] Crypto Commons
-1. * [X] Create Torgap Repo
-   * [ ] Add logo
 1. * [ ] Write Torgap FAQ
    * [ ] Produce Outline
    * [ ] Edit
@@ -70,6 +68,8 @@
 
 ## Recently Completed
 
+1. * [X] Create Torgap Repo
+   * [X] Add logo
 1. * [X] Edit torgap-sig-cli-rust to tell story of Torgap, signatures, and DIDs
    * [X] Talk with Chris
 1. * [X] Create list of machines for community
