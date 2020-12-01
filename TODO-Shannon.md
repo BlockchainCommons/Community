@@ -20,7 +20,8 @@
    * [ ] Community
    * [ ] Research
    * [ ] Crypto Commons
-1. * [ ] Create Torgap Repo
+1. * [X] Create Torgap Repo
+   * [ ] Add logo
 1. * [ ] Write Torgap FAQ
    * [ ] Produce Outline
    * [ ] Edit
