@@ -49,6 +49,7 @@
    * [ ] App Store Page
    * [ ] Help Pages
    * [ ] GH Pages
+   * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org 
    
 ## Future Possibilities
 
