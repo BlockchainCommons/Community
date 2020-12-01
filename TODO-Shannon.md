@@ -66,6 +66,8 @@
 1. Set Up Monitoring of BCC Machines?
 1. Should LBTCftCL Have an Exam?
 1. Terminology Article
+   * Account: must have balance, script [descriptor?]
+   * Account Map
 
 ## Recently Completed
 
