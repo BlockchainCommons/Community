@@ -31,8 +31,9 @@
    * Value Prop of Tor Addresses for DIDs, VCs
    * Future Possibility of use with Lightning
 1. * [ ] BC-UR Blog Post
-   * What it is, why it's important, from a power user
-   * Talk about other Creators 
+   * [X] Write
+   * [ ] Edit
+   * [ ] Release
 1. * [ ] More targeted letters to sponsors
      * [ ] https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
      * [ ] Talk about how our standards are going into wallets
@@ -42,7 +43,10 @@
 1. * [ ] Write List of Things that Chris Should Give to Theme Designer
    * [ ] Look at #SC for Options
    * <!--posts-->, [more]
-   
+1. * [ ] Gordian Signer User Story
+   * [ ] Talk with Chris
+1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+
 ## Pending
 
 1. * [ ] Gordian Signer Review for App Store Release
@@ -50,7 +54,7 @@
    * [ ] Help Pages
    * [ ] GH Pages
    * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org 
-   
+
 ## Future Possibilities
 
 1. Scope These Other Possibilities
@@ -61,6 +65,7 @@
 1. v2 of #SC
 1. Set Up Monitoring of BCC Machines?
 1. Should LBTCftCL Have an Exam?
+1. Terminology Article
 
 ## Recently Completed
 
