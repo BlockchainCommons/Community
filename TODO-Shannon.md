@@ -21,12 +21,13 @@
    * [ ] Research
    * [ ] Crypto Commons
 1. * [ ] More targeted letters to sponsors
+     * Use foundation of letter from H.
      * [ ] Exchanges?
         * https://www.coindesk.com/gemini-donates-50k-hrf-fund-bitcoin-developer-2021
         * https://www.crowdfundinsider.com/2020/11/169577-digital-asset-exchange-kraken-to-donate-150000-to-brink-an-rd-center-for-bitcoin-developers/
         * https://bitcoinmagazine.com/articles/okcoin-pledges-1000-btc-to-devs-working-on-bitcoin-and-its-forks
-     * [ ] https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
-     * [ ] Talk about how our standards are going into wallets
+     *  https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
+     *  Talk about how our standards are going into wallets
 1. * [ ] Look at letter to U.C. (targeted letters)
    * [ ] How to Improve?
    * [ ] anything to incorporate?
@@ -37,6 +38,7 @@
    * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Check in On SB Performance
+1. * [ ] Produce Gordian seal list
 
 ## Pending
 
