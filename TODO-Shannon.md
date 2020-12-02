@@ -12,11 +12,13 @@
    * [X] Learning Bitcoin (by EOD Wednesday)
    * [X] SmartCustodyBook
    * [X] Spotbit
+   * [X] Torgap
    * [X] LetheKit
       * [X] Logo
       * [X] Update Social Media
    * [ ] Airgapped-Wallet-Community
-      * (Use Airgap symbol around people who are using)
+      * [X] Logo
+      * [ ] Social Media
    * [ ] Community
    * [ ] Research
    * [ ] Crypto Commons
