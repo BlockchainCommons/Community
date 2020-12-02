@@ -20,12 +20,6 @@
    * [ ] Community
    * [ ] Research
    * [ ] Crypto Commons
-1. * [ ] BC-UR Blog Post
-   * [X] Write
-   * [X] Add Animated PSBT as Image
-   * [X] Add a Few Early Links
-   * [X] Edit
-   * [ ] Queue Release
 1. * [ ] More targeted letters to sponsors
      * [ ] Exchanges?
         * https://www.coindesk.com/gemini-donates-50k-hrf-fund-bitcoin-developer-2021
@@ -68,6 +62,12 @@
 
 ## Recently Completed
 
+1. * [X] BC-UR Blog Post
+   * [X] Write
+   * [X] Add Animated PSBT as Image
+   * [X] Add a Few Early Links
+   * [X] Edit
+   * [X] Queue Release
 1. * [X] Write Torgap FAQ
    * [X] Produce Outline
    * [X] Edit
