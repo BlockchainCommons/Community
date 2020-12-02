@@ -40,7 +40,6 @@
    * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Check in On SB Performance
-1. * [ ] Produce Gordian seal list
 
 ## Pending
 
@@ -66,6 +65,7 @@
 
 ## Recently Completed
 
+1. * [X] Produce Gordian seal list
 1. * [X] BC-UR Blog Post
    * [X] Write
    * [X] Add Animated PSBT as Image
