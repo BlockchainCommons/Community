@@ -21,12 +21,8 @@
    * [ ] Research
    * [ ] Crypto Commons
 1. * [ ] Write Torgap FAQ
-   * [ ] Produce Outline
+   * [X] Produce Outline
    * [ ] Edit
-   * Torgap Architecture
-   * Utility of Tor
-   * Value Prop of Tor Addresses for DIDs, VCs
-   * Future Possibility of use with Lightning
 1. * [ ] BC-UR Blog Post
    * [X] Write
    * [ ] Edit
