@@ -22,6 +22,8 @@
    * [ ] Crypto Commons
 1. * [ ] Write Torgap FAQ
    * [X] Produce Outline
+   * [ ] Add Animated PSBT as Image
+   * [ ] Add a Few Early Links
    * [ ] Edit
 1. * [ ] BC-UR Blog Post
    * [X] Write
