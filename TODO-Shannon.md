@@ -20,13 +20,10 @@
    * [ ] Community
    * [ ] Research
    * [ ] Crypto Commons
-1. * [ ] Write Torgap FAQ
-   * [X] Produce Outline
-   * [ ] Add Animated PSBT as Image
-   * [ ] Add a Few Early Links
-   * [ ] Edit
 1. * [ ] BC-UR Blog Post
    * [X] Write
+   * [ ] Add Animated PSBT as Image
+   * [ ] Add a Few Early Links
    * [ ] Edit
    * [ ] Release
 1. * [ ] More targeted letters to sponsors
@@ -70,6 +67,9 @@
 
 ## Recently Completed
 
+1. * [X] Write Torgap FAQ
+   * [X] Produce Outline
+   * [X] Edit
 1. * [X] Create Torgap Repo
    * [X] Add logo
 1. * [X] Edit torgap-sig-cli-rust to tell story of Torgap, signatures, and DIDs
