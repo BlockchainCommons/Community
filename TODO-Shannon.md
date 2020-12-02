@@ -22,10 +22,10 @@
    * [ ] Crypto Commons
 1. * [ ] BC-UR Blog Post
    * [X] Write
-   * [ ] Add Animated PSBT as Image
-   * [ ] Add a Few Early Links
-   * [ ] Edit
-   * [ ] Release
+   * [X] Add Animated PSBT as Image
+   * [X] Add a Few Early Links
+   * [X] Edit
+   * [ ] Queue Release
 1. * [ ] More targeted letters to sponsors
      * [ ] Exchanges?
         * https://www.coindesk.com/gemini-donates-50k-hrf-fund-bitcoin-developer-2021
@@ -42,6 +42,7 @@
 1. * [ ] Gordian Signer User Story
    * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+1. * [ ] Check in On SB Performance
 
 ## Pending
 
