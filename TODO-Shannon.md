@@ -30,16 +30,12 @@
         * https://bitcoinmagazine.com/articles/okcoin-pledges-1000-btc-to-devs-working-on-bitcoin-and-its-forks
      *  https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
      *  Talk about how our standards are going into wallets
-1. * [ ] Look at letter to U.C. (targeted letters)
-   * [ ] How to Improve?
-   * [ ] anything to incorporate?
 1. * [ ] Write List of Things that Chris Should Give to Theme Designer
    * [ ] Look at #SC for Options
    * <!--posts-->, [more]
 1. * [ ] Gordian Signer User Story
    * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-1. * [ ] Check in On SB Performance
 
 ## Pending
 
@@ -65,6 +61,7 @@
 
 ## Recently Completed
 
+1. * [X] Check in On SB Performance
 1. * [X] Produce Gordian seal list
 1. * [X] BC-UR Blog Post
    * [X] Write
