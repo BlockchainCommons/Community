@@ -22,14 +22,6 @@
    * [ ] Community
    * [ ] Research
    * [ ] Crypto Commons
-1. * [ ] More targeted letters to sponsors
-     * Use foundation of letter from H.
-     * [ ] Exchanges?
-        * https://www.coindesk.com/gemini-donates-50k-hrf-fund-bitcoin-developer-2021
-        * https://www.crowdfundinsider.com/2020/11/169577-digital-asset-exchange-kraken-to-donate-150000-to-brink-an-rd-center-for-bitcoin-developers/
-        * https://bitcoinmagazine.com/articles/okcoin-pledges-1000-btc-to-devs-working-on-bitcoin-and-its-forks
-     *  https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
-     *  Talk about how our standards are going into wallets
 1. * [ ] Write List of Things that Chris Should Give to Theme Designer
    * [ ] Look at #SC for Options
    * <!--posts-->, [more]
@@ -61,6 +53,14 @@
 
 ## Recently Completed
 
+1. * [X] More targeted letters to sponsors
+     * Use foundation of letter from H.
+     * [X] Exchanges?
+        * https://www.coindesk.com/gemini-donates-50k-hrf-fund-bitcoin-developer-2021
+        * https://www.crowdfundinsider.com/2020/11/169577-digital-asset-exchange-kraken-to-donate-150000-to-brink-an-rd-center-for-bitcoin-developers/
+        * https://bitcoinmagazine.com/articles/okcoin-pledges-1000-btc-to-devs-working-on-bitcoin-and-its-forks
+     *  https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
+     *  Talk about how our standards are going into wallets
 1. * [X] Check in On SB Performance
 1. * [X] Produce Gordian seal list
 1. * [X] BC-UR Blog Post
