@@ -1,5 +1,7 @@
 # Blockchain Commons Community
 
+The Blockchain Commons Community is a central location for discussion and information dispersal for Blockchain Commons stakeholders.
+
 ## Objectives
 
 1. **Blockchain Commons:** Create a specific commons that is dedicated to the realization of open infrastructure for secure, compassionate, decentralized systems.
@@ -85,22 +87,6 @@ The Blockchain Commons members are:
 
 * [Vinay Taylor](mailto:vinay@nomqa.com)
 
-## Current Sustaining Patrons
-
-## Past Sustaining Patrons
-
-* [Tuur Demeester](mailto:tuurdemeester@gmail.com)
-  * Investment analyst, recommended Bitcoin since 2012
-  * Founder & CEO of Adamant Capital
-  * Blogs on [Medium](https://medium.com/@tuurdemeester) and on Twitter is [@TuurDemeester](https://twitter.com/TuurDemeester).
-  * Originally from Belgium, resides in Austin, TX
-* [Wayne Vaughan](mailto:wayne@tierion.com)
-  * Founder/CEO [Tierion](https://tierion.com)
-  * Advisor [Blockchain Capital](http://twitter.com/blockchaincap)
-  * Director [DIF (Decentralized Identity Foundation)](http://identity.foundation/)
-  * Blogs on [Medium](https://medium.com/@WayneVaughan) and on Twitter is [@WayneVaughan](https://twitter.com/WayneVaughan).
-  * Resides in the Bay Area of California USA
-
 ## Communications
 
 The Blockchain Commons maintains the following communication channels:
@@ -123,29 +109,16 @@ The best place to talk about Blockchain Commons and its projects is in our GitHu
 
 [**Blockchain Commons Discussions**](https://github.com/BlockchainCommons/Community/discussions). For developers, interns, and patrons of Blockchain Commons, please use the discussions area of the [Community repo](https://github.com/BlockchainCommons/Community) to talk about general Blockchain Commons issues, the intern program, or topics other than the [Gordian System](https://github.com/BlockchainCommons/Gordian/discussions) or the [wallet standards](https://github.com/BlockchainCommons/AirgappedSigning/discussions), each of which have their own discussion areas.
 
-## Disclaimer
+### Other Questions & Problems
 
-Please read the statuses in individual repos. Many projects are still in testing phase and should not be used for production tasks until they have had further testing and auditing.
+As an open-source, open-development community, Blockchain Commons does not have the resources to provide direct support of our projects. Please consider the discussions area as a locale where you might get answers to questions. Alternatively, please use this repository's [issues](./issues) feature. Unfortunately, we can not make any promises on response time.
 
-## Copyright & License
-
-Unless otherwise noted (either in the README.md for an individual repo or in an individual file's header comments) the contents of this GitHub are Copyright © 2020 by Blockchain Commons, LLC, and are [licensed](./LICENSE) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
-
-In most cases, the authors, copyright, and license for each file reside in header comments in the source code. When it does not, we have attempted to attribute it accurately tables in individual READMEs.
-
-## Contributing
-
-This is an open source project and we welcome contributions. There are many ways to help.
-
-To get started, please read the [contribution guidelines](CONTRIBUTING.md). Please be sure to fill out a CLA agreement for any repo that you make contributions to.
-
-### Reporting Problems
-
-If you find typos, mistakes, inconsistencies or other problems in the Blockchain Commons documents, please let us know by filing an issue at the appropriate issue tracker (we use multiple repositories). No issue is too small.
+If your company requires support to use our projects, please feel free to contact us directly about options. We may be able to offer you a contract for support from one of our contributors, or we might be able to point you to another entity who can offer the contractual support that you need.
 
 ## Version History
 
-* 2020-08:Community  README updated
+* 2020-12: Community README standardized 
+* 2020-08: Community  README updated
 * 2018-05: Community repository started on Github
 
 ## Community RoadMap
@@ -161,4 +134,58 @@ If you find typos, mistakes, inconsistencies or other problems in the Blockchain
   - [ ] Investigate a formal relationship with [Software Freedom Conservancy](https://sfconservancy.org/) for those US patrons who wish to contribute tax-deductible funds.
 - [ ] Funding
   - [ ] Submit proposals to various foundations desiring to support commons activities
+
+## Status — Varied
+
+Please read the statuses in individual repos. Many projects are still in testing phase and should not be used for production tasks until they have had further testing and auditing.
+
+## Origins, Authors, Copyright & License
+
+Unless otherwise noted (either in the README.md for an individual repo or in an individual file's header comments) the contents of this GitHub are Copyright © 2020 by Blockchain Commons, LLC, and are [licensed](./LICENSE) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+
+In most cases, the authors, copyright, and license for each file reside in header comments in the source code. When it does not, we have attempted to attribute it accurately tables in individual READMEs.
+
+## Financial Support
+
+The Community is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
+
+To financially support further development of `$projectname` and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
+
+### Current Sustaining Patrons
+
+### Past Sustaining Patrons
+
+* [Tuur Demeester](mailto:tuurdemeester@gmail.com)
+  * Investment analyst, recommended Bitcoin since 2012
+  * Founder & CEO of Adamant Capital
+  * Blogs on [Medium](https://medium.com/@tuurdemeester) and on Twitter is [@TuurDemeester](https://twitter.com/TuurDemeester).
+  * Originally from Belgium, resides in Austin, TX
+* [Wayne Vaughan](mailto:wayne@tierion.com)
+  * Founder/CEO [Tierion](https://tierion.com)
+  * Advisor [Blockchain Capital](http://twitter.com/blockchaincap)
+  * Director [DIF (Decentralized Identity Foundation)](http://identity.foundation/)
+  * Blogs on [Medium](https://medium.com/@WayneVaughan) and on Twitter is [@WayneVaughan](https://twitter.com/WayneVaughan).
+  * Resides in the Bay Area of California USA
+
+## Contributing
+
+We encourage public contributions through issues and pull requests! Please review [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our development process. All contributions to this repository require a GPG signed [Contributor License Agreement](./CLA.md).
+
+## Responsible Disclosure
+
+We want to keep all of our software safe for everyone. If you have discovered a security vulnerability, we appreciate your help in disclosing it to us in a responsible manner. We are unfortunately not able to offer bug bounties at this time.
+
+We do ask that you offer us good faith and use best efforts not to leak information or harm any user, their data, or our developer community. Please give us a reasonable amount of time to fix the issue before you publish it. Do not defraud our users or us in the process of discovery. We promise not to bring legal action against researchers who point out a problem provided they do their best to follow the these guidelines.
+
+### Reporting a Vulnerability
+
+Please report suspected security vulnerabilities in private via email to ChristopherA@BlockchainCommons.com (do not use this email for support). Please do NOT create publicly viewable issues for suspected security vulnerabilities.
+
+The following keys may be used to communicate sensitive information to developers:
+
+| Name              | Fingerprint                                        |
+| ----------------- | -------------------------------------------------- |
+| Christopher Allen | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
+
+You can import a key by running the following command with that individual’s fingerprint: `gpg --recv-keys "<fingerprint>"` Ensure that you put quotes around fingerprints that contain spaces.
 
