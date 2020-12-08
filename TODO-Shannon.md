@@ -36,7 +36,8 @@
    * [ ] Review All Meta/short descriptions
    * [ ] Review Pins
    * [ ] Make Sure Top Repos Are Following Templates
-   
+1. * [ ] Add bc-bytewords-cli to Crypto Commons
+
 ## Pending
 
 1. * [ ] Gordian Signer Review for App Store Release
