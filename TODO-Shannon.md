@@ -37,7 +37,9 @@
    * [ ] Review Pins
    * [ ] Make Sure Top Repos Are Following Templates
 1. * [ ] Add bc-bytewords-cli to Crypto Commons
-
+1. * [ ] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
+   * [ ] Make sure Bitmark is standardly credited.
+   
 ## Pending
 
 1. * [ ] Gordian Signer Review for App Store Release
