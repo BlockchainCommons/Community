@@ -1,7 +1,7 @@
 # Shannon's Open Tasks
 
 1. * [ ] Shorten Exchange Email
-1. * [ ] Create "What We Fund" Page
+1. * [ ] Write to Zcash about What They Fund
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [X] Gordian
    * [X] Gordian Wallet
