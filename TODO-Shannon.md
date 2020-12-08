@@ -1,6 +1,7 @@
 # Shannon's Open Tasks
 
 1. * [ ] Update & Release UR Blog Post
+   * [ ] Update Tweetstorm
    * More Emphasis on translations
 1. * [ ] Shorten Exchange Email
 1. * [ ] Create "What We Fund" Page
