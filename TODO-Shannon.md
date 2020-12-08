@@ -31,7 +31,12 @@
    * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Remove h1s from blog posts
-
+1. * [ ] Clean Up Repos
+   * [ ] Add Sustaining Patrons to Templates
+   * [ ] Review All Meta/short descriptions
+   * [ ] Review Pins
+   * [ ] Make Sure Top Repos Are Following Templates
+   
 ## Pending
 
 1. * [ ] Gordian Signer Review for App Store Release
