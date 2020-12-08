@@ -42,6 +42,7 @@
    * [ ] Add Bitmark as Contributing Sponsor section
 1. * [ ] Add URUI to appropriate master page
 1. * [ ] Add authors to older repos per new template
+1. * [ ] Clear recent PRs on Learning Bitcoin
 
 ## Pending
 
