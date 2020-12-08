@@ -39,6 +39,8 @@
 1. * [ ] Add bc-bytewords-cli to Crypto Commons
 1. * [ ] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
    * [ ] Make sure Bitmark is standardly credited.
+1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
+   * [ ] Add Bitmark as Contributing Sponsor section
    
 ## Pending
 
