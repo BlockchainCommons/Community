@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Shorten Exchange Email
 1. * [ ] Write to Zcash about What They Fund
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [X] Gordian
@@ -41,7 +40,8 @@
    * [ ] Make sure Bitmark is standardly credited.
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
    * [ ] Add Bitmark as Contributing Sponsor section
-   
+1. * [ ] Add URUI to appropriate master page
+
 ## Pending
 
 1. * [ ] Gordian Signer Review for App Store Release
@@ -66,6 +66,7 @@
 
 ## Recently Completed
 
+1. * [X] Shorten Exchange Email
 1. * [X] Update & Release UR Blog Post
    * [X] Update Tweetstorm
    * More Emphasis on translations
