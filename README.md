@@ -115,12 +115,6 @@ As an open-source, open-development community, Blockchain Commons does not have 
 
 If your company requires support to use our projects, please feel free to contact us directly about options. We may be able to offer you a contract for support from one of our contributors, or we might be able to point you to another entity who can offer the contractual support that you need.
 
-## Version History
-
-* 2020-12: Community README standardized 
-* 2020-08: Community  README updated
-* 2018-05: Community repository started on Github
-
 ## Community RoadMap
 
 - [x] Create Github Community
@@ -188,4 +182,12 @@ The following keys may be used to communicate sensitive information to developer
 | Christopher Allen | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
 
 You can import a key by running the following command with that individual’s fingerprint: `gpg --recv-keys "<fingerprint>"` Ensure that you put quotes around fingerprints that contain spaces.
+
+## Version History
+
+* 2020-12: Community README standardized 
+* 2020-08: Community  README updated
+* 2018-05: Community repository started on Github
+
+
 
