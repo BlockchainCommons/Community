@@ -1,8 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update & Release UR Blog Post
-   * [ ] Update Tweetstorm
-   * More Emphasis on translations
 1. * [ ] Shorten Exchange Email
 1. * [ ] Create "What We Fund" Page
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
@@ -33,6 +30,7 @@
 1. * [ ] Gordian Signer User Story
    * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+1. * [ ] Remove h1s from blog posts
 
 ## Pending
 
@@ -58,6 +56,9 @@
 
 ## Recently Completed
 
+1. * [X] Update & Release UR Blog Post
+   * [X] Update Tweetstorm
+   * More Emphasis on translations
 1. * [X] More targeted letters to sponsors
      * Use foundation of letter from H.
      * [X] Exchanges?
@@ -85,17 +86,3 @@
 1. * [X] Check/Analyze Spotbit Performance
    * If problems, look at memory usage, logs
 1. * [X] Add LetheKit and SpotBit to Gordian overview?
-1. * [X] Create Crypto Commons repo
-   * [X] Incorporate Crypto Commons overview
-   * [X] Reorganize & reformat
-1. * [X] Connect Together Our Systems
-   * [X] Outline Potential Document
-   * [X] Outline Potential Article
-   * [X] Write Document
-      * [X] Create Graph
-1. * [X] Integrate BCC Overview into Gordian System Page
-1. * [X] Revise Development Phrases 
-1. * [X] Proof https://github.com/BlockchainCommons/rsign2-did README (https://github.com/BlockchainCommons/torgap-sig-cli-rust)
-1. * [X] Edit/Update text in python files for Spotbit [Tor file]
-1. * [X] Link in Blog Posts on Projects Page
-1. * [X] Fix Spotbit Restart
