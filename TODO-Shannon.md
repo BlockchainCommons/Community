@@ -41,6 +41,7 @@
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
    * [ ] Add Bitmark as Contributing Sponsor section
 1. * [ ] Add URUI to appropriate master page
+1. * [ ] Add authors to older repos per new template
 
 ## Pending
 
