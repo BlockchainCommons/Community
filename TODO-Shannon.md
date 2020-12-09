@@ -35,6 +35,7 @@
 1. * [ ] Add URUI to appropriate master page
 1. * [ ] Clear recent PRs on Learning Bitcoin
 1. * [ ] Set Up Monitoring of BCC Machines?
+1. * [ ] Place Signoff-patronage info in Community
 
 ## Pending
 
