@@ -30,11 +30,6 @@
    * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Remove h1s from blog posts
-1. * [ ] Clean Up Repos: Page One
-   * [X] Add Project Sponsors to Templates
-   * [X] Review All Meta/short descriptions
-   * [ ] Review Pins
-   * [X] Make Sure Top Repos Are Following Templates
 1. * [ ] Clean Up Repos: Page Two
    * [ ] Make Sure Top Repos Are Following Templates
 1. * [ ] Add bc-bytewords-cli to Crypto Commons
@@ -70,6 +65,11 @@
 
 ## Recently Completed
 
+1. * [X] Clean Up Repos: Page One
+   * [X] Add Project Sponsors to Templates
+   * [X] Review All Meta/short descriptions
+   * [X] Review Pins
+   * [X] Make Sure Top Repos Are Following Templates
 1. * [X] Shorten Exchange Email
 1. * [X] Update & Release UR Blog Post
    * [X] Update Tweetstorm
