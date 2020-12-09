@@ -32,9 +32,7 @@
 1. * [ ] Remove h1s from blog posts
 1. * [ ] Add bc-bytewords-cli, BCLibsSwift, BCLibWallySwift to Crypto Commons
 1. * [ ] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
-   * [ ] Make sure Bitmark is standardly credited.
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
-   * [ ] Add Bitmark as Contributing Sponsor section
 1. * [ ] Add URUI to appropriate master page
 1. * [ ] Clear recent PRs on Learning Bitcoin
 1. * [ ] Set Up Monitoring of BCC Machines?
@@ -62,6 +60,7 @@
 
 ## Recently Completed
 
+1. * [X] Make sure Bitmark is standardly credited as a Contributing Sponsor.
 1. * [X] Clean Up Repos: Page Two
 1. * [X] Add authors to older repos per new template
 1. * [X] Clean Up Repos: Page One
