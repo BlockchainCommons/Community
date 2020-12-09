@@ -36,7 +36,7 @@
    * [ ] Review Pins
    * [X] Make Sure Top Repos Are Following Templates
 1. * [ ] Clean Up Repos: Page Two
-   * [X] Make Sure Top Repos Are Following Templates
+   * [ ] Make Sure Top Repos Are Following Templates
 1. * [ ] Add bc-bytewords-cli to Crypto Commons
 1. * [ ] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
    * [ ] Make sure Bitmark is standardly credited.
