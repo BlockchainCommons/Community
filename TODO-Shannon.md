@@ -30,11 +30,13 @@
    * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Remove h1s from blog posts
-1. * [ ] Clean Up Repos
+1. * [ ] Clean Up Repos: Page One
    * [X] Add Project Sponsors to Templates
-   * [ ] Review All Meta/short descriptions
+   * [X] Review All Meta/short descriptions
    * [ ] Review Pins
-   * [ ] Make Sure Top Repos Are Following Templates
+   * [X] Make Sure Top Repos Are Following Templates
+1. * [ ] Clean Up Repos: Page Two
+   * [X] Make Sure Top Repos Are Following Templates
 1. * [ ] Add bc-bytewords-cli to Crypto Commons
 1. * [ ] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
    * [ ] Make sure Bitmark is standardly credited.
