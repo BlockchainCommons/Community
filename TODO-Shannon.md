@@ -31,7 +31,6 @@
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Remove h1s from blog posts
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
-1. * [ ] Add URUI to appropriate master page
 1. * [ ] Clear recent PRs on Learning Bitcoin
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] Place Signoff-patronage info in Community
@@ -59,6 +58,7 @@
 
 ## Recently Completed
 
+1. * [X] Add URUI to appropriate master page
 1. * [X] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
 1. * [X] Add bc-bytewords-cli, BCLibsSwift, BCLibWallySwift to Crypto Commons
 1. * [X] Make sure Bitmark is standardly credited as a Contributing Sponsor.
