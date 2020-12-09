@@ -40,6 +40,7 @@
 1. * [ ] Add URUI to appropriate master page
 1. * [ ] Add authors to older repos per new template
 1. * [ ] Clear recent PRs on Learning Bitcoin
+1. * [ ] Set Up Monitoring of BCC Machines?
 
 ## Pending
 
@@ -57,7 +58,6 @@
 1. Section in LBTCftCL on BC-UR
 1. Is there more we can do on BC-UR? Intro? Other Stuff?
 1. v2 of #SC
-1. Set Up Monitoring of BCC Machines?
 1. Should LBTCftCL Have an Exam?
 1. Terminology Article
    * Account: must have balance, script [descriptor?]
