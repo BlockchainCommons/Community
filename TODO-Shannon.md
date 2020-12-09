@@ -32,7 +32,7 @@
 1. * [ ] Remove h1s from blog posts
 1. * [ ] Clean Up Repos: Page Two
    * [ ] Make Sure Top Repos Are Following Templates
-1. * [ ] Add bc-bytewords-cli, BCLibsSwift to Crypto Commons
+1. * [ ] Add bc-bytewords-cli, BCLibsSwift, BCLibWallySwift to Crypto Commons
 1. * [ ] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
    * [ ] Make sure Bitmark is standardly credited.
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
