@@ -1,5 +1,7 @@
 # Shannon's Open Tasks
 
+1. * [ ] Write "What We Do"
+   * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
 1. * [ ] Write to Zcash about What They Fund
 1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
    * [X] Gordian
@@ -34,8 +36,7 @@
 1. * [ ] Clear recent PRs on Learning Bitcoin
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] Place Signoff-patronage info in Community
-1. * [ ] Write "What We Do"
-
+   
 ## Pending
 
 1. * [ ] Gordian Signer Review for App Store Release
