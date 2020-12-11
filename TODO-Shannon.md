@@ -2,6 +2,7 @@
 
 1. * [ ] Review bottom sections of Torgap FAQ that @ChristopherA added to.
    * [ ] Check-in with Twitter conversations and Airgapped discussions on Quick Connect & Torgap to see if any FAQ content should be changed. Facilitate continued participation and coversation. Highlight good questions and answers, ask clarifying questions, encourage.
+   * [ ] Proof https://github.com/BlockchainCommons/did-method-onion/blob/main/README.md
    * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
 1. * [ ] Write to Zcash about What They Fund
