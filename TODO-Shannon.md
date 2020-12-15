@@ -42,7 +42,8 @@
    * [ ] crypto-commons
    * [ ] Gordian
    * [ ] Torgap
-   
+1. * [ ] Write Q4 Report
+
 ## Pending
 
 1. * [ ] Gordian Signer Review for App Store Release
@@ -53,6 +54,7 @@
 
 ## Future Possibilities
 
+1. MVP v. MVA article
 1. Scope These Other Possibilities
 1. Chapter in LBTCftCL on BCC CLIs
 1. Chapter in LBTCftCL on BCC libraries
