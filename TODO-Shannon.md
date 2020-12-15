@@ -43,6 +43,7 @@
    * [ ] Gordian
    * [ ] Torgap
 1. * [ ] Write Q4 Report
+1. * [ ] Clean & link open timestamps repo
 
 ## Pending
 
