@@ -1,7 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [X] Review bottom sections of Torgap FAQ that @ChristopherA added to.
-   * [ ] Check-in with Twitter conversations and Airgapped discussions on Quick Connect & Torgap to see if any FAQ content should be changed. Facilitate continued participation and coversation. Highlight good questions and answers, ask clarifying questions, encourage.
 1. * [ ] Proof https://github.com/BlockchainCommons/did-method-onion/blob/main/README.md
 1. * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
@@ -63,6 +61,8 @@
 
 ## Recently Completed
 
+1. * [X] Review bottom sections of Torgap FAQ that @ChristopherA added to.
+   * [X] Check-in with Twitter conversations and Airgapped discussions on Quick Connect & Torgap to see if any FAQ content should be changed. Facilitate continued participation and coversation. Highlight good questions and answers, ask clarifying questions, encourage.
 1. * [X] Add URUI to appropriate master page
 1. * [X] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
 1. * [X] Add bc-bytewords-cli, BCLibsSwift, BCLibWallySwift to Crypto Commons
@@ -87,21 +87,3 @@
      *  https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
      *  Talk about how our standards are going into wallets
 1. * [X] Check in On SB Performance
-1. * [X] Produce Gordian seal list
-1. * [X] BC-UR Blog Post
-   * [X] Write
-   * [X] Add Animated PSBT as Image
-   * [X] Add a Few Early Links
-   * [X] Edit
-   * [X] Queue Release
-1. * [X] Write Torgap FAQ
-   * [X] Produce Outline
-   * [X] Edit
-1. * [X] Create Torgap Repo
-   * [X] Add logo
-1. * [X] Edit torgap-sig-cli-rust to tell story of Torgap, signatures, and DIDs
-   * [X] Talk with Chris
-1. * [X] Create list of machines for community
-1. * [X] Check/Analyze Spotbit Performance
-   * If problems, look at memory usage, logs
-1. * [X] Add LetheKit and SpotBit to Gordian overview?
