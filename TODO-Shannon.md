@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Improve Torgap intro
 1. * [ ] Proof https://github.com/BlockchainCommons/did-method-onion/blob/main/README.md
 1. * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
