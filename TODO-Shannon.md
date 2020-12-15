@@ -43,7 +43,7 @@
 1. * [ ] Choose method for back-referencing to topic repos (and apply it)
    * [ ] crypto-commons
    * [ ] Gordian
-   * [ ] Torgap
+   * [X] Torgap
 1. * [ ] Write Q4 Report
 
 ## Pending
