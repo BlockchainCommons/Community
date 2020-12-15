@@ -1,7 +1,7 @@
 # Shannon's Open Tasks
 
 1. * [ ] Update New Repos
-   * [ ] Clean open timestamps repo
+   * [X] Clean open timestamps repo
    * [ ] Link open timestamps repo
    * [X] Clean did-method-onion repo
    * [ ] Link did-method-onion repo
