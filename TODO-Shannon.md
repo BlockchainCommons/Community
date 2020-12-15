@@ -4,7 +4,6 @@
    * Locked down in northern hemi or student in southern with summer break
    * Find old tweetstorm
    * Place for further discussion
-1. * [ ] Improve Torgap intro
 1. * [ ] Proof https://github.com/BlockchainCommons/did-method-onion/blob/main/README.md
 1. * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
@@ -73,6 +72,7 @@
 
 ## Recently Completed
 
+1. * [X] Improve Torgap intro
 1. * [X] Review bottom sections of Torgap FAQ that @ChristopherA added to.
    * [X] Check-in with Twitter conversations and Airgapped discussions on Quick Connect & Torgap to see if any FAQ content should be changed. Facilitate continued participation and coversation. Highlight good questions and answers, ask clarifying questions, encourage.
 1. * [X] Add URUI to appropriate master page
