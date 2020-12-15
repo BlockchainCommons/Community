@@ -1,5 +1,8 @@
 # Shannon's Open Tasks
 
+1. * [ ] New appeal for January interns
+   * Locked down in northern hemi or student in southern with summer break
+   * Find old tweetstorm
 1. * [ ] Improve Torgap intro
 1. * [ ] Proof https://github.com/BlockchainCommons/did-method-onion/blob/main/README.md
 1. * [ ] Write "What We Do"
