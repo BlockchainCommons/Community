@@ -1,10 +1,14 @@
 # Shannon's Open Tasks
 
+1. * [ ] Update New Repos
+   * [ ] Clean open timestamps repo
+   * [ ] Link open timestamps repo
+   * [X] Clean did-method-onion repo
+   * [ ] Link did-method-onion repo
 1. * [ ] New appeal for January interns
    * Locked down in northern hemi or student in southern with summer break
    * Find old tweetstorm
    * Place for further discussion
-1. * [ ] Proof https://github.com/BlockchainCommons/did-method-onion/blob/main/README.md
 1. * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
 1. * [ ] Write to Zcash about What They Fund
@@ -46,7 +50,6 @@
    * [ ] Gordian
    * [ ] Torgap
 1. * [ ] Write Q4 Report
-1. * [ ] Clean & link open timestamps repo
 
 ## Pending
 
