@@ -44,7 +44,6 @@
    * [ ] crypto-commons
    * [ ] Gordian
    * [X] Torgap
-1. * [ ] Write Q4 Report
 
 ## Pending
 
@@ -70,6 +69,7 @@
 
 ## Recently Completed
 
+1. * [X] Write Q4 Report
 1. * [X] Update New Repos
    * [X] Clean open timestamps repo
    * [X] Link open timestamps repo
