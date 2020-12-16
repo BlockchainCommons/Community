@@ -28,7 +28,7 @@
       * [ ] Social Media
    * [ ] Community
    * [ ] Research
-   * [ ] Crypto Commons
+   * [X] Crypto Commons
 1. * [ ] Write List of Things that Chris Should Give to Theme Designer
    * [ ] Look at #SC for Options
    * <!--posts-->, [more]
