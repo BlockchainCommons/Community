@@ -41,7 +41,7 @@
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] Place Signoff-patronage info in Community
 1. * [ ] Choose method for back-referencing to topic repos (and apply it)
-   * [ ] crypto-commons
+   * [X] crypto-commons
    * [ ] Gordian
    * [X] Torgap
 
