@@ -35,7 +35,6 @@
 1. * [ ] Gordian Signer User Story
    * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-1. * [ ] Remove h1s from blog posts
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
 1. * [ ] Clear recent PRs on Learning Bitcoin
 1. * [ ] Set Up Monitoring of BCC Machines?
@@ -69,6 +68,7 @@
 
 ## Recently Completed
 
+1. * [X] Remove h1s from blog posts
 1. * [X] Write Q4 Report
 1. * [X] Update New Repos
    * [X] Clean open timestamps repo
