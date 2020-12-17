@@ -38,7 +38,6 @@
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
 1. * [ ] Clear recent PRs on Learning Bitcoin
 1. * [ ] Set Up Monitoring of BCC Machines?
-1. * [ ] Place Signoff-patronage info in Community
 1. * [ ] Choose method for back-referencing to topic repos (and apply it)
    * [X] crypto-commons
    * [ ] Gordian
@@ -68,6 +67,7 @@
 
 ## Recently Completed
 
+1. * [X] Place Signoff-patronage info in Community
 1. * [X] Remove h1s from blog posts
 1. * [X] Write Q4 Report
 1. * [X] Update New Repos
