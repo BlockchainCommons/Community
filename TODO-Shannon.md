@@ -1,16 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Download & Review intro screesn text and top of each panel text for Gordian Cosigner (0.1.5+)
-   * [ ] App Store Page
-   * [ ] In-App Pages
-   * [ ] GH Pages
-   * This will be going live open "beta" test on mainnet soon.
-   * Multisig only.
-   * Mainnet means real money can be lost. This technically really a "late alpha" and very risky to use (Apple calls it Beta though). BE CAREFUL.
-   * Goal is to focus on being "second signer", or an additional signer/last signer in multisig.
-   * It can't create initiate bitcoin transactions for PSBTs, they must be created elsewhere and imported, for instance from one our wallet partners.
-   * It can create simple multisig accounts, but normally you import them from elsewhere. Creation may be pulled from release version of Gordian Cosigner as account creation features will be done elsewhere.
-   * It can create seeds and derive "signers" keys, or import them. You may also delete these and restore them to sign a specific PSBT on-demand.
 1. * [ ] New appeal for January interns
    * Locked down in northern hemi or student in southern with summer break
    * Find old tweetstorm
@@ -43,8 +32,6 @@
 1. * [ ] Write List of Things that Chris Should Give to Theme Designer
    * [ ] Look at #SC for Options
    * <!--posts-->, [more]
-1. * [ ] Gordian Signer User Story
-   * [ ] Talk with Chris
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
 1. * [ ] Clear recent PRs on Learning Bitcoin
@@ -76,6 +63,18 @@
 
 ## Recently Completed
 
+1. * [X] Gordian Signer User Story
+   * [X] Talk with Chris
+1. * [X] Download & Review intro screesn text and top of each panel text for Gordian Cosigner (0.1.5+)
+   * [X] In-App Pages
+   * [X] GH Pages
+   * This will be going live open "beta" test on mainnet soon.
+   * Multisig only.
+   * Mainnet means real money can be lost. This technically really a "late alpha" and very risky to use (Apple calls it Beta though). BE CAREFUL.
+   * Goal is to focus on being "second signer", or an additional signer/last signer in multisig.
+   * It can't create initiate bitcoin transactions for PSBTs, they must be created elsewhere and imported, for instance from one our wallet partners.
+   * It can create simple multisig accounts, but normally you import them from elsewhere. Creation may be pulled from release version of Gordian Cosigner as account creation features will be done elsewhere.
+   * It can create seeds and derive "signers" keys, or import them. You may also delete these and restore them to sign a specific PSBT on-demand.
 1. * [X] Place Signoff-patronage info in Community
 1. * [X] Remove h1s from blog posts
 1. * [X] Write Q4 Report
