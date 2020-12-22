@@ -1,6 +1,9 @@
 # Shannon's Open Tasks
 
 1. * [ ] Download & Review intro screesn text and top of each panel text for Gordian Cosigner (0.1.5+)
+   * [ ] App Store Page
+   * [ ] In-App Pages
+   * [ ] GH Pages
    * This will be going live open "beta" test on mainnet soon.
    * Multisig only.
    * Mainnet means real money can be lost. This technically really a "late alpha" and very risky to use (Apple calls it Beta though). BE CAREFUL.
@@ -53,11 +56,9 @@
 
 ## Pending
 
-1. * [ ] Gordian Signer Review for App Store Release
-   * [ ] App Store Page
-   * [ ] Help Pages
-   * [ ] GH Pages
-   * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
+1. * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
+1. * [ ] Gordian Signer Manual
+   * Pending: UX Rev (mid-Jan?)
 
 ## Future Possibilities
 
