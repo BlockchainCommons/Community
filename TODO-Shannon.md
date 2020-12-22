@@ -1,5 +1,13 @@
 # Shannon's Open Tasks
 
+1. * [ ] Download & Review intro screesn text and top of each panel text for Gordian Cosigner (0.1.5+)
+   * This will be going live open "beta" test on mainnet soon.
+   * Multisig only.
+   * Mainnet means real money can be lost. This technically really a "late alpha" and very risky to use (Apple calls it Beta though). BE CAREFUL.
+   * Goal is to focus on being "second signer", or an additional signer/last signer in multisig.
+   * It can't create initiate bitcoin transactions for PSBTs, they must be created elsewhere and imported, for instance from one our wallet partners.
+   * It can create simple multisig accounts, but normally you import them from elsewhere. Creation may be pulled from release version of Gordian Cosigner as account creation features will be done elsewhere.
+   * It can create seeds and derive "signers" keys, or import them. You may also delete these and restore them to sign a specific PSBT on-demand.
 1. * [ ] New appeal for January interns
    * Locked down in northern hemi or student in southern with summer break
    * Find old tweetstorm
@@ -49,7 +57,7 @@
    * [ ] App Store Page
    * [ ] Help Pages
    * [ ] GH Pages
-   * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org 
+   * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
 
 ## Future Possibilities
 
