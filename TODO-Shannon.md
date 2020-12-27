@@ -1,6 +1,7 @@
 # Shannon's Open Tasks
 
 1. * [ ] New appeal for January interns
+   * [ ] Proof https://github.com/BlockchainCommons/Community/discussions/32
    * Locked down in northern hemi or student in southern with summer break
    * Find old tweetstorm
    * Place for further discussion
