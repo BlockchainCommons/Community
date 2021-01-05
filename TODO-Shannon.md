@@ -35,7 +35,6 @@
    * <!--posts-->, [more]
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
-1. * [ ] Clear recent PRs on Learning Bitcoin
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] Choose method for back-referencing to topic repos (and apply it)
    * [X] crypto-commons
@@ -64,6 +63,7 @@
 
 ## Recently Completed
 
+1. * [X] Clear recent PRs on Learning Bitcoin
 1. * [X] Gordian Signer User Story
    * [X] Talk with Chris
 1. * [X] Download & Review intro screesn text and top of each panel text for Gordian Cosigner (0.1.5+)
@@ -89,25 +89,3 @@
    * [X] Check-in with Twitter conversations and Airgapped discussions on Quick Connect & Torgap to see if any FAQ content should be changed. Facilitate continued participation and coversation. Highlight good questions and answers, ask clarifying questions, encourage.
 1. * [X] Add URUI to appropriate master page
 1. * [X] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
-1. * [X] Add bc-bytewords-cli, BCLibsSwift, BCLibWallySwift to Crypto Commons
-1. * [X] Make sure Bitmark is standardly credited as a Contributing Sponsor.
-1. * [X] Clean Up Repos: Page Two
-1. * [X] Add authors to older repos per new template
-1. * [X] Clean Up Repos: Page One
-   * [X] Add Project Sponsors to Templates
-   * [X] Review All Meta/short descriptions
-   * [X] Review Pins
-   * [X] Make Sure Top Repos Are Following Templates
-1. * [X] Shorten Exchange Email
-1. * [X] Update & Release UR Blog Post
-   * [X] Update Tweetstorm
-   * More Emphasis on translations
-1. * [X] More targeted letters to sponsors
-     * Use foundation of letter from H.
-     * [X] Exchanges?
-        * https://www.coindesk.com/gemini-donates-50k-hrf-fund-bitcoin-developer-2021
-        * https://www.crowdfundinsider.com/2020/11/169577-digital-asset-exchange-kraken-to-donate-150000-to-brink-an-rd-center-for-bitcoin-developers/
-        * https://bitcoinmagazine.com/articles/okcoin-pledges-1000-btc-to-devs-working-on-bitcoin-and-its-forks
-     *  https://medium.com/okcoin-blog/developing-bitcoin-31791916bc0
-     *  Talk about how our standards are going into wallets
-1. * [X] Check in On SB Performance
