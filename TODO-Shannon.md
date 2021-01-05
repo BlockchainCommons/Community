@@ -4,11 +4,11 @@
 1. * [ ] Clean Fehu Repo
 1. * [ ] Clean usage of "Gordian Signer", "Gordian Co-Signer", "Gordian "Co-signer" -> "Gordian Cosigner"
 1. * [ ] Update Q4 Report
-   * [ ] Add Fehu
-   * [ ] Add Multi-sig Research
-   * [ ] Re-edit
-   * [ ] Link Interns Appeal
-   * [ ] Present to Folks (before 2pm Tuesday)
+   * [X] Add Fehu
+   * [X] Add Multi-sig Research
+   * [X] Re-edit
+   * [X] Link Interns Appeal
+   * [X] Present to Folks (before 2pm Tuesday)
    * [ ] Post (Wednesday)
 1. * [ ] More info/prominence of Spotbit on Torbit
    * [ ] List our Public Tor Addresses on that page
