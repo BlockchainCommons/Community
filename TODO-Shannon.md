@@ -7,6 +7,7 @@
    * [ ] Add Fehu
    * [ ] Add Multi-sig Research
    * [ ] Re-edit
+   * [ ] Link Interns Appeal
    * [ ] Present to Folks (before 2pm Tuesday)
    * [ ] Post (Wednesday)
 1. * [ ] New appeal for January interns
@@ -14,6 +15,8 @@
    * Locked down in northern hemi or student in southern with summer break
    * Find old tweetstorm
    * Place for further discussion
+1. * [ ] More info/prominence of Spotbit on Torbit
+   * [ ] List our Public Tor Addresses on that page
 1. * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
 1. * [ ] Write to Zcash about What They Fund
