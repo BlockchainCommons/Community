@@ -1,5 +1,14 @@
 # Shannon's Open Tasks
 
+1. * [ ] Clean LifeHashTool Repo
+1. * [ ] Clean Fehu Repo
+1. * [ ] Clean usage of "Gordian Signer", "Gordian Co-Signer", "Gordian "Co-signer" -> "Gordian Cosigner"
+1. * [ ] Update Q4 Report
+   * [ ] Add Fehu
+   * [ ] Add Multi-sig Research
+   * [ ] Re-edit
+   * [ ] Present to Folks (before 2pm Tuesday)
+   * [ ] Post (Wednesday)
 1. * [ ] New appeal for January interns
    * [ ] Proof https://github.com/BlockchainCommons/Community/discussions/32
    * Locked down in northern hemi or student in southern with summer break
