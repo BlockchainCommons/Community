@@ -1,6 +1,11 @@
 # Shannon's Open Tasks
 
-1. * [ ] Clean usage of "Gordian Signer", "Gordian Co-Signer", "Gordian "Co-signer" -> "Gordian Cosigner"
+1. * [ ] Clean usage of "Gordian Signer"
+   * [ ] Update text in GordianSigner-MacOS
+   * [ ] Update graphics in GordianSigner-MacOS
+   * [ ] Update text in GordianSigner-Android
+   * [ ] Update graphics in GordianSigner-Android 
+1. * [ ] Add LifeHash and LifeHashTool to crypto-commons
 1. * [ ] Update Q4 Report
    * [X] Add Fehu
    * [X] Add Multi-sig Research
