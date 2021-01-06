@@ -1,7 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Clean LifeHashTool Repo
-1. * [ ] Clean Fehu Repo
 1. * [ ] Clean usage of "Gordian Signer", "Gordian Co-Signer", "Gordian "Co-signer" -> "Gordian Cosigner"
 1. * [ ] Update Q4 Report
    * [X] Add Fehu
@@ -70,6 +68,8 @@
 
 ## Recently Completed
 
+1. * [X] Clean LifeHashTool Repo
+1. * [X] Clean Fehu Repo
 1. * [X] New appeal for January interns
    * [X] Proof https://github.com/BlockchainCommons/Community/discussions/32
 1. * [X] Clear recent PRs on Learning Bitcoin
