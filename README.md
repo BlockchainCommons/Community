@@ -1,5 +1,7 @@
 # Blockchain Commons Community
 
+![](images/logos/bcc-community-screen.jpg)
+
 The Blockchain Commons Community is a central location for discussion and information dispersal for Blockchain Commons stakeholders.
 
 ## Objectives
