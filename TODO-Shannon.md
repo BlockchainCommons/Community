@@ -6,13 +6,6 @@
    * [ ] Update text in GordianSigner-Android
    * [ ] Update graphics in GordianSigner-Android 
 1. * [ ] Add LifeHash and LifeHashTool to crypto-commons
-1. * [ ] Update Q4 Report
-   * [X] Add Fehu
-   * [X] Add Multi-sig Research
-   * [X] Re-edit
-   * [X] Link Interns Appeal
-   * [X] Present to Folks (before 2pm Tuesday)
-   * [ ] Post (Wednesday)
 1. * [ ] More info/prominence of Spotbit on Torbit
    * [ ] List our Public Tor Addresses on that page
 1. * [ ] Write "What We Do"
@@ -37,8 +30,9 @@
    * [ ] Airgapped-Wallet-Community
       * [X] Logo
       * [ ] Social Media
-   * [ ] Community
-   * [ ] Research
+   * [X] Community
+   * [X] Research
+   * [X] WIPs
    * [X] Crypto Commons
 1. * [ ] Write List of Things that Chris Should Give to Theme Designer
    * [ ] Look at #SC for Options
@@ -73,6 +67,13 @@
 
 ## Recently Completed
 
+1. * [X] Update Q4 Report
+   * [X] Add Fehu
+   * [X] Add Multi-sig Research
+   * [X] Re-edit
+   * [X] Link Interns Appeal
+   * [X] Present to Folks (before 2pm Tuesday)
+   * [X] Post (Wednesday)
 1. * [X] Clean LifeHashTool Repo
 1. * [X] Clean Fehu Repo
 1. * [X] New appeal for January interns
