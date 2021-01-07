@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] MVA Article
 1. * [ ] Clean usage of "Gordian Signer"
    * [ ] Update text in GordianSigner-MacOS
    * [ ] Update graphics in GordianSigner-MacOS
