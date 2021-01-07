@@ -11,29 +11,6 @@
 1. * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
 1. * [ ] Write to Zcash about What They Fund
-1. * [ ] Github Social Media previews for all repos, starting with Gordian ones.
-   * [X] Gordian
-   * [X] Gordian Wallet
-   * [X] Gordian Signer
-      * [X] Add Logo + Images to Create Actually Preview
-      * [X] Redo Android with its own images
-   * [X] Gordian Server
-   * [X] Seedtool
-   * [X] Keytool
-   * [X] Learning Bitcoin (by EOD Wednesday)
-   * [X] SmartCustodyBook
-   * [X] Spotbit
-   * [X] Torgap
-   * [X] LetheKit
-      * [X] Logo
-      * [X] Update Social Media
-   * [ ] Airgapped-Wallet-Community
-      * [X] Logo
-      * [ ] Social Media
-   * [X] Community
-   * [X] Research
-   * [X] WIPs
-   * [X] Crypto Commons
 1. * [ ] Write List of Things that Chris Should Give to Theme Designer
    * [ ] Look at #SC for Options
    * <!--posts-->, [more]
@@ -67,6 +44,29 @@
 
 ## Recently Completed
 
+1. * [X] Github Social Media previews for all repos, starting with Gordian ones.
+   * [X] Gordian
+   * [X] Gordian Wallet
+   * [X] Gordian Signer
+      * [X] Add Logo + Images to Create Actually Preview
+      * [X] Redo Android with its own images
+   * [X] Gordian Server
+   * [X] Seedtool
+   * [X] Keytool
+   * [X] Learning Bitcoin (by EOD Wednesday)
+   * [X] SmartCustodyBook
+   * [X] Spotbit
+   * [X] Torgap
+   * [X] LetheKit
+      * [X] Logo
+      * [X] Update Social Media
+   * [X] Airgapped-Wallet-Community
+      * [X] Logo
+      * [X] Social Media
+   * [X] Community
+   * [X] Research
+   * [X] WIPs
+   * [X] Crypto Commons
 1. * [X] Update Q4 Report
    * [X] Add Fehu
    * [X] Add Multi-sig Research
