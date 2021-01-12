@@ -22,6 +22,7 @@
    * [X] crypto-commons
    * [ ] Gordian
    * [X] Torgap
+1. * [ ] short articles in LWA linking to other CA work
 
 ## Pending
 
