@@ -45,6 +45,7 @@
 
 ## Recently Completed
 
+1. * [X] DID Letter
 1. * [X] Github Social Media previews for all repos, starting with Gordian ones.
    * [X] Gordian
    * [X] Gordian Wallet
@@ -94,14 +95,3 @@
    * It can create seeds and derive "signers" keys, or import them. You may also delete these and restore them to sign a specific PSBT on-demand.
 1. * [X] Place Signoff-patronage info in Community
 1. * [X] Remove h1s from blog posts
-1. * [X] Write Q4 Report
-1. * [X] Update New Repos
-   * [X] Clean open timestamps repo
-   * [X] Link open timestamps repo
-   * [X] Clean did-method-onion repo
-   * [X] Link did-method-onion repo
-1. * [X] Improve Torgap intro
-1. * [X] Review bottom sections of Torgap FAQ that @ChristopherA added to.
-   * [X] Check-in with Twitter conversations and Airgapped discussions on Quick Connect & Torgap to see if any FAQ content should be changed. Facilitate continued participation and coversation. Highlight good questions and answers, ask clarifying questions, encourage.
-1. * [X] Add URUI to appropriate master page
-1. * [X] Add New Bitmark Libraries: bc-ur-java, bc-libs-java, bc-libwally-java
