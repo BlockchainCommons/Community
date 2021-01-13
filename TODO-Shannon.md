@@ -5,7 +5,6 @@
    * [ ] Update graphics in GordianSigner-MacOS
    * [ ] Update text in GordianSigner-Android
    * [ ] Update graphics in GordianSigner-Android 
-1. * [ ] Add LifeHash and LifeHashTool to crypto-commons
 1. * [ ] More info/prominence of Spotbit on Torbit
    * [ ] List our Public Tor Addresses on that page
 1. * [ ] Write "What We Do"
@@ -45,6 +44,7 @@
 
 ## Recently Completed
 
+1. * [X] Add LifeHash and LifeHashTool to crypto-commons
 1. * [X] MVA Article
 1. * [X] DID Letter
 1. * [X] Github Social Media previews for all repos, starting with Gordian ones.
