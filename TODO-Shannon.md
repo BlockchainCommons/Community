@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] MVA Article
 1. * [ ] Clean usage of "Gordian Signer"
    * [ ] Update text in GordianSigner-MacOS
    * [ ] Update graphics in GordianSigner-MacOS
@@ -46,6 +45,7 @@
 
 ## Recently Completed
 
+1. * [X] MVA Article
 1. * [X] DID Letter
 1. * [X] Github Social Media previews for all repos, starting with Gordian ones.
    * [X] Gordian
