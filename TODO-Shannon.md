@@ -17,6 +17,7 @@
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
 1. * [ ] Order Coldcard
 1. * [ ] Organize HackMD
+1. * [ ] Write #SC Tweetstorm for Bitcoin Increases
 
 ## Pending
 
