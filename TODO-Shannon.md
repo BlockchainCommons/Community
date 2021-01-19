@@ -1,10 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Clean usage of "Gordian Signer"
-   * [ ] Update text in GordianSigner-MacOS
-   * [ ] Update graphics in GordianSigner-MacOS
-   * [X] Update text in GordianSigner-Android
-   * [X] Update graphics in GordianSigner-Android 
 1. * [ ] More info/prominence of Spotbit on Torbit
    * [ ] List our Public Tor Addresses on that page
 1. * [ ] Write "What We Do"
@@ -44,6 +39,11 @@
 
 ## Recently Completed
 
+1. * [X] Clean usage of "Gordian Signer"
+   * [X] Update text in GordianSigner-MacOS
+   * [C] Update graphics in GordianSigner-MacOS
+   * [X] Update text in GordianSigner-Android
+   * [X] Update graphics in GordianSigner-Android 
 1. * [X] Add LifeHash and LifeHashTool to crypto-commons
 1. * [X] MVA Article
 1. * [X] DID Letter
@@ -82,17 +82,3 @@
 1. * [X] New appeal for January interns
    * [X] Proof https://github.com/BlockchainCommons/Community/discussions/32
 1. * [X] Clear recent PRs on Learning Bitcoin
-1. * [X] Gordian Signer User Story
-   * [X] Talk with Chris
-1. * [X] Download & Review intro screesn text and top of each panel text for Gordian Cosigner (0.1.5+)
-   * [X] In-App Pages
-   * [X] GH Pages
-   * This will be going live open "beta" test on mainnet soon.
-   * Multisig only.
-   * Mainnet means real money can be lost. This technically really a "late alpha" and very risky to use (Apple calls it Beta though). BE CAREFUL.
-   * Goal is to focus on being "second signer", or an additional signer/last signer in multisig.
-   * It can't create initiate bitcoin transactions for PSBTs, they must be created elsewhere and imported, for instance from one our wallet partners.
-   * It can create simple multisig accounts, but normally you import them from elsewhere. Creation may be pulled from release version of Gordian Cosigner as account creation features will be done elsewhere.
-   * It can create seeds and derive "signers" keys, or import them. You may also delete these and restore them to sign a specific PSBT on-demand.
-1. * [X] Place Signoff-patronage info in Community
-1. * [X] Remove h1s from blog posts
