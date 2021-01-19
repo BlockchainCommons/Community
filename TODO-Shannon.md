@@ -23,7 +23,6 @@
 
 ## Future Possibilities
 
-1. MVP v. MVA article
 1. Scope These Other Possibilities
 1. Chapter in LBTCftCL on BCC CLIs
 1. Chapter in LBTCftCL on BCC libraries
