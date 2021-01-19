@@ -16,7 +16,6 @@
 1. * [ ] short articles in LWA linking to other CA work
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
 1. * [ ] Order Coldcard
-1. * [ ] Organize HackMD
 1. * [ ] Write #SC Tweetstorm for Bitcoin Increases
 
 ## Pending
@@ -43,6 +42,7 @@
 
 ## Recently Completed
 
+1. * [X] Organize HackMD
 1. * [X] Choose method for back-referencing to topic repos (and apply it)
    * [X] crypto-commons
    * [X] Gordian
