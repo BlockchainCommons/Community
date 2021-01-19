@@ -17,7 +17,12 @@
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
 1. * [ ] Order Coldcard
 1. * [ ] Write #SC Tweetstorm for Bitcoin Increases
-
+1. * [ ] Further Clean HackMD
+   * [ ] Remove Posted Blogs
+   * [ ] Remove Posted GitHub Pages
+   * [ ] Record Roots of Posted Tweetstorms in Community
+   * [ ] Remove Posted Tweetstorms
+   
 ## Pending
 
 1. * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
