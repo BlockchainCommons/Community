@@ -14,6 +14,8 @@
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] short articles in LWA linking to other CA work
+1. * [ ] Look at READMEs in Darkmode, and make sure images work
+1. * [ ] Order Coldcard
 
 ## Pending
 
@@ -23,6 +25,9 @@
 
 ## Future Possibilities
 
+1. Fehu (Gordian Seedtool), Gordian Cosigner
+   * Write Descriptions - communicate that they're tools that work with other things
+1. Write Weekly Articles(?)
 1. Scope These Other Possibilities
 1. Chapter in LBTCftCL on BCC CLIs
 1. Chapter in LBTCftCL on BCC libraries
