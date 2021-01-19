@@ -1,7 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] More info/prominence of Spotbit on Torbit
-   * [ ] List our Public Tor Addresses on that page
 1. * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
 1. * [ ] Write to Zcash about What They Fund
@@ -39,6 +37,8 @@
 
 ## Recently Completed
 
+1. * [X] More info/prominence of Spotbit on Torbit
+   * [X] List our Public Tor Addresses on that page
 1. * [X] Clean usage of "Gordian Signer"
    * [X] Update text in GordianSigner-MacOS
    * [C] Update graphics in GordianSigner-MacOS
