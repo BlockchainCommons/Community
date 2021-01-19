@@ -3,7 +3,7 @@
 1. * [ ] Clean usage of "Gordian Signer"
    * [ ] Update text in GordianSigner-MacOS
    * [ ] Update graphics in GordianSigner-MacOS
-   * [ ] Update text in GordianSigner-Android
+   * [X] Update text in GordianSigner-Android
    * [X] Update graphics in GordianSigner-Android 
 1. * [ ] More info/prominence of Spotbit on Torbit
    * [ ] List our Public Tor Addresses on that page
