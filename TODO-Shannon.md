@@ -11,7 +11,6 @@
    * [ ] Look at #SC for Options
    * <!--posts-->, [more]
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] short articles in LWA linking to other CA work
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
@@ -47,6 +46,7 @@
 
 ## Recently Completed
 
+1. * [X] Standardize bc-libwally-java repo when PR is accepted:
 1. * [X] Organize HackMD
 1. * [X] Choose method for back-referencing to topic repos (and apply it)
    * [X] crypto-commons
