@@ -1,5 +1,9 @@
 # Shannon's Open Tasks
 
+1. * [ ] Edit MVA per CA
+1. * [ ] Finalize Repo Status Article
+   * [ ] Talk with Chris
+   * [ ] Publish
 1. * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
 1. * [ ] Write to Zcash about What They Fund
