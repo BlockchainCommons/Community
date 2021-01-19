@@ -16,6 +16,7 @@
 1. * [ ] short articles in LWA linking to other CA work
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
 1. * [ ] Order Coldcard
+1. * [ ] Organize HackMD
 
 ## Pending
 
