@@ -9,10 +9,6 @@
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Standardize bc-libwally-java repo when PR is accepted:
 1. * [ ] Set Up Monitoring of BCC Machines?
-1. * [ ] Choose method for back-referencing to topic repos (and apply it)
-   * [X] crypto-commons
-   * [ ] Gordian
-   * [X] Torgap
 1. * [ ] short articles in LWA linking to other CA work
 
 ## Pending
@@ -37,6 +33,10 @@
 
 ## Recently Completed
 
+1. * [X] Choose method for back-referencing to topic repos (and apply it)
+   * [X] crypto-commons
+   * [X] Gordian
+   * [X] Torgap
 1. * [X] More info/prominence of Spotbit on Torbit
    * [X] List our Public Tor Addresses on that page
 1. * [X] Clean usage of "Gordian Signer"
