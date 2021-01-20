@@ -44,6 +44,7 @@
 
 ## Recently Completed
 
+1. * [X] Pics & TWeetstorm for MVA
 1. * [X] Edit MVA per CA
 1. * [X] Write #SC Tweetstorm for Bitcoin Increases
 1. * [X] Standardize bc-libwally-java repo when PR is accepted:
