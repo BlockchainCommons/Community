@@ -1,8 +1,8 @@
 # Shannon's Open Tasks
 
-1. * [ ] Edit MVA per CA
+1. * [ ] Order Coldcard
 1. * [ ] Finalize Repo Status Article
-   * [ ] Talk with Chris
+   * [X] Talk with Chris
    * [ ] Publish
 1. * [ ] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
@@ -14,7 +14,6 @@
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] short articles in LWA linking to other CA work
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
-1. * [ ] Order Coldcard
 1. * [ ] Further Clean HackMD
    * [ ] Remove Posted Blogs
    * [ ] Remove Posted GitHub Pages
@@ -45,6 +44,7 @@
 
 ## Recently Completed
 
+1. * [X] Edit MVA per CA
 1. * [X] Write #SC Tweetstorm for Bitcoin Increases
 1. * [X] Standardize bc-libwally-java repo when PR is accepted:
 1. * [X] Organize HackMD
