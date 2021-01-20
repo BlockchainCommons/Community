@@ -15,7 +15,7 @@
 1. * [ ] short articles in LWA linking to other CA work
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
 1. * [ ] Further Clean HackMD
-   * [ ] Remove Posted Blogs
+   * [X] Remove Posted Blogs
    * [ ] Remove Posted GitHub Pages
    * [ ] Record Roots of Posted Tweetstorms in Community
    * [ ] Remove Posted Tweetstorms
