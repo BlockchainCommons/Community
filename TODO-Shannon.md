@@ -16,7 +16,7 @@
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
 1. * [ ] Further Clean HackMD
    * [X] Remove Posted Blogs
-   * [ ] Remove Posted GitHub Pages
+   * [X] Remove Posted GitHub Pages
    * [ ] Record Roots of Posted Tweetstorms in Community
    * [ ] Remove Posted Tweetstorms
    
