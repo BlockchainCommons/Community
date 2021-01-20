@@ -14,7 +14,8 @@
    * [X] Remove Posted GitHub Pages
    * [ ] Record Roots of Posted Tweetstorms in Community
    * [ ] Remove Posted Tweetstorms
-   
+1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+
 ## Pending
 
 1. * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
