@@ -15,7 +15,6 @@
 1. * [ ] short articles in LWA linking to other CA work
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
 1. * [ ] Order Coldcard
-1. * [ ] Write #SC Tweetstorm for Bitcoin Increases
 1. * [ ] Further Clean HackMD
    * [ ] Remove Posted Blogs
    * [ ] Remove Posted GitHub Pages
@@ -46,6 +45,7 @@
 
 ## Recently Completed
 
+1. * [X] Write #SC Tweetstorm for Bitcoin Increases
 1. * [X] Standardize bc-libwally-java repo when PR is accepted:
 1. * [X] Organize HackMD
 1. * [X] Choose method for back-referencing to topic repos (and apply it)
