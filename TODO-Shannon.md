@@ -4,8 +4,6 @@
 1. * [ ] Finalize Repo Status Article
    * [X] Talk with Chris
    * [ ] Publish
-1. * [ ] Write "What We Do"
-   * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
 1. * [ ] Write to Zcash about What They Fund
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Set Up Monitoring of BCC Machines?
@@ -41,6 +39,8 @@
 
 ## Recently Completed
 
+1. * [X] Write "What We Do"
+   * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
 1. * [X] Write List of Things that Chris Should Give to Theme Designer
    * [X] Look at #SC for Options
    * <!--posts-->, [more]
