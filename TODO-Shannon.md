@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Order Coldcard
 1. * [ ] Finalize Repo Status Article
    * [X] Talk with Chris
    * [ ] Publish
@@ -39,6 +38,7 @@
 
 ## Recently Completed
 
+1. * [X] Order Coldcard
 1. * [X] Write to Zcash about What They Fund
 1. * [X] Write "What We Do"
    * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
