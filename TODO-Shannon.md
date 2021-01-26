@@ -24,6 +24,7 @@
 1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 1. * [ ] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
+1. * [ ] Remove spotBit Test Server from web FAQ, GH README, maybe web site projects list
 
 ## Pending
 
