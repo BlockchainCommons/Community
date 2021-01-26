@@ -22,7 +22,9 @@
    * [ ] Capture Info: 
 1. * [ ] Write ColdCard + CoSigner Tutorial
 1. * [ ] Update old Gordian/wallet glossary
-     
+1. * [ ] Add to #SC: Rollup Attack
+   * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
+
 ## Pending
 
 1. * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
