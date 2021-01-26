@@ -21,7 +21,7 @@
    * [ ] Spectre's Desktop App
    * [ ] Capture Info: 
 1. * [ ] Write ColdCard + CoSigner Tutorial
-
+1. * [ ] Update old Gordian/wallet glossary
      
 ## Pending
 
