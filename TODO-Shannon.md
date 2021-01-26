@@ -1,8 +1,10 @@
 # Shannon's Open Tasks
 
+1. * [ ] Update #SC Tweetstorm
 1. * [ ] Finalize Repo Status Article
    * [X] Talk with Chris
    * [ ] Publish
+1. * [ ] Write: Understanding issues with multi-sig (evaluating scenarios, Audience: backroom architects; is there a subset that we could blog?)
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] short articles in LWA linking to other CA work
@@ -13,7 +15,14 @@
    * [ ] Record Roots of Posted Tweetstorms in Community
    * [ ] Remove Posted Tweetstorms
 1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+1. * [ ] Look at Wallets
+   * [ ] ColdCard
+   * [ ] BlueWallet
+   * [ ] Spectre's Desktop App
+   * [ ] Capture Info: 
+1. * [ ] Write ColdCard + CoSigner Tutorial
 
+     
 ## Pending
 
 1. * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
