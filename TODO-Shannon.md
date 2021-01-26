@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update #SC Tweetstorm
 1. * [ ] Finalize Repo Status Article
    * [X] Talk with Chris
    * [ ] Publish
@@ -50,6 +49,7 @@
 
 ## Recently Completed
 
+1. * [X] Update #SC Tweetstorm
 1. * [X] Order Coldcard
 1. * [X] Write to Zcash about What They Fund
 1. * [X] Write "What We Do"
