@@ -14,6 +14,11 @@ The Blockchain Commons Community is a central location for discussion and inform
 
 See also [our current strategies](Strategies.md).
 
+## More Information
+
+   * [Release Path](release-path.md)
+      * [Release Path Standards](release-path-standards.md)
+      
 ## Virtual Internships
 
 We had a successful virtual internship program this summer, and are hoping to repeat it this fall. See https://github.com/BlockchainCommons/Community/issues/17 for more details. The deadline for signups passed on September 28th.
@@ -33,12 +38,6 @@ The following servers are currently running Blockchain Commons services. If you 
    * Ss-conf: 172.105.248.106
       * A temporary research server, currently being used for esplora experimentation
       
-## News
-
-* 2090-01: Bitcoin Framework for iOS released.
-* 2019-01: First #SmartCustody workshop held.
-* 2018-05: We have received initial funds to fund the legal formation of a #BlockchainCommons organization and initial projects, including US\$20K from Adamant Capital & US\$50K from Tierion.
-
 ## Projects
 
 * Current Projects:
