@@ -30,4 +30,4 @@ Repos will primarily be identified by these development phases; WIPs will additi
 
 ## Best Practices Standards for Release-Path
 
-We believe in creating and promoting best practices such as the [Core Infrastructure Initiative Best Practices Badge](https://github.com/coreinfrastructure/best-practices-badge). We have begun our own [Best Practices Standards for Blockchain Commons](best-practices-standards.md), which we will ultimately use to assess whether each protocol or product meets the criteria for its level of release. We would appreciate your feedback and expansion of this work.
+We believe in creating and promoting best practices such as the [Core Infrastructure Initiative Best Practices Badge](https://github.com/coreinfrastructure/best-practices-badge). We have begun our own [Best Practices Standards for Blockchain Commons](release-path-standards.md), which we will ultimately use to assess whether each protocol or product meets the criteria for its level of release. We would appreciate your feedback and expansion of this work.
