@@ -5,6 +5,7 @@
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] short articles in LWA linking to other CA work
 1. * [ ] Look at READMEs in Darkmode, and make sure images work
+   * [ ] Create non-transparent versions of other images that might be used standalone (e.g., #SC graphs)
 1. * [ ] Further Clean HackMD
    * [X] Remove Posted Blogs
    * [X] Remove Posted GitHub Pages
