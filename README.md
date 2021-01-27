@@ -17,7 +17,7 @@ See also [our current strategies](Strategies.md).
 ## More Information
 
    * [Release Path](release-path.md)
-      * [Release Path Standards](release-path-standards.md)
+      * [Release Path Best Practices Standards](release-path-standards.md)
       
 ## Virtual Internships
 
