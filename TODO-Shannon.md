@@ -49,6 +49,7 @@
 
 ## Recently Completed
 
+1. * [X] Advertise/Request Feedback on Release-Path Articles
 1. * [X] Finalize Repo Status Article
    * [X] Talk with Chris
    * [X] Publish
