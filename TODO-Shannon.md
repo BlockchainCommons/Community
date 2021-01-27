@@ -1,8 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Finalize Repo Status Article
-   * [X] Talk with Chris
-   * [ ] Publish
 1. * [ ] Write: Understanding issues with multi-sig (evaluating scenarios, Audience: backroom architects; is there a subset that we could blog?)
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Set Up Monitoring of BCC Machines?
@@ -26,6 +23,7 @@
 1. * [ ] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
 1. * [ ] Remove spotBit Test Server from web FAQ, GH README, maybe web site projects list
 1. * [ ] Link in DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion, plus Tweetstorm and/or blog post about it all
+1. * [ ] Release Path Article
 
 ## Pending
 
@@ -51,6 +49,9 @@
 
 ## Recently Completed
 
+1. * [X] Finalize Repo Status Article
+   * [X] Talk with Chris
+   * [X] Publish
 1. * [X] Update #SC Tweetstorm
 1. * [X] Order Coldcard
 1. * [X] Write to Zcash about What They Fund
@@ -68,48 +69,3 @@
    * [X] crypto-commons
    * [X] Gordian
    * [X] Torgap
-1. * [X] More info/prominence of Spotbit on Torbit
-   * [X] List our Public Tor Addresses on that page
-1. * [X] Clean usage of "Gordian Signer"
-   * [X] Update text in GordianSigner-MacOS
-   * [C] Update graphics in GordianSigner-MacOS
-   * [X] Update text in GordianSigner-Android
-   * [X] Update graphics in GordianSigner-Android 
-1. * [X] Add LifeHash and LifeHashTool to crypto-commons
-1. * [X] MVA Article
-1. * [X] DID Letter
-1. * [X] Github Social Media previews for all repos, starting with Gordian ones.
-   * [X] Gordian
-   * [X] Gordian Wallet
-   * [X] Gordian Signer
-      * [X] Add Logo + Images to Create Actually Preview
-      * [X] Redo Android with its own images
-   * [X] Gordian Server
-   * [X] Seedtool
-   * [X] Keytool
-   * [X] Learning Bitcoin (by EOD Wednesday)
-   * [X] SmartCustodyBook
-   * [X] Spotbit
-   * [X] Torgap
-   * [X] LetheKit
-      * [X] Logo
-      * [X] Update Social Media
-   * [X] Airgapped-Wallet-Community
-      * [X] Logo
-      * [X] Social Media
-   * [X] Community
-   * [X] Research
-   * [X] WIPs
-   * [X] Crypto Commons
-1. * [X] Update Q4 Report
-   * [X] Add Fehu
-   * [X] Add Multi-sig Research
-   * [X] Re-edit
-   * [X] Link Interns Appeal
-   * [X] Present to Folks (before 2pm Tuesday)
-   * [X] Post (Wednesday)
-1. * [X] Clean LifeHashTool Repo
-1. * [X] Clean Fehu Repo
-1. * [X] New appeal for January interns
-   * [X] Proof https://github.com/BlockchainCommons/Community/discussions/32
-1. * [X] Clear recent PRs on Learning Bitcoin
