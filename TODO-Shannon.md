@@ -1,6 +1,10 @@
 # Shannon's Open Tasks
 
 1. * [ ] Write: Understanding issues with multi-sig (evaluating scenarios, Audience: backroom architects; is there a subset that we could blog?)
+   * [X] Write Reconstruction vs Recovery
+   * [X] Write Lexicon
+   * [ ] Write Examples
+   * [ ] Write Advantages & Challenges
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] short articles in LWA linking to other CA work
