@@ -29,6 +29,7 @@
 1. * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
 1. * [ ] Gordian Signer Manual
    * Pending: UX Rev (mid-Jan?)
+1. * [ ] Explain why Engagement Model is Important & package that with Ruby 1.0.0
 
 ## Future Possibilities
 
