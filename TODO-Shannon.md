@@ -20,7 +20,6 @@
 1. * [ ] Update old Gordian/wallet glossary
 1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-1. * [ ] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
 1. * [ ] Link in DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion, plus Tweetstorm and/or blog post about it all
 1. * [ ] What should BCC page look like on Gordian Guardian? Links to Twitter? Community?
 
@@ -57,6 +56,7 @@
 
 ## Recently Completed
 
+1. * [X] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
 1. * [X] Remove spotBit Test Server from web FAQ, GH README, maybe web site projects list
 1. * [X] Write: Understanding issues with multi-sig (evaluating scenarios, Audience: backroom architects; is there a subset that we could blog?)
    * [X] Write Reconstruction vs Recovery
