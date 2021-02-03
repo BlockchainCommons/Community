@@ -29,7 +29,15 @@
 1. * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
 1. * [ ] Gordian Signer Manual
    * Pending: UX Rev (mid-Jan?)
-1. * [ ] Explain why Engagement Model is Important & package that with Ruby 1.0.0
+1. * [ ] Explain why Engagement Model is Important & How TO Do It & package that with Ruby 1.0.0
+   * Engagement Model is meant to show the human experience.
+      * There should be a System Document showing flows, which is somewhat orthogonal to the human experience of the Engagement Model
+      * But the Engagement a way to ensure that we have all the pieces when we get started, and to make it possible for outsiders to understand what’s going on
+      * Forces us to look at the less common parts of the flow, like the beginning and the end, which can easily be the most dangerous sections
+      * We can’t do a security review just from Engagement Model, but we feel that it’s a requirement: the first step of a full review
+      * Successful here: we spotlighted areas that they weren’t currently dealing with!
+   * So BCC Goal: say why this process is important, and why we’re doing it
+      * Unlike BCC Engagement Models: this is is real
 
 ## Future Possibilities
 
