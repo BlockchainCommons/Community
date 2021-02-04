@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Link in DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion, plus Tweetstorm and/or blog post about it all
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] short articles in LWA linking to other CA work
@@ -18,7 +19,6 @@
 1. * [ ] Update old Gordian/wallet glossary
 1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-1. * [ ] Link in DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion, plus Tweetstorm and/or blog post about it all
 1. * [ ] Finalize "What We Could Do" with: 
    * [ ] Small Projects
    * [ ] Contact Info
