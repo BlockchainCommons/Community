@@ -19,7 +19,6 @@
 1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 1. * [ ] Link in DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion, plus Tweetstorm and/or blog post about it all
-1. * [ ] What should BCC page look like on Gordian Guardian? Links to Twitter? Community?
 1. * [ ] Finalize "What We Could Do" with: 
    * [ ] Small Projects
    * [ ] Contact Info
@@ -59,6 +58,7 @@
 
 ## Recently Completed
 
+1. * [X] What should BCC page look like on Gordian Guardian? Links to Twitter? Community?
 1. * [X] Look at READMEs in Darkmode, and make sure images work
    * [X] Create non-transparent versions of other images that might be used standalone (e.g., #SC graphs)
 1. * [X] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
