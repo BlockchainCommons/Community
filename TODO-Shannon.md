@@ -3,8 +3,6 @@
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] short articles in LWA linking to other CA work
-1. * [ ] Look at READMEs in Darkmode, and make sure images work
-   * [ ] Create non-transparent versions of other images that might be used standalone (e.g., #SC graphs)
 1. * [ ] Further Clean HackMD
    * [X] Remove Posted Blogs
    * [X] Remove Posted GitHub Pages
@@ -61,6 +59,8 @@
 
 ## Recently Completed
 
+1. * [X] Look at READMEs in Darkmode, and make sure images work
+   * [X] Create non-transparent versions of other images that might be used standalone (e.g., #SC graphs)
 1. * [X] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
 1. * [X] Remove spotBit Test Server from web FAQ, GH README, maybe web site projects list
 1. * [X] Write: Understanding issues with multi-sig (evaluating scenarios, Audience: backroom architects; is there a subset that we could blog?)
