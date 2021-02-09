@@ -38,6 +38,7 @@
 1. * [ ] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
 1. * [ ] Finalize What We Could Do
    * [ ] Respond to Any Comments      
+      * [ ] Reposition It to Focus On How Our Plans Can Benefit Potential Sponsors
    * [ ] Release
 
 ## Pending
