@@ -27,6 +27,7 @@
    * [ ] How to Use with Core
    * [ ] How to Use with Cold
 1. * [ ] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
+1. * [ ] Explainers for SSKR
 
 ## Pending
 
