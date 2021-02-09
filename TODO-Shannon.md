@@ -1,8 +1,29 @@
 # Shannon's Open Tasks
 
-1. * [ ] Link in DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion, plus Tweetstorm and/or blog post about it all
+1. * [ ] Gordian Guardian
+   * [ ] Edit MD Files (make sure committed)
+   * [ ] How To Use with CoSigner
+1. * [ ] Finalize "What We Could Do" with: 
+   * [ ] Small Projects
+   * [ ] Contact Info
+   * [ ] Final Edit
+   * [ ] Release
+1. * [ ] Edit Multi-sigs
+   * [ ] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
+   * [ ] Comparative Tables or Diagrams
+   * [ ] Update for GA if Necessary
+   * [ ] Waiting: Languaging
+1. * [ ] Gordian Co Signer Docs
+   * [ ] How to Use with Core
+   * [ ] How to Use with Cold
+   * [ ] How to Use with Gordian
+1. * [ ] Explainers for SSKR
+   * [ ] For Developers: standard; codebase; why
+   * [ ] For Users: just the facts, for users   
+1. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+   * [ ] Clean Any Text
+   * [ ] Tweets
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] short articles in LWA linking to other CA work
 1. * [ ] Further Clean HackMD
    * [X] Remove Posted Blogs
@@ -18,19 +39,11 @@
 1. * [ ] Update old Gordian/wallet glossary
 1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-1. * [ ] Finalize "What We Could Do" with: 
-   * [ ] Small Projects
-   * [ ] Contact Info
-   * [ ] Final Edit
-   * [ ] Release
-1. * [ ] Gordian Co Signer Docs
-   * [ ] How to Use with Core
-   * [ ] How to Use with Cold
 1. * [ ] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
-1. * [ ] Explainers for SSKR
-
+   
 ## Pending
 
+1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
 1. * [ ] Gordian Signer Manual
    * Pending: UX Rev (mid-Jan?)
