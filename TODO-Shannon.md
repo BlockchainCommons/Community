@@ -3,11 +3,6 @@
 1. * [ ] Gordian Guardian
    * [ ] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-1. * [ ] Finalize "What We Could Do" with: 
-   * [ ] Small Projects
-   * [ ] Contact Info
-   * [ ] Final Edit
-   * [ ] Release
 1. * [ ] Edit Multi-sigs
    * [ ] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [ ] Comparative Tables or Diagrams
@@ -40,7 +35,10 @@
 1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 1. * [ ] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
-   
+1. * [ ] Finalize What We Could Do
+   * [ ] Respond to Any Comments      
+   * [ ] Release
+
 ## Pending
 
 1. * [ ] Set Up Monitoring of BCC Machines?
@@ -73,6 +71,10 @@
 
 ## Recently Completed
 
+1. * [X] Finalize "What We Could Do" with: 
+   * [X] Small Projects
+   * [X] Contact Info
+   * [X] Final Edit
 1. * [X] What should BCC page look like on Gordian Guardian? Links to Twitter? Community?
 1. * [X] Look at READMEs in Darkmode, and make sure images work
    * [X] Create non-transparent versions of other images that might be used standalone (e.g., #SC graphs)
