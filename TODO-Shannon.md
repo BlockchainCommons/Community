@@ -15,7 +15,6 @@
    * [ ] BlueWallet
    * [ ] Spectre's Desktop App
    * [ ] Capture Info: 
-1. * [ ] Write ColdCard + CoSigner Tutorial
 1. * [ ] Update old Gordian/wallet glossary
 1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
@@ -24,6 +23,10 @@
    * [ ] Contact Info
    * [ ] Final Edit
    * [ ] Release
+1. * [ ] Gordian Co Signer Docs
+   * [ ] How to Use with Core
+   * [ ] How to Use with Cold
+1. * [ ] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
 
 ## Pending
 
@@ -75,17 +78,3 @@
 1. * [X] Update #SC Tweetstorm
 1. * [X] Order Coldcard
 1. * [X] Write to Zcash about What They Fund
-1. * [X] Write "What We Do"
-   * The kinds of future projects we would like to work on, and are seeking both funding for and participation in the creation of.
-1. * [X] Write List of Things that Chris Should Give to Theme Designer
-   * [X] Look at #SC for Options
-   * <!--posts-->, [more]
-1. * [X] Pics & TWeetstorm for MVA
-1. * [X] Edit MVA per CA
-1. * [X] Write #SC Tweetstorm for Bitcoin Increases
-1. * [X] Standardize bc-libwally-java repo when PR is accepted:
-1. * [X] Organize HackMD
-1. * [X] Choose method for back-referencing to topic repos (and apply it)
-   * [X] crypto-commons
-   * [X] Gordian
-   * [X] Torgap
