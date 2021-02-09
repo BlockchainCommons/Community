@@ -43,6 +43,7 @@
       * Successful here: we spotlighted areas that they weren’t currently dealing with!
    * So BCC Goal: say why this process is important, and why we’re doing it
       * Unlike BCC Engagement Models: this is is real
+1. * [ ] Review MD Files in Gordian Guardian
 
 ## Future Possibilities
 
@@ -56,9 +57,6 @@
 1. Is there more we can do on BC-UR? Intro? Other Stuff?
 1. v2 of #SC
 1. Should LBTCftCL Have an Exam?
-1. Terminology Article
-   * Account: must have balance, script [descriptor?]
-   * Account Map
 
 ## Recently Completed
 
