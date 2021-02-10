@@ -6,8 +6,8 @@
 1. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [ ] Comparative Tables or Diagrams
-   * [ ] Update for GA if Necessary
-   * [ ] Address CA Comments
+   * [X] Update for GA if Necessary
+   * [X] Address CA Comments
    * [ ] Waiting: Languaging
 1. * [ ] Gordian Co Signer Docs
    * [ ] How to Use with Core
