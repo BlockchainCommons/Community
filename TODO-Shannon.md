@@ -40,6 +40,7 @@
    * [ ] Respond to Any Comments      
       * [ ] Reposition It to Focus On How Our Plans Can Benefit Potential Sponsors
    * [ ] Release
+1. * Write "What Does It Mean to Be Gordian?"
 
 ## Pending
 
