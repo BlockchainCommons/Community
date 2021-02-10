@@ -1,10 +1,10 @@
 # Shannon's Open Tasks
 
 1. * [ ] Gordian Guardian
-   * [ ] Edit MD Files (make sure committed)
+   * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
 1. * [ ] Edit Multi-sigs
-   * [ ] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
+   * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [ ] Comparative Tables or Diagrams
    * [ ] Update for GA if Necessary
    * [ ] Address CA Comments
@@ -41,6 +41,7 @@
       * [ ] Reposition It to Focus On How Our Plans Can Benefit Potential Sponsors
    * [ ] Release
 1. * Write "What Does It Mean to Be Gordian?"
+1. * Update sskr as Sharded Secret Key Reconstruction across repos
 
 ## Pending
 
