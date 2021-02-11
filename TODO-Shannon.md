@@ -9,6 +9,7 @@
    * [X] Comparative Tables or Diagrams
    * [X] Update for GA if Necessary
    * [X] Address CA Comments
+   * [ ] Consider Joe Comments
    * [ ] Waiting: Languaging
 1. * [ ] Gordian Co Signer Docs
    * [ ] How to Use with Core
