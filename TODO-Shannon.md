@@ -1,11 +1,12 @@
 # Shannon's Open Tasks
 
+1. * [ ] Edit What we could do, per VT and bizdev comments
 1. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
 1. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
-   * [ ] Comparative Tables or Diagrams
+   * [X] Comparative Tables or Diagrams
    * [X] Update for GA if Necessary
    * [X] Address CA Comments
    * [ ] Waiting: Languaging
