@@ -1,9 +1,7 @@
 # Shannon's Open Tasks
 
+1. * [ ] Write "What Does It Mean to Be Gordian?"
 1. * [ ] Edit What we could do, per VT and bizdev comments
-1. * [ ] Gordian Guardian
-   * [X] Edit MD Files (make sure committed)
-   * [ ] How To Use with CoSigner
 1. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [X] Comparative Tables or Diagrams
@@ -11,6 +9,9 @@
    * [X] Address CA Comments
    * [ ] Consider Joe Comments
    * [ ] Waiting: Languaging
+1. * [ ] Gordian Guardian
+   * [X] Edit MD Files (make sure committed)
+   * [ ] How To Use with CoSigner
 1. * [ ] Gordian Co Signer Docs
    * [ ] How to Use with Core
    * [ ] How to Use with Cold
@@ -42,7 +43,6 @@
    * [ ] Respond to Any Comments      
       * [ ] Reposition It to Focus On How Our Plans Can Benefit Potential Sponsors
    * [ ] Release
-1. * Write "What Does It Mean to Be Gordian?"
 1. * Update sskr as Sharded Secret Key Reconstruction across repos
 
 ## Pending
