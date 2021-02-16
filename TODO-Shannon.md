@@ -1,7 +1,17 @@
 # Shannon's Open Tasks
 
+1. * [ ] GCS Docs
+   * [ ] Update Language in App (from multi-sig article)
+   * [ ] Update Repo to be less seed-centric, more focused on cosigner
+   * [ ] Edit Scenarios
+   * [ ] Show GG/GCS Interface (next week?)
+   * [ ] Tweetstorm: advance 
+      * Goal is to get a sophisticated co-signer (FN, Core, Cold)
 1. * [ ] Write "What Does It Mean to Be Gordian?"
 1. * [ ] Edit What we could do, per VT and bizdev comments
+   * [ ] Review New Version
+   * [ ] Talk About Next Step
+   * [ ] Edit or Produce Shorter Version
 1. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [X] Comparative Tables or Diagrams
@@ -12,10 +22,6 @@
 1. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-1. * [ ] Gordian Co Signer Docs
-   * [ ] How to Use with Core
-   * [ ] How to Use with Cold
-   * [ ] How to Use with Gordian
 1. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
@@ -47,6 +53,12 @@
 
 ## Pending
 
+1. * [ ] Gordian Co Signer Docs (after crypto-request specification)
+   * [ ] Full manual
+   * [ ] How to Use with Core
+   * [ ] How to Use with Cold
+   * [ ] How to Use with Gordian
+1. * [ ] GG Docs (next week?)
 1. * [ ] Set Up Monitoring of BCC Machines?
 1. * [ ] Review adding YAML schema info to markdown files, initially LBTCftCL, and testing against Google. See https://www.software.ac.uk/resources/guides/adding-schema-dot-org
 1. * [ ] Gordian Signer Manual
