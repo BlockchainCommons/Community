@@ -4,7 +4,7 @@
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
-   * [ ] ToC for Integrating
+   * [ ] ToC for Integrating — https://luciopaiva.com/markdown-toc/
    * [ ] Finish Work on Integrating with Gordian Wallet
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
