@@ -1,11 +1,13 @@
 # Shannon's Open Tasks
 
 1. * [ ] GCS Docs
-   * [ ] Update Language in App (from multi-sig article)
-   * [ ] Update Repo to be less seed-centric, more focused on cosigner
-   * [ ] Edit Scenarios
+   * [X] Update Language in App (from multi-sig article)
+   * [X] Update Repo to be less seed-centric, more focused on cosigner
+   * [X] Edit Scenarios
+   * [ ] ToC for Integrating
+   * [ ] Finish Work on Integrating with Gordian Wallet
    * [ ] Show GG/GCS Interface (next week?)
-   * [ ] Tweetstorm: advance 
+   * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
 1. * [ ] Write "What Does It Mean to Be Gordian?"
 1. * [ ] Edit What we could do, per VT and bizdev comments
