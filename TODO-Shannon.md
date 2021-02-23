@@ -1,11 +1,7 @@
 # Shannon's Open Tasks
 
-1. * [ ] Get G. Tasks
-1. * [ ] Update Template for Used/Used In
 1. * [ ] Write "Next Steps" Letter for Security Review
-2. * [ ] Collect list of libraries used by GG & GCS, and which of our code & specs they use (so far).
-   * [ ] Update README and prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-   * [ ] Consider starting a table in Airgapped Community with which wallets support which specs.
+1. * [ ] {repare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
 4. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
@@ -39,11 +35,6 @@
    * [ ] Tweets
 12. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 13. * [ ] short articles in LWA linking to other CA work
-14. * [ ] Further Clean HackMD
-   * [X] Remove Posted Blogs
-   * [X] Remove Posted GitHub Pages
-   * [ ] Record Roots of Posted Tweetstorms in Community
-   * [ ] Remove Posted Tweetstorms
 15. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
 16. * [ ] Look at Wallets
    * [ ] ColdCard
@@ -53,12 +44,6 @@
 17. * [ ] Update old Gordian/wallet glossary
 18. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-19. * [ ] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
-20. * [ ] Finalize What We Could Do
-   * [ ] Respond to Any Comments      
-      * [ ] Reposition It to Focus On How Our Plans Can Benefit Potential Sponsors
-   * [ ] Release
-21. * Update sskr as Sharded Secret Key Reconstruction across repos
 
 ## Pending
 
@@ -98,24 +83,27 @@
 
 ## Recently Completed
 
-1. * [X] Finalize "What We Could Do" with: 
+19. * [X] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
+1. * [X] Get G. Tasks
+1. * [X] Update Template for Used/Used In
+3. * [X] Finalize "What We Could Do" with: 
    * [X] Small Projects
    * [X] Contact Info
    * [X] Final Edit
-1. * [X] What should BCC page look like on Gordian Guardian? Links to Twitter? Community?
-1. * [X] Look at READMEs in Darkmode, and make sure images work
+4. * [X] What should BCC page look like on Gordian Guardian? Links to Twitter? Community?
+5. * [X] Look at READMEs in Darkmode, and make sure images work
    * [X] Create non-transparent versions of other images that might be used standalone (e.g., #SC graphs)
-1. * [X] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
-1. * [X] Remove spotBit Test Server from web FAQ, GH README, maybe web site projects list
-1. * [X] Write: Understanding issues with multi-sig (evaluating scenarios, Audience: backroom architects; is there a subset that we could blog?)
+6. * [X] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
+7. * [X] Remove spotBit Test Server from web FAQ, GH README, maybe web site projects list
+8. * [X] Write: Understanding issues with multi-sig (evaluating scenarios, Audience: backroom architects; is there a subset that we could blog?)
    * [X] Write Reconstruction vs Recovery
    * [X] Write Lexicon
    * [X] Write Examples
    * [X] Write Advantages & Challenges
-1. * [X] Advertise/Request Feedback on Release-Path Articles
-1. * [X] Finalize Repo Status Article
+9. * [X] Advertise/Request Feedback on Release-Path Articles
+10. * [X] Finalize Repo Status Article
    * [X] Talk with Chris
    * [X] Publish
-1. * [X] Update #SC Tweetstorm
-1. * [X] Order Coldcard
-1. * [X] Write to Zcash about What They Fund
+11. * [X] Update #SC Tweetstorm
+12. * [X] Order Coldcard
+13. * [X] Write to Zcash about What They Fund
