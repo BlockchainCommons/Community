@@ -1,9 +1,9 @@
 # Shannon's Open Tasks
 
-2. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
-3. * [ ] Write "Next Steps" Letter for Security Review
-4. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-5. * [ ] GCS Docs
+1. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
+1. * [ ] Write "Next Steps" Letter for Security Review
+1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
+1. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -12,36 +12,36 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-7. * [ ] Edit What we could do, per VT and bizdev comments
+1. * [ ] Edit What we could do, per VT and bizdev comments
    * [ ] Review New Version
    * [ ] Talk About Next Step
    * [ ] Edit or Produce Shorter Version
-8. * [ ] Edit Multi-sigs
+1. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [X] Comparative Tables or Diagrams
    * [X] Update for GA if Necessary
    * [X] Address CA Comments
    * [ ] Consider Joe Comments
    * [ ] Waiting: Languaging
-9. * [ ] Gordian Guardian
+1. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-10. * [ ] Explainers for SSKR
+1. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
-11. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+1. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-12. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-13. * [ ] short articles in LWA linking to other CA work
-15. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-16. * [ ] Look at Wallets
+1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+1. * [ ] short articles in LWA linking to other CA work
+1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+1. * [ ] Look at Wallets
    * [ ] ColdCard
    * [ ] BlueWallet
    * [ ] Spectre's Desktop App
    * [ ] Capture Info: 
-17. * [ ] Update old Gordian/wallet glossary
-18. * [ ] Add to #SC: Rollup Attack
+1. * [ ] Update old Gordian/wallet glossary
+1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 
 ## Pending
