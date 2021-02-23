@@ -15,49 +15,50 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-5. * [ ] Write "What Does It Mean to Be Gordian?"
-6. * [ ] Edit What we could do, per VT and bizdev comments
+5. * [X] Write "What Does It Mean to Be Gordian?"
+   * [ ] Edit as required
+7. * [ ] Edit What we could do, per VT and bizdev comments
    * [ ] Review New Version
    * [ ] Talk About Next Step
    * [ ] Edit or Produce Shorter Version
-7. * [ ] Edit Multi-sigs
+8. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [X] Comparative Tables or Diagrams
    * [X] Update for GA if Necessary
    * [X] Address CA Comments
    * [ ] Consider Joe Comments
    * [ ] Waiting: Languaging
-8. * [ ] Gordian Guardian
+9. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-9. * [ ] Explainers for SSKR
+10. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
-10. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+11. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-11. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-12. * [ ] short articles in LWA linking to other CA work
-13. * [ ] Further Clean HackMD
+12. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+13. * [ ] short articles in LWA linking to other CA work
+14. * [ ] Further Clean HackMD
    * [X] Remove Posted Blogs
    * [X] Remove Posted GitHub Pages
    * [ ] Record Roots of Posted Tweetstorms in Community
    * [ ] Remove Posted Tweetstorms
-14. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-15. * [ ] Look at Wallets
+15. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+16. * [ ] Look at Wallets
    * [ ] ColdCard
    * [ ] BlueWallet
    * [ ] Spectre's Desktop App
    * [ ] Capture Info: 
-16. * [ ] Update old Gordian/wallet glossary
-17. * [ ] Add to #SC: Rollup Attack
+17. * [ ] Update old Gordian/wallet glossary
+18. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-18. * [ ] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
-19. * [ ] Finalize What We Could Do
+19. * [ ] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
+20. * [ ] Finalize What We Could Do
    * [ ] Respond to Any Comments      
       * [ ] Reposition It to Focus On How Our Plans Can Benefit Potential Sponsors
    * [ ] Release
-20. * Update sskr as Sharded Secret Key Reconstruction across repos
+21. * Update sskr as Sharded Secret Key Reconstruction across repos
 
 ## Pending
 
