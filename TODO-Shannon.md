@@ -1,5 +1,7 @@
 # Shannon's Open Tasks
 
+1. * [ ] Get G. Tasks
+1. * [ ] Update Template for Used/Used In
 1. * [ ] Write "Next Steps" Letter for Security Review
 2. * [ ] Collect list of libraries used by GG & GCS, and which of our code & specs they use (so far).
    * [ ] Update README and prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
