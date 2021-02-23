@@ -2,6 +2,7 @@
 
 1. * [X] Comment Security Review Letter
    * [ ] Edit?
+2. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
 3. * [ ] Write "Next Steps" Letter for Security Review
 4. * [ ] {repare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
 5. * [ ] GCS Docs
