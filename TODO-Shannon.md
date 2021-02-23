@@ -1,10 +1,8 @@
 # Shannon's Open Tasks
 
-1. * [X] Comment Security Review Letter
-   * [ ] Edit?
 2. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
 3. * [ ] Write "Next Steps" Letter for Security Review
-4. * [ ] {repare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
+4. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
 5. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
@@ -14,8 +12,6 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-6. * [X] Write "What Does It Mean to Be Gordian?"
-   * [ ] Edit as required
 7. * [ ] Edit What we could do, per VT and bizdev comments
    * [ ] Review New Version
    * [ ] Talk About Next Step
@@ -86,6 +82,9 @@
 
 ## Recently Completed
 
+6. * [X] Write "What Does It Mean to Be Gordian?"
+   * [X] Edit as required
+1. * [X] Comment Security Review Letter
 19. * [X] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
 1. * [X] Get G. Tasks
 1. * [X] Update Template for Used/Used In
