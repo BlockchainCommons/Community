@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Talk to Vivian about what's needed for Video.
 1. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
 1. * [ ] Write "Next Steps" Letter for Security Review
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
