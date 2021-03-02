@@ -15,7 +15,7 @@
 7. * [ ] Crypto-request Teaser (Wed.?)
 8. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
 9. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-10. * [ ] GCS Docs
+1. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -24,30 +24,30 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-11. * [ ] Edit What we could do, per VT and bizdev comments
+1. * [ ] Edit What we could do, per VT and bizdev comments
    * [ ] Review New Version
    * [ ] Talk About Next Step
    * [ ] Edit or Produce Shorter Version
-12. * [ ] Gordian Guardian
+1. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-13. * [ ] Explainers for SSKR
+1. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
-14. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+1. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-15. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-16. * [ ] short articles in LWA linking to other CA work
-17. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-18. * [ ] Update old Gordian/wallet glossary
-19. * [ ] Add to #SC: Rollup Attack
+1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+1. * [ ] short articles in LWA linking to other CA work
+1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+1. * [ ] Update old Gordian/wallet glossary
+1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-20. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List
+1. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List
     * Diff. Accounting Law
     * Scripts
-21. * [ ] Fix Crypto Commons Background for Social Media Preview
-22. * [ ] Move this to CanBan List
+1. * [ ] Fix Crypto Commons Background for Social Media Preview
+1. * [ ] Move this to CanBan List
 
 ## Pending
 
