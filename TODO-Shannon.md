@@ -1,7 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] TS & Updates for HRF
-2. * [ ] Write Video Text for Vivian
 3. * [ ] Talk with G. About Helping with Other Tasks
 4. * [ ] Revise "Next Steps" as Needed
 5. * [ ] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
@@ -92,6 +90,8 @@
 
 ## Recently Completed
 
+1. * [X] TS & Updates for HRF
+2. * [X] Write Video Text for Vivian
 1. * [X] Work with @VinayTaylor on a) shorter paragraphis for HRF grant they want tomorrow, and b) larger version colin of coindesk (author of both intern articles) for his writeup about the HRF grant. He wants it soon too.
 1. * [X] Write "Next Steps" Letter for Security Review
 1. * [X] Write "What Does It Mean to Be Gordian?"
