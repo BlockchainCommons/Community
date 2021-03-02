@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] TS & Updates for HRF
 2. * [ ] Write Video Text for Vivian
 3. * [ ] Talk with G. About Helping with Other Tasks
 4. * [ ] Revise "Next Steps" as Needed
