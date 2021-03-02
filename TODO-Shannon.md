@@ -1,11 +1,11 @@
 # Shannon's Open Tasks
 
 1. * [ ] Work with @VinayTaylor on a) shorter paragraphis for HRF grant they want tomorrow, and b) larger version colin of coindesk (author of both intern articles) for his writeup about the HRF grant. He wants it soon too.
-6. * [ ] Write Video Text for Vivian
-5. * [ ] Talk with G. About Helping with Other Tasks
-2. * [ ] Revise "Next Steps" as Needed
-4. * [ ] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
-12. * [ ] Edit Multi-sigs
+2. * [ ] Write Video Text for Vivian
+3. * [ ] Talk with G. About Helping with Other Tasks
+4. * [ ] Revise "Next Steps" as Needed
+5. * [ ] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
+6. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [X] Comparative Tables or Diagrams
    * [X] Update for GA if Necessary
@@ -28,29 +28,30 @@
    * [ ] Review New Version
    * [ ] Talk About Next Step
    * [ ] Edit or Produce Shorter Version
-13. * [ ] Gordian Guardian
+12. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-14. * [ ] Explainers for SSKR
+13. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
-15. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+14. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-16. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-17. * [ ] short articles in LWA linking to other CA work
-18. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-19. * [ ] Update old Gordian/wallet glossary
-20. * [ ] Add to #SC: Rollup Attack
+15. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+16. * [ ] short articles in LWA linking to other CA work
+17. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+18. * [ ] Update old Gordian/wallet glossary
+19. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-21. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List
+20. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List
     * Diff. Accounting Law
     * Scripts
-22. * [ ] Fix Crypto Commons Background for Social Media Preview
-23. * [ ] Move this to CanBan List
+21. * [ ] Fix Crypto Commons Background for Social Media Preview
+22. * [ ] Move this to CanBan List
+
 ## Pending
 
-17. * [ ] Look at Wallets
+1. * [ ] Look at Wallets
    * [ ] ColdCard
    * [ ] BlueWallet
    * [ ] Spectre's Desktop App
@@ -91,18 +92,18 @@
 
 ## Recently Completed
 
-3. * [X] Write "Next Steps" Letter for Security Review
-6. * [X] Write "What Does It Mean to Be Gordian?"
+1. * [X] Write "Next Steps" Letter for Security Review
+1. * [X] Write "What Does It Mean to Be Gordian?"
    * [X] Edit as required
 1. * [X] Comment Security Review Letter
-19. * [X] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
+1. * [X] Double-check GreenWallet MultiSig vs https://help.blockstream.com/hc/en-us/articles/900001391763-How-does-Blockstream-Green-s-multisig-security-work-
 1. * [X] Get G. Tasks
 1. * [X] Update Template for Used/Used In
-3. * [X] Finalize "What We Could Do" with: 
+1. * [X] Finalize "What We Could Do" with: 
    * [X] Small Projects
    * [X] Contact Info
    * [X] Final Edit
-4. * [X] What should BCC page look like on Gordian Guardian? Links to Twitter? Community?
-5. * [X] Look at READMEs in Darkmode, and make sure images work
+1. * [X] What should BCC page look like on Gordian Guardian? Links to Twitter? Community?
+1. * [X] Look at READMEs in Darkmode, and make sure images work
    * [X] Create non-transparent versions of other images that might be used standalone (e.g., #SC graphs)
-6. * [X] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
+1. * [X] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
