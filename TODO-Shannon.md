@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Work with @VinayTaylor on a) shorter paragraphis for HRF grant they want tomorrow, and b) larger version colin of coindesk (author of both intern articles) for his writeup about the HRF grant. He wants it soon too.
 2. * [ ] Write Video Text for Vivian
 3. * [ ] Talk with G. About Helping with Other Tasks
 4. * [ ] Revise "Next Steps" as Needed
@@ -92,6 +91,7 @@
 
 ## Recently Completed
 
+1. * [X] Work with @VinayTaylor on a) shorter paragraphis for HRF grant they want tomorrow, and b) larger version colin of coindesk (author of both intern articles) for his writeup about the HRF grant. He wants it soon too.
 1. * [X] Write "Next Steps" Letter for Security Review
 1. * [X] Write "What Does It Mean to Be Gordian?"
    * [X] Edit as required
