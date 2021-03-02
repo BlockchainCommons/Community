@@ -1,13 +1,21 @@
 # Shannon's Open Tasks
 
 1. * [ ] Work with @VinayTaylor on a) shorter paragraphis for HRF grant they want tomorrow, and b) larger version colin of coindesk (author of both intern articles) for his writeup about the HRF grant. He wants it soon too.
-2. * [ ] Work with me on NACS final report paper if I don't finish it Monday night.
-3. * [ ] Write "Next Steps" Letter for Security Review
+6. * [ ] Write Video Text for Vivian
+5. * [ ] Talk with G. About Helping with Other Tasks
+2. * [ ] Revise "Next Steps" as Needed
 4. * [ ] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
-5. * [ ] Talk to Vivian about what's needed for Video.
-6. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
-7. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-8. * [ ] GCS Docs
+12. * [ ] Edit Multi-sigs
+   * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
+   * [X] Comparative Tables or Diagrams
+   * [X] Update for GA if Necessary
+   * [X] Address CA Comments
+   * [ ] Consider Joe Comments
+   * [ ] Waiting: Languaging
+7. * [ ] Crypto-request Teaser (Wed.?)
+8. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
+9. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
+10. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -16,40 +24,37 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-9. * [ ] Edit What we could do, per VT and bizdev comments
+11. * [ ] Edit What we could do, per VT and bizdev comments
    * [ ] Review New Version
    * [ ] Talk About Next Step
    * [ ] Edit or Produce Shorter Version
-10. * [ ] Edit Multi-sigs
-   * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
-   * [X] Comparative Tables or Diagrams
-   * [X] Update for GA if Necessary
-   * [X] Address CA Comments
-   * [ ] Consider Joe Comments
-   * [ ] Waiting: Languaging
-11. * [ ] Gordian Guardian
+13. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-12. * [ ] Explainers for SSKR
+14. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
-13. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+15. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-14. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-15. * [ ] short articles in LWA linking to other CA work
-16. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+16. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+17. * [ ] short articles in LWA linking to other CA work
+18. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+19. * [ ] Update old Gordian/wallet glossary
+20. * [ ] Add to #SC: Rollup Attack
+   * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
+21. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List
+    * Diff. Accounting Law
+    * Scripts
+22. * [ ] Fix Crypto Commons Background for Social Media Preview
+23. * [ ] Move this to CanBan List
+## Pending
+
 17. * [ ] Look at Wallets
    * [ ] ColdCard
    * [ ] BlueWallet
    * [ ] Spectre's Desktop App
    * [ ] Capture Info: 
-18. * [ ] Update old Gordian/wallet glossary
-19. * [ ] Add to #SC: Rollup Attack
-   * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-
-## Pending
-
 1. * [ ] Gordian Co Signer Docs (after crypto-request specification)
    * [ ] Full manual
    * [ ] How to Use with Core
@@ -86,6 +91,7 @@
 
 ## Recently Completed
 
+3. * [X] Write "Next Steps" Letter for Security Review
 6. * [X] Write "What Does It Mean to Be Gordian?"
    * [X] Edit as required
 1. * [X] Comment Security Review Letter
@@ -100,16 +106,3 @@
 5. * [X] Look at READMEs in Darkmode, and make sure images work
    * [X] Create non-transparent versions of other images that might be used standalone (e.g., #SC graphs)
 6. * [X] Add to Future projects list: Taking SSS-SSKR and VSS-SSKR to another level
-7. * [X] Remove spotBit Test Server from web FAQ, GH README, maybe web site projects list
-8. * [X] Write: Understanding issues with multi-sig (evaluating scenarios, Audience: backroom architects; is there a subset that we could blog?)
-   * [X] Write Reconstruction vs Recovery
-   * [X] Write Lexicon
-   * [X] Write Examples
-   * [X] Write Advantages & Challenges
-9. * [X] Advertise/Request Feedback on Release-Path Articles
-10. * [X] Finalize Repo Status Article
-   * [X] Talk with Chris
-   * [X] Publish
-11. * [X] Update #SC Tweetstorm
-12. * [X] Order Coldcard
-13. * [X] Write to Zcash about What They Fund
