@@ -1,16 +1,17 @@
 # Shannon's Open Tasks
 
 1. * [ ] Crypto-request Teaser (Wed.?)
-1. * [ ] Revise "Next Steps" as Needed
-1. * [ ] Edit Multi-sigs
+2. * [ ] Add Guardian social-media-preview
+3. * [ ] Revise "Next Steps" as Needed
+4. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [X] Comparative Tables or Diagrams
    * [X] Update for GA if Necessary
    * [X] Address CA Comments
    * [ ] Consider Joe Comments
    * [ ] Waiting: Languaging
-1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-1. * [ ] GCS Docs
+5. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
+6. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -19,17 +20,17 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-1. * [ ] Edit What we could do, per VT and bizdev comments
+7. * [ ] Edit What we could do, per VT and bizdev comments
    * [ ] Review New Version
    * [ ] Talk About Next Step
    * [ ] Edit or Produce Shorter Version
-1. * [ ] Gordian Guardian
+8. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-1. * [ ] Explainers for SSKR
+9. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
-1. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+10. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
 15. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
