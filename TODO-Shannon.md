@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Revise What is Gordian
 3. * [ ] Talk with G. About Helping with Other Tasks
 4. * [ ] Revise "Next Steps" as Needed
 5. * [ ] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
