@@ -3,7 +3,6 @@
 1. * [ ] Update Text in Gordian
 1. * [ ] Crypto-request Teaser (Wed.?)
 1. * [ ] Revise "Next Steps" as Needed
-1. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
 1. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [X] Comparative Tables or Diagrams
@@ -89,6 +88,7 @@
 
 ## Recently Completed
 
+1. * [X] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
 1. * [X] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
 1. * [X] Revise What is Gordian
    * [X] Revise What is Gordian Tweetstorm
