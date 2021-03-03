@@ -1,9 +1,6 @@
 # Shannon's Open Tasks
 
-1. * [ ] Revise What is Gordian
-3. * [ ] Talk with G. About Helping with Other Tasks
 4. * [ ] Revise "Next Steps" as Needed
-5. * [ ] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
 6. * [ ] Edit Multi-sigs
    * [X] What's a Better Way to Talk about Segregation of Interests (SSKR, Multi-Sigs) that doesn't use word "Segregation"
    * [X] Comparative Tables or Diagrams
@@ -14,7 +11,7 @@
 7. * [ ] Crypto-request Teaser (Wed.?)
 8. * [ ] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
 9. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-1. * [ ] GCS Docs
+10. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -23,30 +20,30 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-1. * [ ] Edit What we could do, per VT and bizdev comments
+11. * [ ] Edit What we could do, per VT and bizdev comments
    * [ ] Review New Version
    * [ ] Talk About Next Step
    * [ ] Edit or Produce Shorter Version
-1. * [ ] Gordian Guardian
+12. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-1. * [ ] Explainers for SSKR
+13. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
-1. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+14. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-1. * [ ] short articles in LWA linking to other CA work
-1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-1. * [ ] Update old Gordian/wallet glossary
-1. * [ ] Add to #SC: Rollup Attack
+15. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+16. * [ ] short articles in LWA linking to other CA work
+17. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+18. * [ ] Update old Gordian/wallet glossary
+19. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-1. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List
+20. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List
     * Diff. Accounting Law
     * Scripts
-1. * [ ] Fix Crypto Commons Background for Social Media Preview
-1. * [ ] Move this to CanBan List
+21. * [ ] Fix Crypto Commons Background for Social Media Preview
+22. * [ ] Move this to CanBan List
 
 ## Pending
 
@@ -91,8 +88,12 @@
 
 ## Recently Completed
 
+1. * [X] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
+1. * [X] Revise What is Gordian
+   * [X] Revise What is Gordian Tweetstorm
+1. * [X] Talk with G. About Helping with Other Tasks
 1. * [X] TS & Updates for HRF
-2. * [X] Write Video Text for Vivian
+1. * [X] Write Video Text for Vivian
 1. * [X] Work with @VinayTaylor on a) shorter paragraphis for HRF grant they want tomorrow, and b) larger version colin of coindesk (author of both intern articles) for his writeup about the HRF grant. He wants it soon too.
 1. * [X] Write "Next Steps" Letter for Security Review
 1. * [X] Write "What Does It Mean to Be Gordian?"
