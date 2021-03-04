@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Crypto-request Teaser (Wed.?)
 2. * [ ] Add Guardian social-media-preview
 3. * [ ] Revise "Next Steps" as Needed
 4. * [ ] Edit Multi-sigs
@@ -88,6 +87,7 @@
 
 ## Recently Completed
 
+1. * [X] Crypto-request Teaser (Wed.?)
 1. * [X] Update Text in Gordian
 1. * [X] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
 1. * [X] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
