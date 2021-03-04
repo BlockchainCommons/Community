@@ -1,6 +1,6 @@
 # Shannon's Open Tasks
 
-1. * [ ] Revise background of Guardian social-media-preview
+1. * [ ] Finalize Guardian social-media-preview & upload PSD
    * [ ] Add Guardian to main Guardian image.
 1. * [ ] Revise "Next Steps" as Needed
 1. * [ ] Edit Multi-sigs
