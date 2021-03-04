@@ -1,6 +1,7 @@
 # Shannon's Open Tasks
 
-1. * [ ] Add Guardian social-media-preview
+1. * [ ] Revise background of Guardian social-media-preview
+   * [ ] Add Guardian to main Guardian image.
 1. * [ ] Revise "Next Steps" as Needed
 1. * [ ] Edit Multi-sigs
    * [ ] Remove "custody" and "self-custody" 
