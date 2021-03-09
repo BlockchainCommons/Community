@@ -11,6 +11,7 @@
    * [ ] Comment on screen shots
    * [ ] Check metadata in repo
    * [ ] Check in-app docs in repo
+1. * [ ] Add Gordian Guardian to App Map
 3. * [ ] Edit What we could do, per VT and bizdev comments (this week)
    * [ ] Review New Version
    * [ ] Talk About Next Step
