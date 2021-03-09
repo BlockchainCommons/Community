@@ -18,9 +18,10 @@
    * [ ] Review New Version
    * [ ] Talk About Next Step
    * [ ] Edit or Produce Shorter Version
+3. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 4. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List (pending: CA)
-    * Diff. Accounting Law
-    * Scripts
+    * [ ] Diff. Accounting Law
+    * [ ] Scripts
 5. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
 6. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
