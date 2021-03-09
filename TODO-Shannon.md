@@ -1,8 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Finalize Guardian social-media-preview & upload PSD
-   * [ ] Add Guardian to main Guardian image.
-1. * [ ] Revise "Next Steps" as Needed
 1. * [ ] Edit Multi-sigs
    * [ ] Remove "custody" and "self-custody" 
    * [ ] Work through J's language concerns
@@ -93,6 +90,9 @@
 
 ## Recently Completed
 
+1. * [X] Finalize Guardian social-media-preview & upload PSD
+   * [X] Add Guardian to main Guardian image.
+1. * [X] Revise "Next Steps" as Needed
 1. * [X] Crypto-request Teaser (Wed.?)
 1. * [X] Update Text in Gordian
 1. * [X] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
