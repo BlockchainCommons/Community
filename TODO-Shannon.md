@@ -4,7 +4,7 @@
    * [X] Remove "custody" and "self-custody" from examples
    * [ ] Work through J's language concerns
    * [X] Think about "self-sovereign" vs "autonomous"
-   * [ ] Revise Building Block, Advantage, Disadvantage, and Conclusion
+   * [X] Revise Building Block, Advantage, Disadvantage, and Conclusion
    * [ ] Edit it all
    * [ ] Redo Images
    * [ ] Write variant for BM.
