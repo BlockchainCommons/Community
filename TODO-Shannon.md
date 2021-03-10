@@ -5,9 +5,9 @@
    * [X] Work through J's language concerns
    * [X] Think about "self-sovereign" vs "autonomous"
    * [X] Revise Building Block, Advantage, Disadvantage, and Conclusion
-   * [ ] Rewrite Intro
+   * [X] Rewrite Intro
+   * [X] Redo Images
    * [ ] Edit it all
-   * [ ] Redo Images
    * [ ] Write variant for BM.
 3. * [ ] Edit What we could do, per VT and bizdev comments (this week)
    * [ ] Review New Version
