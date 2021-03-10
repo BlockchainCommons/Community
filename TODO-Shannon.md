@@ -1,9 +1,10 @@
 # Shannon's Open Tasks
 
 1. * [ ] Edit Multi-sigs
-   * [ ] Remove "custody" and "self-custody" 
+   * [X] Remove "custody" and "self-custody" from examples
    * [ ] Work through J's language concerns
-   * [ ] Think about "self-sovereign" vs "autonomous"
+   * [X] Think about "self-sovereign" vs "autonomous"
+   * [ ] Revise Building Block, Advantage, Disadvantage, and Conclusion
    * [ ] Edit it all
    * [ ] Redo Images
    * [ ] Write variant for BM.
