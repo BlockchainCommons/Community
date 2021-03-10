@@ -5,6 +5,7 @@
    * [ ] Work through J's language concerns
    * [X] Think about "self-sovereign" vs "autonomous"
    * [X] Revise Building Block, Advantage, Disadvantage, and Conclusion
+   * [ ] Rewrite Intro
    * [ ] Edit it all
    * [ ] Redo Images
    * [ ] Write variant for BM.
