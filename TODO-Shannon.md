@@ -1,14 +1,6 @@
 # Shannon's Open Tasks
 
-1. * [ ] Edit Multi-sigs
-   * [X] Remove "custody" and "self-custody" from examples
-   * [X] Work through J's language concerns
-   * [X] Think about "self-sovereign" vs "autonomous"
-   * [X] Revise Building Block, Advantage, Disadvantage, and Conclusion
-   * [X] Rewrite Intro
-   * [X] Redo Images
-   * [ ] Edit it all
-   * [ ] Write variant for BM.
+1  * [ ] Write variant of Multisigs article for BM.
 3. * [ ] Edit What we could do, per VT and bizdev comments (this week)
    * [ ] Review New Version
    * [ ] Talk About Next Step
@@ -88,6 +80,14 @@
 
 ## Recently Completed
 
+1. * [X] Edit Multi-sigs
+   * [X] Remove "custody" and "self-custody" from examples
+   * [X] Work through J's language concerns
+   * [X] Think about "self-sovereign" vs "autonomous"
+   * [X] Revise Building Block, Advantage, Disadvantage, and Conclusion
+   * [X] Rewrite Intro
+   * [X] Redo Images
+   * [X] Edit it all
 1. * [X] Add Gordian Guardian to App Map
 1. * [X] Support GG Release
    * [X] Comment on screen shots
