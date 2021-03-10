@@ -2,7 +2,7 @@
 
 1. * [ ] Edit Multi-sigs
    * [X] Remove "custody" and "self-custody" from examples
-   * [ ] Work through J's language concerns
+   * [X] Work through J's language concerns
    * [X] Think about "self-sovereign" vs "autonomous"
    * [X] Revise Building Block, Advantage, Disadvantage, and Conclusion
    * [ ] Rewrite Intro
