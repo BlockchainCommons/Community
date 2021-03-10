@@ -7,11 +7,6 @@
    * [ ] Edit it all
    * [ ] Redo Images
    * [ ] Write variant for BM.
-1. * [ ] Support GG Release
-   * [ ] Comment on screen shots
-   * [ ] Check metadata in repo
-   * [ ] Check in-app docs in repo
-1. * [ ] Add Gordian Guardian to App Map
 3. * [ ] Edit What we could do, per VT and bizdev comments (this week)
    * [ ] Review New Version
    * [ ] Talk About Next Step
@@ -91,6 +86,11 @@
 
 ## Recently Completed
 
+1. * [X] Add Gordian Guardian to App Map
+1. * [X] Support GG Release
+   * [X] Comment on screen shots
+   * [X] Check metadata in repo
+   * [X] Check in-app docs in repo
 1. * [X] Finalize Guardian social-media-preview & upload PSD
    * [X] Add Guardian to main Guardian image.
 1. * [X] Revise "Next Steps" as Needed
