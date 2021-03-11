@@ -1,6 +1,6 @@
 # Shannon's Open Tasks
 
-1  * [ ] Write variant of Multisigs article for BM.
+1. * [ ] Write variant of Multisigs article for BM.
 1. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
