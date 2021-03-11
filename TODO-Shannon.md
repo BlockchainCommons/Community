@@ -1,16 +1,7 @@
 # Shannon's Open Tasks
 
 1  * [ ] Write variant of Multisigs article for BM.
-3. * [ ] Edit What we could do, per VT and bizdev comments (this week)
-   * [ ] Review New Version
-   * [ ] Talk About Next Step
-   * [ ] Edit or Produce Shorter Version
-3. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-4. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List (pending: CA)
-    * [ ] Diff. Accounting Law
-    * [ ] Scripts
-5. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-6. * [ ] GCS Docs
+1. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -19,23 +10,28 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-7. * [ ] Gordian Guardian
+1. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-8. * [ ] Explainers for SSKR
+1. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
-9. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+1. * [ ] Talk About Bean Count: TweetStorm + What We Can Do List (pending: CA)
+    * [ ] Diff. Accounting Law
+    * [ ] Scripts
+1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
+1. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-10. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-11. * [ ] short articles in LWA linking to other CA work
-12. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-13. * [ ] Update old Gordian/wallet glossary
-14. * [ ] Add to #SC: Rollup Attack
+1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+1. * [ ] short articles in LWA linking to other CA work
+1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+1. * [ ] Update old Gordian/wallet glossary
+1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-15. * [ ] Fix Crypto Commons Background for Social Media Preview
-16. * [ ] Move this to CanBan List
+1. * [ ] Fix Crypto Commons Background for Social Media Preview
+1. * [ ] Move this to CanBan List
 
 ## Pending
 
@@ -67,6 +63,8 @@
 
 ## Future Possibilities
 
+1. Do We Want to Use "What We Could Do?" as a possibility showcase
+   * If so, try to better highlight how each item could help individuals
 1. Fehu (Gordian Seedtool), Gordian Cosigner
    * Write Descriptions - communicate that they're tools that work with other things
 1. Write Weekly Articles(?)
