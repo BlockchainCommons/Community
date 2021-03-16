@@ -13,6 +13,7 @@
    * [ ] Cosigner
    * [ ] Guardian
    * [ ] Wallet
+1. * [ ] COmbine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
 7. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 8. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
 9. * [ ] Add to #SC: Rollup Attack
