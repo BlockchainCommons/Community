@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Write variant of Multisigs article for BM.
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
 1. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
@@ -12,6 +11,11 @@
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 1. * [ ] Fix Crypto Commons Background for Social Media Preview
 1. * [ ] Move this to CanBan List
+1. * [ ] Finish work on Multisigs (Pending: Comments)
+   * [ ] Get Comments from C.
+   * [ ] Resolve Comments
+   * [ ] Decide whether to move Reconstruction vs. Recovery
+   * [ ] Produce A-focused version for BM
 1. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
 1. * [ ] Check on Articles (What's Not Used?)
 1. * [ ] Support Internship
