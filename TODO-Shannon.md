@@ -1,31 +1,35 @@
 # Shannon's Open Tasks
 
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-1. * [ ] Explainers for SSKR
+   * [ ] Itemize & Query Gordian Projects
+   * [ ] Query S. Wallet
+   * [ ] Put Together List for AG Community
+   * [ ] Put Together Tweets
+3. * [ ] Explainers for SSKR
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
-1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-1. * [ ] Add to #SC: Rollup Attack
+4. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+5. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+6. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+7. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-1. * [ ] Fix Crypto Commons Background for Social Media Preview
-1. * [ ] Move this to CanBan List
-1. * [ ] Finish work on Multisigs (Pending: Comments)
+8. * [ ] Fix Crypto Commons Background for Social Media Preview
+9. * [ ] Move this to CanBan List
+10. * [ ] Finish work on Multisigs (Pending: Comments)
    * [ ] Get Comments from C.
    * [ ] Resolve Comments
    * [ ] Decide whether to move Reconstruction vs. Recovery
    * [ ] Produce A-focused version for BM
-1. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
-1. * [ ] Check on Articles (What's Not Used?)
-1. * [ ] Support Internship
+11. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
+12. * [ ] Check on Articles (What's Not Used?)
+13. * [ ] Support Internship
    * [ ] What is Internship
    * [ ] New Tweetstorm
    * [ ] Quote from Past Interns
-1. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+14. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-1. * [ ] GCS Docs
+15. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -34,10 +38,10 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-1. * [ ] Gordian Guardian
+16. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-1. * [ ] short articles in LWA linking to other CA work
+17. * [ ] short articles in LWA linking to other CA work
 
 ## Pending
 
