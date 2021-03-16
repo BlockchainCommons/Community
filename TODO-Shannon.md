@@ -9,27 +9,31 @@
    * [ ] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
 4. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-5. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-6. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-7. * [ ] Add to #SC: Rollup Attack
+5. * [ ] App Icons
+   * [ ] Cosigner
+   * [ ] Guardian
+   * [ ] Wallet
+7. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+8. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+9. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-8. * [ ] Fix Crypto Commons Background for Social Media Preview
-9. * [ ] Move this to CanBan List
-10. * [ ] Finish work on Multisigs (Pending: Comments)
+10. * [ ] Fix Crypto Commons Background for Social Media Preview
+11. * [ ] Move this to CanBan List
+12. * [ ] Finish work on Multisigs (Pending: Comments)
    * [ ] Get Comments from C.
    * [ ] Resolve Comments
    * [ ] Decide whether to move Reconstruction vs. Recovery
    * [ ] Produce A-focused version for BM
-11. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
-12. * [ ] Check on Articles (What's Not Used?)
-13. * [ ] Support Internship
+13. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
+14. * [ ] Check on Articles (What's Not Used?)
+15. * [ ] Support Internship
    * [ ] What is Internship
    * [ ] New Tweetstorm
    * [ ] Quote from Past Interns
-14. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+16. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-15. * [ ] GCS Docs
+17. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -38,10 +42,10 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-16. * [ ] Gordian Guardian
+18. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-17. * [ ] short articles in LWA linking to other CA work
+19. * [ ] short articles in LWA linking to other CA work
 
 ## Pending
 
