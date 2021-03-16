@@ -1,7 +1,7 @@
 # Shannon's Open Tasks
 
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-   * [ ] Itemize & Query Gordian Projects
+   * [X] Itemize & Query Gordian Projects
    * [ ] Query S. Wallet
    * [ ] Put Together List for AG Community
    * [ ] Put Together Tweets
