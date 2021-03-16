@@ -2,7 +2,7 @@
 
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
    * [X] Itemize & Query Gordian Projects
-   * [ ] Query S. Wallet
+   * [X] Query S. Wallet
    * [ ] Put Together List for AG Community
    * [ ] Put Together Tweets
 3. * [ ] Explainers for SSKR
