@@ -5,33 +5,36 @@
    * [X] Query S. Wallet
    * [ ] Put Together List for AG Community
    * [ ] Put Together Tweets
-4. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-5. * [ ] App Icons
+1. * [ ] Revise Multisig
+   * [ ] Entirely replace "safety" with "resilience"
+   * [ ] Revise Intro to better capture resilience v. security and also address topics like SPOF, separation of interests, separation of duties, dual control, complexity and how it's all a balancing act
+1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+1. * [ ] App Icons
    * [ ] Cosigner
    * [ ] Guardian
    * [ ] Wallet
 1. * [ ] COmbine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
-7. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-8. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-9. * [ ] Add to #SC: Rollup Attack
+1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-10. * [ ] Fix Crypto Commons Background for Social Media Preview
-11. * [ ] Move this to CanBan List
-12. * [ ] Finish work on Multisigs (Pending: Comments)
+1. * [ ] Fix Crypto Commons Background for Social Media Preview
+1. * [ ] Move this to CanBan List
+1. * [ ] Finish work on Multisigs (Pending: Comments)
    * [ ] Get Comments from C.
    * [ ] Resolve Comments
    * [ ] Decide whether to move Reconstruction vs. Recovery
    * [ ] Produce A-focused version for BM
-13. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
-14. * [ ] Check on Articles (What's Not Used?)
-15. * [ ] Support Internship
+1. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
+1. * [ ] Check on Articles (What's Not Used?)
+1. * [ ] Support Internship
    * [ ] What is Internship
    * [ ] New Tweetstorm
    * [ ] Quote from Past Interns
-16. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+1. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-17. * [ ] GCS Docs
+1. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -40,10 +43,10 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-18. * [ ] Gordian Guardian
+1. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-19. * [ ] short articles in LWA linking to other CA work
+1. * [ ] short articles in LWA linking to other CA work
 
 ## Pending
 
@@ -90,7 +93,8 @@
 
 ## Recently Completed
 
-3. * [X] Explainers for SSKR
+1. * [X] Revise the SSKR Explainers
+1. * [X] Explainers for SSKR
    * [X] For Developers: standard; codebase; why
    * [X] For Users: just the facts, for users   
 1. * [X] Edit Multi-sigs
