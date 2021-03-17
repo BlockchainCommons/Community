@@ -5,9 +5,6 @@
    * [X] Query S. Wallet
    * [ ] Put Together List for AG Community
    * [ ] Put Together Tweets
-3. * [ ] Explainers for SSKR
-   * [X] For Developers: standard; codebase; why
-   * [ ] For Users: just the facts, for users   
 4. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 5. * [ ] App Icons
    * [ ] Cosigner
@@ -93,6 +90,9 @@
 
 ## Recently Completed
 
+3. * [X] Explainers for SSKR
+   * [X] For Developers: standard; codebase; why
+   * [X] For Users: just the facts, for users   
 1. * [X] Edit Multi-sigs
    * [X] Remove "custody" and "self-custody" from examples
    * [X] Work through J's language concerns
