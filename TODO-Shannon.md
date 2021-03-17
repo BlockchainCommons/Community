@@ -6,7 +6,7 @@
    * [ ] Put Together List for AG Community
    * [ ] Put Together Tweets
 3. * [ ] Explainers for SSKR
-   * [ ] For Developers: standard; codebase; why
+   * [X] For Developers: standard; codebase; why
    * [ ] For Users: just the facts, for users   
 4. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 5. * [ ] App Icons
