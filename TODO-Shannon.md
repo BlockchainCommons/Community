@@ -93,6 +93,7 @@
 
 ## Recently Completed
 
+1. * [X] Combine Shamir RWOT Articles
 1. * [X] Revise the SSKR Explainers
 1. * [X] Explainers for SSKR
    * [X] For Developers: standard; codebase; why
