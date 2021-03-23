@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Outline potential architecture review for security review
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
    * [X] Itemize & Query Gordian Projects
    * [X] Query S. Wallet
@@ -93,6 +94,7 @@
 
 ## Recently Completed
 
+1. * [X] Revise Next Steps for Security Review
 1. * [X] Update btcpay.blockchaincommons.com
 1. * [X] Combine Shamir RWOT Articles
 1. * [X] Revise the SSKR Explainers
