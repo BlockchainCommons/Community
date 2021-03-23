@@ -1,7 +1,6 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update btcpay.blockchaincommons.com
-2. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
+1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
    * [X] Itemize & Query Gordian Projects
    * [X] Query S. Wallet
    * [ ] Put Together List for AG Community
@@ -94,6 +93,7 @@
 
 ## Recently Completed
 
+1. * [X] Update btcpay.blockchaincommons.com
 1. * [X] Combine Shamir RWOT Articles
 1. * [X] Revise the SSKR Explainers
 1. * [X] Explainers for SSKR
@@ -117,12 +117,3 @@
 1. * [X] Revise "Next Steps" as Needed
 1. * [X] Crypto-request Teaser (Wed.?)
 1. * [X] Update Text in Gordian
-1. * [X] write up repo naming conventions, maybe in template (see: https://github.com/BlockchainCommons/GordianCosigner-Catalyst/issues/39)
-1. * [X] Write up a standard short status paragraph our template for Research, Alpha, Late Alpha, etc. and referring to our release path document. This is something people are not filling out properly when they use the template. 
-1. * [X] Revise What is Gordian
-   * [X] Revise What is Gordian Tweetstorm
-1. * [X] Talk with G. About Helping with Other Tasks
-1. * [X] TS & Updates for HRF
-1. * [X] Write Video Text for Vivian
-1. * [X] Work with @VinayTaylor on a) shorter paragraphis for HRF grant they want tomorrow, and b) larger version colin of coindesk (author of both intern articles) for his writeup about the HRF grant. He wants it soon too.
-1. * [X] Write "Next Steps" Letter for Security Review
