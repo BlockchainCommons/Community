@@ -1,33 +1,25 @@
 # Shannon's Open Tasks
 
-1. * [ ] Outline potential architecture review for security review
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
    * [X] Itemize & Query Gordian Projects
    * [X] Query S. Wallet
    * [ ] Put Together List for AG Community
    * [ ] Put Together Tweets
-1. * [ ] Revise Multisig
-   * [X] Entirely replace "safety" with "resilience"
-   * [X] Revise Intro to better capture resilience v. security and also address topics like SPOF, separation of interests, separation of duties, dual control, complexity and how   it's all a balancing act
-   * [X] Replace "multisigs" with "multisig" or "multisig design" or whatever, as possible
-   * [ ] Do final edit
 1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 1. * [ ] App Icons
    * [ ] Cosigner
    * [ ] Guardian
    * [ ] Wallet
-1. * [ ] COmbine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
+1. * [ ] Gordian Revisions
+   * [ ] COmbine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
+   * [ ] See if any paragraph should be used for Gordian repo
+   * [ ] Update TS
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
 1. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 1. * [ ] Fix Crypto Commons Background for Social Media Preview
 1. * [ ] Move this to CanBan List
-1. * [ ] Finish work on Multisigs (Pending: Comments)
-   * [ ] Get Comments from C.
-   * [ ] Resolve Comments
-   * [ ] Decide whether to move Reconstruction vs. Recovery
-   * [ ] Produce A-focused version for BM
 1. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
 1. * [ ] Check on Articles (What's Not Used?)
 1. * [ ] Support Internship
@@ -96,6 +88,13 @@
 
 ## Recently Completed
 
+1. * [X] Produce A-focused Multisig article version for BM
+1. * [X] Revise Multisig
+   * [X] Entirely replace "safety" with "resilience"
+   * [X] Revise Intro to better capture resilience v. security and also address topics like SPOF, separation of interests, separation of duties, dual control, complexity and how   it's all a balancing act
+   * [X] Replace "multisigs" with "multisig" or "multisig design" or whatever, as possible
+   * [X] Do final edit
+1. * [X] Outline potential architecture review for security review
 1. * [X] Revise Next Steps for Security Review
 1. * [X] Update btcpay.blockchaincommons.com
 1. * [X] Combine Shamir RWOT Articles
