@@ -8,7 +8,9 @@
    * [ ] Put Together Tweets
 1. * [ ] Revise Multisig
    * [X] Entirely replace "safety" with "resilience"
-   * [ ] Revise Intro to better capture resilience v. security and also address topics like SPOF, separation of interests, separation of duties, dual control, complexity and how it's all a balancing act
+   * [X] Revise Intro to better capture resilience v. security and also address topics like SPOF, separation of interests, separation of duties, dual control, complexity and how   it's all a balancing act
+   * [X] Replace "multisigs" with "multisig" or "multisig design" or whatever, as possible
+   * [ ] Do final edit
 1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 1. * [ ] App Icons
    * [ ] Cosigner
