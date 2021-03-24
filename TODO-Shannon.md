@@ -7,7 +7,7 @@
    * [ ] Put Together List for AG Community
    * [ ] Put Together Tweets
 1. * [ ] Revise Multisig
-   * [ ] Entirely replace "safety" with "resilience"
+   * [X] Entirely replace "safety" with "resilience"
    * [ ] Revise Intro to better capture resilience v. security and also address topics like SPOF, separation of interests, separation of duties, dual control, complexity and how it's all a balancing act
 1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 1. * [ ] App Icons
