@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Write quarterly report
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
    * [X] Itemize & Query Gordian Projects
    * [X] Query S. Wallet
