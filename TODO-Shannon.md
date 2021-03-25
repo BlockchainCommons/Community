@@ -12,7 +12,7 @@
    * [ ] Guardian
    * [ ] Wallet
 1. * [ ] Gordian Revisions
-   * [ ] COmbine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
+   * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
    * [ ] See if any paragraph should be used for Gordian repo
    * [ ] Update TS
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
