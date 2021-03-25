@@ -14,7 +14,7 @@
 1. * [ ] Gordian Revisions
    * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
    * [ ] See if any paragraph should be used for Gordian repo
-   * [ ] Update TS
+   * [X] Update TS
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
 1. * [ ] Add to #SC: Rollup Attack
