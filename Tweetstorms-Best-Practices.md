@@ -63,6 +63,7 @@ Blockchain Commons Tweets generally come in three types:
    * AirGapped Wallet Discussions: https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions
    * Blockchain Commons Community: https://github.com/BlockchainCommons/Community
 * Appeal to become patrons
+   * Our creators may not be comfortable with this, in which case this can be covered in the RT:
    * Blockchain Commons GitHub Sponsors: https://github.com/sponsors/BlockchainCommons
    * Blockchain Commons BTCPay: https://btcpay.blockchaincommons.com/
    * #SmartCustody BTCPay: https://smartcustody.btcpay.blockchaincommons.com/
