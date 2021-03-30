@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Incorporate Joe's Comments into NS Letter
 1. * [ ] Write TS Best Practices
 1. * [ ] Write quarterly report (talk with Chris)
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
@@ -91,6 +90,7 @@
 
 ## Recently Completed
 
+1. * [X] Incorporate Joe's Comments into NS Letter
 1. * [X] Produce A-focused Multisig article version for BM
 1. * [X] Revise Multisig
    * [X] Entirely replace "safety" with "resilience"
