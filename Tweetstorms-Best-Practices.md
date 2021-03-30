@@ -47,6 +47,7 @@ Blockchain Commons Tweets generally come in three types:
 * Include good photo, gif, or social preview on first tweet
    * A link to our repos should generally produce a prepared social preview
       * If there's not a social-media preview for a repo we want to link, we should create it
+* Make sure you introduce project for someone who's never seen it before
 * Be sure to link to the repo for the project you're talking about
    * You might also link to READMEs, docs, or other files, especially if you're talking about them specifically, or they've been recently created or updated
 * Provide photos, images, links and/or social previews on other tweets as possible
