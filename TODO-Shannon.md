@@ -1,5 +1,7 @@
 # Shannon's Open Tasks
 
+1. * [ ] Incorporate Joe's Comments into NS Letter
+1. * [ ] Write TS Best Practices
 1. * [ ] Write quarterly report (talk with Chris)
 1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
    * [X] Itemize & Query Gordian Projects
@@ -13,7 +15,7 @@
    * [ ] Wallet
 1. * [ ] Gordian Revisions
    * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
-   * [ ] See if any paragraph should be used for Gordian repo
+   * [X] See if any paragraph should be used for Gordian repo
    * [X] Update TS
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
@@ -112,12 +114,3 @@
    * [X] Redo Images
    * [X] Edit it all
 1. * [X] Add Gordian Guardian to App Map
-1. * [X] Support GG Release
-   * [X] Comment on screen shots
-   * [X] Check metadata in repo
-   * [X] Check in-app docs in repo
-1. * [X] Finalize Guardian social-media-preview & upload PSD
-   * [X] Add Guardian to main Guardian image.
-1. * [X] Revise "Next Steps" as Needed
-1. * [X] Crypto-request Teaser (Wed.?)
-1. * [X] Update Text in Gordian
