@@ -59,8 +59,7 @@ Blockchain Commons Tweets generally come in three types:
       * Possibly link master repos for [crypto-commons](https://github.com/BlockchainCommons/crypto-commons), [Gordian](https://github.com/BlockchainCommons/Gordian), and [torgap](https://github.com/BlockchainCommons/torgap)
       * Probaly link to developer communities (see below)
 * Connect developers back to our communities & encourage testing and participation.
-   * AirGapped Wallet Community: https://github.com/BlockchainCommons/Airgapped-Wallet-Community
-   * AirGapped Wallet Discussions: https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions
+   * AirGapped Wallet Discussions: https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions or https://tinyurl.com/airgap-disc
    * Blockchain Commons Community: https://github.com/BlockchainCommons/Community
 * Appeal to become patrons
    * Our creators may not be comfortable with this, in which case this can be covered in the RT:
