@@ -26,20 +26,21 @@ Blockchain Commons Tweets generally come in three types:
       * Regular spotlights on specifications and interoperability
       * Overviews of concerns & advancements in blockchain technology
    * Format: medium or long tweetstorms
-   * Goal: to overview work at Block, to regularly touch bases on our projects
+   * Goal: to overview work at Block, to regularly touch bases on our projects, to be a futurist voice
 
 ### Who Retweets?
 
 * @blockchaincmns
    * Topics: everything by other accounts
    * Format: simple retweet of tweet or root of tweetstorm
+ 
 * ChristopherA
    * Topics: everything by other accounts
    * Format: Tweetstorm starting with RT
       * Add context
          * How project fits with goals of Blockchain Commons
-         * How projects addresses issues in space
-         * Where project is going in the future its with goals of Blockchain Commons
+         * How projects addresses issues in blockchain technology space
+         * Where project is going in the future
 
 ## General Style
 
@@ -50,6 +51,12 @@ Blockchain Commons Tweets generally come in three types:
    * You might also link to READMEs, docs, or other files, especially if you're talking about them specifically, or they've been recently created or updated
 * Provide photos, images, links and/or social previews on other tweets as possible
    * 50% or more is a good ratio
+      * Possibly include images, usually found in `images` or `Images` of repo
+      * Possibly link to different files in repo
+      * Possibly link to www.blockchaincommons.com
+      * Possibly link to relevent research papers: https://github.com/BlockchainCommons/Research
+      * Possibly link master repos for [crypto-commons](https://github.com/BlockchainCommons/crypto-commons), [Gordian](https://github.com/BlockchainCommons/Gordian), and [torgap](https://github.com/BlockchainCommons/torgap)
+      * Probaly link to developer communities (see below)
 * Connect developers back to our communities & encourage testing and participation.
    * AirGapped Wallet Community: https://github.com/BlockchainCommons/Airgapped-Wallet-Community
    * AirGapped Wallet Discussions: https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions
@@ -58,7 +65,7 @@ Blockchain Commons Tweets generally come in three types:
    * Blockchain Commons GitHub Sponsors: https://github.com/sponsors/BlockchainCommons
    * Blockchain Commons BTCPay: https://btcpay.blockchaincommons.com/
    * #SmartCustody BTCPay: https://smartcustody.btcpay.blockchaincommons.com/
-* Number the tweets: [X/Y]
+* Number the tweets if it's a storm: [X/Y]
 
 ### Sample Appeals to Community
 
