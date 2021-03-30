@@ -2,6 +2,8 @@
 
 This is a list of TWeetstorms for Blockchain Commons, with links to the first Tweet of each.
 
+* [Best Practices](Tweetstorms-Best-Practices.md) - best practices for writing tweets
+
 ## Interns
 
 * *Summer 2021 / HRF Grant* https://twitter.com/ChristopherA/status/1366880813845909506 (3/2/21)
