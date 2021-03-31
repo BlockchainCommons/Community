@@ -68,7 +68,9 @@ Blockchain Commons Tweets generally come in three types:
    * #SmartCustody BTCPay: https://smartcustody.btcpay.blockchaincommons.com/
 * Obviously: remember 280 characters max per tweet
 * Number the tweets if it's a storm: [X/Y]
-
+* Log It!
+   * Link to your tweet at: https://github.com/BlockchainCommons/Community/blob/master/Tweetstorms.md
+ 
 ### Sample Appeals to Community
 
 _These are drawn from existing tweets, so some are very specific to certain topics._
