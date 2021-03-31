@@ -16,6 +16,7 @@ See also [our current strategies](Strategies.md).
 
 ## More Information
 
+   * [Repo Creation Conventions](repo-conventions.md) - how to create a new repo
    * [Release Path](release-path.md) — what alpha, beta, etc mean
       * [Release Path Best Practices Standards](release-path-standards.md) — what to do at various stages
    * [Tweetstorms](Tweetstorms.md) — incomplete list of past tweetstorms
