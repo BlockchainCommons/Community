@@ -1,12 +1,11 @@
 # Shannon's Open Tasks
 
-1. * [ ] Write TS Best Practices
+1. * [ ] Update any "Abouts" on Repos
+1. * [ ] Write UR Articles
+   * [X] Write UR Overview
+   * [ ] Write UR & Keys
+   * [ ] Write UR & PSBTs
 1. * [ ] Write quarterly report (talk with Chris)
-1. * [ ] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-   * [X] Itemize & Query Gordian Projects
-   * [X] Query S. Wallet
-   * [ ] Put Together List for AG Community
-   * [ ] Put Together Tweets
 1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 1. * [ ] App Icons
    * [ ] Cosigner
@@ -16,6 +15,7 @@
    * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
    * [X] See if any paragraph should be used for Gordian repo
    * [X] Update TS
+   * [ ] Incorporate comments + Post
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
 1. * [ ] Add to #SC: Rollup Attack
@@ -44,6 +44,7 @@
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
 1. * [ ] short articles in LWA linking to other CA work
+1. * [ ] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
 
 ## Pending
 
@@ -90,6 +91,12 @@
 
 ## Recently Completed
 
+1. * [X] Upgrade BTCPay
+1. * [X] Edit G. Tweets & Write RT
+1. * [X] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
+   * [X] Itemize & Query Gordian Projects
+   * [X] Query S. Wallet
+1. * [X] Write TS Best Practices
 1. * [X] Incorporate Joe's Comments into NS Letter
 1. * [X] Produce A-focused Multisig article version for BM
 1. * [X] Revise Multisig
