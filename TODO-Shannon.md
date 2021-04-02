@@ -1,6 +1,8 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update any "Abouts" on Repos
+1. * [ ] update Gordian Seal as per Sean's latest.
+1. * [ ] need new interns opportunity tweet
+[ ] Update any "Abouts" on Repos
 1. * [ ] Write UR Articles
    * [X] Write UR Overview
    * [ ] Write UR & Keys
