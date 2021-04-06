@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] update Gordian Seal as per Sean's latest.
 1. * [ ] need new interns opportunity tweet
 [ ] Update any "Abouts" on Repos
 1. * [ ] Write UR Articles
@@ -93,6 +92,7 @@
 
 ## Recently Completed
 
+1. * [X] update Gordian Seal as per Sean's latest.
 1. * [X] Upgrade BTCPay
 1. * [X] Edit G. Tweets & Write RT
 1. * [X] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
@@ -109,17 +109,3 @@
 1. * [X] Outline potential architecture review for security review
 1. * [X] Revise Next Steps for Security Review
 1. * [X] Update btcpay.blockchaincommons.com
-1. * [X] Combine Shamir RWOT Articles
-1. * [X] Revise the SSKR Explainers
-1. * [X] Explainers for SSKR
-   * [X] For Developers: standard; codebase; why
-   * [X] For Users: just the facts, for users   
-1. * [X] Edit Multi-sigs
-   * [X] Remove "custody" and "self-custody" from examples
-   * [X] Work through J's language concerns
-   * [X] Think about "self-sovereign" vs "autonomous"
-   * [X] Revise Building Block, Advantage, Disadvantage, and Conclusion
-   * [X] Rewrite Intro
-   * [X] Redo Images
-   * [X] Edit it all
-1. * [X] Add Gordian Guardian to App Map
