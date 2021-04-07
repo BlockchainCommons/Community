@@ -5,8 +5,10 @@
 1. * [ ] Write UR Articles
    * [X] Write UR Overview
    * [ ] Write UR & Keys
+   * [ ] Write UR & SSKR
    * [ ] Write UR & PSBTs
 1. * [ ] Write quarterly report (talk with Chris)
+1. * [ ] Write article about digital identity definition words
 1. * [ ] Post SSKR User/Developer Articles?
 1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 1. * [ ] App Icons
