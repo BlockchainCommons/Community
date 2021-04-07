@@ -7,6 +7,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 ## Gordian Cosigner
 
 * *Integration with LetheKit* https://twitter.com/gorazdko/status/1377253593158402053 (3/31/21)
+   * *Comments:* https://twitter.com/ChristopherA/status/1377327244465500160 (3/31/21)
 
 ## Interns
 
@@ -15,6 +16,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 ## LetheKit
 
 * *Integration with GCS* https://twitter.com/gorazdko/status/1377253593158402053 (3/31/21)
+   * *Comments:* https://twitter.com/ChristopherA/status/1377327244465500160 (3/31/21)
 
 ## #SmartCustody
 
