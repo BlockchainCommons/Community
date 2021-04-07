@@ -1,12 +1,13 @@
 # Shannon's Open Tasks
 
-1. * [ ] need new interns opportunity tweet
-[ ] Update any "Abouts" on Repos
+1. * [ ] Review Gordian based on V. & FD Comments
+1. * [ ] Edit/prepare Keytool Tweetstorm
 1. * [ ] Write UR Articles
    * [X] Write UR Overview
    * [ ] Write UR & Keys
    * [ ] Write UR & PSBTs
 1. * [ ] Write quarterly report (talk with Chris)
+1. * [ ] Post SSKR User/Developer Articles?
 1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 1. * [ ] App Icons
    * [ ] Cosigner
@@ -92,6 +93,8 @@
 
 ## Recently Completed
 
+1. * [X] need new interns opportunity tweet
+   * [X] Update any "Abouts" on Repos
 1. * [X] update Gordian Seal as per Sean's latest.
 1. * [X] Upgrade BTCPay
 1. * [X] Edit G. Tweets & Write RT
