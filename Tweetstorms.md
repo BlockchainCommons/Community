@@ -12,7 +12,8 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 ## Interns
 
 * *Summer 2021 / HRF Grant* https://twitter.com/ChristopherA/status/1366880813845909506 (3/2/21)
-
+* *Summer 2021 Reminder* https://twitter.com/ChristopherA/status/1379864030853038080 (4/7/21)
+ 
 ## LetheKit
 
 * *Integration with GCS* https://twitter.com/gorazdko/status/1377253593158402053 (3/31/21)
