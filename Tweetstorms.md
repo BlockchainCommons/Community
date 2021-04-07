@@ -28,3 +28,6 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *Q4 Report:* https://twitter.com/BlockchainComns/status/1347274478502350848 (1/7/21)
    * *Comments:* https://twitter.com/ChristopherA/status/1347280840879861760 (1/7/21)
    
+## UR
+
+* *UR Overview*: https://twitter.com/ChristopherA/status/1336393186701266945 (12/8/20)
