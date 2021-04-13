@@ -3,12 +3,13 @@
 1. * [ ] Review Gordian based on V. & FD Comments
 1. * [ ] Update Quarterly for Newest Info
 1. * [ ] Edit/prepare Keytool Tweetstorm
+1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
 1. * [ ] Write UR Articles
+   * [ ] Address WM Comments
    * [X] Write UR Overview
    * [ ] Write UR & Keys
    * [ ] Write UR & SSKR
    * [ ] Write UR & PSBTs
-1. * [ ] Write quarterly report (talk with Chris)
 1. * [ ] Write article about digital identity definition words
 1. * [ ] Post SSKR User/Developer Articles?
 1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
@@ -96,6 +97,7 @@
 
 ## Recently Completed
 
+1. * [X] Write quarterly report (talk with Chris)
 1. * [X] need new interns opportunity tweet
    * [X] Update any "Abouts" on Repos
 1. * [X] update Gordian Seal as per Sean's latest.
