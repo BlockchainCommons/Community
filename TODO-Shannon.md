@@ -1,6 +1,7 @@
 # Shannon's Open Tasks
 
 1. * [ ] Review Gordian based on V. & FD Comments
+1. * [ ] Update Quarterly for Newest Info
 1. * [ ] Edit/prepare Keytool Tweetstorm
 1. * [ ] Write UR Articles
    * [X] Write UR Overview
@@ -112,5 +113,3 @@
    * [X] Replace "multisigs" with "multisig" or "multisig design" or whatever, as possible
    * [X] Do final edit
 1. * [X] Outline potential architecture review for security review
-1. * [X] Revise Next Steps for Security Review
-1. * [X] Update btcpay.blockchaincommons.com
