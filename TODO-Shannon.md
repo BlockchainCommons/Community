@@ -1,6 +1,7 @@
 # Shannon's Open Tasks
 
-1. * [ ] Review Gordian based on V. & FD Comments
+1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
+1. * [ ] Write Brief Code of Ethics
 1. * [ ] Update Quarterly for Newest Info
 1. * [ ] Edit/prepare Keytool Tweetstorm
 1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
@@ -17,11 +18,6 @@
    * [ ] Cosigner
    * [ ] Guardian
    * [ ] Wallet
-1. * [ ] Gordian Revisions
-   * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
-   * [X] See if any paragraph should be used for Gordian repo
-   * [X] Update TS
-   * [ ] Incorporate comments + Post
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
 1. * [ ] Add to #SC: Rollup Attack
@@ -97,6 +93,11 @@
 
 ## Recently Completed
 
+1. * [X] Gordian Revisions
+   * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
+   * [X] See if any paragraph should be used for Gordian repo
+   * [X] Update TS
+1. * [ ] Review Gordian based on V. & FD Comments
 1. * [X] Write quarterly report (talk with Chris)
 1. * [X] need new interns opportunity tweet
    * [X] Update any "Abouts" on Repos
