@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
 1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
 1. * [ ] Write Brief Code of Ethics
 1. * [ ] Update Quarterly for Newest Info
