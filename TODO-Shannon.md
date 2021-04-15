@@ -4,7 +4,6 @@
 1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
 1. * [ ] Write Brief Code of Ethics
    * Be ethical; abide by the principles of Gordian; spirit not the letter
-1. * [ ] Update Quarterly for Newest Info
 1. * [ ] Edit/prepare Keytool Tweetstorm
 1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
 1. * [ ] Write UR Articles
@@ -95,6 +94,7 @@
 
 ## Recently Completed
 
+1. * [X] Update Quarterly for Newest Info
 1. * [X] Gordian Revisions
    * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
    * [X] See if any paragraph should be used for Gordian repo
