@@ -3,6 +3,7 @@
 1. * [ ] Write Brief Code of Ethics
    * Be ethical; abide by the principles of Gordian; spirit not the letter
 1. * [ ] Debug GG User Limits
+1. * [ ] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
 1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
 1. * [ ] Write SSKR
    * [ ] Write examples with codes & show dogtags
@@ -59,7 +60,7 @@
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
 1. * [ ] short articles in LWA linking to other CA work
-1. * [ ] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
+1. * [ ] Clear Learning Bitcoin Issues/PRs
 
 ## Pending
 
