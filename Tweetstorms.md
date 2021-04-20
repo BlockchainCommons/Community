@@ -19,6 +19,10 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *Integration with GCS* https://twitter.com/gorazdko/status/1377253593158402053 (3/31/21)
    * *Comments:* https://twitter.com/ChristopherA/status/1377327244465500160 (3/31/21)
 
+## Self-sovereign Identity
+
+* *Two-year Report.* https://twitter.com/ChristopherA/status/989120215702261761 (4/25/18)
+* 
 ## #SmartCustody
 
 * *#SC1.0: Bitcoin Valuation* https://twitter.com/ChristopherA/status/1354485791154528261?s=20 (1/27/21)
@@ -26,9 +30,10 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 
 ## Quarterly Reports
 
-* *Q4 Report:* https://twitter.com/BlockchainComns/status/1347274478502350848 (1/7/21)
+* *Q4, 2020 Report:* https://twitter.com/BlockchainComns/status/1347274478502350848 (1/7/21)
    * *Comments:* https://twitter.com/ChristopherA/status/1347280840879861760 (1/7/21)
-   
+* *Q1, 2021 Report:* https://twitter.com/ChristopherA/status/1382782509398650881 (4/15/21)
+
 ## UR
 
 * *UR Overview*: https://twitter.com/ChristopherA/status/1336393186701266945 (12/8/20)
