@@ -2,7 +2,6 @@
 
 1. * [ ] Write Brief Code of Ethics
    * Be ethical; abide by the principles of Gordian; spirit not the letter
-1. * [ ] Debug GG User Limits
 1. * [ ] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
 1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
 1. * [ ] Write SSKR
@@ -107,13 +106,14 @@
 
 ## Recently Completed
 
+1. * [X] Debug GG User Limits
 1. * [X] Check recent GH Requests
 1. * [X] Update Quarterly for Newest Info
 1. * [X] Gordian Revisions
    * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
    * [X] See if any paragraph should be used for Gordian repo
    * [X] Update TS
-1. * [ ] Review Gordian based on V. & FD Comments
+1. * [X] Review Gordian based on V. & FD Comments
 1. * [X] Write quarterly report (talk with Chris)
 1. * [X] need new interns opportunity tweet
    * [X] Update any "Abouts" on Repos
