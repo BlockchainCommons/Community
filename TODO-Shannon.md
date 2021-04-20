@@ -1,6 +1,6 @@
 # Shannon's Open Tasks
 
-1. * [ ] Check recent GH Requests
+1. * [X] Check recent GH Requests
 1. * [ ] Write Brief Code of Ethics
    * Be ethical; abide by the principles of Gordian; spirit not the letter
 1. * [ ] Debug GG User Limits
@@ -13,6 +13,7 @@
 1. * [ ] Prepare Material for S. (by Wednesday EOD)
    * [ ] Summary of backlog
    * [ ] any updates for Gordian
+      * Clear recent comments
       * Expand Openness per Z.
       * Better talk "meets or exceeds", better position best practices
 1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
