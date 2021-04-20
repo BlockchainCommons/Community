@@ -121,11 +121,3 @@
    * [X] Itemize & Query Gordian Projects
    * [X] Query S. Wallet
 1. * [X] Write TS Best Practices
-1. * [X] Incorporate Joe's Comments into NS Letter
-1. * [X] Produce A-focused Multisig article version for BM
-1. * [X] Revise Multisig
-   * [X] Entirely replace "safety" with "resilience"
-   * [X] Revise Intro to better capture resilience v. security and also address topics like SPOF, separation of interests, separation of duties, dual control, complexity and how   it's all a balancing act
-   * [X] Replace "multisigs" with "multisig" or "multisig design" or whatever, as possible
-   * [X] Do final edit
-1. * [X] Outline potential architecture review for security review
