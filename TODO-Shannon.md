@@ -13,6 +13,7 @@
 1. * [ ] Prepare Material for S. (by Wednesday EOD)
    * [ ] Summary of backlog
    * [ ] any updates for Gordian
+      * Expand Openness per Z.
       * Better talk "meets or exceeds", better position best practices
 1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
 1. * [ ] Edit/prepare Keytool Tweetstorm
