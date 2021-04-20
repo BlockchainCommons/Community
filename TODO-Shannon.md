@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [X] Check recent GH Requests
 1. * [ ] Write Brief Code of Ethics
    * Be ethical; abide by the principles of Gordian; spirit not the letter
 1. * [ ] Debug GG User Limits
@@ -107,6 +106,7 @@
 
 ## Recently Completed
 
+1. * [X] Check recent GH Requests
 1. * [X] Update Quarterly for Newest Info
 1. * [X] Gordian Revisions
    * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
