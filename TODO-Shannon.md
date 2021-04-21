@@ -1,20 +1,16 @@
 # Shannon's Open Tasks
 
-1. * [ ] Finalize SSI Article
-   * [ ] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
-   * [ ] Incorporate Edits from Chris
-   * [ ] Incorporate Edits from Joe
+1. * [ ] Prepare Material for S. (by Wednesday EOD)
+   * [ ] Summary of backlog
+   * [ ] any updates for Gordian
+      * [X] Clear recent comments
+      * [ ] Expand Openness per Z.
+      * [ ] Better talk "meets or exceeds", better position best practices
 1. * [ ] Write SSKR
    * [ ] Write examples with codes & show dogtags
    * [ ] Update / release SSKR articles
    * [ ] Comment & link better video
    * [ ] Write SSKR article
-1. * [ ] Prepare Material for S. (by Wednesday EOD)
-   * [ ] Summary of backlog
-   * [ ] any updates for Gordian
-      * Clear recent comments
-      * Expand Openness per Z.
-      * Better talk "meets or exceeds", better position best practices
 1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
 1. * [ ] Edit/prepare Keytool Tweetstorm
 1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
@@ -106,6 +102,10 @@
 
 ## Recently Completed
 
+1. * [X] Finalize SSI Article
+   * [X] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
+   * [X] Incorporate Edits from Chris
+   * [X] Incorporate Edits from Joe
 1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
 1. * [X] Write Brief Code of Ethics
    * Be ethical; abide by the principles of Gordian; spirit not the letter
