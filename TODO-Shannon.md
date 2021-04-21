@@ -2,10 +2,10 @@
 
 1. * [ ] Prepare Material for S. (by Wednesday EOD)
    * [ ] Summary of backlog
-   * [ ] any updates for Gordian
+   * [X] any updates for Gordian
       * [X] Clear recent comments
       * [X] Expand Openness per Z.
-      * [ ] Better talk "meets or exceeds", better position best practices
+      * [X] Better talk "meets or exceeds", better position best practices
 1. * [ ] Write SSKR
    * [ ] Write examples with codes & show dogtags
    * [ ] Update / release SSKR articles
