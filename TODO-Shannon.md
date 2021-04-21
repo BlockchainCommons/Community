@@ -1,7 +1,9 @@
 # Shannon's Open Tasks
 
-1. * [ ] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
-1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
+1. * [ ] Finalize SSI Article
+   * [ ] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
+   * [ ] Incorporate Edits from Chris
+   * [ ] Incorporate Edits from Joe
 1. * [ ] Write SSKR
    * [ ] Write examples with codes & show dogtags
    * [ ] Update / release SSKR articles
@@ -104,6 +106,7 @@
 
 ## Recently Completed
 
+1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
 1. * [X] Write Brief Code of Ethics
    * Be ethical; abide by the principles of Gordian; spirit not the letter
 1. * [X] Debug GG User Limits
