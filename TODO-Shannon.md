@@ -4,7 +4,7 @@
    * [ ] Summary of backlog
    * [ ] any updates for Gordian
       * [X] Clear recent comments
-      * [ ] Expand Openness per Z.
+      * [X] Expand Openness per Z.
       * [ ] Better talk "meets or exceeds", better position best practices
 1. * [ ] Write SSKR
    * [ ] Write examples with codes & show dogtags
