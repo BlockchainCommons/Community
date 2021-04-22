@@ -1,11 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Prepare Material for S. (by Wednesday EOD)
-   * [ ] Summary of backlog
-   * [X] any updates for Gordian
-      * [X] Clear recent comments
-      * [X] Expand Openness per Z.
-      * [X] Better talk "meets or exceeds", better position best practices
 1. * [ ] Write SSKR
    * [ ] Write examples with codes & show dogtags
    * [ ] Update / release SSKR articles
@@ -102,6 +96,12 @@
 
 ## Recently Completed
 
+1. * [X] Prepare Material for S. (by Wednesday EOD)
+   * [X] Summary of backlog
+   * [X] any updates for Gordian
+      * [X] Clear recent comments
+      * [X] Expand Openness per Z.
+      * [X] Better talk "meets or exceeds", better position best practices
 1. * [X] Finalize SSI Article
    * [X] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
    * [X] Incorporate Edits from Chris
