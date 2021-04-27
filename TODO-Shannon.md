@@ -1,7 +1,7 @@
 # Shannon's Open Tasks
 
 1. * [ ] Write SSKR
-   * [ ] Write examples with codes & show dogtags
+   * [X] Write examples with codes & show dogtags
    * [ ] Update / release SSKR articles
    * [ ] Comment & link better video
    * [ ] Write SSKR article
