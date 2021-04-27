@@ -2,9 +2,11 @@
 
 1. * [ ] Write SSKR
    * [X] Write examples with codes & show dogtags
-   * [ ] Update / release SSKR articles
-   * [ ] Comment & link better video
-   * [ ] Write SSKR article
+   * [ ] Update SSKR articles
+   * [ ] Comment & link better video (https://www.youtube.com/watch?v=PIND7J096U8)
+   * [ ] Release
+   * [ ] Write SSKR Blog
+   * [ ] Write SSKR Tweetstorm
 1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
 1. * [ ] Edit/prepare Keytool Tweetstorm
 1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
