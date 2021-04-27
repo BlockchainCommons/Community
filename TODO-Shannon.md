@@ -96,6 +96,7 @@
 
 ## Recently Completed
 
+1. * [X] Re-edit Gordian for Newest Comments
 1. * [X] Prepare Material for S. (by Wednesday EOD)
    * [X] Summary of backlog
    * [X] any updates for Gordian
@@ -118,12 +119,3 @@
    * [X] Update TS
 1. * [X] Review Gordian based on V. & FD Comments
 1. * [X] Write quarterly report (talk with Chris)
-1. * [X] need new interns opportunity tweet
-   * [X] Update any "Abouts" on Repos
-1. * [X] update Gordian Seal as per Sean's latest.
-1. * [X] Upgrade BTCPay
-1. * [X] Edit G. Tweets & Write RT
-1. * [X] Prepare discussion in Airgapped about which specs people can start testing against, mention crypto-request, and solicit feedback on what next
-   * [X] Itemize & Query Gordian Projects
-   * [X] Query S. Wallet
-1. * [X] Write TS Best Practices
