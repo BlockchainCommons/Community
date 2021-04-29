@@ -98,6 +98,7 @@
 
 ## Recently Completed
 
+1. * [X] Turn Seal Best Practices into Requirements
 1. * [X] Re-edit Gordian for Newest Comments
 1. * [X] Prepare Material for S. (by Wednesday EOD)
    * [X] Summary of backlog
