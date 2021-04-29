@@ -2,8 +2,8 @@
 
 1. * [ ] Write SSKR
    * [X] Write examples with codes & show dogtags
-   * [ ] Update SSKR articles
-   * [ ] Comment & link better video (https://www.youtube.com/watch?v=PIND7J096U8)
+   * [X] Update SSKR articles
+   * [X] Comment & link better video (https://www.youtube.com/watch?v=PIND7J096U8)
    * [ ] Release
    * [ ] Write SSKR Blog
    * [ ] Write SSKR Tweetstorm
