@@ -7,6 +7,8 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 ## Gordian Wallet
 
 * *Introduction*: https://twitter.com/ChristopherA/status/1288160195382611968 (7/28/20)
+* *SSKR*: https://twitter.com/GordianWallet/status/1310767147774214145 (9/29/20)
+* *Gordian System*: https://twitter.com/GordianWallet/status/1320595618725679107 (10/26/20)
 
 ## Gordian Cosigner
 
@@ -55,8 +57,13 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 
 ## UR
 
+* *URs on e-paper*: https://twitter.com/gorazdko/status/1311761068868468736 (10/1/20)
 * *UR Overview*: https://twitter.com/ChristopherA/status/1336393186701266945 (12/8/20)
 * *UR Crypto Request/Response*: https://twitter.com/christophera/status/1367554235139641344?s=21 (3/4/21)
+
+## LifeHash
+
+* *CLifeHash* https://twitter.com/WolfMcNally/status/1358520354021335041 (2/7/21)
 
 ## Torgap
 
