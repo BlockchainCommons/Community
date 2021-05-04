@@ -1,7 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Upgrade BTCpay
-1. * [ ] Remove & Redirect Smartcustody BTCPay
 1. * [ ] Remove "guarantees" from G.S. Requirements
 1. * [ ] Overall QR Vault Updates
    * [ ] Get Me Access
@@ -105,6 +103,8 @@
 
 ## Recently Completed
 
+1. * [X] Upgrade BTCpay
+1. * [X] Remove & Redirect Smartcustody BTCPay
 1. * [X] Turn Seal Best Practices into Requirements
 1. * [X] Re-edit Gordian for Newest Comments
 1. * [X] Prepare Material for S. (by Wednesday EOD)
