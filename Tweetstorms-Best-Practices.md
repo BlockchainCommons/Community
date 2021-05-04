@@ -65,7 +65,6 @@ Blockchain Commons Tweets generally come in three types:
    * Our creators may not be comfortable with this, in which case this can be covered in the RT:
    * Blockchain Commons GitHub Sponsors: https://github.com/sponsors/BlockchainCommons
    * Blockchain Commons BTCPay: https://btcpay.blockchaincommons.com/
-   * #SmartCustody BTCPay: https://smartcustody.btcpay.blockchaincommons.com/
 * Obviously: remember 280 characters max per tweet
 * Number the tweets if it's a storm: [X/Y]
 * Log It!
