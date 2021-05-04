@@ -1,5 +1,18 @@
 # Shannon's Open Tasks
 
+1. * [ ] Upgrade BTCpay
+1. * [ ] Remove & Redirect Smartcustody BTCPay
+1. * [ ] Remove "guarantees" from G.S. Requirements
+1. * [ ] Overall QR Vault Updates
+   * [ ] Get Me Access
+   * [ ] Do a First Pass on Docs
+1. * [ ] Extensive Edits of QR App Store Text, etc (next week)
+1. * [ ] Write UR Articles
+   * [ ] Address WM Comments
+   * [X] Write UR Overview
+   * [ ] Write UR & Keys
+   * [ ] Write UR & SSKR
+   * [ ] Write UR & PSBTs
 1. * [ ] Write SSKR
    * [X] Write examples with codes & show dogtags
    * [X] Update SSKR articles
@@ -10,12 +23,6 @@
 1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
 1. * [ ] Edit/prepare Keytool Tweetstorm
 1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
-1. * [ ] Write UR Articles
-   * [ ] Address WM Comments
-   * [X] Write UR Overview
-   * [ ] Write UR & Keys
-   * [ ] Write UR & SSKR
-   * [ ] Write UR & PSBTs
 1. * [ ] Write article about digital identity definition words
 1. * [ ] Post SSKR User/Developer Articles?
 1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
@@ -120,5 +127,3 @@
    * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
    * [X] See if any paragraph should be used for Gordian repo
    * [X] Update TS
-1. * [X] Review Gordian based on V. & FD Comments
-1. * [X] Write quarterly report (talk with Chris)
