@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Remove "guarantees" from G.S. Requirements
 1. * [ ] Overall QR Vault Updates
    * [ ] Get Me Access
    * [ ] Do a First Pass on Docs
@@ -103,6 +102,7 @@
 
 ## Recently Completed
 
+1. * [X] Remove "guarantees" from G.S. Requirements
 1. * [X] Upgrade BTCpay
 1. * [X] Remove & Redirect Smartcustody BTCPay
 1. * [X] Turn Seal Best Practices into Requirements
