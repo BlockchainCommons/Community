@@ -1,8 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Overall QR Vault Updates
-   * [ ] Get Me Access
-   * [ ] Do a First Pass on Docs
 1. * [ ] Extensive Edits of QR App Store Text, etc (next week)
 1. * [ ] Write UR Articles
    * [ ] Address WM Comments
@@ -102,6 +99,9 @@
 
 ## Recently Completed
 
+1. * [X] Overall QR Vault Updates
+   * [X] Get Me Access
+   * [X] Do a First Pass on Docs
 1. * [X] Remove "guarantees" from G.S. Requirements
 1. * [X] Upgrade BTCpay
 1. * [X] Remove & Redirect Smartcustody BTCPay
