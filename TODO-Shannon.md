@@ -7,9 +7,9 @@
    * [X] Write UR & Keys
    * [ ] Respond to Keys Comments
    * [ ] Write Tweetstorm about First Two UR Docs
+   * [ ] Write UR & Response/Reply
    * [ ] Write UR & SSKR
    * [ ] Write UR & PSBTs
-   * [ ] Write UR & Response/Reply
 1. * [ ] Write SSKR
    * [X] Write examples with codes & show dogtags
    * [X] Update SSKR articles
