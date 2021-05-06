@@ -2,9 +2,11 @@
 
 1. * [ ] Extensive Edits of QR App Store Text, etc (next week)
 1. * [ ] Write UR Articles
-   * [ ] Address WM Comments
+   * [X] Address WM Comments
    * [X] Write UR Overview
-   * [ ] Write UR & Keys
+   * [X] Write UR & Keys
+   * [ ] Respond to Keys Comments
+   * [ ] Write Tweetstorm about First Two UR Docs
    * [ ] Write UR & SSKR
    * [ ] Write UR & PSBTs
 1. * [ ] Write SSKR
