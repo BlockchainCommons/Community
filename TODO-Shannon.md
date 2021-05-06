@@ -9,6 +9,7 @@
    * [ ] Write Tweetstorm about First Two UR Docs
    * [ ] Write UR & SSKR
    * [ ] Write UR & PSBTs
+   * [ ] Write UR & Response/Reply
 1. * [ ] Write SSKR
    * [X] Write examples with codes & show dogtags
    * [X] Update SSKR articles
