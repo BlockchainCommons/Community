@@ -1,12 +1,11 @@
 # Shannon's Open Tasks
 
-1. * [ ] Extensive Edits of QR App Store Text, etc (next week)
 1. * [ ] Write UR Articles
    * [X] Address WM Comments
    * [X] Write UR Overview
    * [X] Write UR & Keys
-   * [ ] Respond to Keys Comments
-   * [ ] Write Tweetstorm about First Two UR Docs
+   * [X] Respond to Keys Comments
+   * [X] Write Tweetstorm about First Two UR Docs
    * [ ] Write UR & Response/Reply
    * [ ] Write UR & SSKR
    * [ ] Write UR & PSBTs
@@ -102,6 +101,7 @@
 
 ## Recently Completed
 
+1. * [X] Extensive Edits of QR App Store Text, etc (next week)
 1. * [X] Overall QR Vault Updates
    * [X] Get Me Access
    * [X] Do a First Pass on Docs
@@ -121,12 +121,3 @@
    * [X] Incorporate Edits from Chris
    * [X] Incorporate Edits from Joe
 1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
-1. * [X] Write Brief Code of Ethics
-   * Be ethical; abide by the principles of Gordian; spirit not the letter
-1. * [X] Debug GG User Limits
-1. * [X] Check recent GH Requests
-1. * [X] Update Quarterly for Newest Info
-1. * [X] Gordian Revisions
-   * [X] Combine Gordian Articles: What is Gordian? Gordian Seal. GOrdian Architecture outline.
-   * [X] See if any paragraph should be used for Gordian repo
-   * [X] Update TS
