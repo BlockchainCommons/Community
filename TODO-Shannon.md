@@ -6,9 +6,11 @@
    * [X] Write UR & Keys
    * [X] Respond to Keys Comments
    * [X] Write Tweetstorm about First Two UR Docs
-   * [ ] Write UR & Response/Reply
+   * [X] Write UR & Response/Reply for Key Material
+   * [ ] Respond to First Reply on Response/Reply
    * [ ] Write UR & SSKR
    * [ ] Write UR & PSBTs
+   * [ ] Write UR & Response/Reply for PSBTS
 1. * [ ] Write SSKR
    * [X] Write examples with codes & show dogtags
    * [X] Update SSKR articles
