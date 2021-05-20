@@ -17,7 +17,7 @@
    * [X] Write examples with codes & show dogtags
    * [X] Update SSKR articles
    * [X] Comment & link better video (https://www.youtube.com/watch?v=PIND7J096U8)
-   * [ ] Release
+   * [X] Release
    * [ ] Write SSKR Blog
    * [ ] Write SSKR Tweetstorm
 5. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
