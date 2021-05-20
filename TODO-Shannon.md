@@ -1,6 +1,7 @@
 # Shannon's Open Tasks
 
-1. * [ ] Edit Articles
+1. * [ ] Update Request/Response Tweetstorm
+2. * [ ] Edit Articles
    * [ ] Respond to any comments on new UR Articles
    * [ ] Respond to any comments on SSKR Articles
 3. * [ ] Write UR Articles
@@ -13,13 +14,6 @@
    * [X] Write UR & SSKR
    * [ ] Write UR & PSBTs
    * [ ] Write UR & Response/Reply for PSBTS
-4. * [ ] Write SSKR
-   * [X] Write examples with codes & show dogtags
-   * [X] Update SSKR articles
-   * [X] Comment & link better video (https://www.youtube.com/watch?v=PIND7J096U8)
-   * [X] Release
-   * [ ] Write SSKR Blog
-   * [ ] Write SSKR Tweetstorm
 5. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
 6. * [ ] Edit/prepare Keytool Tweetstorm
 7. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
@@ -105,6 +99,12 @@
 
 ## Recently Completed
 
+1. * [X] Write SSKR
+   * [X] Write examples with codes & show dogtags
+   * [X] Update SSKR articles
+   * [X] Comment & link better video (https://www.youtube.com/watch?v=PIND7J096U8)
+   * [X] Release
+   * [X] Write SSKR Tweetstorm
 1. * [X] Extensive Edits of QR App Store Text, etc (next week)
 1. * [X] Overall QR Vault Updates
    * [X] Get Me Access
