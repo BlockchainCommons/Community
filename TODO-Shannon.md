@@ -1,49 +1,51 @@
 # Shannon's Open Tasks
 
-1. * [ ] Write UR Articles
+1. * [ ] Edit Articles
+   * [ ] Respond to any comments on new UR Articles
+   * [ ] Respond to any comments on SSKR Articles
+3. * [ ] Write UR Articles
    * [X] Address WM Comments
    * [X] Write UR Overview
    * [X] Write UR & Keys
    * [X] Respond to Keys Comments
    * [X] Write Tweetstorm about First Two UR Docs
    * [X] Write UR & Response/Reply for Key Material
-   * [ ] Respond to First Reply on Response/Reply
-   * [ ] Write UR & SSKR
+   * [X] Write UR & SSKR
    * [ ] Write UR & PSBTs
    * [ ] Write UR & Response/Reply for PSBTS
-1. * [ ] Write SSKR
+4. * [ ] Write SSKR
    * [X] Write examples with codes & show dogtags
    * [X] Update SSKR articles
    * [X] Comment & link better video (https://www.youtube.com/watch?v=PIND7J096U8)
    * [ ] Release
    * [ ] Write SSKR Blog
    * [ ] Write SSKR Tweetstorm
-1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
-1. * [ ] Edit/prepare Keytool Tweetstorm
-1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
-1. * [ ] Write article about digital identity definition words
-1. * [ ] Post SSKR User/Developer Articles?
-1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-1. * [ ] App Icons
+5. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
+6. * [ ] Edit/prepare Keytool Tweetstorm
+7. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
+8. * [ ] Write article about digital identity definition words
+9. * [ ] Post SSKR User/Developer Articles?
+10. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+11. * [ ] App Icons
    * [ ] Cosigner
    * [ ] Guardian
    * [ ] Wallet
-1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-1. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-1. * [ ] Add to #SC: Rollup Attack
+12. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+13. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+14. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-1. * [ ] Fix Crypto Commons Background for Social Media Preview
-1. * [ ] Move this to CanBan List
-1. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
-1. * [ ] Check on Articles (What's Not Used?)
-1. * [ ] Support Internship
+15. * [ ] Fix Crypto Commons Background for Social Media Preview
+16. * [ ] Move this to CanBan List
+17. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
+18. * [ ] Check on Articles (What's Not Used?)
+19. * [ ] Support Internship
    * [ ] What is Internship
    * [ ] New Tweetstorm
    * [ ] Quote from Past Interns
-1. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+20. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-1. * [ ] GCS Docs
+21. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -52,11 +54,11 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-1. * [ ] Gordian Guardian
+22. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-1. * [ ] short articles in LWA linking to other CA work
-1. * [ ] Clear Learning Bitcoin Issues/PRs
+23. * [ ] short articles in LWA linking to other CA work
+24. * [ ] Clear Learning Bitcoin Issues/PRs
 
 ## Pending
 
