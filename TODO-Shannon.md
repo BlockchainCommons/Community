@@ -1,10 +1,11 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update Request/Response Tweetstorm
-2. * [ ] Edit Articles
-   * [ ] Respond to any comments on new UR Articles
-   * [ ] Respond to any comments on SSKR Articles
-3. * [ ] Write UR Articles
+1. * [ ] Research Timelock/Descriptor Interaction
+2. * [ ] Write about Timelock/Descriptor Interaction
+1. * [ ] Respond to W. Comments on UR Articles
+3. * [ ] Update Request/Response Tweetstorm
+4. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
+5. * [ ] Write UR Articles
    * [X] Address WM Comments
    * [X] Write UR Overview
    * [X] Write UR & Keys
@@ -14,32 +15,32 @@
    * [X] Write UR & SSKR
    * [ ] Write UR & PSBTs
    * [ ] Write UR & Response/Reply for PSBTS
-5. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
-6. * [ ] Edit/prepare Keytool Tweetstorm
-7. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
-8. * [ ] Write article about digital identity definition words
-9. * [ ] Post SSKR User/Developer Articles?
-10. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-11. * [ ] App Icons
+6. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
+7. * [ ] Edit/prepare Keytool Tweetstorm
+8. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
+9. * [ ] Write article about digital identity definition words
+10. * [ ] Post SSKR User/Developer Articles?
+11. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+12. * [ ] App Icons
    * [ ] Cosigner
    * [ ] Guardian
    * [ ] Wallet
-12. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-13. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-14. * [ ] Add to #SC: Rollup Attack
+13. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+14. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+15. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-15. * [ ] Fix Crypto Commons Background for Social Media Preview
-16. * [ ] Move this to CanBan List
-17. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
-18. * [ ] Check on Articles (What's Not Used?)
-19. * [ ] Support Internship
+16. * [ ] Fix Crypto Commons Background for Social Media Preview
+17. * [ ] Move this to CanBan List
+18. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
+19. * [ ] Check on Articles (What's Not Used?)
+20. * [ ] Support Internship
    * [ ] What is Internship
    * [ ] New Tweetstorm
    * [ ] Quote from Past Interns
-20. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+21. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-21. * [ ] GCS Docs
+22. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -48,11 +49,11 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-22. * [ ] Gordian Guardian
+23. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-23. * [ ] short articles in LWA linking to other CA work
-24. * [ ] Clear Learning Bitcoin Issues/PRs
+24. * [ ] short articles in LWA linking to other CA work
+25. * [ ] Clear Learning Bitcoin Issues/PRs
 
 ## Pending
 
@@ -124,4 +125,3 @@
    * [X] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
    * [X] Incorporate Edits from Chris
    * [X] Incorporate Edits from Joe
-1. * [ ] Write SSI 25th Anniversary Article (on the 20th)
