@@ -5,7 +5,6 @@
 1. * [ ] Update app names: Gordian QR Tool [QR Tool], Gordian Seed Tool [Seed Tool], Gordian Cosigner Tool [Cosigner Tool], Gordian Recovery Tool [Recovery Tool]
 1. * [ ] Look at G's pulls: https://github.com/BlockchainCommons/Community/pulls
 4. * [ ] Write about Timelock/Descriptor Interaction
-5. * [ ] Respond to W. Comments on UR Articles
 6. * [ ] Update Request/Response Tweetstorm
 7. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
 8. * [ ] Write UR Articles
@@ -103,6 +102,7 @@
 
 ## Recently Completed
 
+1. * [X] Respond to W. Comments on UR Articles
 1. * [X] Write SSKR
    * [X] Write examples with codes & show dogtags
    * [X] Update SSKR articles
