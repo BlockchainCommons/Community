@@ -1,9 +1,9 @@
 # Shannon's Open Tasks
 
 1. * [ ] Update App repos: No ads, no phoning home, reference implementations, specifications
-1. * [ ] Update texts in apps
+1. * [ ] Update texts in apps to say they're reference, specifications
 1. * [ ] Update app names: Gordian QR Tool [QR Tool], Gordian Seed Tool [Seed Tool], Gordian Cosigner Tool [Cosigner Tool], Gordian Recovery Tool [Recovery Tool]
-3. * [ ] Research Timelock/Descriptor Interaction
+1. * [ ] Look at G's pulls: https://github.com/BlockchainCommons/Community/pulls
 4. * [ ] Write about Timelock/Descriptor Interaction
 5. * [ ] Respond to W. Comments on UR Articles
 6. * [ ] Update Request/Response Tweetstorm
