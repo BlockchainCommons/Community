@@ -86,6 +86,7 @@
 
 ## Future Possibilities
 
+1. Design pages for four GOrdian principles that describe sub principles and list how different reference apps meet those principles.
 1. Do We Want to Use "What We Could Do?" as a possibility showcase
    * If so, try to better highlight how each item could help individuals
 1. Fehu (Gordian Seedtool), Gordian Cosigner
