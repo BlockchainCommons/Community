@@ -1,7 +1,14 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update texts in apps to say they're reference, specifications
-1. * [ ] Update app names: Gordian QR Tool [QR Tool], Gordian Seed Tool [Seed Tool], Gordian Cosigner Tool [Cosigner Tool], Gordian Recovery Tool [Recovery Tool]
+1. * [ ] Update repos to match new app names (Tuesday)
+   * [ ] Gordian QR Tool
+   * [ ] Gordian Seed Tool
+2. * [ ] Edit repos top to bottom to match that they are "reference implementations" (Tuesday)
+   * [ ] Gordian QR Tool
+   * [ ] Gordian Seed Tool
+3. * [ ] Update/create logos for new app names (Tuesday)
+   * [ ] Gordian QR Tool
+   * [ ] Gordian Seed Tool
 4. * [ ] Write about Timelock/Descriptor Interaction
 6. * [ ] Update Request/Response Tweetstorm
 7. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
