@@ -3,11 +3,14 @@
 1. * [ ] Update repos to match new app names (Tuesday)
    * [ ] Gordian QR Tool
    * [ ] Gordian Seed Tool
+   * [ ] Update names/links within GitHub to repos
 2. * [ ] Edit repos top to bottom to match that they are "reference implementations" (Tuesday)
    * [ ] Gordian QR Tool
+   * [ ] Ensure QR Tool is in Standard Template Format
    * [ ] Gordian Seed Tool
 3. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
+   * [ ] Add Social Medium Preview for QR Tool
    * [ ] Gordian Seed Tool
 4. * [ ] Write about Timelock/Descriptor Interaction
 6. * [ ] Update Request/Response Tweetstorm
