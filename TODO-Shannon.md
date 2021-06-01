@@ -4,10 +4,6 @@
    * [ ] Update About Page
    * [ ] Update Intro Page
    * [ ] Suggest Explanation for Apple
-3. * [ ] Edit repos top to bottom to match that they are "reference implementations" (Tuesday)
-   * [X] Gordian QR Tool
-   * [X] Ensure QR Tool is in Standard Template Format
-   * [ ] Gordian Seed Tool
 4. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
    * [ ] Add Social Medium Preview for QR Tool
@@ -109,6 +105,10 @@
 
 ## Recently Completed
 
+1. * [X] Edit repos top to bottom to match that they are "reference implementations" (Tuesday)
+   * [X] Gordian QR Tool
+   * [X] Ensure QR Tool is in Standard Template Format
+   * [X] Gordian Seed Tool
 1. * [X] Update repos to match new app names (Tuesday)
    * [X] Gordian QR Tool
    * [X] Gordian Seed Tool
