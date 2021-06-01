@@ -18,6 +18,7 @@
    * [ ] Gordian Seed Tool
 5. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
+1. * [ ] Add App Icons to WWW Projects Page
 7. * [ ] Update Request/Response Tweetstorm
 8. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
 9. * [ ] Write UR Articles
