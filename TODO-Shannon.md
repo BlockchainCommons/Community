@@ -36,10 +36,6 @@
 13. * [ ] Write article about digital identity definition words
 14. * [ ] Post SSKR User/Developer Articles?
 15. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-16. * [ ] App Icons
-   * [ ] Cosigner
-   * [ ] Guardian
-   * [ ] Wallet
 17. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 18. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
 19. * [ ] Add to #SC: Rollup Attack
@@ -133,14 +129,3 @@
 1. * [X] Upgrade BTCpay
 1. * [X] Remove & Redirect Smartcustody BTCPay
 1. * [X] Turn Seal Best Practices into Requirements
-1. * [X] Re-edit Gordian for Newest Comments
-1. * [X] Prepare Material for S. (by Wednesday EOD)
-   * [X] Summary of backlog
-   * [X] any updates for Gordian
-      * [X] Clear recent comments
-      * [X] Expand Openness per Z.
-      * [X] Better talk "meets or exceeds", better position best practices
-1. * [X] Finalize SSI Article
-   * [X] Write Tweetstorm for SSI 5th Anniversary, based on Third Anniversary Tweets (for April 25)
-   * [X] Incorporate Edits from Chris
-   * [X] Incorporate Edits from Joe
