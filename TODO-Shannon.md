@@ -1,8 +1,8 @@
 # Shannon's Open Tasks
 
 1. * [ ] Update repos to match new app names (Tuesday)
-   * [ ] Gordian QR Tool
-   * [ ] Gordian Seed Tool
+   * [X] Gordian QR Tool
+   * [X] Gordian Seed Tool
    * [ ] Update names/links within GitHub to repos
 1. * [ ] Update QR Tool text
    * [ ] Update About Page
