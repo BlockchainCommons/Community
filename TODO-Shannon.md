@@ -4,18 +4,23 @@
    * [ ] Gordian QR Tool
    * [ ] Gordian Seed Tool
    * [ ] Update names/links within GitHub to repos
-2. * [ ] Edit repos top to bottom to match that they are "reference implementations" (Tuesday)
+1. * [ ] Update QR Tool text
+   * [ ] Update About Page
+   * [ ] Update Intro Page
+   * [ ] Suggest Explanation for Apple
+3. * [ ] Edit repos top to bottom to match that they are "reference implementations" (Tuesday)
    * [ ] Gordian QR Tool
    * [ ] Ensure QR Tool is in Standard Template Format
    * [ ] Gordian Seed Tool
-3. * [ ] Update/create logos for new app names (Tuesday)
+4. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
    * [ ] Add Social Medium Preview for QR Tool
    * [ ] Gordian Seed Tool
-4. * [ ] Write about Timelock/Descriptor Interaction
-6. * [ ] Update Request/Response Tweetstorm
-7. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
-8. * [ ] Write UR Articles
+5. * [ ] Edit Timelock Article
+   * [ ] Write More ... (pending)
+7. * [ ] Update Request/Response Tweetstorm
+8. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
+9. * [ ] Write UR Articles
    * [X] Address WM Comments
    * [X] Write UR Overview
    * [X] Write UR & Keys
@@ -25,32 +30,32 @@
    * [X] Write UR & SSKR
    * [ ] Write UR & PSBTs
    * [ ] Write UR & Response/Reply for PSBTS
-9. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
-10. * [ ] Edit/prepare Keytool Tweetstorm
-11. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
-12. * [ ] Write article about digital identity definition words
-13. * [ ] Post SSKR User/Developer Articles?
-14. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-15. * [ ] App Icons
+10. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
+11. * [ ] Edit/prepare Keytool Tweetstorm
+12. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
+13. * [ ] Write article about digital identity definition words
+14. * [ ] Post SSKR User/Developer Articles?
+15. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+16. * [ ] App Icons
    * [ ] Cosigner
    * [ ] Guardian
    * [ ] Wallet
-16. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-17. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-18. * [ ] Add to #SC: Rollup Attack
+17. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+18. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+19. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-19. * [ ] Fix Crypto Commons Background for Social Media Preview
-20. * [ ] Move this to CanBan List
-21. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
-22. * [ ] Check on Articles (What's Not Used?)
-23. * [ ] Support Internship
+20. * [ ] Fix Crypto Commons Background for Social Media Preview
+21. * [ ] Move this to CanBan List
+22. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
+23. * [ ] Check on Articles (What's Not Used?)
+24. * [ ] Support Internship
    * [ ] What is Internship
    * [ ] New Tweetstorm
    * [ ] Quote from Past Interns
-24. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+25. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-25. * [ ] GCS Docs
+26. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -59,11 +64,11 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-26. * [ ] Gordian Guardian
+27. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-27. * [ ] short articles in LWA linking to other CA work
-28. * [ ] Clear Learning Bitcoin Issues/PRs
+28. * [ ] short articles in LWA linking to other CA work
+29. * [ ] Clear Learning Bitcoin Issues/PRs
 
 ## Pending
 
