@@ -1,9 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update repos to match new app names (Tuesday)
-   * [X] Gordian QR Tool
-   * [X] Gordian Seed Tool
-   * [ ] Update names/links within GitHub to repos
 1. * [ ] Update QR Tool text
    * [ ] Update About Page
    * [ ] Update Intro Page
@@ -113,6 +109,10 @@
 
 ## Recently Completed
 
+1. * [X] Update repos to match new app names (Tuesday)
+   * [X] Gordian QR Tool
+   * [X] Gordian Seed Tool
+   * [X] Update names/links within GitHub to repos
 1. * [X] Update App repos: No ads, no phoning home, reference implementations, specifications
 1. * [X] Look at G's pulls: https://github.com/BlockchainCommons/Community/pulls
 1. * [X] Respond to W. Comments on UR Articles
