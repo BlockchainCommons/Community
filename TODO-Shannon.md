@@ -1,9 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update QR Tool text
-   * [ ] Update About Page
-   * [ ] Update Intro Page
-   * [ ] Suggest Explanation for Apple
 4. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
    * [ ] Add Social Medium Preview for QR Tool
@@ -105,6 +101,10 @@
 
 ## Recently Completed
 
+1. * [X] Update QR Tool text
+   * [X] Update About Page
+   * [X] Update Intro Page
+   * [X] Suggest Explanation for Apple
 1. * [X] Edit repos top to bottom to match that they are "reference implementations" (Tuesday)
    * [X] Gordian QR Tool
    * [X] Ensure QR Tool is in Standard Template Format
