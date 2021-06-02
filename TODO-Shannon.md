@@ -4,6 +4,7 @@
    * [ ] Gordian QR Tool
    * [ ] Add Social Medium Preview for QR Tool
    * [ ] Gordian Seed Tool
+1. * [ ] Consider 3-5 minute short videos
 5. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
 1. * [ ] Add App Icons to WWW Projects Page
