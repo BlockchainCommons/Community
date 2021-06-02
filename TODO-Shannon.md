@@ -1,13 +1,15 @@
 # Shannon's Open Tasks
 
-4. * [ ] Update/create logos for new app names (Tuesday)
+1. * [ ] Write About Principal Authority
+2. * [ ] Write About The Flaws in DAO Treasury Management & Our Solutions
+3. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
    * [ ] Add Social Medium Preview for QR Tool
    * [ ] Gordian Seed Tool
-1. * [ ] Consider 3-5 minute short videos
+4. * [ ] Consider 3-5 minute short videos
 5. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
-1. * [ ] Add App Icons to WWW Projects Page
+6. * [ ] Add App Icons to WWW Projects Page
 7. * [ ] Update Request/Response Tweetstorm
 8. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
 9. * [ ] Write UR Articles
