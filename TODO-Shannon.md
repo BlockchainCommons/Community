@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Write About Principal Authority
 2. * [ ] Write About The Flaws in DAO Treasury Management & Our Solutions
 3. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
@@ -104,6 +103,7 @@
 
 ## Recently Completed
 
+1. * [X] Write About Principal Authority
 1. * [X] Update QR Tool text
    * [X] Update About Page
    * [X] Update Intro Page
