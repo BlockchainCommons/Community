@@ -9,6 +9,7 @@
 5. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
 6. * [ ] Add App Icons to WWW Projects Page
+1. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
 7. * [ ] Update Request/Response Tweetstorm
 8. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
 9. * [ ] Write UR Articles
