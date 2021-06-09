@@ -14,6 +14,7 @@
    * [X] Review Description in Store
    * [-] Update App Icon in Store
    * [X] Send P. Icons 
+1. * [ ] Fix Crypto Commons Logo for Dark Mode
 6. * [ ] Consider 3-5 minute short videos
 7. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
