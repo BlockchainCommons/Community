@@ -11,7 +11,7 @@
    * [ ] Clarify App is for QRs with Sensitive Data
    * [X] Review Description in Store
    * [-] Update App Icon in Store
-   * [ ] Send P. Icons 
+   * [X] Send P. Icons 
 6. * [ ] Consider 3-5 minute short videos
 7. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
