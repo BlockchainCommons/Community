@@ -1,5 +1,8 @@
 # Apprenticeship
 
+[![hackmd-github-sync-badge](https://hackmd.io/LD_bs94ESrOMvLjr7ofs4w/badge)](https://hackmd.io/LD_bs94ESrOMvLjr7ofs4w)
+
+
 These are an unorganized and incomplete set of what I believe that an Blockchain Commons Apprentice needs to have some competency in order to move toward becoming a Journeyman.
 
 -- Christopher Allen \<ChristopherA@LifeWithAlacrity.com\>
