@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-4. * [ ] Review QR Tool PR: https://github.com/BlockchainCommons/GordianQRTool-iOS/pull/59
 5. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
    * [ ] Add Social Medium Preview for QR Tool
@@ -104,6 +103,7 @@
 
 ## Recently Completed
 
+1. * [X] Review QR Tool PR: https://github.com/BlockchainCommons/GordianQRTool-iOS/pull/59
 1. * [X] Write Short Assumptions for Seed Tool
 1. * [X] Edit Treasury Article w/Comments
 1. * [X] Edit Principal Authority Article w/Comments
