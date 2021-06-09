@@ -1,9 +1,9 @@
 # Shannon's Open Tasks
 
 1. * [ ] Support for QR Tool
-   * [ ] Double-Check Inclusion of my Text
+   * [X] Double-Check Inclusion of my Text
    * [ ] Scrub Other References to Vault
-   * [ ] Clarify App is for QRs with Sensitive Data
+   * [X] Clarify App is for QRs with Sensitive Data
    * [X] Review Description in Store
    * [-] Update App Icon in Store
    * [X] Send P. Icons 
