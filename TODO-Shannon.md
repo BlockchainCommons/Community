@@ -1,6 +1,6 @@
 # Shannon's Open Tasks
 
-5. * [ ] Update/create logos for new app names (Tuesday)
+1. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
    * [ ] Add Social Medium Preview for QR Tool
    * [ ] Gordian Seed Tool
