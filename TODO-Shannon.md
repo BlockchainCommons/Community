@@ -1,12 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Support for QR Tool
-   * [X] Double-Check Inclusion of my Text
-   * [ ] Scrub Other References to Vault
-   * [X] Clarify App is for QRs with Sensitive Data
-   * [X] Review Description in Store
-   * [-] Update App Icon in Store
-   * [X] Send P. Icons 
 1. * [ ] Support video for Gordian QRTool
    * [ ] Find Best Practices for length & size for Apple app video
    * [ ] Write script in that time
@@ -115,6 +108,13 @@
 
 ## Recently Completed
 
+1. * [X] Support for QR Tool
+   * [X] Double-Check Inclusion of my Text
+   * [X] Scrub Other References to Vault
+   * [X] Clarify App is for QRs with Sensitive Data
+   * [X] Review Description in Store
+   * [-] Update App Icon in Store
+   * [X] Send P. Icons 
 1. * [X] Update/create logos for new app names (Tuesday)
    * [X] Gordian QR Tool
    * [X] Add Social Medium Preview for QR Tool
