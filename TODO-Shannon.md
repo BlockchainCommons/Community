@@ -3,7 +3,9 @@
 1. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
    * [ ] Add Social Medium Preview for QR Tool
-   * [ ] Gordian Seed Tool
+   * [X] Gordian Seed Tool
+   * [X] Update Social Media Preview for Seed Tool
+   * [ ] Update Images in Main GOrdian Repo with New Logos
 1. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [ ] Support for QR Tool
    * [ ] Double-Check Inclusion of my Text
