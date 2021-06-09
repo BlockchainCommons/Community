@@ -1,11 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update/create logos for new app names (Tuesday)
-   * [X] Gordian QR Tool
-   * [X] Add Social Medium Preview for QR Tool
-   * [X] Gordian Seed Tool
-   * [X] Update Social Media Preview for Seed Tool
-   * [ ] Update Images in Main GOrdian Repo with New Logos
 1. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [ ] Support for QR Tool
    * [ ] Double-Check Inclusion of my Text
@@ -114,6 +108,12 @@
 
 ## Recently Completed
 
+1. * [X] Update/create logos for new app names (Tuesday)
+   * [X] Gordian QR Tool
+   * [X] Add Social Medium Preview for QR Tool
+   * [X] Gordian Seed Tool
+   * [X] Update Social Media Preview for Seed Tool
+   * [X] Update Images in Main GOrdian Repo with New Logos
 1. * [X] Review QR Tool PR: https://github.com/BlockchainCommons/GordianQRTool-iOS/pull/59
 1. * [X] Write Short Assumptions for Seed Tool
 1. * [X] Edit Treasury Article w/Comments
