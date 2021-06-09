@@ -7,6 +7,10 @@
 1. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [ ] Support for QR Tool
    * [ ] Double-Check Inclusion of my Text
+   * [ ] Scrub Other References to Vault
+   * [ ] Clarify App is for QRs with Sensitive Data
+   * [ ] Review Description in Store
+   * [ ] Update App Icon in Store
    * [ ] Send P. Icons 
 6. * [ ] Consider 3-5 minute short videos
 7. * [ ] Edit Timelock Article
