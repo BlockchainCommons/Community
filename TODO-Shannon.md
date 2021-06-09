@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-3. * [ ] Write Short Assumptions for Seed Tool
 4. * [ ] Review QR Tool PR: https://github.com/BlockchainCommons/GordianQRTool-iOS/pull/59
 5. * [ ] Update/create logos for new app names (Tuesday)
    * [ ] Gordian QR Tool
@@ -105,6 +104,7 @@
 
 ## Recently Completed
 
+1. * [X] Write Short Assumptions for Seed Tool
 1. * [X] Edit Treasury Article w/Comments
 1. * [X] Edit Principal Authority Article w/Comments
 1. * [X] Write About The Flaws in DAO Treasury Management & Our Solutions
