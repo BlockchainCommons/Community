@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [ ] Support for QR Tool
    * [ ] Double-Check Inclusion of my Text
    * [ ] Scrub Other References to Vault
@@ -8,6 +7,14 @@
    * [X] Review Description in Store
    * [-] Update App Icon in Store
    * [X] Send P. Icons 
+1. * [ ] Support video for Gordian QRTool
+   * [ ] Find Best Practices for length & size for Apple app video
+   * [ ] Write script in that time
+   * [ ] Write script in 3-5 minutes for Youtube
+1. * [ ] Support video for Gordian Seedtool
+   * [ ] Write script in that time
+   * [ ] Write script in 3-5 minutes for Youtube
+1. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [ ] Fix Crypto Commons Logo for Dark Mode
 6. * [ ] Consider 3-5 minute short videos
 7. * [ ] Edit Timelock Article
