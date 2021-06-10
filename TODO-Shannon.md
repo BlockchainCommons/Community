@@ -1,12 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Support video for Gordian QRTool
-   * [ ] Find Best Practices for length & size for Apple app video
-   * [ ] Write script in that time
-   * [ ] Write script in 3-5 minutes for Youtube
-1. * [ ] Support video for Gordian Seedtool
-   * [ ] Write script in that time
-   * [ ] Write script in 3-5 minutes for Youtube
 1. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [ ] Fix Crypto Commons Logo for Dark Mode
 6. * [ ] Consider 3-5 minute short videos
@@ -149,3 +142,10 @@
    * [X] Release
    * [X] Write SSKR Tweetstorm
 1. * [X] Extensive Edits of QR App Store Text, etc (next week)
+1. * [X] Support video for Gordian QRTool
+   * [X] Find Best Practices for length & size for Apple app video
+   * [X] Write script in that time
+   * [X] Write script in 3-5 minutes for Youtube
+1. * [X] Support video for Gordian Seedtool
+   * [X] Write script in that time
+   * [X] Write script in 3-5 minutes for Youtube
