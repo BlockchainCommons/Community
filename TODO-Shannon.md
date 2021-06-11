@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] update sponsors text at https://github.com/sponsors/BlockchainCommons
 1. * [ ] Take a look at Sweeptool
 1. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [ ] Fix Crypto Commons Logo for Dark Mode
