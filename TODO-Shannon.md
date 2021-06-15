@@ -1,17 +1,42 @@
 # Shannon's Open Tasks
 
+1. * [ ] Learning Bitcoin
+   * [ ] Incorporate PRs
+   * [ ] Respond to J.
+      * [ ] Should be in 'es' (language code), and each chapter should list commit version, and steps, ending with QA from a native speaker
+      * [ ] Should be branch, and no PRs should be more than one chapter
+      * [ ] We'll support with 2+ people (to someone )
+   * [ ] Write About How to Offer Translates
+1. * [ ] Update Cosigner Text per Principles, etc
+   * [ ] Make it clear this is not a standalone cryptocurrency app
+1. * [ ] Edit Seedtool Text
+   * [ ] Make it clear that it not a standalone cryptocurrency app
+   * [ ] Make it clear not just Bitcoin
 1. * [ ] update sponsors text at https://github.com/sponsors/BlockchainCommons
-1. * [ ] Take a look at Sweeptool
 1. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [ ] Fix Crypto Commons Logo for Dark Mode
-6. * [ ] Consider 3-5 minute short videos
-7. * [ ] Edit Timelock Article
+1. * [ ] Add App Icons to WWW Projects Page
+1. * [ ] Make QR Tool Video (Images)
+1. * [ ] Edit Principal Authority per:
+   * Use Google Doc as Master
+   * (1) Comments (especially language suggestions)
+      * Incorporate easy Stuff
+      * Flag Things to Discuss
+      * Flag Things Out of Scope
+   * (2) Wikipedia Page for Equity Laws — and its definition of Common Law (first sentence), https://en.wikipedia.org/wiki/Equity_(law), Chancery Court as Remedy
+      * Chancery Courts, for where law is not robust enough
+   * (3) Laws of Customs -> Customary Law https://en.wikipedia.org/wiki/Customary_law, Practices observed and relevant actors recognize standards of community
+      * We need to take advantage of Customary laws to define customs of how ID to use
+   * (4) Intertwined Use Law https://en.wikipedia.org/wiki/Use_(law)
+      * What are the equitable benefit?
+5. * [ ] Take a look at Sweeptool
+8. * [ ] Consider 3-5 minute short videos
+9. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
-8. * [ ] Add App Icons to WWW Projects Page
-9. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
-10. * [ ] Update Request/Response Tweetstorm
-11. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
-12. * [ ] Write UR Articles
+11. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
+12. * [ ] Update Request/Response Tweetstorm
+13. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
+14. * [ ] Write UR Articles
    * [X] Address WM Comments
    * [X] Write UR Overview
    * [X] Write UR & Keys
@@ -21,28 +46,28 @@
    * [X] Write UR & SSKR
    * [ ] Write UR & PSBTs
    * [ ] Write UR & Response/Reply for PSBTS
-13. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
-14. * [ ] Edit/prepare Keytool Tweetstorm
-15. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
-16. * [ ] Write article about digital identity definition words
-17. * [ ] Post SSKR User/Developer Articles?
-18. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-19. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-20. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-21. * [ ] Add to #SC: Rollup Attack
+15. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
+16. * [ ] Edit/prepare Keytool Tweetstorm
+17. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
+18. * [ ] Write article about digital identity definition words
+19. * [ ] Post SSKR User/Developer Articles?
+20. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+21. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+22. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+23. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-22. * [ ] Fix Crypto Commons Background for Social Media Preview
-23. * [ ] Move this to CanBan List
-24. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
-25. * [ ] Check on Articles (What's Not Used?)
-26. * [ ] Support Internship
+24. * [ ] Fix Crypto Commons Background for Social Media Preview
+25. * [ ] Move this to CanBan List
+26. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
+27. * [ ] Check on Articles (What's Not Used?)
+28. * [ ] Support Internship
    * [ ] What is Internship
    * [ ] New Tweetstorm
    * [ ] Quote from Past Interns
-27. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+29. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-28. * [ ] GCS Docs
+30. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -51,11 +76,11 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-29. * [ ] Gordian Guardian
+31. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-30. * [ ] short articles in LWA linking to other CA work
-31. * [ ] Clear Learning Bitcoin Issues/PRs
+32. * [ ] short articles in LWA linking to other CA work
+33. * [ ] Clear Learning Bitcoin Issues/PRs
 
 ## Pending
 
