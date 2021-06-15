@@ -1,24 +1,22 @@
 # Shannon's Open Tasks
 
-1. * [ ] Learning Bitcoin
-   * [ ] Incorporate PRs
-   * [ ] Respond to J.
-      * [ ] Should be in 'es' (language code), and each chapter should list commit version, and steps, ending with QA from a native speaker
-      * [ ] Should be branch, and no PRs should be more than one chapter
-      * [ ] We'll support with 2+ people (to someone )
-   * [ ] Write About How to Offer Translates
 1. * [ ] Update Cosigner Text per Principles, etc
    * [ ] Make it clear this is not a standalone cryptocurrency app
 1. * [ ] Edit Seedtool Text
    * [ ] Make it clear that it not a standalone cryptocurrency app
    * [ ] Make it clear not just Bitcoin
-1. * [ ] update sponsors text at https://github.com/sponsors/BlockchainCommons
-1. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
-1. * [ ] Fix Crypto Commons Logo for Dark Mode
-1. * [ ] Add App Icons to WWW Projects Page
-1. * [ ] Make QR Tool Video (Images)
-1. * [ ] Take a look at Sweeptool / Repo
-1. * [ ] Edit Principal Authority per:
+1. * [ ] Update GOrdian Repo for Releases
+   * [ ] Tips & Advice
+   * [ ] How to Report a Bug
+   * [ ] How to Suggest Features
+   * [ ] Categories?
+3. * [ ] update sponsors text at https://github.com/sponsors/BlockchainCommons
+4. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
+5. * [ ] Fix Crypto Commons Logo for Dark Mode
+6. * [ ] Add App Icons to WWW Projects Page
+7. * [ ] Make QR Tool Video (Images)
+8. * [ ] Take a look at Sweeptool / Repo
+9. * [ ] Edit Principal Authority per:
    * Use Google Doc as Master
    * (1) Comments (especially language suggestions)
       * Incorporate easy Stuff
@@ -30,13 +28,13 @@
       * We need to take advantage of Customary laws to define customs of how ID to use
    * (4) Intertwined Use Law https://en.wikipedia.org/wiki/Use_(law)
       * What are the equitable benefit?
-8. * [ ] Consider 3-5 minute short videos
-9. * [ ] Edit Timelock Article
+10. * [ ] Consider 3-5 minute short videos
+11. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
-11. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
-12. * [ ] Update Request/Response Tweetstorm
-13. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
-14. * [ ] Write UR Articles
+12. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
+13. * [ ] Update Request/Response Tweetstorm
+14. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
+15. * [ ] Write UR Articles
    * [X] Address WM Comments
    * [X] Write UR Overview
    * [X] Write UR & Keys
@@ -46,28 +44,28 @@
    * [X] Write UR & SSKR
    * [ ] Write UR & PSBTs
    * [ ] Write UR & Response/Reply for PSBTS
-15. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
-16. * [ ] Edit/prepare Keytool Tweetstorm
-17. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
-18. * [ ] Write article about digital identity definition words
-19. * [ ] Post SSKR User/Developer Articles?
-20. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-21. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-22. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-23. * [ ] Add to #SC: Rollup Attack
+16. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
+17. * [ ] Edit/prepare Keytool Tweetstorm
+18. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
+19. * [ ] Write article about digital identity definition words
+20. * [ ] Post SSKR User/Developer Articles?
+21. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+22. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+23. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+24. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-24. * [ ] Fix Crypto Commons Background for Social Media Preview
-25. * [ ] Move this to CanBan List
-26. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
-27. * [ ] Check on Articles (What's Not Used?)
-28. * [ ] Support Internship
+25. * [ ] Fix Crypto Commons Background for Social Media Preview
+26. * [ ] Move this to CanBan List
+27. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
+28. * [ ] Check on Articles (What's Not Used?)
+29. * [ ] Support Internship
    * [ ] What is Internship
    * [ ] New Tweetstorm
    * [ ] Quote from Past Interns
-29. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+30. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-30. * [ ] GCS Docs
+31. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -76,11 +74,11 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-31. * [ ] Gordian Guardian
+32. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-32. * [ ] short articles in LWA linking to other CA work
-33. * [ ] Clear Learning Bitcoin Issues/PRs
+33. * [ ] short articles in LWA linking to other CA work
+34. * [ ] Clear Learning Bitcoin Issues/PRs
 
 ## Pending
 
@@ -128,6 +126,13 @@
 
 ## Recently Completed
 
+1. * [X] Learning Bitcoin
+   * [X] Incorporate PRs
+   * [X] Respond to J.
+   * [X] Write About How to Offer Translates
+      * [X] Should be in 'es' (language code), and each chapter should list commit version, and steps, ending with QA from a native speaker
+      * [X] Should be branch, and no PRs should be more than one chapter
+      * [X] We'll support with 2+ people (to someone )
 1. * [X] Support for QR Tool
    * [X] Double-Check Inclusion of my Text
    * [X] Scrub Other References to Vault
@@ -155,24 +160,3 @@
    * [X] Gordian QR Tool
    * [X] Ensure QR Tool is in Standard Template Format
    * [X] Gordian Seed Tool
-1. * [X] Update repos to match new app names (Tuesday)
-   * [X] Gordian QR Tool
-   * [X] Gordian Seed Tool
-   * [X] Update names/links within GitHub to repos
-1. * [X] Update App repos: No ads, no phoning home, reference implementations, specifications
-1. * [X] Look at G's pulls: https://github.com/BlockchainCommons/Community/pulls
-1. * [X] Respond to W. Comments on UR Articles
-1. * [X] Write SSKR
-   * [X] Write examples with codes & show dogtags
-   * [X] Update SSKR articles
-   * [X] Comment & link better video (https://www.youtube.com/watch?v=PIND7J096U8)
-   * [X] Release
-   * [X] Write SSKR Tweetstorm
-1. * [X] Extensive Edits of QR App Store Text, etc (next week)
-1. * [X] Support video for Gordian QRTool
-   * [X] Find Best Practices for length & size for Apple app video
-   * [X] Write script in that time
-   * [X] Write script in 3-5 minutes for Youtube
-1. * [X] Support video for Gordian Seedtool
-   * [X] Write script in that time
-   * [X] Write script in 3-5 minutes for Youtube
