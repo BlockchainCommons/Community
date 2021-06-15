@@ -17,6 +17,7 @@
 1. * [ ] Fix Crypto Commons Logo for Dark Mode
 1. * [ ] Add App Icons to WWW Projects Page
 1. * [ ] Make QR Tool Video (Images)
+1. * [ ] Take a look at Sweeptool / Repo
 1. * [ ] Edit Principal Authority per:
    * Use Google Doc as Master
    * (1) Comments (especially language suggestions)
@@ -29,7 +30,6 @@
       * We need to take advantage of Customary laws to define customs of how ID to use
    * (4) Intertwined Use Law https://en.wikipedia.org/wiki/Use_(law)
       * What are the equitable benefit?
-5. * [ ] Take a look at Sweeptool
 8. * [ ] Consider 3-5 minute short videos
 9. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
