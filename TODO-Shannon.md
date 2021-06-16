@@ -6,15 +6,15 @@
 8. * [ ] Take a look at Sweeptool / Repo
 9. * [ ] Edit Principal Authority per:
    * Use Google Doc as Master
-   * (1) Comments (especially language suggestions)
+   * [X] Comments (especially language suggestions)
       * Incorporate easy Stuff
       * Flag Things to Discuss
       * Flag Things Out of Scope
-   * (2) Wikipedia Page for Equity Laws — and its definition of Common Law (first sentence), https://en.wikipedia.org/wiki/Equity_(law), Chancery Court as Remedy
+   * [ ] Wikipedia Page for Equity Laws — and its definition of Common Law (first sentence), https://en.wikipedia.org/wiki/Equity_(law), Chancery Court as Remedy
       * Chancery Courts, for where law is not robust enough
-   * (3) Laws of Customs -> Customary Law https://en.wikipedia.org/wiki/Customary_law, Practices observed and relevant actors recognize standards of community
+   * [ ] Laws of Customs -> Customary Law https://en.wikipedia.org/wiki/Customary_law, Practices observed and relevant actors recognize standards of community
       * We need to take advantage of Customary laws to define customs of how ID to use
-   * (4) Intertwined Use Law https://en.wikipedia.org/wiki/Use_(law)
+   * [ ] Intertwined Use Law https://en.wikipedia.org/wiki/Use_(law)
       * What are the equitable benefit?
 1. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
 1. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
