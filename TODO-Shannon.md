@@ -1,10 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Update GOrdian Repo for Releases
-   * [ ] Tips & Advice
-   * [ ] How to Report a Bug
-   * [ ] How to Suggest Features
-   * [ ] Categories?
 3. * [ ] update sponsors text at https://github.com/sponsors/BlockchainCommons
 4. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 5. * [ ] Fix Crypto Commons Logo for Dark Mode
@@ -121,6 +116,11 @@
 
 ## Recently Completed
 
+1. * [X] Update GOrdian Repo for Releases
+   * [X] Tips & Advice
+   * [X] How to Report a Bug
+   * [X] How to Suggest Features
+   * [X] Categories?
 1. * [X] Edit Seedtool Text
    * [X] Make it clear that it not a standalone cryptocurrency app
    * [X] Make it clear not just Bitcoin
