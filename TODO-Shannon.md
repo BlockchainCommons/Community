@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
 6. * [ ] Add App Icons to WWW Projects Page
 7. * [ ] Make QR Tool Video (Images)
 8. * [ ] Take a look at Sweeptool / Repo
