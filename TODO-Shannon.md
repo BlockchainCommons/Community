@@ -1,8 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Edit Seedtool Text
-   * [ ] Make it clear that it not a standalone cryptocurrency app
-   * [ ] Make it clear not just Bitcoin
 1. * [ ] Update GOrdian Repo for Releases
    * [ ] Tips & Advice
    * [ ] How to Report a Bug
@@ -124,6 +121,9 @@
 
 ## Recently Completed
 
+1. * [X] Edit Seedtool Text
+   * [X] Make it clear that it not a standalone cryptocurrency app
+   * [X] Make it clear not just Bitcoin
 1. * [X] Cosigner Text
    * [X] Update Cosigner Text per Principles, etc
    * [X] Make it clear this is not a standalone cryptocurrency app
