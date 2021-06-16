@@ -16,6 +16,8 @@
       * We need to take advantage of Customary laws to define customs of how ID to use
    * (4) Intertwined Use Law https://en.wikipedia.org/wiki/Use_(law)
       * What are the equitable benefit?
+1. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
+1. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
 10. * [ ] Consider 3-5 minute short videos
 11. * [ ] Edit Timelock Article
    * [ ] Write More ... (pending)
