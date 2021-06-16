@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-3. * [ ] update sponsors text at https://github.com/sponsors/BlockchainCommons
 4. * [ ] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 5. * [ ] Fix Crypto Commons Logo for Dark Mode
 6. * [ ] Add App Icons to WWW Projects Page
@@ -116,6 +115,7 @@
 
 ## Recently Completed
 
+1. * [X] update sponsors text at https://github.com/sponsors/BlockchainCommons
 1. * [X] Update GOrdian Repo for Releases
    * [X] Tips & Advice
    * [X] How to Report a Bug
