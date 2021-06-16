@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-5. * [ ] Fix Crypto Commons Logo for Dark Mode
 6. * [ ] Add App Icons to WWW Projects Page
 7. * [ ] Make QR Tool Video (Images)
 8. * [ ] Take a look at Sweeptool / Repo
@@ -114,6 +113,7 @@
 
 ## Recently Completed
 
+1. * [X] Fix Crypto Commons Logo for Dark Mode
 1. * [X] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [X] update sponsors text at https://github.com/sponsors/BlockchainCommons
 1. * [X] Update GOrdian Repo for Releases
