@@ -4,18 +4,6 @@
 6. * [ ] Add App Icons to WWW Projects Page
 7. * [ ] Make QR Tool Video (Images)
 8. * [ ] Take a look at Sweeptool / Repo
-9. * [ ] Edit Principal Authority per:
-   * Use Google Doc as Master
-   * [X] Comments (especially language suggestions)
-      * Incorporate easy Stuff
-      * Flag Things to Discuss
-      * Flag Things Out of Scope
-   * [ ] Wikipedia Page for Equity Laws — and its definition of Common Law (first sentence), https://en.wikipedia.org/wiki/Equity_(law), Chancery Court as Remedy
-      * Chancery Courts, for where law is not robust enough
-   * [ ] Laws of Customs -> Customary Law https://en.wikipedia.org/wiki/Customary_law, Practices observed and relevant actors recognize standards of community
-      * We need to take advantage of Customary laws to define customs of how ID to use
-   * [ ] Intertwined Use Law https://en.wikipedia.org/wiki/Use_(law)
-      * What are the equitable benefit?
 1. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
 1. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
 10. * [ ] Consider 3-5 minute short videos
@@ -116,6 +104,18 @@
 
 ## Recently Completed
 
+1. * [X] Edit Principal Authority per:
+   * Use Google Doc as Master
+   * [X] Comments (especially language suggestions)
+      * Incorporate easy Stuff
+      * Flag Things to Discuss
+      * Flag Things Out of Scope
+   * [X] Wikipedia Page for Equity Laws — and its definition of Common Law (first sentence), https://en.wikipedia.org/wiki/Equity_(law), Chancery Court as Remedy
+      * Chancery Courts, for where law is not robust enough
+   * [X] Laws of Customs -> Customary Law https://en.wikipedia.org/wiki/Customary_law, Practices observed and relevant actors recognize standards of community
+      * We need to take advantage of Customary laws to define customs of how ID to use
+   * [X] Intertwined Use Law https://en.wikipedia.org/wiki/Use_(law)
+      * What are the equitable benefit?
 1. * [X] Fix Crypto Commons Logo for Dark Mode
 1. * [X] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
 1. * [X] update sponsors text at https://github.com/sponsors/BlockchainCommons
