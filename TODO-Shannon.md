@@ -1,19 +1,42 @@
 # Shannon's Open Tasks
 
-1. * [ ] Incorporate i2p Chapter into LBTCftCL
-1. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
-6. * [ ] Add App Icons to WWW Projects Page
-7. * [ ] Make QR Tool Video (Images)
-8. * [ ] Take a look at Sweeptool / Repo
-1. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
+1. * [ ] Tweetstorms
+   * [ ] Cosigner
+   * [ ] QR Tool
+   * [ ] Seed Tool
+   * [ ] SSKR for Developers
+   * [ ] SSKR for Users (apps to use)
+1. * [ ] Write SmartContract Article, on Signature, Vaults, Covenants
+   * [ ] What are they?
+   * [ ] What are they good for?
+   * [ ] New Flags?
+   * [ ] UTXO Tricks?
+   * https://raghavsood.com/blog/2018/06/10/bitcoin-signature-types-sighash
+   * https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018615.html
+   * https://arxiv.org/abs/2006.16714
+   * https://pinboard.in/u:ChristopherA/t:vault/
+   * https://bitcoinmagazine.com/technical/noinput-class-bitcoin-soft-fork-simplify-lightning
+1. * [ ] Incorporate i2p Chapter into LBTCftCL.
+1. * [ ] Make QR Tool Video (Images)
+1. * [ ] Expand Timelock Work
+   * [ ] Edit Timelock Article
+   * [ ] Write about script
+   * [ ] Write about rust library creation
 1. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
-10. * [ ] Consider 3-5 minute short videos
-11. * [ ] Edit Timelock Article
-   * [ ] Write More ... (pending)
-12. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
-13. * [ ] Update Request/Response Tweetstorm
-14. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
-15. * [ ] Write UR Articles
+    * Talk with W. about why he did things & the UI of his choices (why anything is in specific places0 
+1. * [ ] Design pages for four Gordian principles that describe sub principles and list how different reference apps meet those principles.
+   * What is principle?
+   * How did we apply it?
+   * What other things fall into principle? (no app does it yet)
+7. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
+8. * [ ] Add App Icons to WWW Projects Page
+9. * [ ] Take a look at Sweeptool / Repo
+10. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
+13. * [ ] Consider 3-5 minute short videos
+14. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
+15. * [ ] Update Request/Response Tweetstorm
+16. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
+17. * [ ] Write UR Articles
    * [X] Address WM Comments
    * [X] Write UR Overview
    * [X] Write UR & Keys
@@ -23,28 +46,28 @@
    * [X] Write UR & SSKR
    * [ ] Write UR & PSBTs
    * [ ] Write UR & Response/Reply for PSBTS
-16. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
-17. * [ ] Edit/prepare Keytool Tweetstorm
-18. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
-19. * [ ] Write article about digital identity definition words
-20. * [ ] Post SSKR User/Developer Articles?
-21. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-22. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-23. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-24. * [ ] Add to #SC: Rollup Attack
+18. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
+19. * [ ] Edit/prepare Keytool Tweetstorm
+20. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
+21. * [ ] Write article about digital identity definition words
+22. * [ ] Post SSKR User/Developer Articles?
+23. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+24. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
+25. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
+26. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-25. * [ ] Fix Crypto Commons Background for Social Media Preview
-26. * [ ] Move this to CanBan List
-27. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
-28. * [ ] Check on Articles (What's Not Used?)
-29. * [ ] Support Internship
+27. * [ ] Fix Crypto Commons Background for Social Media Preview
+28. * [ ] Move this to CanBan List
+29. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
+30. * [ ] Check on Articles (What's Not Used?)
+31. * [ ] Support Internship
    * [ ] What is Internship
    * [ ] New Tweetstorm
    * [ ] Quote from Past Interns
-30. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
+32. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
    * [ ] Clean Any Text
    * [ ] Tweets
-31. * [ ] GCS Docs
+33. * [ ] GCS Docs
    * [X] Update Language in App (from multi-sig article)
    * [X] Update Repo to be less seed-centric, more focused on cosigner
    * [X] Edit Scenarios
@@ -53,11 +76,11 @@
    * [ ] Show GG/GCS Interface (next week?)
    * [X] Tweetstorm: advance 
       * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-32. * [ ] Gordian Guardian
+34. * [ ] Gordian Guardian
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
-33. * [ ] short articles in LWA linking to other CA work
-34. * [ ] Clear Learning Bitcoin Issues/PRs
+35. * [ ] short articles in LWA linking to other CA work
+36. * [ ] Clear Learning Bitcoin Issues/PRs
 
 ## Pending
 
@@ -89,19 +112,15 @@
 
 ## Future Possibilities
 
-1. Design pages for four GOrdian principles that describe sub principles and list how different reference apps meet those principles.
-1. Do We Want to Use "What We Could Do?" as a possibility showcase
+3. Do We Want to Use "What We Could Do?" as a possibility showcase
    * If so, try to better highlight how each item could help individuals
-1. Fehu (Gordian Seedtool), Gordian Cosigner
-   * Write Descriptions - communicate that they're tools that work with other things
-1. Write Weekly Articles(?)
-1. Scope These Other Possibilities
-1. Chapter in LBTCftCL on BCC CLIs
-1. Chapter in LBTCftCL on BCC libraries
-1. Section in LBTCftCL on BC-UR
-1. Is there more we can do on BC-UR? Intro? Other Stuff?
-1. v2 of #SC
-1. Should LBTCftCL Have an Exam?
+5. Write Weekly Articles(?)
+7. Chapter in LBTCftCL on BCC CLIs
+8. Chapter in LBTCftCL on BCC libraries
+9. Section in LBTCftCL on BC-UR
+10. Is there more we can do on BC-UR? Intro? Other Stuff?
+11. v2 of #SC
+12. Should LBTCftCL Have an Exam?
 
 ## Recently Completed
 
