@@ -1,5 +1,7 @@
 # Shannon's Open Tasks
 
+1. * [ ] Incorporate i2p Chapter into LBTCftCL.
+1. * [ ] Make QR Tool Video (Images)
 1. * [ ] Tweetstorms
    * [ ] Cosigner
    * [ ] QR Tool
@@ -16,8 +18,6 @@
    * https://arxiv.org/abs/2006.16714
    * https://pinboard.in/u:ChristopherA/t:vault/
    * https://bitcoinmagazine.com/technical/noinput-class-bitcoin-soft-fork-simplify-lightning
-1. * [ ] Incorporate i2p Chapter into LBTCftCL.
-1. * [ ] Make QR Tool Video (Images)
 1. * [ ] Expand Timelock Work
    * [ ] Edit Timelock Article
    * [ ] Write about script
