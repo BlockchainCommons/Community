@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Work with Portuguese translation of LBTCftCL.
 1. * [ ] Incorporate i2p Chapter into LBTCftCL.
 1. * [ ] Make QR Tool Video (Images)
    * [ ] Write Tweetstorm to go with it
