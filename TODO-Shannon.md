@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Incorporate i2p Chapter into LBTCftCL
 1. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
 6. * [ ] Add App Icons to WWW Projects Page
 7. * [ ] Make QR Tool Video (Images)
@@ -104,6 +105,7 @@
 
 ## Recently Completed
 
+1. * [X] Reviewed first i2p work for LBTCftCL
 1. * [X] Edit Principal Authority per:
    * Use Google Doc as Master
    * [X] Comments (especially language suggestions)
