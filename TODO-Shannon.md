@@ -2,13 +2,14 @@
 
 1. * [ ] Incorporate i2p Chapter into LBTCftCL.
 1. * [ ] Make QR Tool Video (Images)
-1. * [ ] Tweetstorms
+   * [ ] Write Tweetstorm to go with it
+3. * [ ] Tweetstorms
    * [ ] Cosigner
    * [ ] QR Tool
    * [ ] Seed Tool
    * [ ] SSKR for Developers
    * [ ] SSKR for Users (apps to use)
-1. * [ ] Write SmartContract Article, on Signature, Vaults, Covenants
+4. * [ ] Write SmartContract Article, on Signature, Vaults, Covenants
    * [ ] What are they?
    * [ ] What are they good for?
    * [ ] New Flags?
@@ -18,20 +19,20 @@
    * https://arxiv.org/abs/2006.16714
    * https://pinboard.in/u:ChristopherA/t:vault/
    * https://bitcoinmagazine.com/technical/noinput-class-bitcoin-soft-fork-simplify-lightning
-1. * [ ] Expand Timelock Work
+5. * [ ] Expand Timelock Work
    * [ ] Edit Timelock Article
    * [ ] Write about script
    * [ ] Write about rust library creation
-1. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
+6. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
     * Talk with W. about why he did things & the UI of his choices (why anything is in specific places0 
-1. * [ ] Design pages for four Gordian principles that describe sub principles and list how different reference apps meet those principles.
+7. * [ ] Design pages for four Gordian principles that describe sub principles and list how different reference apps meet those principles.
    * What is principle?
    * How did we apply it?
    * What other things fall into principle? (no app does it yet)
-7. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
-8. * [ ] Add App Icons to WWW Projects Page
-9. * [ ] Take a look at Sweeptool / Repo
-10. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
+8. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
+9. * [ ] Add App Icons to WWW Projects Page
+10. * [ ] Take a look at Sweeptool / Repo
+11. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
 13. * [ ] Consider 3-5 minute short videos
 14. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
 15. * [ ] Update Request/Response Tweetstorm
