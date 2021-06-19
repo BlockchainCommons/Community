@@ -1,16 +1,23 @@
 # Shannon's Open Tasks
 
 1. * [ ] Work with Portuguese translation of LBTCftCL.
-1. * [ ] Incorporate i2p Chapter into LBTCftCL.
-1. * [ ] Make QR Tool Video (Images)
+2. * [ ] Check on Spanish Translation of LBTC
+3. * [ ] Incorporate i2p Chapter into LBTCftCL.
+
+3. * [ ] Make QR Tool Video (Images)
    * [ ] Write Tweetstorm to go with it
-3. * [ ] Tweetstorms
+1. * [ ] Write What & Why Article on QR Tool
+   * [ ] Write Tweetstorm to go with it
+3. * [ ] Write Light Docs w/Pictures
+   * [ ] Write Tweetstorm to Go With It
+
+4. * [ ] Tweetstorms
    * [ ] Cosigner
    * [ ] QR Tool
    * [ ] Seed Tool
    * [ ] SSKR for Developers
    * [ ] SSKR for Users (apps to use)
-4. * [ ] Write SmartContract Article, on Signature, Vaults, Covenants
+5. * [ ] Write SmartContract Article, on Signature, Vaults, Covenants
    * [ ] What are they?
    * [ ] What are they good for?
    * [ ] New Flags?
@@ -20,20 +27,20 @@
    * https://arxiv.org/abs/2006.16714
    * https://pinboard.in/u:ChristopherA/t:vault/
    * https://bitcoinmagazine.com/technical/noinput-class-bitcoin-soft-fork-simplify-lightning
-5. * [ ] Expand Timelock Work
+6. * [ ] Expand Timelock Work
    * [ ] Edit Timelock Article
    * [ ] Write about script
    * [ ] Write about rust library creation
-6. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
+7. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
     * Talk with W. about why he did things & the UI of his choices (why anything is in specific places0 
-7. * [ ] Design pages for four Gordian principles that describe sub principles and list how different reference apps meet those principles.
+8. * [ ] Design pages for four Gordian principles that describe sub principles and list how different reference apps meet those principles.
    * What is principle?
    * How did we apply it?
    * What other things fall into principle? (no app does it yet)
-8. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
-9. * [ ] Add App Icons to WWW Projects Page
-10. * [ ] Take a look at Sweeptool / Repo
-11. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
+9. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
+10. * [ ] Add App Icons to WWW Projects Page
+11. * [ ] Take a look at Sweeptool / Repo
+12. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
 13. * [ ] Consider 3-5 minute short videos
 14. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
 15. * [ ] Update Request/Response Tweetstorm
