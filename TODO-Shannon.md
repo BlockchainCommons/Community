@@ -3,7 +3,7 @@
 1. * [ ] Work with LBTCftCL PRs
    1. * [ ] Clean Bugfix PRs
    3. * [ ] Incorporate i2p Chapter into LBTCftCL
-   1. * [ ] Work with Portuguese translation of LBTCftCL.
+   1. * [X] Work with Portuguese translation of LBTCftCL.
    2. * [ ] Check on Spanish Translation of LBTC
 
 3. * [ ] Make QR Tool Video (Images)
