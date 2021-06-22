@@ -10,6 +10,7 @@
 
 1. * [ ] Incorporate i2p Chapter into LBTCftCL (when ready)
 
+1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
 4. * [ ] Tweetstorms
    * [ ] Cosigner
    * [ ] QR Tool
