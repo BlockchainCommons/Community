@@ -1,8 +1,10 @@
 # Shannon's Open Tasks
 
-1. * [ ] Work with Portuguese translation of LBTCftCL.
-2. * [ ] Check on Spanish Translation of LBTC
-3. * [ ] Incorporate i2p Chapter into LBTCftCL.
+1. * [ ] Work with LBTCftCL PRs
+   1. * [ ] Clean Bugfix PRs
+   3. * [ ] Incorporate i2p Chapter into LBTCftCL
+   1. * [ ] Work with Portuguese translation of LBTCftCL.
+   2. * [ ] Check on Spanish Translation of LBTC
 
 3. * [ ] Make QR Tool Video (Images)
    * [ ] Write Tweetstorm to go with it
@@ -175,23 +177,3 @@
    * [X] Review Description in Store
    * [-] Update App Icon in Store
    * [X] Send P. Icons 
-1. * [X] Update/create logos for new app names (Tuesday)
-   * [X] Gordian QR Tool
-   * [X] Add Social Medium Preview for QR Tool
-   * [X] Gordian Seed Tool
-   * [X] Update Social Media Preview for Seed Tool
-   * [X] Update Images in Main GOrdian Repo with New Logos
-1. * [X] Review QR Tool PR: https://github.com/BlockchainCommons/GordianQRTool-iOS/pull/59
-1. * [X] Write Short Assumptions for Seed Tool
-1. * [X] Edit Treasury Article w/Comments
-1. * [X] Edit Principal Authority Article w/Comments
-1. * [X] Write About The Flaws in DAO Treasury Management & Our Solutions
-1. * [X] Write About Principal Authority
-1. * [X] Update QR Tool text
-   * [X] Update About Page
-   * [X] Update Intro Page
-   * [X] Suggest Explanation for Apple
-1. * [X] Edit repos top to bottom to match that they are "reference implementations" (Tuesday)
-   * [X] Gordian QR Tool
-   * [X] Ensure QR Tool is in Standard Template Format
-   * [X] Gordian Seed Tool
