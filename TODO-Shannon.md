@@ -1,10 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Work with LBTCftCL PRs
-   1. * [ ] Clean Bugfix PRs
-   3. * [ ] Incorporate i2p Chapter into LBTCftCL
-   1. * [X] Work with Portuguese translation of LBTCftCL.
-   2. * [ ] Check on Spanish Translation of LBTC
 
 3. * [ ] Make QR Tool Video (Images)
    * [ ] Write Tweetstorm to go with it
@@ -12,6 +7,8 @@
    * [ ] Write Tweetstorm to go with it
 3. * [ ] Write Light Docs w/Pictures
    * [ ] Write Tweetstorm to Go With It
+
+1. * [ ] Incorporate i2p Chapter into LBTCftCL (when ready)
 
 4. * [ ] Tweetstorms
    * [ ] Cosigner
@@ -135,6 +132,10 @@
 
 ## Recently Completed
 
+1. * [X] Work with LBTCftCL PRs
+   1. * [X] Clean Bugfix PRs
+   1. * [X] Work with Portuguese translation of LBTCftCL.
+   1. * [X] Check on Spanish Translation of LBTC
 1. * [X] Reviewed first i2p work for LBTCftCL
 1. * [X] Edit Principal Authority per:
    * Use Google Doc as Master
