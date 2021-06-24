@@ -77,7 +77,7 @@ The Blockchain Commons members are:
   * Decentralized Identity Advocate — founder of [#RebootingWebOfTrust](http://www.WebOfTrust.info) & co-chair of the [W3C Credentials Community](https://w3c-ccg.github.io)
   * Former Principal Architect — Blockstream Corporation, Former VP — Blackphone, Former CTO — Certicom
   * Technology Leadership — former Faculty in the MBA in Sustainable Systems program at [Pinchot.edu](http://bgi.pinchot.edu)
-  * Blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com), code on [Github](https://github.com/ChristopherA) and on Twitter is [@ChristopherA](@ChristopherA)
+  * Blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com), code on [Github](https://github.com/ChristopherA) and on Twitter is [@ChristopherA](https://twitter.com/ChristopherA)
   * Resides in the Bay Area of California, USA
 
 * [Mark Friedenbach](mailto:mark@friedenbach.org)
@@ -192,6 +192,3 @@ You can import a key by running the following command with that individual’s f
 * 2020-12: Community README standardized 
 * 2020-08: Community  README updated
 * 2018-05: Community repository started on Github
-
-
-
