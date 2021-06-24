@@ -1,14 +1,20 @@
 # Shannon's Open Tasks
 
 
-3. * [ ] Make QR Tool Video (Images)
+3. * [ ] Create Images for Short QR Tool Video
    * [ ] Write Tweetstorm to go with it
-1. * [ ] Write What & Why Article on QR Tool
+3. * [ ] Create Images for Long QR Tool Video
    * [ ] Write Tweetstorm to go with it
-3. * [ ] Write Light Docs w/Pictures
-   * [ ] Write Tweetstorm to Go With It
+1. * [ ] Write Seed Tool Article
+   * [ ] Write Tweetstorm to go with it
+1. * [ ] Write Seed Tool Mini-Manual
+   * [ ] Write Tweetstorm to go with it
+3. * [ ] Create Images for Short Seed Tool Video
+   * [ ] Write Tweetstorm to go with it
+3. * [ ] Create Images for Long Seed Tool Video
+   * [ ] Write Tweetstorm to go with it
 
-1. * [ ] Incorporate i2p Chapter into LBTCftCL (when ready)
+3. * [ ] Incorporate i2p Chapter into LBTCftCL (when ready)
 
 1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
 4. * [ ] Tweetstorms
@@ -133,6 +139,10 @@
 
 ## Recently Completed
 
+1. * [X] Write What & Why Article on QR Tool
+   * [X] Write Tweetstorm to go with it
+3. * [X] Write Light Docs w/Pictures
+   * [X] Write Tweetstorm to Go With It
 1. * [X] Work with LBTCftCL PRs
    1. * [X] Clean Bugfix PRs
    1. * [X] Work with Portuguese translation of LBTCftCL.
