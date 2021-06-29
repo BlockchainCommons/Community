@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Test iCloud Syncing on current iPhone/Mac QR Tool
 1. * [ ] Check in on LBTCftCL PRs
 1. * [ ] Produce Q2 Report
    * [ ] Outline Q2 Report
