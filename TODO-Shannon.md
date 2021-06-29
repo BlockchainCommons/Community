@@ -1,7 +1,6 @@
 # Shannon's Open Tasks
 
 1. * [ ] Test iCloud Syncing on current iPhone/Mac QR Tool
-1. * [ ] Check in on LBTCftCL PRs
 1. * [ ] Produce Q2 Report
    * [ ] Outline Q2 Report
    * [ ] Talk with C. about Additional Elements
@@ -157,6 +156,7 @@
 
 ## Recently Completed
 
+1. * [X] Check in on LBTCftCL PRs
 1. * [X] Write What & Why Article on QR Tool
    * [X] Write Tweetstorm to go with it
 3. * [X] Write Light Docs w/Pictures
