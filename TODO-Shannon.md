@@ -1,17 +1,34 @@
 # Shannon's Open Tasks
 
-
-3. * [ ] Create Images for Short QR Tool Video
+1. * [ ] Check in on LBTCftCL PRs
+1. * [ ] Produce Q2 Report
+   * [ ] Outline Q2 Report
+   * [ ] Talk with C. about Additional Elements
+   * [ ] Write Q2 Report 
+3. * [X] Create Images for Short QR Tool Video
    * [ ] Write Tweetstorm to go with it
-3. * [ ] Create Images for Long QR Tool Video
+4. * [ ] Create Images for Long QR Tool Video
    * [ ] Write Tweetstorm to go with it
-1. * [ ] Write Seed Tool Article
+5. * [ ] Talk with W. about Seed Tool & Release Mechanisms
+6. * [ ] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
-1. * [ ] Write Seed Tool Mini-Manual
+7. * [ ] Write Seed Tool Mini-Manual
    * [ ] Write Tweetstorm to go with it
-3. * [ ] Create Images for Short Seed Tool Video
+8. * [ ] Create Images for Short Seed Tool Video [or maybe Wolf does]
    * [ ] Write Tweetstorm to go with it
-3. * [ ] Create Images for Long Seed Tool Video
+9. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
+   * [ ] Write Tweetstorm to go with it
+10. * [ ] Write Cosigner Article
+   * [ ] Write Tweetstorm to go with it
+11. * [ ] Write Cosigner Mini-Manual
+   * [ ] Write Tweetstorm to go with it
+12. * [ ] Produce Short Cosigner Video
+   * [ ] Write Script for Short Cosigner Video
+   * [ ] Create Images for Short Cosigner VIdeo
+   * [ ] Write Tweetstorm to go with it
+13. * [ ] Produce Long Cosigner Video
+   * [ ] Write Script for Long Cosigner Video
+   * [ ] Create Images for Long Cosigner VIdeo
    * [ ] Write Tweetstorm to go with it
 
 3. * [ ] Incorporate i2p Chapter into LBTCftCL (when ready)
@@ -171,21 +188,3 @@
 1. * [X] Edit Seedtool Text
    * [X] Make it clear that it not a standalone cryptocurrency app
    * [X] Make it clear not just Bitcoin
-1. * [X] Cosigner Text
-   * [X] Update Cosigner Text per Principles, etc
-   * [X] Make it clear this is not a standalone cryptocurrency app
-   * [X] Update store text
-1. * [X] Learning Bitcoin
-   * [X] Incorporate PRs
-   * [X] Respond to J.
-   * [X] Write About How to Offer Translates
-      * [X] Should be in 'es' (language code), and each chapter should list commit version, and steps, ending with QA from a native speaker
-      * [X] Should be branch, and no PRs should be more than one chapter
-      * [X] We'll support with 2+ people (to someone )
-1. * [X] Support for QR Tool
-   * [X] Double-Check Inclusion of my Text
-   * [X] Scrub Other References to Vault
-   * [X] Clarify App is for QRs with Sensitive Data
-   * [X] Review Description in Store
-   * [-] Update App Icon in Store
-   * [X] Send P. Icons 
