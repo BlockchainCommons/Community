@@ -155,6 +155,7 @@
 
 ## Recently Completed
 
+1. * [X] Reviewed new descriptor PRs
 1. * [X] Test iCloud Syncing on current iPhone/Mac QR Tool
 1. * [X] Check in on LBTCftCL PRs
 1. * [X] Write What & Why Article on QR Tool
