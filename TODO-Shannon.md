@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Coordinate W's Tech Excerpts
 1. * [ ] Produce Q2 Report
    * [X] Outline Q2 Report
    * [ ] Talk with C. about Additional Elements
