@@ -1,13 +1,12 @@
 # Shannon's Open Tasks
 
 1. * [ ] Edit New i2p section in LBTCftCL
+1. * [ ] Fix sizing of Short QR Tool Video
 1. * [ ] Coordinate W's Tech Excerpts
 1. * [ ] Produce Q2 Report
    * [X] Outline Q2 Report
    * [X] Talk with C. about Additional Elements
    * [ ] Write Q2 Report 
-3. * [X] Create Images for Short QR Tool Video
-   * [ ] Write Tweetstorm to go with it
 4. * [X] Create Images for Long QR Tool Video
    * [ ] Add Slides Requested by C.
    * [ ] Add Title & Final from W.
@@ -15,8 +14,6 @@
 6. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
 7. * [ ] Write Seed Tool Mini-Manual
-   * [ ] Write Tweetstorm to go with it
-8. * [ ] Create Images for Short Seed Tool Video [or maybe Wolf does]
    * [ ] Write Tweetstorm to go with it
 9. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
    * [ ] Write Tweetstorm to go with it
@@ -158,6 +155,8 @@
 
 ## Recently Completed
 
+8. * [X] Create Images for Short Seed Tool Video [or maybe Wolf does]
+3. * [X] Create Images for Short QR Tool Video
 5. * [X] Talk with W. about Seed Tool & Release Mechanisms
 1. * [X] Reviewed new descriptor PRs
 1. * [X] Test iCloud Syncing on current iPhone/Mac QR Tool
