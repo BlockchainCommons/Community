@@ -1,19 +1,21 @@
 # Shannon's Open Tasks
 
+1. * [ ] Integrate J. Comments on Principal Authority article
 1. * [ ] Edit New i2p section in LBTCftCL
-1. * [ ] Fix sizing of Short QR Tool Video
-1. * [ ] Coordinate W's Tech Excerpts
-1. * [ ] Produce Q2 Report
+
+3. * [ ] Fix sizing of Short QR Tool Video
+4. * [ ] Coordinate W's Tech Excerpts
+5. * [ ] Produce Q2 Report
    * [X] Outline Q2 Report
    * [X] Talk with C. about Additional Elements
    * [ ] Write Q2 Report 
-4. * [X] Create Images for Long QR Tool Video
+6. * [X] Create Images for Long QR Tool Video
    * [ ] Add Slides Requested by C.
    * [ ] Add Title & Final from W.
    * [ ] Write Tweetstorm to go with it
-6. * [X] Write Seed Tool Article
+7. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
-7. * [ ] Write Seed Tool Mini-Manual
+8. * [ ] Write Seed Tool Mini-Manual
    * [ ] Write Tweetstorm to go with it
 9. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
    * [ ] Write Tweetstorm to go with it
