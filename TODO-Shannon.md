@@ -9,6 +9,8 @@
 3. * [X] Create Images for Short QR Tool Video
    * [ ] Write Tweetstorm to go with it
 4. * [X] Create Images for Long QR Tool Video
+   * [ ] Add Slides Requested by C.
+   * [ ] Add Title & Final from W.
    * [ ] Write Tweetstorm to go with it
 6. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
