@@ -3,6 +3,11 @@
 1. * [ ] Integrate J. Comments on Principal Authority article
 1. * [ ] Edit New i2p section in LBTCftCL
 
+1. * [ ] Work with Fastlane
+   * [ ] Install
+   * [ ] Use for Seedtool Release
+   * [ ] Integrate for use with QRTool
+   * [ ] Integrate for use with Cosigner
 3. * [ ] Fix sizing of Short QR Tool Video
 4. * [ ] Coordinate W's Tech Excerpts
 5. * [ ] Produce Q2 Report
