@@ -9,30 +9,32 @@
    * [ ] Integrate for use with QRTool
    * [ ] Integrate for use with Cosigner
 3. * [ ] Fix sizing of Short QR Tool Video
-4. * [ ] Coordinate W's Tech Excerpts
-5. * [ ] Produce Q2 Report
+   * [ ] Submit to Youtube
+7. * [X] Create Images for Long QR Tool Video
+   * [ ] Add Slides Requested by C.
+   * [ ] Add Title & Final from W.
+   * [ ] Release to Youtube
+   * [ ] Write Tweetstorm to go with it
+5. * [ ] Coordinate W's Tech Excerpts
+6. * [ ] Produce Q2 Report
    * [X] Outline Q2 Report
    * [X] Talk with C. about Additional Elements
    * [ ] Write Q2 Report 
-6. * [X] Create Images for Long QR Tool Video
-   * [ ] Add Slides Requested by C.
-   * [ ] Add Title & Final from W.
+8. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
-7. * [X] Write Seed Tool Article
+9. * [ ] Write Seed Tool Mini-Manual
    * [ ] Write Tweetstorm to go with it
-8. * [ ] Write Seed Tool Mini-Manual
+10. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
    * [ ] Write Tweetstorm to go with it
-9. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
+11. * [ ] Write Cosigner Article
    * [ ] Write Tweetstorm to go with it
-10. * [ ] Write Cosigner Article
+12. * [ ] Write Cosigner Mini-Manual
    * [ ] Write Tweetstorm to go with it
-11. * [ ] Write Cosigner Mini-Manual
-   * [ ] Write Tweetstorm to go with it
-12. * [ ] Produce Short Cosigner Video
+13. * [ ] Produce Short Cosigner Video
    * [ ] Write Script for Short Cosigner Video
    * [ ] Create Images for Short Cosigner VIdeo
    * [ ] Write Tweetstorm to go with it
-13. * [ ] Produce Long Cosigner Video
+14. * [ ] Produce Long Cosigner Video
    * [ ] Write Script for Long Cosigner Video
    * [ ] Create Images for Long Cosigner VIdeo
    * [ ] Write Tweetstorm to go with it
