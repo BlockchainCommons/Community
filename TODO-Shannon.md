@@ -1,5 +1,17 @@
 # Shannon's Open Tasks
 
+1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
+1. * [ ] Release QR Tool for Mac upon OK
+
+1. * [ ] Review Newest LBTCftCL PRs
+1. * [ ] Release Cosigner for iOS
+1. * [ ] Release Cosigner for MacOS
+1. * [ ] Write Seed Tool Mini-Manual
+   * [ ] QA as I Go
+   * [ ] Write Tweetstorm to go with it
+1. * [X] Write Seed Tool Article
+   * [ ] Write Tweetstorm to go with it
+
 1. * [ ] Integrate J. Comments on Principal Authority article
 1. * [ ] Edit New i2p section in LBTCftCL
 
@@ -20,10 +32,6 @@
    * [X] Outline Q2 Report
    * [X] Talk with C. about Additional Elements
    * [ ] Write Q2 Report 
-8. * [X] Write Seed Tool Article
-   * [ ] Write Tweetstorm to go with it
-9. * [ ] Write Seed Tool Mini-Manual
-   * [ ] Write Tweetstorm to go with it
 10. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
    * [ ] Write Tweetstorm to go with it
 11. * [ ] Write Cosigner Article
@@ -164,41 +172,20 @@
 
 ## Recently Completed
 
-8. * [X] Create Images for Short Seed Tool Video [or maybe Wolf does]
-3. * [X] Create Images for Short QR Tool Video
-5. * [X] Talk with W. about Seed Tool & Release Mechanisms
+1. * [X] Release Gordian Tool for MacOS
+1. * [X] Release Gordian Tool 1.0.1 for iOS
+1. * [X] Create Images for Short Seed Tool Video [or maybe Wolf does]
+1. * [X] Create Images for Short QR Tool Video
+1. * [X] Talk with W. about Seed Tool & Release Mechanisms
 1. * [X] Reviewed new descriptor PRs
 1. * [X] Test iCloud Syncing on current iPhone/Mac QR Tool
 1. * [X] Check in on LBTCftCL PRs
 1. * [X] Write What & Why Article on QR Tool
    * [X] Write Tweetstorm to go with it
-3. * [X] Write Light Docs w/Pictures
+1. * [X] Write Light Docs w/Pictures
    * [X] Write Tweetstorm to Go With It
 1. * [X] Work with LBTCftCL PRs
    1. * [X] Clean Bugfix PRs
    1. * [X] Work with Portuguese translation of LBTCftCL.
    1. * [X] Check on Spanish Translation of LBTC
 1. * [X] Reviewed first i2p work for LBTCftCL
-1. * [X] Edit Principal Authority per:
-   * Use Google Doc as Master
-   * [X] Comments (especially language suggestions)
-      * Incorporate easy Stuff
-      * Flag Things to Discuss
-      * Flag Things Out of Scope
-   * [X] Wikipedia Page for Equity Laws — and its definition of Common Law (first sentence), https://en.wikipedia.org/wiki/Equity_(law), Chancery Court as Remedy
-      * Chancery Courts, for where law is not robust enough
-   * [X] Laws of Customs -> Customary Law https://en.wikipedia.org/wiki/Customary_law, Practices observed and relevant actors recognize standards of community
-      * We need to take advantage of Customary laws to define customs of how ID to use
-   * [X] Intertwined Use Law https://en.wikipedia.org/wiki/Use_(law)
-      * What are the equitable benefit?
-1. * [X] Fix Crypto Commons Logo for Dark Mode
-1. * [X] Add Tech Overview VIdeo to CC, Elsewhere: https://www.youtube.com/watch?v=RYgOFSdUqWY
-1. * [X] update sponsors text at https://github.com/sponsors/BlockchainCommons
-1. * [X] Update GOrdian Repo for Releases
-   * [X] Tips & Advice
-   * [X] How to Report a Bug
-   * [X] How to Suggest Features
-   * [X] Categories?
-1. * [X] Edit Seedtool Text
-   * [X] Make it clear that it not a standalone cryptocurrency app
-   * [X] Make it clear not just Bitcoin
