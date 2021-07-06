@@ -1,11 +1,8 @@
 # Shannon's Open Tasks
 
 1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
-1. * [ ] Release QR Tool for Mac upon OK
+1. * [ ] Wait for Fix on QR Tool Crash
 
-1. * [ ] Review Newest LBTCftCL PRs
-1. * [ ] Release Cosigner for iOS
-1. * [ ] Release Cosigner for MacOS
 1. * [ ] Write Seed Tool Mini-Manual
    * [ ] QA as I Go
    * [ ] Write Tweetstorm to go with it
@@ -15,20 +12,32 @@
 1. * [ ] Integrate J. Comments on Principal Authority article
 1. * [ ] Edit New i2p section in LBTCftCL
 
-1. * [ ] Work with Fastlane
+1. * [ ] Prepare Cosigner for Release
+   * [ ] Withdraw February Build
+   * [ ] Update Store Text from Issue
+   * [ ] Remove Front-Page Discussion of Alpha/Testnet
+   * [ ] Make Mainnet the Default
+   * [ ] Check Rest of Text
+   * [ ] Write Mini-Manual
+   * [ ] Link to Mini-Manual
+   * [ ] QA For iOS
+   * [ ] Submit for iOS w/full notes (manual) for Apple
+   * [ ] A for MacOS
+   * [ ] Submit for MacOS w/full notes (manual) for Apple
+3. * [ ] Work with Fastlane
    * [ ] Install
    * [ ] Use for Seedtool Release
    * [ ] Integrate for use with QRTool
    * [ ] Integrate for use with Cosigner
-3. * [ ] Fix sizing of Short QR Tool Video
+4. * [ ] Fix sizing of Short QR Tool Video
    * [ ] Submit to Youtube
 7. * [X] Create Images for Long QR Tool Video
    * [ ] Add Slides Requested by C.
    * [ ] Add Title & Final from W.
    * [ ] Release to Youtube
    * [ ] Write Tweetstorm to go with it
-5. * [ ] Coordinate W's Tech Excerpts
-6. * [ ] Produce Q2 Report
+6. * [ ] Coordinate W's Tech Excerpts
+7. * [ ] Produce Q2 Report
    * [X] Outline Q2 Report
    * [X] Talk with C. about Additional Elements
    * [ ] Write Q2 Report 
@@ -172,6 +181,8 @@
 
 ## Recently Completed
 
+1. * [X] Review Cosigner Status
+1. * [X] Review Newest LBTCftCL PRs
 1. * [X] Release Gordian Tool for MacOS
 1. * [X] Release Gordian Tool 1.0.1 for iOS
 1. * [X] Create Images for Short Seed Tool Video [or maybe Wolf does]
