@@ -1,16 +1,29 @@
 # Shannon's Open Tasks
 
 1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
-1. * [ ] Wait for Fix on QR Tool Crash
-
+1. * [ ] Write Release Procedures
+1. * [ ] Release Updated QR
+   * [ ] Test on Mac
+   * [ ] Test on iPhone
+   * [ ] Merge PR
+   * [ ] Upload to Apple/
 1. * [ ] Write Seed Tool Mini-Manual
    * [ ] QA as I Go
    * [ ] Write Tweetstorm to go with it
-1. * [X] Write Seed Tool Article
+1. * [ ] Merge Seed Tool
+1. * [ ] Work with Fastlane
+   * [ ] Install
+   * [ ] Use for Seedtool Release
+   * [ ] Integrate for use with QRTool
+   * [ ] Integrate for use with Cosigner   
+4. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
+   * [ ] Release Seed Tool Article
+1. * [ ] Check in with Learning Bitcoin Translations
+1. * [ ] Write Quarterly
 
-1. * [ ] Integrate J. Comments on Principal Authority article
-1. * [ ] Edit New i2p section in LBTCftCL
+3. * [ ] Integrate J. Comments on Principal Authority article
+4. * [ ] Edit New i2p section in LBTCftCL
 
 1. * [ ] Prepare Cosigner for Release
    * [ ] Withdraw February Build
@@ -24,11 +37,6 @@
    * [ ] Submit for iOS w/full notes (manual) for Apple
    * [ ] A for MacOS
    * [ ] Submit for MacOS w/full notes (manual) for Apple
-3. * [ ] Work with Fastlane
-   * [ ] Install
-   * [ ] Use for Seedtool Release
-   * [ ] Integrate for use with QRTool
-   * [ ] Integrate for use with Cosigner
 4. * [ ] Fix sizing of Short QR Tool Video
    * [ ] Submit to Youtube
 7. * [X] Create Images for Long QR Tool Video
@@ -181,6 +189,7 @@
 
 ## Recently Completed
 
+1. * [X] Wait for Fix on QR Tool Crash
 1. * [X] Review Cosigner Status
 1. * [X] Review Newest LBTCftCL PRs
 1. * [X] Release Gordian Tool for MacOS
@@ -190,13 +199,3 @@
 1. * [X] Talk with W. about Seed Tool & Release Mechanisms
 1. * [X] Reviewed new descriptor PRs
 1. * [X] Test iCloud Syncing on current iPhone/Mac QR Tool
-1. * [X] Check in on LBTCftCL PRs
-1. * [X] Write What & Why Article on QR Tool
-   * [X] Write Tweetstorm to go with it
-1. * [X] Write Light Docs w/Pictures
-   * [X] Write Tweetstorm to Go With It
-1. * [X] Work with LBTCftCL PRs
-   1. * [X] Clean Bugfix PRs
-   1. * [X] Work with Portuguese translation of LBTCftCL.
-   1. * [X] Check on Spanish Translation of LBTC
-1. * [X] Reviewed first i2p work for LBTCftCL
