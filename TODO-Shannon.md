@@ -16,10 +16,11 @@
    * [ ] Give Logo + Short to M.
    * [ ] Collect Info Needed for 99d.
 5. * [ ] Check in with Learning Bitcoin Translations
-4. * [X] Write Seed Tool Article
+6. * [ ] Review Standup PRs
+7. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
    * [ ] Release Seed Tool Article
-6. * [ ] Write Quarterly
+8. * [ ] Write Quarterly
 
 1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
 1. * [ ] Write Release Procedures
