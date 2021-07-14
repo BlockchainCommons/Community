@@ -8,7 +8,7 @@
    * [ ] Fix Delete/Update Bug
    * [ ] Rerelease for Mac
    * [ ] Rerelease for iPhone
-1. * [ ] Write Seed Tool Mini-Manual
+1. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
    * [ ] Write Tweetstorm to go with it
 1. * [ ] Proceed on Gordian Seal
