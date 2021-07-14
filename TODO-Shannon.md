@@ -1,13 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Release Updated QR
-   * [X] Test on Mac
-   * [X] Test on iPhone
-   * [X] Merge PR
-   * [X] Upload to Apple/
-   * [ ] Fix Delete/Update Bug
-   * [ ] Rerelease for Mac
-   * [ ] Rerelease for iPhone
 1. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
    * [ ] Write Tweetstorm to go with it
@@ -198,6 +190,14 @@
 
 ## Recently Completed
 
+1. * [X] Release Updated QR
+   * [X] Test on Mac
+   * [X] Test on iPhone
+   * [X] Merge PR
+   * [X] Upload to Apple/
+   * [X] Fix Delete/Update Bug
+   * [X] Rerelease for Mac
+   * [X] Rerelease for iPhone
 1. * [X] Wait for Fix on QR Tool Crash
 1. * [X] Review Cosigner Status
 1. * [X] Review Newest LBTCftCL PRs
