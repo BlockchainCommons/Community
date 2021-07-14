@@ -191,6 +191,7 @@
 
 ## Recently Completed
 
+1. * [X] Merged LBTCftCL & Standup PRs
 1. * [X] Release Updated QR
    * [X] Test on Mac
    * [X] Test on iPhone
