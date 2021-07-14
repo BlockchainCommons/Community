@@ -23,7 +23,8 @@
 8. * [ ] Write Quarterly
 
 1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
-1. * [ ] Write Release Procedures
+   * [ ] Add release number to Release Status
+3. * [ ] Write Release Procedures
 
 3. * [ ] Integrate J. Comments on Principal Authority article
 4. * [ ] Edit New i2p section in LBTCftCL
