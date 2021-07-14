@@ -1,29 +1,36 @@
 # Shannon's Open Tasks
 
+1. * [ ] Release Updated QR
+   * [X] Test on Mac
+   * [X] Test on iPhone
+   * [X] Merge PR
+   * [X] Upload to Apple/
+   * [ ] Fix Delete/Update Bug
+   * [ ] Rerelease for Mac
+   * [ ] Rerelease for iPhone
+1. * [ ] Write Seed Tool Mini-Manual
+   * [X] QA as I Go
+   * [ ] Write Tweetstorm to go with it
+1. * [ ] Proceed on Gordian Seal
+   * [ ] Mock Up Logo
+   * [ ] Give Logo + Short to M.
+   * [ ] Collect Info Needed for 99d.
+5. * [ ] Check in with Learning Bitcoin Translations
+4. * [X] Write Seed Tool Article
+   * [ ] Write Tweetstorm to go with it
+   * [ ] Release Seed Tool Article
+6. * [ ] Write Quarterly
+
 1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
 1. * [ ] Write Release Procedures
-1. * [ ] Release Updated QR
-   * [ ] Test on Mac
-   * [ ] Test on iPhone
-   * [ ] Merge PR
-   * [ ] Upload to Apple/
-1. * [ ] Write Seed Tool Mini-Manual
-   * [ ] QA as I Go
-   * [ ] Write Tweetstorm to go with it
-1. * [ ] Merge Seed Tool
-1. * [ ] Work with Fastlane
+
+3. * [ ] Integrate J. Comments on Principal Authority article
+4. * [ ] Edit New i2p section in LBTCftCL
+3. * [ ] Work with Fastlane
    * [ ] Install
    * [ ] Use for Seedtool Release
    * [ ] Integrate for use with QRTool
    * [ ] Integrate for use with Cosigner   
-4. * [X] Write Seed Tool Article
-   * [ ] Write Tweetstorm to go with it
-   * [ ] Release Seed Tool Article
-1. * [ ] Check in with Learning Bitcoin Translations
-1. * [ ] Write Quarterly
-
-3. * [ ] Integrate J. Comments on Principal Authority article
-4. * [ ] Edit New i2p section in LBTCftCL
 
 1. * [ ] Prepare Cosigner for Release
    * [ ] Withdraw February Build
