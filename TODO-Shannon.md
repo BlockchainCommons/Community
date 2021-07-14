@@ -1,11 +1,12 @@
 # Shannon's Open Tasks
 
+1. * [ ] Make Changes to SeedTool README per C.
 1. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
    * [ ] Write Tweetstorm to go with it
 1. * [ ] Proceed on Gordian Seal
    * [ ] Mock Up Logo
-   * [ ] Give Logo + Short to M.
+   * [X] Give Logo + Short to M.
    * [ ] Collect Info Needed for 99d.
 5. * [ ] Check in with Learning Bitcoin Translations
 6. * [ ] Review Standup PRs
