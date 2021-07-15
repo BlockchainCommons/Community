@@ -3,13 +3,13 @@
 1. * [ ] Make Changes to SeedTool README per C.
 1. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
+   * [ ] Incorporate Comments for C. & W.
    * [ ] Write Tweetstorm to go with it
 1. * [ ] Proceed on Gordian Seal
    * [ ] Mock Up Logo
    * [X] Give Logo + Short to M.
    * [ ] Collect Info Needed for 99d.
 5. * [ ] Check in with Learning Bitcoin Translations
-6. * [ ] Review Standup PRs
 7. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
    * [ ] Release Seed Tool Article
