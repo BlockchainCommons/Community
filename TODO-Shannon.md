@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Make Changes to SeedTool README per C.
 1. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
    * [ ] Incorporate Comments for C. & W.
@@ -9,15 +8,16 @@
    * [ ] Mock Up Logo
    * [X] Give Logo + Short to M.
    * [ ] Collect Info Needed for 99d.
-5. * [ ] Check in with Learning Bitcoin Translations
-7. * [X] Write Seed Tool Article
+1. * [ ] Check in with Learning Bitcoin Translations
+1. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
    * [ ] Release Seed Tool Article
-8. * [ ] Write Quarterly
-
-1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
+1. * [ ] Write Quarterly
+1. * [ ] Update Dependencies listing for Seed Tool
+ 
+3. * [ ] Tag QR Tool with v1.0.1 following release of submissions
    * [ ] Add release number to Release Status
-3. * [ ] Write Release Procedures
+4. * [ ] Write Release Procedures
 
 3. * [ ] Integrate J. Comments on Principal Authority article
 4. * [ ] Edit New i2p section in LBTCftCL
@@ -191,6 +191,7 @@
 
 ## Recently Completed
 
+1. * [X] Make Changes to SeedTool README per C.
 1. * [X] Merged LBTCftCL & Standup PRs
 1. * [X] Release Updated QR
    * [X] Test on Mac
