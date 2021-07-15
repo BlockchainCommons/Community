@@ -1,6 +1,6 @@
 # Shannon's Open Tasks
 
-1. * [ ] Review small changes to Seed Tool announce article, for grammar, and relevance of changes to other documents.
+1. * [ ] Review [small changes](https://github.com/BlockchainCommons/www.blockchaincommons.com/commit/3884e21e605fa50688f2fee62976dbf98fc314eb#diff-faa90289a129dd4e193bc55e829ef96088388006ba9bee0d35b5d774605e8397) to Seed Tool announce article, for grammar, and relevance of changes to other documents.
 2. * [ ] Link seedtool-cli and keytool-cli to bottom of various Seed Tool iOS documents, to point out these tools are also available for power-users and developers.
 3. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
