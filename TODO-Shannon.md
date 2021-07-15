@@ -1,10 +1,12 @@
 # Shannon's Open Tasks
 
-1. * [X] Write Seed Tool Mini-Manual
+1. * [ ] Review small changes to Seed Tool announce article, for grammar, and relevance of changes to other documents.
+2. * [ ] Link seedtool-cli and keytool-cli to bottom of various Seed Tool iOS documents, to point out these tools are also available for power-users and developers.
+3. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
    * [ ] Incorporate Comments for C. & W.
    * [ ] Write Tweetstorm to go with it
-1. * [ ] Proceed on Gordian Seal
+4. * [ ] Proceed on Gordian Seal
    * [ ] Mock Up Logo
    * [X] Give Logo + Short to M.
    * [ ] Collect Info Needed for 99d.
@@ -13,12 +15,12 @@
      * [ ] ?
    * [ ] Link Youtube videos in places like:
      * [ ] ?
-1. * [ ] Check in with Learning Bitcoin Translations
-1. * [X] Write Seed Tool Article
+5. * [ ] Check in with Learning Bitcoin Translations
+6. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
    * [ ] Release Seed Tool Article
-1. * [ ] Write Quarterly
-1. * [ ] Update Dependencies listing for Seed Tool
+7. * [ ] Write Quarterly
+8. * [ ] Update Dependencies listing for Seed Tool
  
 3. * [ ] Tag QR Tool with v1.0.1 following release of submissions
    * [ ] Add release number to Release Status
