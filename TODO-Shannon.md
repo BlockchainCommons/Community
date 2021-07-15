@@ -8,6 +8,11 @@
    * [ ] Mock Up Logo
    * [X] Give Logo + Short to M.
    * [ ] Collect Info Needed for 99d.
+   * [ ] Link apps to various places like:
+     * [ ] Youtube video descripts
+     * [ ] ?
+   * [ ] Link Youtube videos in places like:
+     * [ ] ?
 1. * [ ] Check in with Learning Bitcoin Translations
 1. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
