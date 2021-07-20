@@ -1,12 +1,13 @@
 # Shannon's Open Tasks
 
 1. * [ ] Review [small changes](https://github.com/BlockchainCommons/www.blockchaincommons.com/commit/3884e21e605fa50688f2fee62976dbf98fc314eb#diff-faa90289a129dd4e193bc55e829ef96088388006ba9bee0d35b5d774605e8397) to Seed Tool announce article, for grammar, and relevance of changes to other documents.
-2. * [ ] Link seedtool-cli and keytool-cli to bottom of various Seed Tool iOS documents, to point out these tools are also available for power-users and developers.
-3. * [X] Write Seed Tool Mini-Manual
+1. * [ ] Link seedtool-cli and keytool-cli to bottom of various Seed Tool iOS documents, to point out these tools are also available for power-users and developers.
+1. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
    * [ ] Incorporate Comments for C. & W.
+   * [ ] Update SeedTool for New Version
    * [ ] Write Tweetstorm to go with it
-4. * [ ] Proceed on Gordian Seal
+1. * [ ] Proceed on Gordian Seal
    * [ ] Mock Up Logo
    * [X] Give Logo + Short to M.
    * [ ] Collect Info Needed for 99d.
@@ -15,20 +16,21 @@
      * [ ] ?
    * [ ] Link Youtube videos in places like:
      * [ ] ?
-5. * [ ] Check in with Learning Bitcoin Translations
-6. * [X] Write Seed Tool Article
+1. * [ ] Check in with Learning Bitcoin Translations
+1. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
    * [ ] Release Seed Tool Article
-7. * [ ] Write Quarterly
-8. * [ ] Update Dependencies listing for Seed Tool
- 
-3. * [ ] Tag QR Tool with v1.0.1 following release of submissions
-   * [ ] Add release number to Release Status
-4. * [ ] Write Release Procedures
+1. * [ ] Write Quarterly
+1. * [ ] Update Dependencies listing for Seed Tool
+1. * [ ] SSKR in SeedTool TweetStorm (Week of July 27)
 
-3. * [ ] Integrate J. Comments on Principal Authority article
-4. * [ ] Edit New i2p section in LBTCftCL
-3. * [ ] Work with Fastlane
+1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
+   * [ ] Add release number to Release Status
+1. * [ ] Write Release Procedures
+
+1. * [ ] Integrate J. Comments on Principal Authority article
+1. * [ ] Edit New i2p section in LBTCftCL
+1. * [ ] Work with Fastlane
    * [ ] Install
    * [ ] Use for Seedtool Release
    * [ ] Integrate for use with QRTool
@@ -215,6 +217,3 @@
 1. * [X] Release Gordian Tool 1.0.1 for iOS
 1. * [X] Create Images for Short Seed Tool Video [or maybe Wolf does]
 1. * [X] Create Images for Short QR Tool Video
-1. * [X] Talk with W. about Seed Tool & Release Mechanisms
-1. * [X] Reviewed new descriptor PRs
-1. * [X] Test iCloud Syncing on current iPhone/Mac QR Tool
