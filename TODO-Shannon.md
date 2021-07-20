@@ -21,8 +21,6 @@
 1. * [ ] Tweetstorm OIBs, Seedtool
 3. * [ ] SSKR in SeedTool TweetStorm (Week of July 27)
 
-1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
-   * [ ] Add release number to Release Status
 1. * [ ] Write Release Procedures
 
 1. * [ ] Proceed on Gordian Seal
@@ -205,6 +203,9 @@
 
 ## Recently Completed
 
+1. * [X] Tag QR Tool with v1.0.1 following release of submissions
+   * [X] Add release number to Release Status
+1. * [X] Check in with Learning Bitcoin Translations
 1. * [X] Make Changes to SeedTool README per C.
 1. * [X] Merged LBTCftCL & Standup PRs
 1. * [X] Release Updated QR
