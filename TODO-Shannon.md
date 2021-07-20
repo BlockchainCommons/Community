@@ -18,6 +18,7 @@
      * [ ] Youtube video descripts (Wolf's)
      * [ ] Main Page
      * [ ] Other Places?
+1. * [ ] Tweetstorm OIBs, Seedtool
 3. * [ ] SSKR in SeedTool TweetStorm (Week of July 27)
 
 1. * [ ] Tag QR Tool with v1.0.1 following release of submissions
