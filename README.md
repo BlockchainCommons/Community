@@ -30,15 +30,15 @@ We had a successful virtual internship program this summer, and are hoping to re
 
 The following servers are currently running Blockchain Commons services. If you need access, please ask.
 
-   * BTCPay: 45.79.86.32
+   * BTCPay: 45.56.94.154
       * Our secure server, currently used for BTCPay
-   * Spotbit: 104.200.29.8
+   * Spotbit: 45.56.94.96
       * Our services server, currently used for Spotbit (http://h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion)
-   * Standupsh: 45.118.132.204
+   * Standupsh: 45.56.94.106
       * ?. This may be our default full node for Gordian Wallet
-   * Research-0: 45.33.43.151
+   * Research-0: 45.56.94.175
       * Our main server for research projects
-   * Ss-conf: 172.105.248.106
+   * Ss-conf: 45.56.94.83
       * A temporary research server, currently being used for esplora experimentation
       
 ## Projects
