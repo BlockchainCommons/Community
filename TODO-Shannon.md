@@ -19,7 +19,7 @@
      * [ ] Main Page
      * [ ] Other Places?
 1. * [ ] Tweetstorm OIBs, Seedtool
-3. * [ ] SSKR in SeedTool TweetStorm (Week of July 27)
+1. * [ ] Update SSKR Tweetstorm
 
 1. * [ ] Write Release Procedures
 
