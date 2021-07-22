@@ -19,7 +19,6 @@
      * [ ] Main Page
      * [ ] Other Places?
 1. * [ ] Tweetstorm OIBs, Seedtool
-1. * [ ] Update SSKR Tweetstorm
 
 1. * [ ] Write Release Procedures
 
@@ -203,6 +202,7 @@
 
 ## Recently Completed
 
+1. * [X] Update SSKR Tweetstorm
 1. * [X] Tag QR Tool with v1.0.1 following release of submissions
    * [X] Add release number to Release Status
 1. * [X] Check in with Learning Bitcoin Translations
