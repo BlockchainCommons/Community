@@ -1,30 +1,26 @@
 # Shannon's Open Tasks
 
-1. * [ ] Check UC in various pat. places
-1. * [ ] Qurtly
-     * [ ] emphasize moving to rust (may help with Square Crypto]
-     * [ ] formal security review contracted for by Partron for sskr and commons implications 
-     * [ ] mori 
-     * [ ] update to final intern work orders
-1. * [ ] update section: https://github.com/BlockchainCommons/Community#virtual-internships
-1. * [ ] Bump up Patronage Levels
-1. * [ ] Review [small changes](https://github.com/BlockchainCommons/www.blockchaincommons.com/commit/3884e21e605fa50688f2fee62976dbf98fc314eb#diff-faa90289a129dd4e193bc55e829ef96088388006ba9bee0d35b5d774605e8397) to Seed Tool announce article, for grammar, and relevance of changes to other documents.
-1. * [ ] Link seedtool-cli and keytool-cli (or crypto-commons) to bottom of various Seed Tool iOS documents, to point out these tools are also available for power-users and developers.
-1. * [X] Write Seed Tool Mini-Manual
+1. * [ ] Graphics for Quarterly
+2. * [ ] Post Quarterly
+3. * [ ] Check UC in various pat. places
+4. * [ ] update section: https://github.com/BlockchainCommons/Community#virtual-internships
+5. * [ ] Bump up Patronage Levels
+6. * [ ] Review [small changes](https://github.com/BlockchainCommons/www.blockchaincommons.com/commit/3884e21e605fa50688f2fee62976dbf98fc314eb#diff-faa90289a129dd4e193bc55e829ef96088388006ba9bee0d35b5d774605e8397) to Seed Tool announce article, for grammar, and relevance of changes to other documents.
+7. * [ ] Link seedtool-cli and keytool-cli (or crypto-commons) to bottom of various Seed Tool iOS documents, to point out these tools are also available for power-users and developers.
+8. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
    * [ ] Incorporate Comments for C. & W.
    * [ ] Update SeedTool for New Version
    * [ ] Write Tweetstorm to go with it
-1. * [X] Write Seed Tool Article
+9. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
    * [ ] Release Seed Tool Article
-1. * [ ] Write Quarterly
-1. * [ ] Update Dependencies listing for Seed Tool
-1. * [ ] Link apps to various places like:
+10. * [ ] Update Dependencies listing for Seed Tool
+11. * [ ] Link apps to various places like:
      * [ ] Youtube video descripts (Wolf's)
      * [ ] Main Page
      * [ ] Other Places?
-1. * [ ] Tweetstorm OIBs, Seedtool
+12. * [ ] Tweetstorm OIBs, Seedtool
 
 1. * [ ] Look for any self-contained TODOs to hand off
 3. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
@@ -212,6 +208,12 @@
 
 ## Recently Completed
 
+1. * [X] Quarterly
+     * [X] emphasize moving to rust (may help with Square Crypto]
+     * [X] formal security review contracted for by Partron for sskr and commons implications 
+     * [X] mori 
+     * [X] update to final intern work orders
+1. * [X] Write Quarterly
 1. * [X] Check in with Learning Bitcoin Translations
 1. * [X] Update SSKR Tweetstorm
 1. * [X] Tag QR Tool with v1.0.1 following release of submissions
