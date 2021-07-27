@@ -15,7 +15,6 @@
    * [ ] Incorporate Comments for C. & W.
    * [ ] Update SeedTool for New Version
    * [ ] Write Tweetstorm to go with it
-1. * [ ] Check in with Learning Bitcoin Translations
 1. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
    * [ ] Release Seed Tool Article
@@ -27,8 +26,11 @@
      * [ ] Other Places?
 1. * [ ] Tweetstorm OIBs, Seedtool
 
-1. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
-1. * [ ] Write Release Procedures
+1. * [ ] Look for any self-contained TODOs to hand off
+3. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
+4. * [ ] Add diagram of forks & branches to TRANSLATING
+5. * [ ] Write Release Procedures
+1. * [ ] Check in with Learning Bitcoin Translations
 
 1. * [ ] Proceed on Gordian Seal
    * [ ] Check in with M. 
@@ -210,6 +212,7 @@
 
 ## Recently Completed
 
+1. * [X] Check in with Learning Bitcoin Translations
 1. * [X] Update SSKR Tweetstorm
 1. * [X] Tag QR Tool with v1.0.1 following release of submissions
    * [X] Add release number to Release Status
@@ -227,7 +230,3 @@
 1. * [X] Wait for Fix on QR Tool Crash
 1. * [X] Review Cosigner Status
 1. * [X] Review Newest LBTCftCL PRs
-1. * [X] Release Gordian Tool for MacOS
-1. * [X] Release Gordian Tool 1.0.1 for iOS
-1. * [X] Create Images for Short Seed Tool Video [or maybe Wolf does]
-1. * [X] Create Images for Short QR Tool Video
