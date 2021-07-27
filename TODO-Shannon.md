@@ -27,6 +27,7 @@
      * [ ] Other Places?
 1. * [ ] Tweetstorm OIBs, Seedtool
 
+1. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
 1. * [ ] Write Release Procedures
 
 1. * [ ] Proceed on Gordian Seal
