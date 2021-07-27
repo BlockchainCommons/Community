@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Check UC in various pat. places
 1. * [ ] Qurtly
      * [ ] emphasize moving to rust (may help with Square Crypto]
      * [ ] formal security review contracted for by Partron for sskr and commons implications 
