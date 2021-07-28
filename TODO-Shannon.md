@@ -160,7 +160,6 @@
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
 35. * [ ] short articles in LWA linking to other CA work
-36. * [ ] Clear Learning Bitcoin Issues/PRs
 
 ## Pending
 
