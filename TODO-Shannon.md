@@ -16,13 +16,13 @@
      * [ ] Main Page
      * [ ] Other Places?
 13. * [ ] Tweetstorm OIBs, Seedtool
-
-1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
-1. * [ ] Look for any self-contained TODOs to hand off
-3. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
-4. * [ ] Add diagram of forks & branches to TRANSLATING
-5. * [ ] Write Release Procedures
-1. * [ ] Check in with Learning Bitcoin Translations
+1. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
+3. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
+4. * [ ] Look for any self-contained TODOs to hand off
+5. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
+6. * [ ] Add diagram of forks & branches to TRANSLATING
+7. * [ ] Write Release Procedures
+8. * [ ] Check in with Learning Bitcoin Translations
 
 1. * [ ] Proceed on Gordian Seal
    * [ ] Check in with M. 
