@@ -6,7 +6,8 @@
 9. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
    * [ ] Incorporate Comments for C. & W.
-   * [ ] Update SeedTool for New Version
+   * [ ] Update SeedTool Manual for New Version
+   * [ ] Update SeedTool Imgaes for New Version
    * [ ] Write Tweetstorm to go with it
 10. * [X] Write Seed Tool Article
    * [ ] Write Tweetstorm to go with it
