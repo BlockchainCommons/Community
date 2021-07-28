@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-4. * [ ] Check UC in various pat. places
 5. * [ ] update section: https://github.com/BlockchainCommons/Community#virtual-internships
 6. * [ ] Bump up Patronage Levels
 7. * [ ] Review [small changes](https://github.com/BlockchainCommons/www.blockchaincommons.com/commit/3884e21e605fa50688f2fee62976dbf98fc314eb#diff-faa90289a129dd4e193bc55e829ef96088388006ba9bee0d35b5d774605e8397) to Seed Tool announce article, for grammar, and relevance of changes to other documents.
@@ -206,6 +205,7 @@
 
 ## Recently Completed
 
+1. * [X] Check UC in various pat. places
 1. * [X] Graphics for Quarterly
 1. * [X] Tweetstorm for Quarterly
 1. * [X] Post Quarterly
