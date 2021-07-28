@@ -95,6 +95,8 @@ The Blockchain Commons members are:
   * Convener of the Internet of Humans Workshop, with Paula Berman (Democracy Earth) and Kevin Owoki (Gitcoin)
   * Independent researcher—[SANDPP](https://bit.ly/3i5OXVt)
   * Collaborator at Blockchain Commons
+  * Code on [Github](https://github.com/vinayvasanji) and on Twitter is [@VinayVasanji](https://twitter.com/vinayvasanji)
+  * Resides in the Philadelphia, USA
 
 ## Communications
 
