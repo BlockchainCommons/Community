@@ -1,6 +1,5 @@
 # Shannon's Open Tasks
 
-5. * [ ] update section: https://github.com/BlockchainCommons/Community#virtual-internships
 6. * [ ] Bump up Patronage Levels
 7. * [ ] Review [small changes](https://github.com/BlockchainCommons/www.blockchaincommons.com/commit/3884e21e605fa50688f2fee62976dbf98fc314eb#diff-faa90289a129dd4e193bc55e829ef96088388006ba9bee0d35b5d774605e8397) to Seed Tool announce article, for grammar, and relevance of changes to other documents.
 8. * [ ] Link seedtool-cli and keytool-cli (or crypto-commons) to bottom of various Seed Tool iOS documents, to point out these tools are also available for power-users and developers.
@@ -19,6 +18,7 @@
      * [ ] Other Places?
 13. * [ ] Tweetstorm OIBs, Seedtool
 
+1. * [ ] Talk with W. about repo naming conventions
 1. * [ ] Look for any self-contained TODOs to hand off
 3. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
 4. * [ ] Add diagram of forks & branches to TRANSLATING
@@ -205,6 +205,7 @@
 
 ## Recently Completed
 
+1. * [X] update section: https://github.com/BlockchainCommons/Community#virtual-internships
 1. * [X] Check UC in various pat. places
 1. * [X] Graphics for Quarterly
 1. * [X] Tweetstorm for Quarterly
