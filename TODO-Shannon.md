@@ -1,5 +1,6 @@
 # Shannon's Open Tasks
 
+1. * [ ] Add Standard List of Patrons to Standard Tweet
 6. * [ ] Bump up Patronage Levels
 7. * [ ] Check Projects page for essential updates https://www.blockchaincommons.com/projects.html (save bigger changes for later)
 9. * [X] Write Seed Tool Mini-Manual
