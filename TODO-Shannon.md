@@ -1,14 +1,10 @@
 # Shannon's Open Tasks
 
+1. * [ ] Write Tweetstorm for Seedtool Manual
+1. * [ ] Release Seedtool Manual (following release of 1.2)
 1. * [ ] Add Standard List of Patrons to Standard Tweet
 6. * [ ] Bump up Patronage Levels
 7. * [ ] Check Projects page for essential updates https://www.blockchaincommons.com/projects.html (save bigger changes for later)
-9. * [X] Write Seed Tool Mini-Manual
-   * [X] QA as I Go
-   * [ ] Incorporate Comments for C. & W.
-   * [ ] Update SeedTool Manual for New Version
-   * [ ] Update SeedTool Imgaes for New Version
-   * [ ] Write Tweetstorm to go with it
 1. * [ ] Write Document Describing Major SSKR Strategies
    * [ ] Link it to Seed Tool Mini-Manual
 11. * [ ] Update Dependencies listing for Seed Tool
@@ -204,6 +200,11 @@
 
 ## Recently Completed
 
+1. * [X] Write Seed Tool Mini-Manual
+   * [X] QA as I Go
+   * [X] Incorporate Comments for C. & W.
+   * [X] Update SeedTool Manual for New Version
+   * [X] Update SeedTool Imgaes for New Version
 1. * [X] Link seedtool-cli and keytool-cli (or crypto-commons) to bottom of various Seed Tool iOS documents, to point out these tools are also available for power-users and developers.
 1. * [X] Review [small changes](https://github.com/BlockchainCommons/www.blockchaincommons.com/commit/3884e21e605fa50688f2fee62976dbf98fc314eb#diff-faa90289a129dd4e193bc55e829ef96088388006ba9bee0d35b5d774605e8397) to Seed Tool announce article, for grammar, and relevance of changes to other documents.
 1. * [X] update section: https://github.com/BlockchainCommons/Community#virtual-internships
