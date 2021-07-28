@@ -91,7 +91,10 @@ The Blockchain Commons members are:
   * Code on [Github](https://github.com/maaku) and on Twitter is [@MarkFriedenbach](https://twitter.com/markfriedenbach)
   * Resides in the Bay Area of California, USA
 
-* [Vinay Taylor](mailto:vinay@nomqa.com)
+* [Vinay Vasanji](mailto:me@vinayvasanji.com)
+  * Convener of the Internet of Humans Workshop, with Paula Berman (Democracy Earth) and Kevin Owoki (Gitcoin)
+  * Independent researcher—[SANDPP](https://bit.ly/3i5OXVt)
+  * Collaborator at Blockchain Commons
 
 ## Communications
 
