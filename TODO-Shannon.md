@@ -9,22 +9,21 @@
    * [ ] Update SeedTool Manual for New Version
    * [ ] Update SeedTool Imgaes for New Version
    * [ ] Write Tweetstorm to go with it
-10. * [X] Write Seed Tool Article
-   * [ ] Write Tweetstorm to go with it
-   * [ ] Release Seed Tool Article
+1. * [ ] Write Document Describing Major SSKR Strategies
+   * [ ] Link it to Seed Tool Mini-Manual
 11. * [ ] Update Dependencies listing for Seed Tool
 12. * [ ] Link apps to various places like:
      * [ ] Youtube video descripts (Wolf's)
      * [ ] Main Page
      * [ ] Other Places?
 13. * [ ] Tweetstorm OIBs, Seedtool
-1. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
-3. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
-4. * [ ] Look for any self-contained TODOs to hand off
-5. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
-6. * [ ] Add diagram of forks & branches to TRANSLATING
-7. * [ ] Write Release Procedures
-8. * [ ] Check in with Learning Bitcoin Translations
+6. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
+7. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
+8. * [ ] Look for any self-contained TODOs to hand off
+9. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
+10. * [ ] Add diagram of forks & branches to TRANSLATING
+11. * [ ] Write Release Procedures
+12. * [ ] Check in with Learning Bitcoin Translations
 
 1. * [ ] Proceed on Gordian Seal
    * [ ] Check in with M. 
@@ -225,6 +224,9 @@
 1. * [X] Check in with Learning Bitcoin Translations
 1. * [X] Make Changes to SeedTool README per C.
 1. * [X] Merged LBTCftCL & Standup PRs
+1. * [X] Write Seed Tool Article
+   * [X] Write Tweetstorm to go with it
+   * [X] Release Seed Tool Article
 1. * [X] Release Updated QR
    * [X] Test on Mac
    * [X] Test on iPhone
