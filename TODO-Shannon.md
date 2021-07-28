@@ -1,8 +1,5 @@
 # Shannon's Open Tasks
 
-1. * [ ] Graphics for Quarterly
-2. * [ ] Tweetstorm for Quarterly
-3. * [ ] Post Quarterly
 4. * [ ] Check UC in various pat. places
 5. * [ ] update section: https://github.com/BlockchainCommons/Community#virtual-internships
 6. * [ ] Bump up Patronage Levels
@@ -209,6 +206,9 @@
 
 ## Recently Completed
 
+1. * [X] Graphics for Quarterly
+1. * [X] Tweetstorm for Quarterly
+1. * [X] Post Quarterly
 1. * [X] Quarterly
      * [X] emphasize moving to rust (may help with Square Crypto]
      * [X] formal security review contracted for by Partron for sskr and commons implications 
