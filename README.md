@@ -24,7 +24,9 @@ See also [our current strategies](Strategies.md).
       
 ## Virtual Internships
 
-We had a successful virtual internship program this summer, and are hoping to repeat it this fall. See https://github.com/BlockchainCommons/Community/issues/17 for more details. The deadline for signups passed on September 28th.
+We have run [well-received](https://www.coindesk.com/blockchain-commons-interns-open-source-developers) virtual internship programs in both Summer 2020 and Summer 2021. Discussion of our most recent internship program can be found [here](https://github.com/BlockchainCommons/Community/discussions/32), while a lot of our intern work occurs in our [Community Discussion](https://github.com/BlockchainCommons/Community/discussions). 
+
+If you're interested in a future internship program, watch that space for our next announcement.
 
 ## Server List
 
