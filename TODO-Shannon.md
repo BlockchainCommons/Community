@@ -198,6 +198,7 @@
 
 ## Recently Completed
 
+1. * [X] Write New Issues for Seedtool
 1. * [X] Add Standard List of Patrons to Standard Tweet
 1. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
