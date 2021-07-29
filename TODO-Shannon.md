@@ -2,7 +2,7 @@
 
 _Tuesday Morning:_
 
-1. * [ ] Work through this list, eliminating & passing off as appropriate
+1. * [ ] Pass off any appropriate tasks
 1. * [ ] Check in with Learning Bitcoin Translations
 
 _Web/Repo Tasks (Small):_
