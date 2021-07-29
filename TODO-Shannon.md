@@ -127,15 +127,12 @@
 19. * [ ] Edit/prepare Keytool Tweetstorm
 20. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
 21. * [ ] Write article about digital identity definition words
-22. * [ ] Post SSKR User/Developer Articles?
 23. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
 24. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 25. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
 26. * [ ] Add to #SC: Rollup Attack
    * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 27. * [ ] Fix Crypto Commons Background for Social Media Preview
-28. * [ ] Move this to CanBan List
-29. * [ ] UR Docs (Pending: Definition of What this is. Overview? Examples?)
 30. * [ ] Check on Articles (What's Not Used?)
 31. * [ ] Support Internship
    * [ ] What is Internship
@@ -157,6 +154,7 @@
    * [X] Edit MD Files (make sure committed)
    * [ ] How To Use with CoSigner
 35. * [ ] short articles in LWA linking to other CA work
+1. * [ ] Move this to CanBan List
 
 ## Pending
 
