@@ -1,11 +1,11 @@
 # Shannon's Open Tasks
 
 1. * [ ] Write Tweetstorm for Seedtool Manual
-1. * [ ] Release Seedtool Manual (following release of 1.2)
-1. * [ ] Add Standard List of Patrons to Standard Tweet
+1. * [ ] Update Seedtool Manual for final 1.2 updates
+3. * [ ] Release Seedtool Manual (following release of 1.2)
 6. * [ ] Bump up Patronage Levels
 7. * [ ] Check Projects page for essential updates https://www.blockchaincommons.com/projects.html (save bigger changes for later)
-1. * [ ] Write Document Describing Major SSKR Strategies
+6. * [ ] Write Document Describing Major SSKR Strategies
    * [ ] Link it to Seed Tool Mini-Manual
 11. * [ ] Update Dependencies listing for Seed Tool
 12. * [ ] Link apps to various places like:
@@ -13,13 +13,13 @@
      * [ ] Main Page
      * [ ] Other Places?
 13. * [ ] Tweetstorm OIBs, Seedtool
-6. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
-7. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
-8. * [ ] Look for any self-contained TODOs to hand off
-9. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
-10. * [ ] Add diagram of forks & branches to TRANSLATING
-11. * [ ] Write Release Procedures
-12. * [ ] Check in with Learning Bitcoin Translations
+10. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
+11. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
+12. * [ ] Look for any self-contained TODOs to hand off
+13. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
+14. * [ ] Add diagram of forks & branches to TRANSLATING
+15. * [ ] Write Release Procedures
+16. * [ ] Check in with Learning Bitcoin Translations
 
 1. * [ ] Proceed on Gordian Seal
    * [ ] Check in with M. 
@@ -200,6 +200,7 @@
 
 ## Recently Completed
 
+1. * [X] Add Standard List of Patrons to Standard Tweet
 1. * [X] Write Seed Tool Mini-Manual
    * [X] QA as I Go
    * [X] Incorporate Comments for C. & W.
