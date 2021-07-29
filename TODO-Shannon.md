@@ -1,41 +1,80 @@
 # Shannon's Open Tasks
 
-1. * [ ] Write Tweetstorm for Seedtool Manual
-1. * [ ] Update Seedtool Manual for final 1.2 updates
-3. * [ ] Release Seedtool Manual (following release of 1.2)
-6. * [ ] Bump up Patronage Levels
-7. * [ ] Check Projects page for essential updates https://www.blockchaincommons.com/projects.html (save bigger changes for later)
-6. * [ ] Write Document Describing Major SSKR Strategies
-   * [ ] Link it to Seed Tool Mini-Manual
-11. * [ ] Update Dependencies listing for Seed Tool
-12. * [ ] Link apps to various places like:
+_Tuesday Morning:_
+
+1. * [ ] Work through this list, eliminating & passing off as appropriate
+1. * [ ] Check in with Learning Bitcoin Translations
+
+_Web/Repo Tasks (Small):_
+
+1. * [ ] Bump up Patronage Levels
+1. * [ ] Check Projects page for essential updates https://www.blockchaincommons.com/projects.html (save bigger changes for later)
+1. * [ ] Link apps to various places like:
      * [ ] Youtube video descripts (Wolf's)
      * [ ] Main Page
      * [ ] Other Places?
-13. * [ ] Tweetstorm OIBs, Seedtool
-10. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
-11. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
-12. * [ ] Look for any self-contained TODOs to hand off
-13. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
-14. * [ ] Add diagram of forks & branches to TRANSLATING
-15. * [ ] Write Release Procedures
-16. * [ ] Check in with Learning Bitcoin Translations
+1. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
+1. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
+1. * [ ] Add diagram of forks & branches to TRANSLATING
+1. * [ ] Coordinate W's Tech Excerpts (from big video)
+1. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
+1. * [ ] Add App Icons to WWW Projects Page
+1. * [ ] Do any cleanup for Sweeptool repo
+1. * [ ] Figure Out How to Link New #SC articles (multisig, timelock, sharding) to #SC itself. Is Gordian repo the right place for them?
 
-1. * [ ] Proceed on Gordian Seal
-   * [ ] Check in with M. 
-   * [ ] Create Mock-up Landing Page
-   * [ ] Mock Up Logo
-   * [X] Give Logo + Short to M.
-   * [ ] Collect Info Needed for 99d.
-   * [ ] Link Youtube videos in places like:
-     * [ ] ?
+_Writing Tasks:_
+
+1. * [ ] Write Document Describing Major SSKR Strategies
+   * [ ] Link it to Seed Tool Mini-Manual
+1. * [ ] Tweetstorm OIBs, Seedtool
+1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
+1. * [ ] Look for any self-contained TODOs to hand off
+1. * [ ] Write Release Procedures
 1. * [ ] Integrate J. Comments on Principal Authority article
 1. * [ ] Edit New i2p section in LBTCftCL
+1. * [ ] Write UR Articles
+   * [X] Address WM Comments
+   * [X] Write UR Overview
+   * [X] Write UR & Keys
+   * [X] Respond to Keys Comments
+   * [X] Write Tweetstorm about First Two UR Docs
+   * [X] Write UR & Response/Reply for Key Material
+   * [X] Write UR & SSKR
+   * [ ] Write UR & PSBTs
+   * [ ] Write UR & Response/Reply for PSBTS
+
+_Writing Tasks (Small):_
+
+1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
+1. * [ ] Add to #SC: Rollup Attack
+   * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
+
+_Video Tasks:_
+
+1. * [X] Create Images for Long QR Tool Video
+   * [ ] Add Slides Requested by C.
+   * [ ] Add Title & Final from W.
+   * [ ] Release to Youtube
+   * [ ] Write Tweetstorm to go with it
+
+_Release Manager Tasks:_
+
 1. * [ ] Work with Fastlane
    * [ ] Install
    * [ ] Use for Seedtool Release
    * [ ] Integrate for use with QRTool
    * [ ] Integrate for use with Cosigner   
+
+_Seed Tool:_
+
+1. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
+1. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
+1. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
+1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
+1. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
+   * [ ] Write Tweetstorm to go with it
+
+_Cosigner:_
 
 1. * [ ] Prepare Cosigner for Release
    * [ ] Withdraw February Build
@@ -49,43 +88,39 @@
    * [ ] Submit for iOS w/full notes (manual) for Apple
    * [ ] A for MacOS
    * [ ] Submit for MacOS w/full notes (manual) for Apple
-4. * [ ] Fix sizing of Short QR Tool Video
-   * [ ] Submit to Youtube
-7. * [X] Create Images for Long QR Tool Video
-   * [ ] Add Slides Requested by C.
-   * [ ] Add Title & Final from W.
-   * [ ] Release to Youtube
+1. * [ ] Write Integration Manual for Cosigner & Guardian
+1. * [ ] Write Integration Manual for Cosigner & Wallet (if it becomes more active)
+1. * [ ] Write Cosigner Article
    * [ ] Write Tweetstorm to go with it
-6. * [ ] Coordinate W's Tech Excerpts
-7. * [ ] Produce Q2 Report
-   * [X] Outline Q2 Report
-   * [X] Talk with C. about Additional Elements
-   * [ ] Write Q2 Report 
-10. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
+1. * [ ] Write Cosigner Mini-Manual
    * [ ] Write Tweetstorm to go with it
-11. * [ ] Write Cosigner Article
-   * [ ] Write Tweetstorm to go with it
-12. * [ ] Write Cosigner Mini-Manual
-   * [ ] Write Tweetstorm to go with it
-13. * [ ] Produce Short Cosigner Video
+1. * [ ] Produce Short Cosigner Video
    * [ ] Write Script for Short Cosigner Video
    * [ ] Create Images for Short Cosigner VIdeo
    * [ ] Write Tweetstorm to go with it
-14. * [ ] Produce Long Cosigner Video
+1. * [ ] Produce Long Cosigner Video
    * [ ] Write Script for Long Cosigner Video
    * [ ] Create Images for Long Cosigner VIdeo
    * [ ] Write Tweetstorm to go with it
+1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
 
-3. * [ ] Incorporate i2p Chapter into LBTCftCL (when ready)
+## Stale Tasks
 
-1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
-4. * [ ] Tweetstorms
-   * [ ] Cosigner
-   * [ ] QR Tool
-   * [ ] Seed Tool
-   * [ ] SSKR for Developers
-   * [ ] SSKR for Users (apps to use)
-5. * [ ] Write SmartContract Article, on Signature, Vaults, Covenants
+_Writing Tasks:_
+
+1. * [ ] Proceed on Gordian Seal
+   * [ ] Check in with M. 
+   * [ ] Create Mock-up Landing Page
+   * [ ] Mock Up Logo
+   * [X] Give Logo + Short to M.
+   * [ ] Collect Info Needed for 99d.
+   * [ ] Link Youtube videos in places like:
+     * [ ] ?
+1. * [ ] Design pages for four Gordian principles that describe sub principles and list how different reference apps meet those principles.
+   * What is principle?
+   * How did we apply it?
+   * What other things fall into principle? (no app does it yet)
+1. * [ ] Write SmartContract Article, on Signature, Vaults, Covenants
    * [ ] What are they?
    * [ ] What are they good for?
    * [ ] New Flags?
@@ -95,66 +130,27 @@
    * https://arxiv.org/abs/2006.16714
    * https://pinboard.in/u:ChristopherA/t:vault/
    * https://bitcoinmagazine.com/technical/noinput-class-bitcoin-soft-fork-simplify-lightning
-6. * [ ] Expand Timelock Work
+1. * [ ] Expand Timelock Work
    * [ ] Edit Timelock Article
    * [ ] Write about script
    * [ ] Write about rust library creation
-7. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
+1. * [ ] Potential Article: Identifying Stuff, LifeHash, Short Hex, Name
     * Talk with W. about why he did things & the UI of his choices (why anything is in specific places0 
-8. * [ ] Design pages for four Gordian principles that describe sub principles and list how different reference apps meet those principles.
-   * What is principle?
-   * How did we apply it?
-   * What other things fall into principle? (no app does it yet)
-9. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
-10. * [ ] Add App Icons to WWW Projects Page
-11. * [ ] Take a look at Sweeptool / Repo
-12. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
-13. * [ ] Consider 3-5 minute short videos
-14. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
-15. * [ ] Update Request/Response Tweetstorm
-16. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
-17. * [ ] Write UR Articles
-   * [X] Address WM Comments
-   * [X] Write UR Overview
-   * [X] Write UR & Keys
-   * [X] Respond to Keys Comments
-   * [X] Write Tweetstorm about First Two UR Docs
-   * [X] Write UR & Response/Reply for Key Material
-   * [X] Write UR & SSKR
-   * [ ] Write UR & PSBTs
-   * [ ] Write UR & Response/Reply for PSBTS
-18. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
-19. * [ ] Edit/prepare Keytool Tweetstorm
-20. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
-21. * [ ] Write article about digital identity definition words
-23. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
-24. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
-25. * [ ] Write "What We Do" that summarizes/organizes our projects, mentions other things like security-architecture review, Wyoming
-26. * [ ] Add to #SC: Rollup Attack
-   * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
-27. * [ ] Fix Crypto Commons Background for Social Media Preview
-30. * [ ] Check on Articles (What's Not Used?)
-31. * [ ] Support Internship
-   * [ ] What is Internship
-   * [ ] New Tweetstorm
-   * [ ] Quote from Past Interns
-32. * [ ] For DID/Timestamp Onion demo at fscst5exmlmr262byztwz4kzhggjlzumvc2ndvgytzoucr2tkgxf7mid.onion
-   * [ ] Clean Any Text
-   * [ ] Tweets
-33. * [ ] GCS Docs
-   * [X] Update Language in App (from multi-sig article)
-   * [X] Update Repo to be less seed-centric, more focused on cosigner
-   * [X] Edit Scenarios
-   * [ ] ToC for Integrating — https://luciopaiva.com/markdown-toc/
-   * [ ] Finish Work on Integrating with Gordian Wallet
-   * [ ] Show GG/GCS Interface (next week?)
-   * [X] Tweetstorm: advance 
-      * Goal is to get a sophisticated co-signer (FN, Core, Cold)
-34. * [ ] Gordian Guardian
-   * [X] Edit MD Files (make sure committed)
-   * [ ] How To Use with CoSigner
-35. * [ ] short articles in LWA linking to other CA work
-1. * [ ] Move this to CanBan List
+1. * [ ] Article: Why We Choose BSD+ Patentic and Creative Commons By
+1. * [ ] Talk with C. about SSKR vocabulary (shard, share, deck, etc)
+
+_Video Tasks:_
+
+1. * [ ] Consider 3-5 minute short videos
+
+_Web/Repo Tasks:_
+
+1. * [ ] Consider https://bitcoin.design/guide/ for language & pointers to our work
+1. * [ ] Clean up Bean Count repo, so that it's more appropriate for Documentation
+
+_Tweet Tasks:_
+
+1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 
 ## Pending
 
@@ -198,6 +194,7 @@
 
 ## Recently Completed
 
+1. * [X] Update Dependencies listing for Seed Tool
 1. * [X] Write New Issues for Seedtool
 1. * [X] Add Standard List of Patrons to Standard Tweet
 1. * [X] Write Seed Tool Mini-Manual
