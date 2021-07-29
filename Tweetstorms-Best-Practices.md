@@ -87,3 +87,13 @@ _These are drawn from existing tweets, so some are very specific to certain topi
 > We're looking forward to releasing our new #SmartCustody document, but in the meantime we'd love to hear your thoughts on the design of multisigs, either here or in our Wallet discussion community. https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions
 
 > If you're a developer, we'd love to have your input on this work, so that we can push on additional features that will support everyone. Please join us in Blockchain Commons' Airgapped Wallet Community. https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions
+
+#### List the Sponsors!
+
+If we appeal to new sponsors, we should list our current ones.
+
+This currently reads something like the following:
+
+```
+Thanks to current sustaining sponsors Bitmark (@BitmarkInc), Unchained Capital (@unchainedcap), and Blockchainbird (@henkvancann). [14/14]
+```
