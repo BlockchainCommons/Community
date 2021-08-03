@@ -95,5 +95,5 @@ If we appeal to new sponsors, we should list our current ones.
 This currently reads something like the following:
 
 ```
-Thanks to current sustaining sponsors Bitmark (@BitmarkInc), Unchained Capital (@unchainedcap), and Blockchainbird (@henkvancann). [14/14]
+Thanks to current sustaining sponsors Bitmark (@BitmarkInc), Unchained Capital (@unchainedcap), and Blockchainbird (@bc1bird). [14/14]
 ```
