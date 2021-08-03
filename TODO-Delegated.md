@@ -10,24 +10,24 @@ If you take on something and finish it, please check it off.
 
 _Basically, go over the page to see if it's up-to-date. Change descriptions or names as required; remove anything that never happened; and add our most notable new projects._
 
-1. * [ ] Add App Icons to WWW Projects Page
+2. * [ ] Add App Icons to WWW Projects Page
 
 _We've now got icons for all of our iOS Apps, courtesy of Wolf. They should be added to the appropriate entries on the Projects page, probably as a align='right' img, of an appropriate size (maybe 100-200 px?)_
 
 _All images are at https://github.com/BlockchainCommons/Gordian/tree/master/Images/logos._
 
-1. * [ ] Link apps to various places like:
+3. * [ ] Link apps to various places like:
      * [ ] Youtube video descripts (Wolf's)
      * [ ] Main Page
      * [ ] Other Places?
 
 _The idea here is to better publicize Gordian Seed Tool, Gordian QR Tool, and in the future other apps. They can probably be linked from the description of our videos, and maybe from other places in our repos and on our main web page._
 
-1. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
+4. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
 
 _Add this language to the main web page and/or repo pages, as appropriate._
 
-1. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
+5. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
 
 _At some point we replaced:_
 ```
@@ -47,7 +47,7 @@ _All of the older posts where this wasn't done need to similarly be updated._
 
 _We've got a nice set of UR articles [here](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md#more-documents). We need a PSBT article that talks about how UR PSBTs work, with examples, in the same style and general organization as the Key Material and SSKR articles._
 
-1. * [ ] Add PSBTs to Request/Response
+2. * [ ] Add PSBTs to Request/Response
 
 _Once we've got a PSBT article done, we will also need to add a PSBT section to the Request/Response UR article [here](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-99-request-response.md)._
 
