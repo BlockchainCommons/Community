@@ -9,7 +9,6 @@ _Overview:_
 _Tuesday Morning:_
 
 1. * [ ] Pass off any appropriate tasks
-1. * [ ] Check in with Learning Bitcoin Translations
 
 _Wallet:_ 
 
@@ -206,6 +205,7 @@ _Tweet Tasks:_
 
 ## Recently Completed
 
+1. * [X] Check in with Learning Bitcoin Translations
 1. * [X] Update Dependencies listing for Seed Tool
 1. * [X] Write New Issues for Seedtool
 1. * [X] Add Standard List of Patrons to Standard Tweet
