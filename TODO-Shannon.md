@@ -1,14 +1,12 @@
 # Shannon's Open Tasks
 
+Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
+
 _Overview:_
  
 1. * [ ] Decide on a Rest Week (August or early September)
 1. * [ ] Review V's Notes (week of August 17?)
 1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
-
-_Tuesday Morning:_
-
-1. * [ ] Pass off any appropriate tasks
 
 _Wallet:_ 
 
@@ -185,6 +183,7 @@ _Tweet Tasks:_
 
 ## Recently Completed
 
+1. * [X] Pass off any appropriate tasks
 1. * [X] Check in with Learning Bitcoin Translations
 1. * [X] Update Dependencies listing for Seed Tool
 1. * [X] Write New Issues for Seedtool
