@@ -1,5 +1,10 @@
 # Shannon's Open Tasks
 
+_Overview:_
+ 
+1. * [ ] Review V's Notes (week of August 17?)
+1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
+
 _Tuesday Morning:_
 
 1. * [ ] Pass off any appropriate tasks
