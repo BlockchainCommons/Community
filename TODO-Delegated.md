@@ -12,9 +12,9 @@ _Basically, go over the page to see if it's up-to-date. Change descriptions or n
 
 1. * [ ] Add App Icons to WWW Projects Page
 
-_We've not got icons for all of our iOS Apps, courtesy of Wolf. They should be added to the appropriate entries on the Projects page, probably as a align='right' img, of an appropriate size (maybe 100-200 px?)_
+_We've now got icons for all of our iOS Apps, courtesy of Wolf. They should be added to the appropriate entries on the Projects page, probably as a align='right' img, of an appropriate size (maybe 100-200 px?)_
 
-_All images are at https://github.com/BlockchainCommons/Gordian/tree/master/Images/logos _
+_All images are at https://github.com/BlockchainCommons/Gordian/tree/master/Images/logos._
 
 1. * [ ] Link apps to various places like:
      * [ ] Youtube video descripts (Wolf's)
@@ -49,7 +49,7 @@ _We've got a nice set of UR articles [here](https://github.com/BlockchainCommons
 
 1. * [ ] Add PSBTs to Request/Response
 
-_Once we've got a PSBT article done, we will also need to add a PSBT section to the Request/Response UR article [here](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-99-request-response.md).
+_Once we've got a PSBT article done, we will also need to add a PSBT section to the Request/Response UR article [here](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-99-request-response.md)._
 
 ## Video Tasks
 
