@@ -5,6 +5,21 @@ _Tuesday Morning:_
 1. * [ ] Pass off any appropriate tasks
 1. * [ ] Check in with Learning Bitcoin Translations
 
+_Wallet:_ 
+
+1. * [ ] Build to release to Testflight (week of Aug 3 or Aug 10)
+
+_Seed Tool:_
+
+1. * [ ] Quickly scan through Seedtool for new issues: uncommon derivations; xpub + xprv check (should be consistent)
+3. * [ ] Go through issues, close out done ones, flag others
+4. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
+5. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
+6. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
+7. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
+8. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
+   * [ ] Write Tweetstorm to go with it
+
 _Web/Repo Tasks (Small):_
 
 1. * [ ] Bump up Patronage Levels
@@ -64,17 +79,6 @@ _Release Manager Tasks:_
    * [ ] Use for Seedtool Release
    * [ ] Integrate for use with QRTool
    * [ ] Integrate for use with Cosigner   
-
-_Seed Tool:_
-
-1. * [ ] Quickly scan through Seedtool for new issues: uncommon derivations; xpub + xprv check (should be consistent)
-3. * [ ] Go through issues, close out done ones, flag others
-4. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
-5. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
-6. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
-7. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
-8. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
-   * [ ] Write Tweetstorm to go with it
 
 _Cosigner:_
 
