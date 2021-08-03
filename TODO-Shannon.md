@@ -2,6 +2,7 @@
 
 _Overview:_
  
+1. * [ ] Decide on a Rest Week (August or early September)
 1. * [ ] Review V's Notes (week of August 17?)
 1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
 
