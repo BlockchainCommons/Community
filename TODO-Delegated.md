@@ -55,8 +55,8 @@ _Once we've got a PSBT article done, we will also need to add a PSBT section to 
 
 1. * [ ] Input Graphics for Long Seedtool Video
 
-_We need to produce a long video demonstrating Seed Tool. This requires use of [Descript](https://www.descript.com/). 
+_We need to produce a long video demonstrating Seed Tool. This requires use of [Descript](https://www.descript.com/)._
 
-There is a [script](https://hackmd.io/yb2ut3w6QyOsAqb1x_UeOA?both#Seed-Tool-Longer-Video-3-5-minutes-YouTube) already written. It should be recorded by Wolf or Chris, since I believe they both have voices stored with Descript.
+_There is a [script](https://hackmd.io/yb2ut3w6QyOsAqb1x_UeOA?both#Seed-Tool-Longer-Video-3-5-minutes-YouTube) already written. It should be recorded by Wolf or Chris, since I believe they both have voices stored with Descript._
 
-After that, the large task is embedding images to go with the video. The largely completed long QR Tool video in our project workspace shows the approximate methodology. There's an image every line or two of text, overlapping with fades. (You might come up with a better way to shift between the images. There are also zooms and such not used in that sample, so go wild and create something that looks nice.) We've settled on 1920x1080 as the best size for this format._
+_After that, the large task is embedding images to go with the video. The largely completed long QR Tool video in our project workspace shows the approximate methodology. There's an image every line or two of text, overlapping with fades. (You might come up with a better way to shift between the images. There are also zooms and such not used in that sample, so go wild and create something that looks nice.) We've settled on 1920x1080 as the best size for this format._
