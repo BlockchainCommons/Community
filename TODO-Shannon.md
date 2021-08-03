@@ -22,23 +22,14 @@ _Seed Tool:_
 5. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
 6. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
 7. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
-8. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
-   * [ ] Write Tweetstorm to go with it
+1  * [ ] Write Tweetstorm to go with Video
 
 _Web/Repo Tasks (Small):_
 
 1. * [ ] Bump up Patronage Levels
-1. * [ ] Check Projects page for essential updates https://www.blockchaincommons.com/projects.html (save bigger changes for later)
-1. * [ ] Link apps to various places like:
-     * [ ] Youtube video descripts (Wolf's)
-     * [ ] Main Page
-     * [ ] Other Places?
-1. * [ ] Write "expand the ideas of responsible key management and self-determination on the internet" into main web pages & repos
 1. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
 1. * [ ] Add diagram of forks & branches to TRANSLATING
 1. * [ ] Coordinate W's Tech Excerpts (from big video)
-1. * [ ] Add "<div class="bold--excerpt--node">Read More</div>" to all older posts.
-1. * [ ] Add App Icons to WWW Projects Page
 1. * [ ] Do any cleanup for Sweeptool repo
 1. * [ ] Figure Out How to Link New #SC articles (multisig, timelock, sharding) to #SC itself. Is Gordian repo the right place for them?
 
@@ -48,20 +39,9 @@ _Writing Tasks:_
    * [ ] Link it to Seed Tool Mini-Manual
 1. * [ ] Tweetstorm OIBs, Seedtool
 1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
-1. * [ ] Look for any self-contained TODOs to hand off
 1. * [ ] Write Release Procedures
 1. * [ ] Integrate J. Comments on Principal Authority article
 1. * [ ] Edit New i2p section in LBTCftCL
-1. * [ ] Write UR Articles
-   * [X] Address WM Comments
-   * [X] Write UR Overview
-   * [X] Write UR & Keys
-   * [X] Respond to Keys Comments
-   * [X] Write Tweetstorm about First Two UR Docs
-   * [X] Write UR & Response/Reply for Key Material
-   * [X] Write UR & SSKR
-   * [ ] Write UR & PSBTs
-   * [ ] Write UR & Response/Reply for PSBTS
 
 _Writing Tasks (Small):_
 
