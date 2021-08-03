@@ -67,11 +67,13 @@ _Release Manager Tasks:_
 
 _Seed Tool:_
 
-1. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
-1. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
-1. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
-1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
-1. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
+1. * [ ] Quickly scan through Seedtool for new issues: uncommon derivations; xpub + xprv check (should be consistent)
+3. * [ ] Go through issues, close out done ones, flag others
+4. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
+5. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
+6. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
+7. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
+8. * [ ] Create Images for Long Seed Tool Video [or maybe Wolf does]
    * [ ] Write Tweetstorm to go with it
 
 _Cosigner:_
@@ -209,30 +211,3 @@ _Tweet Tasks:_
 1. * [X] Graphics for Quarterly
 1. * [X] Tweetstorm for Quarterly
 1. * [X] Post Quarterly
-1. * [X] Quarterly
-     * [X] emphasize moving to rust (may help with Square Crypto]
-     * [X] formal security review contracted for by Partron for sskr and commons implications 
-     * [X] mori 
-     * [X] update to final intern work orders
-1. * [X] Write Quarterly
-1. * [X] Check in with Learning Bitcoin Translations
-1. * [X] Update SSKR Tweetstorm
-1. * [X] Tag QR Tool with v1.0.1 following release of submissions
-   * [X] Add release number to Release Status
-1. * [X] Check in with Learning Bitcoin Translations
-1. * [X] Make Changes to SeedTool README per C.
-1. * [X] Merged LBTCftCL & Standup PRs
-1. * [X] Write Seed Tool Article
-   * [X] Write Tweetstorm to go with it
-   * [X] Release Seed Tool Article
-1. * [X] Release Updated QR
-   * [X] Test on Mac
-   * [X] Test on iPhone
-   * [X] Merge PR
-   * [X] Upload to Apple/
-   * [X] Fix Delete/Update Bug
-   * [X] Rerelease for Mac
-   * [X] Rerelease for iPhone
-1. * [X] Wait for Fix on QR Tool Crash
-1. * [X] Review Cosigner Status
-1. * [X] Review Newest LBTCftCL PRs
