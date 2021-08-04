@@ -8,10 +8,6 @@ _Overview:_
 1. * [ ] Review V's Notes (week of August 17?)
 1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
 
-_Wallet:_ 
-
-1. * [ ] Build to release to Testflight (week of Aug 3 or Aug 10)
-
 _Seed Tool:_
 
 4. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
@@ -90,6 +86,8 @@ _Cosigner:_
    * [ ] Create Images for Long Cosigner VIdeo
    * [ ] Write Tweetstorm to go with it
 1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
+
+_Wallet:_ 
 
 ## Stale Tasks
 
@@ -181,6 +179,7 @@ _Tweet Tasks:_
 
 ## Recently Completed
 
+1. * [X] Build Wallet to release to Testflight (week of Aug 3 or Aug 10)
 1. * [X] Quickly scan through Seedtool for new issues: uncommon derivations; xpub + xprv check (should be consistent)
 3. * [X] Go through Seedtool issues, close out done ones, flag others
 1. * [X] Pass off any appropriate tasks
