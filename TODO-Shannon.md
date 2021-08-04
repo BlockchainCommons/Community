@@ -14,7 +14,7 @@ _Seed Tool:_
 5. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
 6. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
 7. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
-1  * [ ] Write Tweetstorm to go with Video
+1. * [ ] Write Tweetstorm to go with Video
 
 _Web/Repo Tasks (Small):_
 
