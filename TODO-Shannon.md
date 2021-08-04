@@ -14,8 +14,6 @@ _Wallet:_
 
 _Seed Tool:_
 
-1. * [ ] Quickly scan through Seedtool for new issues: uncommon derivations; xpub + xprv check (should be consistent)
-3. * [ ] Go through issues, close out done ones, flag others
 4. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
 5. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
 6. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
@@ -183,6 +181,8 @@ _Tweet Tasks:_
 
 ## Recently Completed
 
+1. * [X] Quickly scan through Seedtool for new issues: uncommon derivations; xpub + xprv check (should be consistent)
+3. * [X] Go through Seedtool issues, close out done ones, flag others
 1. * [X] Pass off any appropriate tasks
 1. * [X] Check in with Learning Bitcoin Translations
 1. * [X] Update Dependencies listing for Seed Tool
