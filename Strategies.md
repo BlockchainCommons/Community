@@ -4,7 +4,7 @@
    - Decide the boundaries, scale, and affordances of a commons that advance open infrastructure for decentralized systems.
    - Define and promote equitable business practices, including contracts and licenses, for sustainable wealth creation for both individual practitioners and organizations.
    - Gather resources, e.g., capabilities, intellectual property, funding, and people, to advance and sustain the realization of decentralized systems.
-   - Lobby for secure, compassionate[[k\]](#cmnt11) decentralized systems. Ensure that emerging policy and regulatory decisions enable and support decentralized approaches to credentials and identity.
+   - Lobby for secure, compassionate decentralized systems. Ensure that emerging policy and regulatory decisions enable and support decentralized approaches to credentials and identity.
 1. **Open Infrastructure:** Define and advocate a specific and actionable notion of “open infrastructure” as a self-organizing approach to collaborative resource generation.
    - Establish an affirmative definition of open infrastructure that provides a framework for regenerative, self-organizing complex systems that can be drawn upon for deep wealth.
    - Define a language for discussing, and advocating for, open infrastructure.
