@@ -2,6 +2,12 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_First Priorities:_
+
+1. * [ ] Respond to Comments on SSKR
+2. * [ ] Write Tweetstorm to Go with SSKR
+3. * [ ] Finalize SeedTool Manual (when 1.2 is released)
+
 _Overview:_
  
 1. * [ ] Decide on a Rest Week (August or early September)
@@ -27,8 +33,7 @@ _Web/Repo Tasks (Small):_
 
 _Writing Tasks:_
 
-1. * [ ] Write Document Describing Major SSKR Strategies
-   * [ ] Link it to Seed Tool Mini-Manual
+1. * [ ] Link SSKR Strategies from Seed Tool Mini-Manual (when they're both ready)
 1. * [ ] Tweetstorm OIBs, Seedtool
 1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
 1. * [ ] Write Release Procedures
@@ -179,6 +184,7 @@ _Tweet Tasks:_
 
 ## Recently Completed
 
+1. * [X] Write Document Describing Major SSKR Strategies
 1. * [X] Build Wallet to release to Testflight (week of Aug 3 or Aug 10)
 1. * [X] Quickly scan through Seedtool for new issues: uncommon derivations; xpub + xprv check (should be consistent)
 3. * [X] Go through Seedtool issues, close out done ones, flag others
