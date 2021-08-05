@@ -7,6 +7,7 @@ _First Priorities:_
 1. * [ ] Respond to Comments on SSKR
 2. * [ ] Write Tweetstorm to Go with SSKR
 3. * [ ] Finalize SeedTool Manual (when 1.2 is released)
+1. * [ ] Integrate J. Comments on Principal Authority article
 
 _Overview:_
  
@@ -37,7 +38,6 @@ _Writing Tasks:_
 1. * [ ] Tweetstorm OIBs, Seedtool
 1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
 1. * [ ] Write Release Procedures
-1. * [ ] Integrate J. Comments on Principal Authority article
 1. * [ ] Edit New i2p section in LBTCftCL
 
 _Writing Tasks (Small):_
