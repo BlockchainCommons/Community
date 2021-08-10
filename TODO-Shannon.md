@@ -4,9 +4,9 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _First Priorities:_
 
-1. * [ ] Respond to Comments on SSKR
-2. * [ ] Write Tweetstorm to Go with SSKR
-3. * [ ] Finalize SeedTool Manual (when 1.2 is released)
+1. * [ ] Respond to Comments on SSKR (awaiting comments from CA)
+2. * [ ] Write Tweetstorm to Go with SSKR (awaiting comments from CA to finalize)
+3. * [ ] Finalize SeedTool Manual (awaiting 1.2 release from W)
 1. * [ ] Integrate J. Comments on Principal Authority article
 
 _Overview:_
