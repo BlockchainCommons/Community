@@ -15,6 +15,15 @@ _Overview:_
 1. * [ ] Review V's Notes (week of August 17?)
 1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
 
+_Learning Bitcoin:_
+
+1. * [ ] More work through Translation PRs
+2. * [ ] Figure out what's going on in Chapter 10.5 examples: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/pull/406
+
+_Gordian Wallet:_
+
+1. * [ ] Figure out how/where default node is listed
+
 _Seed Tool:_
 
 4. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
