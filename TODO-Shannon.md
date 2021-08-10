@@ -22,8 +22,6 @@ _Learning Bitcoin:_
 
 _Gordian Wallet:_
 
-1. * [ ] Figure out how/where default node is listed
-
 _Seed Tool:_
 
 4. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
@@ -193,6 +191,7 @@ _Tweet Tasks:_
 
 ## Recently Completed
 
+1. * [X] Figure out how/where default node is listed
 1. * [X] Integrate J. Comments on Principal Authority article
 1. * [X] More work through Translation PRs
 1. * [X] Write Document Describing Major SSKR Strategies
