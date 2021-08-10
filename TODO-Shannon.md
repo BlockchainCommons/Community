@@ -7,7 +7,6 @@ _First Priorities:_
 1. * [ ] Respond to Comments on SSKR (awaiting comments from CA)
 2. * [ ] Write Tweetstorm to Go with SSKR (awaiting comments from CA to finalize)
 3. * [ ] Finalize SeedTool Manual (awaiting 1.2 release from W)
-1. * [ ] Integrate J. Comments on Principal Authority article
 
 _Overview:_
  
@@ -194,6 +193,7 @@ _Tweet Tasks:_
 
 ## Recently Completed
 
+1. * [X] Integrate J. Comments on Principal Authority article
 1. * [X] More work through Translation PRs
 1. * [X] Write Document Describing Major SSKR Strategies
 1. * [X] Build Wallet to release to Testflight (week of Aug 3 or Aug 10)
