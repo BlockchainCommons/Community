@@ -30,7 +30,6 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Update Gordian Repo with CLI
 2. * [ ] Update CLI to backlink to Gordian
 3. * [ ] Bump up Patronage Levels
 4. * [ ] Add diagram of forks & branches to TRANSLATING
@@ -189,6 +188,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Update Gordian Repo with CLI
 1. * [X] Move #SC ARticle Images
 1. * [X] Add to #SC: Rollup Attack
 1. * [X] Added Poly Network to #SC.
