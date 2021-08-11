@@ -16,18 +16,16 @@ _Overview:_
 
 _Learning Bitcoin:_
 
-2. * [ ] Figure out what's going on in Chapter 10.5 examples: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/pull/406
-3. * [ ] Tag 2.0.2 when all translations are done
-4. * [ ] After any 2.0.2 changes, incorporate work
-
-_Gordian Wallet:_
+1. * [ ] Tag 2.0.2 when all translations are done (awaiting completion of Translations)
+1. * [ ] After any 2.0.2 changes, incorporate work (awaiting completion of Translations)
 
 _Seed Tool:_
 
-4. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
-5. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
-6. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
-7. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
+1. * [ ] Talk w/W. about Seed Tool (August 11, 1pm)
+1. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
+1. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
+1. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
+1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
 1. * [ ] Write Tweetstorm to go with Video
 
 _Web/Repo Tasks (Small):_
@@ -149,6 +147,8 @@ _Tweet Tasks:_
 
 1. * [ ] Short 2-3 Tweet Mini-Storms on BCC Content
 
+_Gordian Wallet:_
+
 ## Pending
 
 1. * [ ] Look at Wallets
@@ -191,6 +191,7 @@ _Tweet Tasks:_
 
 ## Recently Completed
 
+1. * [ ] Figure out what's going on in Chapter 10.5 examples: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/pull/406
 1. * [X] Figure out how/where default node is listed
 1. * [X] Integrate J. Comments on Principal Authority article
 1. * [X] More work through Translation PRs
