@@ -5,13 +5,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _First Priorities:_
 
 1. * [ ] Respond to Comments on SSKR (this afternoon)
-1. * [ ] Add Bitmark example to SSKR
-1. * [ ] Write A bout Perils of Shamir: single machine, all parties send it to that person, authenticate them, channels needs to be secure (intercept? impersonate? it becomes a SPOF in signle-sig scenario). 
-   * [ ] Multi-sig: no longer a single point of failure, have to break that then break something heterogenous for other keys [resolves weakness of multisig scenarios, e.g. social-key recovery of Autonomy, because our multisig scenarios are new, while Shamir is well-understood]
-   * [ ] Authenticate on return (human or computer or process); return data securely (so no one can catch in transit); need to be sensitive with machine 
-   * [ ] Few people who have combined Shamir + Multisig
-   * [ ] Want to do more? Support 
-   * [ ] Compare to DNS/process
 3. * [ ] Write Tweetstorm to Go with SSKR (this afternoon)
 4. * [ ] Finalize SeedTool Manual (awaiting 1.2 release from W)
 
@@ -196,6 +189,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Add Bitmark example to SSKR
+1. * [X] Write A bout Perils of Shamir
 1. * [X] Do any cleanup for Sweeptool repo
 1. * [X] Update CLI to backlink to Gordian
 1. * [X] Update Gordian Repo with CLI
