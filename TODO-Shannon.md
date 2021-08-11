@@ -41,7 +41,6 @@ _Web/Repo Tasks (Small):_
 3. * [ ] Bump up Patronage Levels
 4. * [ ] Add diagram of forks & branches to TRANSLATING
 5. * [ ] Coordinate W's Tech Excerpts (from big video)
-6. * [ ] Do any cleanup for Sweeptool repo
 
 _Writing Tasks:_
 
@@ -197,6 +196,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Do any cleanup for Sweeptool repo
 1. * [X] Update CLI to backlink to Gordian
 1. * [X] Update Gordian Repo with CLI
 1. * [X] Move #SC ARticle Images
