@@ -6,6 +6,12 @@ _First Priorities:_
 
 1. * [ ] Respond to Comments on SSKR (this afternoon)
 1. * [ ] Add Bitmark example to SSKR
+1. * [ ] Write A bout Perils of Shamir: single machine, all parties send it to that person, authenticate them, channels needs to be secure (intercept? impersonate? it becomes a SPOF in signle-sig scenario). 
+   * [ ] Multi-sig: no longer a single point of failure, have to break that then break something heterogenous for other keys [resolves weakness of multisig scenarios, e.g. social-key recovery of Autonomy, because our multisig scenarios are new, while Shamir is well-understood]
+   * [ ] Authenticate on return (human or computer or process); return data securely (so no one can catch in transit); need to be sensitive with machine 
+   * [ ] Few people who have combined Shamir + Multisig
+   * [ ] Want to do more? Support 
+   * [ ] Compare to DNS/process
 3. * [ ] Write Tweetstorm to Go with SSKR (this afternoon)
 4. * [ ] Finalize SeedTool Manual (awaiting 1.2 release from W)
 
@@ -31,6 +37,7 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Make Six Top Repos available from website
 3. * [ ] Bump up Patronage Levels
 4. * [ ] Add diagram of forks & branches to TRANSLATING
 5. * [ ] Coordinate W's Tech Excerpts (from big video)
@@ -38,6 +45,8 @@ _Web/Repo Tasks (Small):_
 
 _Writing Tasks:_
 
+1. * [ ] Write about Autonomy Scenario
+   * [ ] Write About Chart
 1. * [ ] Link SSKR Strategies from Seed Tool Mini-Manual (when they're both ready)
 1. * [ ] Tweetstorm OIBs, Seedtool
 1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
