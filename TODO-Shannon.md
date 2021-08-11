@@ -30,12 +30,11 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Move #SC ARticle Images
 1. * [ ] Bump up Patronage Levels
-1. * [ ] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
 1. * [ ] Add diagram of forks & branches to TRANSLATING
 1. * [ ] Coordinate W's Tech Excerpts (from big video)
 1. * [ ] Do any cleanup for Sweeptool repo
-1. * [ ] Figure Out How to Link New #SC articles (multisig, timelock, sharding) to #SC itself. Is Gordian repo the right place for them?
 
 _Writing Tasks:_
 
@@ -191,7 +190,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
-1. * [ ] Figure out what's going on in Chapter 10.5 examples: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/pull/406
+1. * [X] Figure Out How to Link New #SC articles (multisig, timelock, sharding) to #SC itself. Is Gordian repo the right place for them?
+1. * [X] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
+1. * [X] Figure out what's going on in Chapter 10.5 examples: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/pull/406
 1. * [X] Figure out how/where default node is listed
 1. * [X] Integrate J. Comments on Principal Authority article
 1. * [X] More work through Translation PRs
