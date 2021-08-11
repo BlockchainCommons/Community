@@ -30,7 +30,6 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Move #SC ARticle Images
 1. * [ ] Bump up Patronage Levels
 1. * [ ] Add diagram of forks & branches to TRANSLATING
 1. * [ ] Coordinate W's Tech Excerpts (from big video)
@@ -188,6 +187,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Move #SC ARticle Images
 1. * [X] Add to #SC: Rollup Attack
 1. * [X] Added Poly Network to #SC.
 1. * [X] Figure Out How to Link New #SC articles (multisig, timelock, sharding) to #SC itself. Is Gordian repo the right place for them?
