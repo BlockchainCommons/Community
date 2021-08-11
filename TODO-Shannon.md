@@ -47,8 +47,6 @@ _Writing Tasks:_
 _Writing Tasks (Small):_
 
 1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
-1. * [ ] Add to #SC: Rollup Attack
-   * you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 
 _Video Tasks:_
 
@@ -190,6 +188,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Add to #SC: Rollup Attack
+1. * [X] Added Poly Network to #SC.
 1. * [X] Figure Out How to Link New #SC articles (multisig, timelock, sharding) to #SC itself. Is Gordian repo the right place for them?
 1. * [X] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
 1. * [X] Figure out what's going on in Chapter 10.5 examples: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/pull/406
