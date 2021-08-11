@@ -30,10 +30,12 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Bump up Patronage Levels
-1. * [ ] Add diagram of forks & branches to TRANSLATING
-1. * [ ] Coordinate W's Tech Excerpts (from big video)
-1. * [ ] Do any cleanup for Sweeptool repo
+1. * [ ] Update Gordian Repo with CLI
+2. * [ ] Update CLI to backlink to Gordian
+3. * [ ] Bump up Patronage Levels
+4. * [ ] Add diagram of forks & branches to TRANSLATING
+5. * [ ] Coordinate W's Tech Excerpts (from big video)
+6. * [ ] Do any cleanup for Sweeptool repo
 
 _Writing Tasks:_
 
