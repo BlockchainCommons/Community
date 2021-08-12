@@ -19,9 +19,8 @@ _Learning Bitcoin:_
 
 _Seed Tool:_
 
-1. * [ ] Talk w/W. about Seed Tool (August 11, 1pm)
 1. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
-1. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?)
+1. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
 1. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
 1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
 1. * [ ] Write Tweetstorm to go with Video
@@ -35,8 +34,7 @@ _Web/Repo Tasks (Small):_
 
 _Writing Tasks:_
 
-1. * [ ] Write about Autonomy Scenario
-   * [ ] Write About Chart
+1. * [ ] Write About Autonomy Chart
 1. * [ ] Link SSKR Strategies from Seed Tool Mini-Manual (when they're both ready)
 1. * [ ] Tweetstorm OIBs, Seedtool
 1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
@@ -187,6 +185,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write about Autonomy Scenario
+1. * [X] Talk w/W. about Seed Tool (August 11, 1pm)
 1. * [X] Respond to Comments on SSKR (this afternoon)
 1. * [X] Write Tweetstorm to Go with SSKR (this afternoon)
 1. * [X] Add Bitmark example to SSKR
