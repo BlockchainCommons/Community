@@ -4,8 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _First Priorities:_
 
-1. * [ ] Respond to Comments on SSKR (this afternoon)
-3. * [ ] Write Tweetstorm to Go with SSKR (this afternoon)
 4. * [ ] Finalize SeedTool Manual (awaiting 1.2 release from W)
 
 _Overview:_
@@ -189,6 +187,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Respond to Comments on SSKR (this afternoon)
+1. * [X] Write Tweetstorm to Go with SSKR (this afternoon)
 1. * [X] Add Bitmark example to SSKR
 1. * [X] Write A bout Perils of Shamir
 1. * [X] Do any cleanup for Sweeptool repo
