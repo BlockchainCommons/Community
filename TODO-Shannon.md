@@ -19,6 +19,7 @@ _Learning Bitcoin:_
 
 _Seed Tool:_
 
+1. * [ ] Write about Pen Test (August 18)
 1. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
 1. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
 1. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
