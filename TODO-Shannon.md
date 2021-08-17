@@ -2,15 +2,15 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
-_First Priorities:_
-
-4. * [ ] Finalize SeedTool Manual (awaiting 1.2 release from W)
-
 _Overview:_
  
-1. * [ ] Decide on a Rest Week (August or early September)
 1. * [ ] Review V's Notes (week of August 17?)
 1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
+
+_Principal Authority:_
+
+1. * [ ] PA: Talk with Dazza (7.30, August 20)
+2. * [ ] PA: Update Based on Dazza's Comments (August 31)
 
 _Learning Bitcoin:_
 
@@ -35,7 +35,6 @@ _Web/Repo Tasks (Small):_
 _Writing Tasks:_
 
 1. * [ ] Write About Autonomy Chart
-1. * [ ] Link SSKR Strategies from Seed Tool Mini-Manual (when they're both ready)
 1. * [ ] Tweetstorm OIBs, Seedtool
 1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
 1. * [ ] Write Release Procedures
@@ -185,6 +184,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Link SSKR Strategies from Seed Tool Mini-Manual (when they're both ready)
+1. * [X] Decide on a Rest Week (August or early September)
 1. * [X] Write about Autonomy Scenario
 1. * [X] Talk w/W. about Seed Tool (August 11, 1pm)
 1. * [X] Respond to Comments on SSKR (this afternoon)
@@ -195,20 +196,3 @@ _Gordian Wallet:_
 1. * [X] Update CLI to backlink to Gordian
 1. * [X] Update Gordian Repo with CLI
 1. * [X] Move #SC ARticle Images
-1. * [X] Add to #SC: Rollup Attack
-1. * [X] Added Poly Network to #SC.
-1. * [X] Figure Out How to Link New #SC articles (multisig, timelock, sharding) to #SC itself. Is Gordian repo the right place for them?
-1. * [X] Put https://github.com/FiloSottile/age/issues/277#issuecomment-885253713 Somewhere [Keeping Seeds & Keys Separate, avoid key reusage, seeds need special handling because they're not really keys, etc.]
-1. * [X] Figure out what's going on in Chapter 10.5 examples: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/pull/406
-1. * [X] Figure out how/where default node is listed
-1. * [X] Integrate J. Comments on Principal Authority article
-1. * [X] More work through Translation PRs
-1. * [X] Write Document Describing Major SSKR Strategies
-1. * [X] Build Wallet to release to Testflight (week of Aug 3 or Aug 10)
-1. * [X] Quickly scan through Seedtool for new issues: uncommon derivations; xpub + xprv check (should be consistent)
-1. * [X] Go through Seedtool issues, close out done ones, flag others
-1. * [X] Pass off any appropriate tasks
-1. * [X] Check in with Learning Bitcoin Translations
-1. * [X] Update Dependencies listing for Seed Tool
-1. * [X] Write New Issues for Seedtool
-1. * [X] Add Standard List of Patrons to Standard Tweet
