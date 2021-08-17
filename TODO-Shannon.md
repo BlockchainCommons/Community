@@ -6,6 +6,7 @@ _Overview:_
  
 1. * [ ] Review V's Notes (week of August 17?)
 1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
+1. * [ ] Review Intern Projects (after August 31)
 
 _Principal Authority:_
 
