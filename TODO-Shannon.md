@@ -21,8 +21,6 @@ _Learning Bitcoin:_
 _Seed Tool:_
 
 1. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
-1. * [ ] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
-1. * [ ] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
 1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
 1. * [ ] Write Tweetstorm to go with Video
 
@@ -186,6 +184,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
+1. * [X] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
 1. * [X] Write about Pen Test (August 18) of Shamir/SSKR, blog article or GitHub records
 1. * [X] QA Seedtool 1.2
 1. * [X] Link SSKR Strategies from Seed Tool Mini-Manual (when they're both ready)
