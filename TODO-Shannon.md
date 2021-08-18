@@ -29,6 +29,7 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 1. * [ ] Make Six Top Repos available from website
 3. * [ ] Bump up Patronage Levels
 4. * [ ] Add diagram of forks & branches to TRANSLATING
