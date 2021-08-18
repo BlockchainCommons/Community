@@ -187,6 +187,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] QA Seedtool 1.2
 1. * [X] Link SSKR Strategies from Seed Tool Mini-Manual (when they're both ready)
 1. * [X] Decide on a Rest Week (August or early September)
 1. * [X] Write about Autonomy Scenario
