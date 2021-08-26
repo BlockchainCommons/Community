@@ -42,6 +42,7 @@ _Writing Tasks:_
 1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
 1. * [ ] Write Release Procedures
 1. * [ ] Edit New i2p section in LBTCftCL
+1. * [ ] Puzzle through what do to unpublished Open Development draft https://hackmd.io/md7blDMZQjCmP0qB7k1iiQ. @ChristopherA's biggest concern is that the principles are missing something, or are not quite right, or at wrong level (aren't principles but something else).
 
 _Writing Tasks (Small):_
 
