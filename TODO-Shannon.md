@@ -8,6 +8,9 @@ _Overview:_
 1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
 1. * [ ] Review Intern Projects (after August 31)
 
+_SSKR:_
+1. * [ ] Puzzle through how to share the depth of SSKR docs in different places. Links at https://hackmd.io/1Oo3Tj6WQmGDOPD--hbyVA
+
 _Principal Authority:_
 
 1. * [ ] PA: Talk with Dazza (7.30, August 20)
