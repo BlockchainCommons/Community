@@ -5,8 +5,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _Overview:_
  
 1. * [ ] Review V's Notes (week of August 17?)
-1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
-1. * [ ] Review Intern Projects (after August 31)
+3. * [ ] Review Intern Projects (after August 31)
 
 _SSKR:_
 1. * [ ] Puzzle through how to share the depth of SSKR docs in different places. Links at https://hackmd.io/1Oo3Tj6WQmGDOPD--hbyVA
@@ -15,6 +14,13 @@ _Principal Authority:_
 
 1. * [ ] PA: Talk with Dazza (7.30, August 20)
 2. * [ ] PA: Update Based on Dazza's Comments (August 31)
+
+_Strategy & Roadmap_
+
+1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
+  1. * [ ] Related to roadmap is review if our strategy is current https://github.com/BlockchainCommons/Community/blob/master/Strategies.md
+  1. * [ ] Discuss Vinay's post-mortem recommendations
+    1. * [ ] Vinay would like to volunteer againt if we in particular focusing on "responsible key management" and funding opportunities in ethereum community for that.
 
 _Learning Bitcoin:_
 
