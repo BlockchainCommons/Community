@@ -12,7 +12,7 @@ _SSKR:_
 
 _Principal Authority:_
 
-1. * [ ] PA: Talk with Dazza (7.30, August 20)
+1. * [x] PA: Talk with Dazza (7.30, August 20)
 2. * [ ] PA: Update Based on Dazza's Comments (August 31)
 
 _Strategy & Roadmap_
@@ -35,11 +35,12 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
-1. * [ ] Make Six Top Repos available from website
-3. * [ ] Bump up Patronage Levels
-4. * [ ] Add diagram of forks & branches to TRANSLATING
-5. * [ ] Coordinate W's Tech Excerpts (from big video)
+5. * [ ] Bump up Patronage Levels
+1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
+  1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
+3. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
+6. * [ ] Add diagram of forks & branches to TRANSLATING
+7. * [ ] Coordinate W's Tech Excerpts (from big video)
 
 _Writing Tasks:_
 
