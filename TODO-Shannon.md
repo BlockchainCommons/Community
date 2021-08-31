@@ -14,7 +14,6 @@ _New Tasks:_
 4. Write offboarding checklist
    * Offboard G.
 5. Tell interns I'm available to review READMEs/docs
-   * Esp., N's pseuonymity
    * Esp., N's how to set up
    * Esp., Mori
 6. Write End of Quarter Report (Summer)
@@ -215,6 +214,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Review Pseudonymity Repo
 1. * [X]  Review PRs for LBTCftCL Again
 1. * [X] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
 1. * [X] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
