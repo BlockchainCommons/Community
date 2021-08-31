@@ -35,12 +35,12 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
-5. * [ ] Bump up Patronage Levels
+1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
+1. * [ ] Bump up Patronage Levels
 1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
-  1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
-3. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
-6. * [ ] Add diagram of forks & branches to TRANSLATING
-7. * [ ] Coordinate W's Tech Excerpts (from big video)
+1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
+1. * [ ] Add diagram of forks & branches to TRANSLATING
+1. * [ ] Coordinate W's Tech Excerpts (from big video)
 
 _Writing Tasks:_
 
