@@ -2,6 +2,27 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_New Tasks:_
+
+1. Review PRs for LBTCftCL Again
+1. scan report
+1. look at SeedTool 1.2
+1. credential communities group / QR library - tweetstorm
+1. landing page for report (copy in bc-shamir & bc-sskr)
+1. Make SSKR docs page
+1. Design UniversalResources.info
+1. Write offboarding checklist
+   * Offboard G.
+1. Tell interns I'm available to review READMEs/docs
+   * Esp., N's pseuonymity
+   * Esp., N's how to set up
+   * Esp., Mori
+1. Write End of Quarter Report (Summer)
+1. Add Logo for FOundation Devices
+1. Fix dark background of sponsors page
+1. Ask about GH list on sponsors page breaking
+1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
+
 _Overview:_
  
 1. * [ ] Review V's Notes (week of August 17?)
@@ -35,7 +56,6 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
 1. * [ ] Bump up Patronage Levels
 1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
 1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
@@ -205,9 +225,3 @@ _Gordian Wallet:_
 1. * [X] Talk w/W. about Seed Tool (August 11, 1pm)
 1. * [X] Respond to Comments on SSKR (this afternoon)
 1. * [X] Write Tweetstorm to Go with SSKR (this afternoon)
-1. * [X] Add Bitmark example to SSKR
-1. * [X] Write A bout Perils of Shamir
-1. * [X] Do any cleanup for Sweeptool repo
-1. * [X] Update CLI to backlink to Gordian
-1. * [X] Update Gordian Repo with CLI
-1. * [X] Move #SC ARticle Images
