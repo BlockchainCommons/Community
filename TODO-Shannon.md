@@ -4,24 +4,24 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _New Tasks:_
 
-1. Review PRs for LBTCftCL Again
 1. scan report
 1. look at SeedTool 1.2
 1. credential communities group / QR library - tweetstorm
 1. landing page for report (copy in bc-shamir & bc-sskr)
 1. Make SSKR docs page
-1. Design UniversalResources.info
-1. Write offboarding checklist
+2. * [ ] Do the same for UR docs
+3. Design UniversalResources.info
+4. Write offboarding checklist
    * Offboard G.
-1. Tell interns I'm available to review READMEs/docs
+5. Tell interns I'm available to review READMEs/docs
    * Esp., N's pseuonymity
    * Esp., N's how to set up
    * Esp., Mori
-1. Write End of Quarter Report (Summer)
-1. Add Logo for FOundation Devices
-1. Fix dark background of sponsors page
-1. Ask about GH list on sponsors page breaking
-1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
+6. Write End of Quarter Report (Summer)
+7. Add Logo for FOundation Devices
+8. Fix dark background of sponsors page
+9. Ask about GH list on sponsors page breaking
+10. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
 
 _Overview:_
  
@@ -215,6 +215,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X]  Review PRs for LBTCftCL Again
 1. * [X] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
 1. * [X] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
 1. * [X] Write about Pen Test (August 18) of Shamir/SSKR, blog article or GitHub records
