@@ -4,7 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _New Tasks:_
 
-1. scan report
 1. look at SeedTool 1.2
 1. credential communities group / QR library - tweetstorm
 1. landing page for report (copy in bc-shamir & bc-sskr)
@@ -214,6 +213,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Finalize Report on security review
 1. * [X] Review Pseudonymity Repo
 1. * [X]  Review PRs for LBTCftCL Again
 1. * [X] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
