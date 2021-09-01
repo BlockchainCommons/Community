@@ -5,7 +5,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _New Tasks:_
 
 1. * [ ] Put Foundation Devices info on Sponsors page (after OK)
-1. * [ ] Set up BCC Google Cloud
 1. look at SeedTool 1.2
 1. landing page for report (copy in bc-shamir & bc-sskr)
 1. Make SSKR docs page
@@ -213,6 +212,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Set up BCC Google Cloud
 1. * [X] Prepare Foundation Devices info for sponsors page
 1. * [X] credential communities group / QR library - tweetstorm
 1. * [X] Finalize Report on security review
