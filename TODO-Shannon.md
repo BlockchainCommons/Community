@@ -16,8 +16,6 @@ _New Tasks:_
    * Esp., Mori
 6. Write End of Quarter Report (Summer)
 7. Add Logo for FOundation Devices
-8. Fix dark background of sponsors page
-9. Ask about GH list on sponsors page breaking
 10. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
 
 _Overview:_
@@ -53,6 +51,8 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
+1. * [ ] Fix dark background of sponsors page
 1. * [ ] Bump up Patronage Levels
 1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
 1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
