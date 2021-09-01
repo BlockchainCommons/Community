@@ -5,7 +5,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _New Tasks:_
 
 1. look at SeedTool 1.2
-1. credential communities group / QR library - tweetstorm
 1. landing page for report (copy in bc-shamir & bc-sskr)
 1. Make SSKR docs page
 2. * [ ] Do the same for UR docs
@@ -213,6 +212,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] credential communities group / QR library - tweetstorm
 1. * [X] Finalize Report on security review
 1. * [X] Review Pseudonymity Repo
 1. * [X]  Review PRs for LBTCftCL Again
