@@ -6,7 +6,6 @@ _New Tasks:_
 
 1. * [ ] Put Foundation Devices info on Sponsors page (after OK)
 1. look at SeedTool 1.2
-1. landing page for report (copy in bc-shamir & bc-sskr)
 1. Make SSKR docs page
 2. * [ ] Do the same for UR docs
 3. Design UniversalResources.info
@@ -212,6 +211,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] landing page for report (copy in bc-shamir & bc-sskr)
 1. * [X] Set up BCC Google Cloud
 1. * [X] Prepare Foundation Devices info for sponsors page
 1. * [X] credential communities group / QR library - tweetstorm
