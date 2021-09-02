@@ -5,17 +5,12 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _New Tasks:_
 
 1. * [ ] Put Foundation Devices info on Sponsors page (after OK)
-1. look at SeedTool 1.2
-1. Make SSKR docs page
-2. * [ ] Do the same for UR docs
-3. Design UniversalResources.info
-4. Write offboarding checklist
+1. * [ ] Create UR docs overview page
+1. * [ ] Design UniversalResources.info
+1. * [ ] Write offboarding checklist
    * Offboard G.
-5. Tell interns I'm available to review READMEs/docs
-   * Esp., N's how to set up
-   * Esp., Mori
-6. Write End of Quarter Report (Summer)
-10. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
+1. * [ ] Review N's How to Set Up docs/repo
+1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
 
 _Overview:_
  
@@ -211,6 +206,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Make SSKR docs page
 1. * [X] landing page for report (copy in bc-shamir & bc-sskr)
 1. * [X] Set up BCC Google Cloud
 1. * [X] Prepare Foundation Devices info for sponsors page
