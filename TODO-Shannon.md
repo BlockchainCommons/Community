@@ -4,7 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _New Tasks:_
 
-1. * [ ] Put Foundation Devices info on Sponsors page (after OK)
 1. * [ ] Create UR docs overview page
 1. * [ ] Design UniversalResources.info
 1. * [ ] Write offboarding checklist
@@ -206,6 +205,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Put Foundation Devices info on Sponsors page (after OK)
 1. * [X] Make SSKR docs page
 1. * [X] landing page for report (copy in bc-shamir & bc-sskr)
 1. * [X] Set up BCC Google Cloud
