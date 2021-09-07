@@ -4,8 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _New Tasks:_
 
-1. * [ ] Create UR docs overview page
-1. * [ ] Design UniversalResources.info
 1. * [ ] Write offboarding checklist
    * Offboard G.
 1. * [ ] Review N's How to Set Up docs/repo
@@ -54,6 +52,10 @@ _Web/Repo Tasks (Small):_
 1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 1. * [ ] Add diagram of forks & branches to TRANSLATING
 1. * [ ] Coordinate W's Tech Excerpts (from big video)
+
+_Web/Repo Tasks (Large):_
+
+1. * [ ] Design UniversalResources.info
 
 _Writing Tasks:_
 
@@ -207,6 +209,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Create UR docs overview page
 1. * [X] Clear of LBTCftCL Issues
 1. * [X] New clear of Translation PRs
 1. * [X] Put Foundation Devices info on Sponsors page (after OK)
