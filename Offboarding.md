@@ -25,3 +25,13 @@ Also:
 1. Reset any passwords known by user. 
 2. Remove any of user's public keys from `~/.ssh/id_rsa.pub` and/or `authorized_keys`. (This is the preferred way of giving access to users.)
 
+## Signal Permissions
+
+If any Signal groups are considered private, possibly including `bc-sysadmin` and `bc-bizdev-20xx`, user should be removed. (They can also LEAVE any groups themselves.)
+
+## Apple Permissions
+
+Remove any permissions from App Store Connect:
+https://appstoreconnect.apple.com/access/users
+
+Edit, check, and Delete the user.
