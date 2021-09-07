@@ -4,11 +4,18 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _New Tasks:_
 
+1. * [ ] Split up SSKR for Users/Developers Tweetstorms
 1. * [ ] Write offboarding checklist
    * Offboard G.
 1. * [ ] Review N's How to Set Up docs/repo
 1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
 1. * [ ] Change Seedtool to Seed Tool throughout repos
+1. * [ ] Write UR for Users Tweetstorm
+1. * [ ] Write UR for Developers Tweetstorm
+
+_Principal Authority:_
+
+1. * [ ] PA: Update Based on Dazza's Comments (August 31)
 
 _Overview:_
  
@@ -18,10 +25,6 @@ _Overview:_
 _SSKR:_
 1. * [ ] Puzzle through how to share the depth of SSKR docs in different places. Links at https://hackmd.io/1Oo3Tj6WQmGDOPD--hbyVA
 
-_Principal Authority:_
-
-1. * [x] PA: Talk with Dazza (7.30, August 20)
-2. * [ ] PA: Update Based on Dazza's Comments (August 31)
 
 _Strategy & Roadmap_
 
@@ -222,3 +225,5 @@ _Gordian Wallet:_
 1. * [X] Review Pseudonymity Repo
 1. * [X]  Review PRs for LBTCftCL Again
 1. * [X] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
+1. * [x] PA: Talk with Dazza (7.30, August 20)
+
