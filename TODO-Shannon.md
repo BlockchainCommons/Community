@@ -5,8 +5,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _New Tasks:_
 
 1. * [ ] Split up SSKR for Users/Developers Tweetstorms
-1. * [ ] Write offboarding checklist
-   * [ ] Offboard G.
 1. * [ ] Review N's How to Set Up docs/repo
 1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
 1. * [ ] Change Seedtool to Seed Tool throughout repos
@@ -212,6 +210,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write offboarding checklist
+   * [X] Offboard G.
 1. * [X] Create UR docs overview page
 1. * [X] Clear of LBTCftCL Issues
 1. * [X] New clear of Translation PRs
