@@ -34,6 +34,7 @@ _Strategy & Roadmap_
 _Learning Bitcoin:_
 
 1. * [ ] Edit New i2p section in LBTCftCL
+1. * [ ] Resolve 2.1 issues if possible: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/issues?q=is%3Aissue+is%3Aopen+label%3A2.1
 1. * [ ] Tag 2.0.2 when all translations are done (awaiting completion of Translations)
 1. * [ ] After any 2.0.2 changes, incorporate work (awaiting completion of Translations)
 
@@ -205,6 +206,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Clear of LBTCftCL Issues
+1. * [X] New clear of Translation PRs
 1. * [X] Put Foundation Devices info on Sponsors page (after OK)
 1. * [X] Make SSKR docs page
 1. * [X] landing page for report (copy in bc-shamir & bc-sskr)
@@ -215,12 +218,3 @@ _Gordian Wallet:_
 1. * [X] Review Pseudonymity Repo
 1. * [X]  Review PRs for LBTCftCL Again
 1. * [X] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
-1. * [X] Release Seedtool Manual (following release of 1.2) (week of Aug 9?)
-1. * [X] Write about Pen Test (August 18) of Shamir/SSKR, blog article or GitHub records
-1. * [X] QA Seedtool 1.2
-1. * [X] Link SSKR Strategies from Seed Tool Mini-Manual (when they're both ready)
-1. * [X] Decide on a Rest Week (August or early September)
-1. * [X] Write about Autonomy Scenario
-1. * [X] Talk w/W. about Seed Tool (August 11, 1pm)
-1. * [X] Respond to Comments on SSKR (this afternoon)
-1. * [X] Write Tweetstorm to Go with SSKR (this afternoon)
