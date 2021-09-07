@@ -16,6 +16,10 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *Integration with LetheKit* https://twitter.com/gorazdko/status/1377253593158402053 (3/31/21)
    * *Comments:* https://twitter.com/ChristopherA/status/1377327244465500160 (3/31/21)
 
+## Gordian Seed Tool
+
+* *1.2*: https://twitter.com/ChristopherA/status/1435287614785941508 (9/7/21)
+
 ## Interns
 
 * *Summer 2021 / HRF Grant* https://twitter.com/ChristopherA/status/1366880813845909506 (3/2/21)
