@@ -11,6 +11,7 @@ _New Tasks:_
 1. * [ ] Write UR for Developers Tweetstorm
 1. * [ ] Review CypherpunkPay PR: https://github.com/BlockchainCommons/Bitcoin-Standup-Scripts/pull/31
 1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
+1. * [ ] Add Dangers to SSKR Developers
 
 _Principal Authority:_
 
