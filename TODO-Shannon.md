@@ -18,7 +18,7 @@ _New Tasks:_
 
 _Principal Authority:_
 
-1. * [ ] PA: Update Based on Dazza's Comments (August 31)
+1. * [ ] Write letter to Blockchain Task Force
 
 _Overview:_
  
@@ -216,6 +216,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] PA: Update Based on Dazza's Comments (August 31)
 1. * [X] Split up SSKR for Users/Developers Tweetstorms
 1. * [X] Write offboarding checklist
    * [X] Offboard G.
