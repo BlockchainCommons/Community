@@ -13,6 +13,8 @@ _New Tasks:_
 1. * [ ] Review CypherpunkPay PR: https://github.com/BlockchainCommons/Bitcoin-Standup-Scripts/pull/31
 1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
 1. * [ ] Add Dangers to SSKR Developers
+1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
+1. * [ ] Review & Update C's LinkedIn Profile
 
 _Principal Authority:_
 
