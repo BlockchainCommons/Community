@@ -10,6 +10,7 @@ _New Tasks:_
 1. * [ ] Change Seedtool to Seed Tool throughout repos
 1. * [ ] Write UR for Users Tweetstorm
 1. * [ ] Write UR for Developers Tweetstorm
+1. * [ ] Review CypherpunkPay PR: https://github.com/BlockchainCommons/Bitcoin-Standup-Scripts/pull/31
 
 _Principal Authority:_
 
