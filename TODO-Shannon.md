@@ -63,6 +63,7 @@ _Web/Repo Tasks (Large):_
 
 _Writing Tasks:_
 
+1. * [ ] Write about SSKR for Identity Developers in W3C-CCG: keys in browsers, don't necessarily use BIP39
 1. * [ ] Write About Autonomy Chart
 1. * [ ] Tweetstorm OIBs, Seedtool
 1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
