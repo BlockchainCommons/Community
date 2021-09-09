@@ -4,7 +4,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _New Tasks:_
 
-1. * [ ] Review N's How to Set Up docs/repo
+1. * [ ] Review GPG in Secure-Setup Repo
 1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
 1. * [ ] Change Seedtool to Seed Tool throughout repos
 1. * [ ] Write UR for Users Tweetstorm
@@ -216,6 +216,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Review N's How to Set Up docs/repo
 1. * [X] PA: Update Based on Dazza's Comments (August 31)
 1. * [X] Split up SSKR for Users/Developers Tweetstorms
 1. * [X] Write offboarding checklist
