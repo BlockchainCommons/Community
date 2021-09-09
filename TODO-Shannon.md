@@ -2,39 +2,48 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Principal Authority:_
+
+1. * [ ] Final rev of Principal Authority based on Joe's comments (next week)
+1. * [ ] Produce shorter version, focused on Wyoming/SSI for Coindesk? (next week?)
+1. * [ ] Write letter to Blockchain Task Force (next week)
+
+_Community/Patron Tasks:_
+
+1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
+1. * [ ] Add Touchstone as Project Sponsor (awaiting response)
+1. * [ ] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
+1. * [ ] Fix dark background of sponsors page
+1. * [ ] Bump up Patronage Levels
+1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
+
 _New Tasks:_
 
-1. * [ ] Review GPG in Secure-Setup Repo
-1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
+1. * [ ] Review GPG in Secure-Setup Repo (End of Next Week)
+   * [ ] Make sure Main README says how to run scripts
 1. * [ ] Change Seedtool to Seed Tool throughout repos
-1. * [ ] Write UR for Users Tweetstorm
+1. * [ ] Write UR for Users Tweetstorm (start of week)
 1. * [ ] Write UR for Developers Tweetstorm
 1. * [ ] Review Cyperpunk vs BTCPay
+   * [ ] Or just buttons for standard donations? for either app?
 1. * [ ] Review CypherpunkPay PR: https://github.com/BlockchainCommons/Bitcoin-Standup-Scripts/pull/31
 1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
 1. * [ ] Add Dangers to SSKR Developers
 1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 1. * [ ] Review & Update C's LinkedIn Profile
 
-_Principal Authority:_
-
-1. * [ ] Write letter to Blockchain Task Force
-
 _Overview:_
  
-1. * [ ] Review V's Notes (week of August 17?)
-3. * [ ] Review Intern Projects (after August 31)
-
-_SSKR:_
-1. * [ ] Puzzle through how to share the depth of SSKR docs in different places. Links at https://hackmd.io/1Oo3Tj6WQmGDOPD--hbyVA
-
-
-_Strategy & Roadmap_
-
-1. * [ ] Review Roadmap for Rest of Year (week of August 17?)
+1. * [ ] Review V's Notes (week of September 19)
+1. * [ ] Review Roadmap for Rest of Year (week of September 19)
   1. * [ ] Related to roadmap is review if our strategy is current https://github.com/BlockchainCommons/Community/blob/master/Strategies.md
   1. * [ ] Discuss Vinay's post-mortem recommendations
     1. * [ ] Vinay would like to volunteer againt if we in particular focusing on "responsible key management" and funding opportunities in ethereum community for that.
+
+_Quarterly Report:_
+
+1. * [ ] Review Intern Projects (of September 19)
+1. * [ ] Write Quarterly report (end of September, start of October)
 
 _Learning Bitcoin:_
 
@@ -42,19 +51,17 @@ _Learning Bitcoin:_
 1. * [ ] Resolve 2.1 issues if possible: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/issues?q=is%3Aissue+is%3Aopen+label%3A2.1
 1. * [ ] Tag 2.0.2 when all translations are done (awaiting completion of Translations)
 1. * [ ] After any 2.0.2 changes, incorporate work (awaiting completion of Translations)
+1. * [ ] Tweetstorm 
+1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support)
 
 _Seed Tool:_
 
-1. * [ ] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
+1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
 1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
 1. * [ ] Write Tweetstorm to go with Video
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
-1. * [ ] Fix dark background of sponsors page
-1. * [ ] Bump up Patronage Levels
-1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
 1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 1. * [ ] Add diagram of forks & branches to TRANSLATING
 1. * [ ] Coordinate W's Tech Excerpts (from big video)
@@ -216,6 +223,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
+1. * [X] Puzzle through how to share the depth of SSKR docs in different places. Links at https://hackmd.io/1Oo3Tj6WQmGDOPD--hbyVA
 1. * [X] Review N's How to Set Up docs/repo
 1. * [X] PA: Update Based on Dazza's Comments (August 31)
 1. * [X] Split up SSKR for Users/Developers Tweetstorms
