@@ -8,6 +8,11 @@ _Principal Authority:_
 1. * [ ] Produce shorter version, focused on Wyoming/SSI for Coindesk? (next week?)
 1. * [ ] Write letter to Blockchain Task Force (next week)
 
+_SSKR Report:_
+
+1. * [ ] Revise per report 1.1
+1. * [ ] Coordinate with SL about release
+
 _Community/Patron Tasks:_
 
 1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
