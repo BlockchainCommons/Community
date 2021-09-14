@@ -10,8 +10,7 @@ _Principal Authority:_
 
 _SSKR Report:_
 
-1. * [X] Revise our reponse per security report 1.1
-1. * [ ] Coordinate with SL about release of security report
+1. * [ ] Edit security response based on an SL comments
 1. * [ ] Add discussion of tradeoff to bc-shamir repo
 
 _Community/Patron Tasks:_
@@ -229,6 +228,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Revise our reponse per security report 1.1
+1. * [X] Coordinate with SL about release of security report
 1. * [X] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
 1. * [X] Puzzle through how to share the depth of SSKR docs in different places. Links at https://hackmd.io/1Oo3Tj6WQmGDOPD--hbyVA
 1. * [X] Review N's How to Set Up docs/repo
