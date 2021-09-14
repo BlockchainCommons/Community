@@ -239,14 +239,3 @@ _Gordian Wallet:_
 1. * [X] Clear of LBTCftCL Issues
 1. * [X] New clear of Translation PRs
 1. * [X] Put Foundation Devices info on Sponsors page (after OK)
-1. * [X] Make SSKR docs page
-1. * [X] landing page for report (copy in bc-shamir & bc-sskr)
-1. * [X] Set up BCC Google Cloud
-1. * [X] Prepare Foundation Devices info for sponsors page
-1. * [X] credential communities group / QR library - tweetstorm
-1. * [X] Finalize Report on security review
-1. * [X] Review Pseudonymity Repo
-1. * [X]  Review PRs for LBTCftCL Again
-1. * [X] Update Seedtool Manual for final 1.2 updates (week of Aug 9?) [just awaiting new request & response?]
-1. * [x] PA: Talk with Dazza (7.30, August 20)
-
