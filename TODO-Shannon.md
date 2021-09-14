@@ -10,8 +10,9 @@ _Principal Authority:_
 
 _SSKR Report:_
 
-1. * [ ] Revise per report 1.1
-1. * [ ] Coordinate with SL about release
+1. * [X] Revise our reponse per security report 1.1
+1. * [ ] Coordinate with SL about release of security report
+1. * [ ] Add discussion of tradeoff to bc-shamir repo
 
 _Community/Patron Tasks:_
 
