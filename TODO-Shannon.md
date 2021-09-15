@@ -5,7 +5,8 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _Principal Authority:_
 
 1. * [ ] Produce shorter version, focused on Wyoming/SSI for Coindesk? (next week?)
-1. * [ ] Write letter to Blockchain Task Force (next week)
+1. * [X] Write letter to Blockchain Task Force (next week)
+1. * [ ] Write letter for Wyoming eResidency slides
 
 _SSKR Report:_
 
@@ -71,6 +72,7 @@ _Web/Repo Tasks (Small):_
 1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 1. * [ ] Add diagram of forks & branches to TRANSLATING
 1. * [ ] Coordinate W's Tech Excerpts (from big video)
+1. * [ ] Find out what "image" action doesn't work in blog posts
 
 _Web/Repo Tasks (Large):_
 
