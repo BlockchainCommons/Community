@@ -56,6 +56,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *Two-year Report.* https://twitter.com/ChristopherA/status/989120215702261761 (4/25/18)
 * *Rebooting Web of Trust* https://twitter.com/ChristopherA/status/1354545557222486016 (1/27/20)
 * *Digital Identity Act*: https://twitter.com/ChristopherA/status/1374488043835387910 (3/23/21)
+* *Principal Authority*: https://twitter.com/ChristopherA/status/1438258074188353537 (9/15/21)
 
 ## #SmartCustody
 
