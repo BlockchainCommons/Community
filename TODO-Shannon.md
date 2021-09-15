@@ -15,7 +15,7 @@ _SSKR Report:_
 _Community/Patron Tasks:_
 
 1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
-1. * [ ] Add Touchstone as Project Sponsor (awaiting response)
+1. * [ ] Add Keystone as Project Sponsor (awaiting response)
 1. * [ ] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
 1. * [ ] Fix dark background of sponsors page
 1. * [ ] Bump up Patronage Levels
