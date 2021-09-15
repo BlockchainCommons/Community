@@ -4,6 +4,8 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Principal Authority:_
 
+1. * [ ] Add intro to Principal Authority article
+1. * [ ] Prepare PR for Principal Authority blog post
 1. * [ ] Produce shorter version, focused on Wyoming/SSI for Coindesk? (next week?)
 1. * [ ] Write letter to Blockchain Task Force (next week)
 
