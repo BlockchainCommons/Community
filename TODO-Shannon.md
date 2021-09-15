@@ -4,7 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Principal Authority:_
 
-1. * [ ] Final rev of Principal Authority based on Joe's comments (next week)
 1. * [ ] Produce shorter version, focused on Wyoming/SSI for Coindesk? (next week?)
 1. * [ ] Write letter to Blockchain Task Force (next week)
 
@@ -228,6 +227,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Final rev of Principal Authority based on Joe's comments (next week)
 1. * [X] Revise our reponse per security report 1.1
 1. * [X] Coordinate with SL about release of security report
 1. * [X] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
