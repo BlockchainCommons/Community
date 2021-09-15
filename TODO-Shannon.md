@@ -5,8 +5,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _Principal Authority:_
 
 1. * [ ] Produce shorter version, focused on Wyoming/SSI for Coindesk? (next week?)
-1. * [X] Write letter to Blockchain Task Force (next week)
-1. * [ ] Write letter for Wyoming eResidency slides
 
 _SSKR Report:_
 
@@ -231,6 +229,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write letter to Blockchain Task Force (next week)
+1. * [X] Edit Wyoming eResidency slides
+1. * [X] Write letter for Wyoming eResidency slides
 1. * [X] Write Tweetstorm for PA
 1. * [X] Add intro to Principal Authority article
 1. * [X] Prepare PR for Principal Authority blog post
