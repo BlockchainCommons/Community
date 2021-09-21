@@ -12,7 +12,7 @@ _Funding:_
 
 _SSKR Report:_
 
-1. * [ ] Edit security response based on an SL comments
+1. * [ ] Release PDF & response to bc-shamir and bc-sskr (awaiting A's OK)
 1. * [ ] Add discussion of tradeoff to bc-shamir repo
 
 _Learning Bitcoin:_
@@ -245,6 +245,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Edit security response based on an SL comments
 1. * [X] Edit New i2p section in LBTCftCL
 1. * [X] Write letter to Blockchain Task Force (next week)
 1. * [X] Edit Wyoming eResidency slides
