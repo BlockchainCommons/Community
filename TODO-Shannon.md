@@ -8,7 +8,7 @@ _Funding:_
 1. * [ ] Get Letters to Vic.
 1. * [ ] Write New Letters with Vic.
 1. * [ ] Give Vin. Feedback on NFTs
-1. * [ ] Read Text for New OpenSea Item
+1. * [ ] Read Text for New OpenSea Item, include WEB3
 
 _SSKR Report:_
 
