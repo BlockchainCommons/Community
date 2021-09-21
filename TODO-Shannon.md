@@ -2,10 +2,6 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
-_Principal Authority:_
-
-1. * [ ] Produce shorter version, focused on Wyoming/SSI for Coindesk? (next week?)
-
 _SSKR Report:_
 
 1. * [ ] Edit security response based on an SL comments
