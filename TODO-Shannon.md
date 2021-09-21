@@ -2,6 +2,14 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Funding:_
+
+1. * [ ] Ensure Vic. is on t@ email
+1. * [ ] Get Letters to Vic.
+1. * [ ] Write New Letters with Vic.
+1. * [ ] Give Vin. Feedback on NFTs
+1. * [ ] Read Text for New OpenSea Item
+
 _SSKR Report:_
 
 1. * [ ] Edit security response based on an SL comments
@@ -15,6 +23,20 @@ _Learning Bitcoin:_
 1. * [ ] After any 2.0.2 changes, incorporate work (awaiting completion of Translations)
 1. * [ ] Tweetstorm 
 1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support)
+
+_Gordian Server:_
+
+1. * [ ] Set up pruned node on own computer
+1. * [ ] Look at PR #86
+1. * [ ] Get Info from Peter on Making & Signing DMG
+
+_Seed Tool:_
+
+1. * [ ] Differentiate between Release & Developmental Releases
+1. * [ ] Add info on 1.2.1. to Docs (see feature list) [by tomorrow]
+1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
+1. * [ ] Write Tweetstorm to go with Video
 
 _Community/Patron Tasks:_
 
@@ -54,12 +76,6 @@ _Quarterly Report:_
 1. * [ ] Write Quarterly report (end of September, start of October)
 
 
-_Seed Tool:_
-
-1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
-1. * [ ] Write Tweetstorm to go with Video
-
 _Web/Repo Tasks (Small):_
 
 1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
@@ -83,6 +99,10 @@ _Writing Tasks:_
 _Writing Tasks (Small):_
 
 1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
+
+_#SC:_
+
+1. * [ ] #SC for NFTs (once we have a plan)
 
 _Video Tasks:_
 
