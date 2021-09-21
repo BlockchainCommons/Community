@@ -24,8 +24,9 @@ _Learning Bitcoin:_
 1. * [ ] Tweetstorm 
 1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support)
 
-_Gordian Server:_
+_Gordian Server:_ [tomorrow?]
 
+1. * [ ] Consider any QA/UI suggestions for Server
 1. * [ ] Set up pruned node on own computer
 1. * [ ] Look at PR #86
 1. * [ ] Get Info from Peter on Making & Signing DMG
