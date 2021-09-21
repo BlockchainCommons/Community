@@ -5,10 +5,8 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _Funding:_
 
 1. * [ ] Ensure Vic. is on t@ email
-1. * [ ] Get Letters to Vic.
 1. * [ ] Write New Letters with Vic.
 1. * [ ] Give Vin. Feedback on NFTs
-1. * [ ] Read Text for New OpenSea Item, include WEB3
 
 _SSKR Report:_
 
@@ -245,6 +243,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Get Letters to Vic.
+1. * [X] Read Text for New OpenSea Item, include WEB3
 1. * [X] Edit security response based on an SL comments
 1. * [X] Edit New i2p section in LBTCftCL
 1. * [X] Write letter to Blockchain Task Force (next week)
@@ -256,14 +256,3 @@ _Gordian Wallet:_
 1. * [X] Final rev of Principal Authority based on Joe's comments (next week)
 1. * [X] Revise our reponse per security report 1.1
 1. * [X] Coordinate with SL about release of security report
-1. * [X] Write Tweetstorm for Seedtool Manual (week of Aug 9?)
-1. * [X] Puzzle through how to share the depth of SSKR docs in different places. Links at https://hackmd.io/1Oo3Tj6WQmGDOPD--hbyVA
-1. * [X] Review N's How to Set Up docs/repo
-1. * [X] PA: Update Based on Dazza's Comments (August 31)
-1. * [X] Split up SSKR for Users/Developers Tweetstorms
-1. * [X] Write offboarding checklist
-   * [X] Offboard G.
-1. * [X] Create UR docs overview page
-1. * [X] Clear of LBTCftCL Issues
-1. * [X] New clear of Translation PRs
-1. * [X] Put Foundation Devices info on Sponsors page (after OK)
