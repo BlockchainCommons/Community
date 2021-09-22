@@ -15,6 +15,7 @@ _SSKR Report:_
 
 _Learning Bitcoin:_
 
+1. * [ ] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
 1. * [ ] Integrate Cipherpay PR
 1. * [ ] Tag 2.1 when all translations are done (awaiting completion of Translations)
 1. * [ ] After any 2.1 changes, incorporate work (awaiting completion of Translations)
