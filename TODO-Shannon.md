@@ -16,9 +16,8 @@ _SSKR Report:_
 _Learning Bitcoin:_
 
 1. * [ ] Integrate Cipherpay PR
-1. * [ ] Resolve 2.1 issues if possible: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/issues?q=is%3Aissue+is%3Aopen+label%3A2.1
-1. * [ ] Tag 2.0.2 when all translations are done (awaiting completion of Translations)
-1. * [ ] After any 2.0.2 changes, incorporate work (awaiting completion of Translations)
+1. * [ ] Tag 2.1 when all translations are done (awaiting completion of Translations)
+1. * [ ] After any 2.1 changes, incorporate work (awaiting completion of Translations)
 1. * [ ] Tweetstorm 
 1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support)
 
@@ -243,6 +242,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Resolve 2.1 issues if possible: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/issues?q=is%3Aissue+is%3Aopen+label%3A2.1
 1. * [X] Update LBTCftCL for New Scripts, New Machine Options
 1. * [X] Update scripts for Bitcoin Core 0.22
 1. * [X] Get Letters to Vic.
