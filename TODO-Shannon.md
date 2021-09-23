@@ -6,7 +6,7 @@ _Funding:_
 
 1. * [ ] Ensure Vic. is on t@ email
 1. * [ ] Write New Letters with Vic.
-1. * [ ] Give Vin. Feedback on NFTs
+1. * [ ] Write #SC for NFT Overview
 
 _SSKR Report:_
 
@@ -242,6 +242,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Give Vin. Feedback on NFTs
 1. * [X] Consider any QA/UI suggestions for Server
 1. * [X] Set up pruned node on own computer
 1. * [X] Resolve 2.1 issues if possible: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/issues?q=is%3Aissue+is%3Aopen+label%3A2.1
