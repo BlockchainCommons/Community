@@ -24,10 +24,9 @@ _Learning Bitcoin:_
 
 _Gordian Server:_ [tomorrow?]
 
-1. * [ ] Consider any QA/UI suggestions for Server
-1. * [ ] Set up pruned node on own computer
+1. * [ ] Do New QA (next week)
 1. * [ ] Look at PR #86
-1. * [ ] Get Info from Peter on Making & Signing DMG
+1. * [ ] Make & Sign DMG, Release
 
 _Seed Tool:_
 
@@ -243,6 +242,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Consider any QA/UI suggestions for Server
+1. * [X] Set up pruned node on own computer
 1. * [X] Resolve 2.1 issues if possible: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/issues?q=is%3Aissue+is%3Aopen+label%3A2.1
 1. * [X] Update LBTCftCL for New Scripts, New Machine Options
 1. * [X] Update scripts for Bitcoin Core 0.22
