@@ -2,6 +2,13 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Gordian Server:_ 
+
+1. * [ ] Check Issues #106-115 for resolution
+1. * [ ] Do New QA (next week)
+1. * [ ] Look at PR #86
+1. * [ ] Make & Sign DMG, Release
+
 _Funding:_
 
 1. * [ ] Ensure Vic. is on t@ email
@@ -21,12 +28,6 @@ _Learning Bitcoin:_
 1. * [ ] After any 2.1 changes, incorporate work (awaiting completion of Translations)
 1. * [ ] Tweetstorm 
 1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support)
-
-_Gordian Server:_ [tomorrow?]
-
-1. * [ ] Do New QA (next week)
-1. * [ ] Look at PR #86
-1. * [ ] Make & Sign DMG, Release
 
 _Seed Tool:_
 
