@@ -2,6 +2,12 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Secure Development_
+
+1. * [ ] Check comments on PR
+1. * [ ] Look over GPG file
+1. * [ ] Make sure Main README says how to run scripts
+
 _Gordian Server:_ 
 
 1. * [ ] Check Issues #106-115 for resolution
@@ -48,8 +54,6 @@ _Community/Patron Tasks:_
 
 _New Tasks:_
 
-1. * [ ] Review GPG in Secure-Setup Repo (End of Next Week)
-   * [ ] Make sure Main README says how to run scripts
 1. * [ ] Change Seedtool to Seed Tool throughout repos
 1. * [ ] Write UR for Users Tweetstorm (start of week)
 1. * [ ] Write UR for Developers Tweetstorm
