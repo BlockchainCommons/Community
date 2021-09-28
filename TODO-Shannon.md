@@ -248,6 +248,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Review LBTCftCL Translation PRs
 1. * [X] Give Vin. Feedback on NFTs
 1. * [X] Consider any QA/UI suggestions for Server
 1. * [X] Set up pruned node on own computer
@@ -258,12 +259,3 @@ _Gordian Wallet:_
 1. * [X] Read Text for New OpenSea Item, include WEB3
 1. * [X] Edit security response based on an SL comments
 1. * [X] Edit New i2p section in LBTCftCL
-1. * [X] Write letter to Blockchain Task Force (next week)
-1. * [X] Edit Wyoming eResidency slides
-1. * [X] Write letter for Wyoming eResidency slides
-1. * [X] Write Tweetstorm for PA
-1. * [X] Add intro to Principal Authority article
-1. * [X] Prepare PR for Principal Authority blog post
-1. * [X] Final rev of Principal Authority based on Joe's comments (next week)
-1. * [X] Revise our reponse per security report 1.1
-1. * [X] Coordinate with SL about release of security report
