@@ -23,7 +23,6 @@ _Funding:_
 
 _SSKR Report:_
 
-1. * [ ] Release PDF & response to bc-shamir and bc-sskr (awaiting A's OK)
 1. * [ ] Add discussion of tradeoff to bc-shamir repo
 
 _Learning Bitcoin:_
@@ -248,6 +247,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Release PDF & response to bc-shamir and bc-sskr (awaiting A's OK)
 1. * [X] Review LBTCftCL Translation PRs
 1. * [X] Give Vin. Feedback on NFTs
 1. * [X] Consider any QA/UI suggestions for Server
