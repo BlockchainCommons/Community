@@ -64,6 +64,7 @@ _New Tasks:_
 1. * [ ] Add Dangers to SSKR Developers
 1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 1. * [ ] Review & Update C's LinkedIn Profile
+1. * [ ] See if We Should Have Vulnerability Disclosure Info in our Repos, Per https://openssf.org/blog/2021/09/27/announcing-the-openssf-vulnerability-disclosure-wg-guide-to-disclosure-for-oss-projects/
 
 _Overview:_
  
