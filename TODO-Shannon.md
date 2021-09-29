@@ -10,7 +10,6 @@ _Secure Development_
 
 _Gordian Server:_ 
 
-2. * [ ] Recheck Gordian Server Issues
 3. * [ ] Check Gordian Server Integration with Fully Noded
 4. * [ ] Do New QA (next week)
 5. * [ ] Make & Sign DMG, Release
@@ -253,6 +252,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Recheck Gordian Server Issues
 1. * [X] Warn about old installs of Server
 1. * [X] Check Issues #106-115 for resolution, Server
 1. * [X] Look at PR #86, Server
