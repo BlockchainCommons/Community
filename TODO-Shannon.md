@@ -11,9 +11,11 @@ _Secure Development_
 _Gordian Server:_ 
 
 1. * [ ] Warn about old installs.
-1. * [ ] Do New QA (next week)
-1. * [ ] Make & Sign DMG, Release
-1. * [ ] Update screen shots of Gordian Server
+2. * [ ] Recheck Gordian Server Issues
+3. * [ ] Check Gordian Server Integration with Fully Noded
+4. * [ ] Do New QA (next week)
+5. * [ ] Make & Sign DMG, Release
+6. * [ ] Update screen shots of Gordian Server
 
 _Funding:_
 
