@@ -28,12 +28,17 @@ _SSKR Report:_
 
 _Learning Bitcoin:_
 
-1. * [ ] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
-1. * [ ] Integrate Cipherpay PR
+1. * [ ] Merge any final changes
 1. * [ ] Tag 2.1 when all translations are done (awaiting completion of Translations)
 1. * [ ] After any 2.1 changes, incorporate work (awaiting completion of Translations)
-1. * [ ] Tweetstorm 
 1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support)
+1. * [ ] Tweetstorm 
+1. * [ ] Article?
+
+_Standup Scripts:_
+
+1. * [ ] Integrate Cipherpay PR
+1. * [ ] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
 
 _Seed Tool:_
 
