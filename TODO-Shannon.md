@@ -13,6 +13,7 @@ _Gordian Server:_
 1. * [ ] Warn about old installs.
 1. * [ ] Do New QA (next week)
 1. * [ ] Make & Sign DMG, Release
+1. * [ ] Update screen shots of Gordian Server
 
 _Funding:_
 
