@@ -40,6 +40,7 @@ _Standup Scripts:_
 
 _Seed Tool:_
 
+1. * [ ] QA 1.2.1
 1. * [ ] Differentiate between Release & Developmental Releases
 1. * [ ] Add info on 1.2.1. to Docs (see feature list) [by tomorrow]
 1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
