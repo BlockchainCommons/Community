@@ -10,7 +10,6 @@ _Secure Development_
 
 _Gordian Server:_ 
 
-1. * [ ] Warn about old installs.
 2. * [ ] Recheck Gordian Server Issues
 3. * [ ] Check Gordian Server Integration with Fully Noded
 4. * [ ] Do New QA (next week)
@@ -249,8 +248,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
-1. * [X] Check Issues #106-115 for resolution
-1. * [X] Look at PR #86
+1. * [X] Warn about old installs of Server
+1. * [X] Check Issues #106-115 for resolution, Server
+1. * [X] Look at PR #86, Server
 1. * [X] Release PDF & response to bc-shamir and bc-sskr (awaiting A's OK)
 1. * [X] Review LBTCftCL Translation PRs
 1. * [X] Give Vin. Feedback on NFTs
