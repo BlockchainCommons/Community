@@ -2,6 +2,10 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_News_
+
+1. * [ ] Q3 Report
+
 _Secure Development_
 
 1. * [ ] Review, Comment & Merge New Pseudonymity PR
