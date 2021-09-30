@@ -4,15 +4,19 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Secure Development_
 
-1. * [ ] Check comments on PR
-1. * [ ] Look over GPG file
+1. * [ ] Review, Comment & Merge New Pseudonymity PR
 1. * [ ] Make sure Main README says how to run scripts
 
 _Gordian Server:_ 
 
-4. * [ ] Do New QA (next week)
-5. * [ ] Make & Sign DMG, Release
-6. * [ ] Update screen shots of Gordian Server
+1. * [ ] Make & Sign DMG, Release
+1. * [ ] Update screen shots of Gordian Server
+
+_Standup Scripts:_
+
+1. * [ ] Integrate Cipherpay PR
+1. * [ ] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
+
 
 _Funding:_
 
@@ -32,11 +36,6 @@ _Learning Bitcoin:_
 1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support)
 1. * [ ] Tweetstorm 
 1. * [ ] Article?
-
-_Standup Scripts:_
-
-1. * [ ] Integrate Cipherpay PR
-1. * [ ] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
 
 _Seed Tool:_
 
@@ -252,6 +251,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Check comments on Secure Setup PR
+1. * [X] Look over Secure Setup GPG file
 1. * [X] Check Gordian Server Integration with Fully Noded
 1. * [X] Recheck Gordian Server Issues
 1. * [X] Warn about old installs of Server
