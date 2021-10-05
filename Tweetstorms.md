@@ -4,6 +4,10 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 
 * [Best Practices](Tweetstorms-Best-Practices.md) - best practices for writing tweets
 
+## Fundraising
+
+* *Identimancer #1 NFT*: https://twitter.com/ChristopherA/status/1445482968869343238?s=20 (10/5/21)
+
 ## Gordian Cosigner
 
 * *Early Beta Release* https://twitter.com/ChristopherA/status/1362489390308630528 (2/18/21)
@@ -19,6 +23,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 ## Gordian Seed Tool
 
 * *1.2*: https://twitter.com/ChristopherA/status/1435287614785941508 (9/7/21)
+* *1.2.1*: https://twitter.com/BlockchainComns/status/1443389265379934212 (9/29/21)
 
 ## Interns
 
