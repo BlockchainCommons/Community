@@ -4,6 +4,8 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _News_
 
+1. * [ ] Update SSI Collection Info
+1. * [ ] Write TS for our Ethereum Work
 1. * [ ] Q3 Report
 
 _Secure Development_
@@ -15,6 +17,7 @@ _Gordian Server:_
 
 1. * [ ] Make & Sign DMG, Release
 1. * [ ] Update screen shots of Gordian Server
+1. * [ ] Write Tweetstorm
 
 _Standup Scripts:_
 
@@ -265,12 +268,3 @@ _Gordian Wallet:_
 1. * [X] Release PDF & response to bc-shamir and bc-sskr (awaiting A's OK)
 1. * [X] Review LBTCftCL Translation PRs
 1. * [X] Give Vin. Feedback on NFTs
-1. * [X] Consider any QA/UI suggestions for Server
-1. * [X] Set up pruned node on own computer
-1. * [X] Resolve 2.1 issues if possible: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/issues?q=is%3Aissue+is%3Aopen+label%3A2.1
-1. * [X] Update LBTCftCL for New Scripts, New Machine Options
-1. * [X] Update scripts for Bitcoin Core 0.22
-1. * [X] Get Letters to Vic.
-1. * [X] Read Text for New OpenSea Item, include WEB3
-1. * [X] Edit security response based on an SL comments
-1. * [X] Edit New i2p section in LBTCftCL
