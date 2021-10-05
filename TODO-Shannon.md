@@ -13,6 +13,7 @@ _Secure Development_
 
 _Gordian Server:_ 
 
+1. * [ ] Test New Commit with Old Version of Bitcoin Data
 1. * [ ] Make & Sign DMG, Release
 1. * [ ] Update screen shots of Gordian Server
 1. * [ ] Write Tweetstorm
