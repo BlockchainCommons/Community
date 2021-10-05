@@ -255,6 +255,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] QA New Server RC.
 1. * [X] Update SSI Collection Info
 1. * [X] Write TS for our Ethereum Work
 1. * [X] Check comments on Secure Setup PR
