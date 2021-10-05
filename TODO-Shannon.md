@@ -38,7 +38,7 @@ _Learning Bitcoin:_
 1. * [ ] Tag 2.1 when all translations are done (awaiting completion of Translations)
 1. * [ ] After any 2.1 changes, incorporate work (awaiting completion of Translations)
 1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support; best way to learn bitcoin the bitcoin-core way; review welcome; other translations desired; can support us)
-1. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc)
+1. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
 1. * [ ] Article?
 
 _Seed Tool:_
