@@ -4,8 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _News_
 
-1. * [ ] Update SSI Collection Info
-1. * [ ] Write TS for our Ethereum Work
 1. * [ ] Q3 Report
 
 _Secure Development_
@@ -23,7 +21,6 @@ _Standup Scripts:_
 
 1. * [ ] Integrate Cipherpay PR
 1. * [ ] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
-
 
 _Funding:_
 
@@ -258,6 +255,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Update SSI Collection Info
+1. * [X] Write TS for our Ethereum Work
 1. * [X] Check comments on Secure Setup PR
 1. * [X] Look over Secure Setup GPG file
 1. * [X] Check Gordian Server Integration with Fully Noded
