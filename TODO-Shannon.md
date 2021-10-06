@@ -21,6 +21,7 @@ _Gordian Server:_
 _Standup Scripts:_
 
 1. * [ ] Integrate Cipherpay PR
+1. * [ ] Improving listing/ordering of options in Stackscript
 1. * [ ] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
 
 _Funding:_
