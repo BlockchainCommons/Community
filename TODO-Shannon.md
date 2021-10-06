@@ -55,10 +55,8 @@ _Seed Tool:_
 _Community/Patron Tasks:_
 
 1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
-1. * [ ] Add Keystone as Project Sponsor (awaiting response)
 1. * [ ] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
 1. * [ ] Fix dark background of sponsors page
-1. * [ ] Bump up Patronage Levels
 1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
 
 _New Tasks:_
@@ -257,6 +255,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Add Keystone as Project Sponsor (awaiting response)
+1. * [X] Bump up Patronage Levels
 1. * [X] QA New Server RC.
 1. * [X] Update SSI Collection Info
 1. * [X] Write TS for our Ethereum Work
