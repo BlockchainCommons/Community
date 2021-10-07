@@ -21,7 +21,7 @@ _Gordian Server:_
 
 _Standup Scripts:_
 
-1. * [ ] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
+1. * [ ] Try to get j's better scripting back on track
 
 _Funding:_
 
@@ -254,6 +254,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
 1. * [X] Integrate Cipherpay PR
 1. * [X] Improving listing/ordering of options in Stackscript
 1. * [X] Add Keystone as Project Sponsor (awaiting response)
