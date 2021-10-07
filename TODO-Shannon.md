@@ -13,6 +13,7 @@ _Secure Development_
 
 _Gordian Server:_ 
 
+1. * [ ] Test New Commit for #150
 1. * [ ] Test New Commit with Old Version of Bitcoin Data
 1. * [ ] Make & Sign DMG, Release
 1. * [ ] Update screen shots of Gordian Server
@@ -20,8 +21,6 @@ _Gordian Server:_
 
 _Standup Scripts:_
 
-1. * [ ] Integrate Cipherpay PR
-1. * [ ] Improving listing/ordering of options in Stackscript
 1. * [ ] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
 
 _Funding:_
@@ -255,6 +254,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Integrate Cipherpay PR
+1. * [X] Improving listing/ordering of options in Stackscript
 1. * [X] Add Keystone as Project Sponsor (awaiting response)
 1. * [X] Bump up Patronage Levels
 1. * [X] QA New Server RC.
