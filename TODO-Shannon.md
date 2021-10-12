@@ -25,8 +25,7 @@ _Standup Scripts:_
 
 _Funding:_
 
-1. * [ ] Ensure Vic. is on t@ email
-1. * [ ] Write New Letters with Vic.
+1. * [ ] Review Newest V. Letter
 1. * [ ] Write #SC for NFT Overview
 
 _SSKR Report:_
@@ -35,12 +34,12 @@ _SSKR Report:_
 
 _Learning Bitcoin:_
 
-1. * [ ] Merge any final changes
-1. * [ ] Tag 2.1 when all translations are done (awaiting completion of Translations)
-1. * [ ] After any 2.1 changes, incorporate work (awaiting completion of Translations)
-1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support; best way to learn bitcoin the bitcoin-core way; review welcome; other translations desired; can support us)
-1. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
-1. * [ ] Article?
+1. * [ ] Merge Portuguese PR (awaiting PR)
+2. * [ ] Merge Spanish PR (awaiting CLAs, PR)
+3. * [ ] Benchmark 2.2.0 (awiting two PRs merged)
+5. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support; best way to learn bitcoin the bitcoin-core way; review welcome; other translations desired; can support us)
+6. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
+7. * [ ] Article?
 
 _Seed Tool:_
 
@@ -254,6 +253,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Merge any final changes
+1. * [X] Tag 2.1 when all translations are done (awaiting completion of Translations)
 1. * [X] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
 1. * [X] Integrate Cipherpay PR
 1. * [X] Improving listing/ordering of options in Stackscript
@@ -264,11 +265,3 @@ _Gordian Wallet:_
 1. * [X] Write TS for our Ethereum Work
 1. * [X] Check comments on Secure Setup PR
 1. * [X] Look over Secure Setup GPG file
-1. * [X] Check Gordian Server Integration with Fully Noded
-1. * [X] Recheck Gordian Server Issues
-1. * [X] Warn about old installs of Server
-1. * [X] Check Issues #106-115 for resolution, Server
-1. * [X] Look at PR #86, Server
-1. * [X] Release PDF & response to bc-shamir and bc-sskr (awaiting A's OK)
-1. * [X] Review LBTCftCL Translation PRs
-1. * [X] Give Vin. Feedback on NFTs
