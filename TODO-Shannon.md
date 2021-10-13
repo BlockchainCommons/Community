@@ -13,8 +13,6 @@ _Secure Development_
 
 _Gordian Server:_ 
 
-1. * [ ] Test New Commit for #150
-1. * [ ] Test New Commit with Old Version of Bitcoin Data
 1. * [ ] Make & Sign DMG, Release
 1. * [ ] Update screen shots of Gordian Server
 1. * [ ] Write Tweetstorm
@@ -43,7 +41,6 @@ _Learning Bitcoin:_
 
 _Seed Tool:_
 
-1. * [ ] QA 1.2.1
 1. * [ ] Differentiate between Release & Developmental Releases
 1. * [ ] Add info on 1.2.1. to Docs (see feature list) [by tomorrow]
 1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
@@ -253,6 +250,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] QA 1.2.1
+1. * [X] Test New Commit for #150, GS
+1. * [X] Test New Commit with Old Version of Bitcoin Data for #148, GS
 1. * [X] Merge any final changes
 1. * [X] Tag 2.1 when all translations are done (awaiting completion of Translations)
 1. * [X] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
