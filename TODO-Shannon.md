@@ -14,8 +14,9 @@ _Secure Development_
 _Gordian Server:_ 
 
 1. * [ ] Make & Sign DMG, Release
-1. * [ ] Update screen shots of Gordian Server
-1. * [ ] Write Tweetstorm
+2. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
+3. * [ ] Update screen shots of Gordian Server
+4. * [ ] Write Tweetstorm
 
 _Standup Scripts:_
 
