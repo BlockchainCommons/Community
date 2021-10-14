@@ -43,7 +43,6 @@ _Learning Bitcoin:_
 _Seed Tool:_
 
 1. * [ ] Differentiate between Release & Developmental Releases
-1. * [ ] Add info on 1.2.1. to Docs (see feature list) [by tomorrow]
 1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
 1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
 1. * [ ] Write Tweetstorm to go with Video
@@ -251,6 +250,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Add info on ST 1.2.1. to Docs (see feature list) [by tomorrow]
 1. * [X] Review Newest V. Letter
 1. * [X] Make & Sign DMG, Release
 1. * [X] Write Tweetstorm for GS
