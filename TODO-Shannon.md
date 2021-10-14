@@ -13,10 +13,10 @@ _Secure Development_
 
 _Gordian Server:_ 
 
-1. * [ ] Make & Sign DMG, Release
-2. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
-3. * [ ] Update screen shots of Gordian Server
-4. * [ ] Write Tweetstorm
+1. * [ ] Write up my DMG making instructions better
+2. * [ ] Release Server 1.0.1?
+3. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
+4. * [ ] Update screen shots of Gordian Server
 
 _Standup Scripts:_
 
@@ -24,7 +24,7 @@ _Standup Scripts:_
 
 _Funding:_
 
-1. * [ ] Review Newest V. Letter
+1. * [ ] Call with V & C?
 1. * [ ] Write #SC for NFT Overview
 
 _SSKR Report:_
@@ -251,6 +251,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Review Newest V. Letter
+1. * [X] Make & Sign DMG, Release
+1. * [X] Write Tweetstorm for GS
 1. * [X] QA 1.2.1
 1. * [X] Test New Commit for #150, GS
 1. * [X] Test New Commit with Old Version of Bitcoin Data for #148, GS
