@@ -61,6 +61,7 @@ _Community/Patron Tasks:_
 
 _New Tasks:_
 
+1. * [ ] Added newest testimony (Sign, email)
 1. * [ ] Change Seedtool to Seed Tool throughout repos
 1. * [ ] Write UR for Users Tweetstorm (start of week)
 1. * [ ] Write UR for Developers Tweetstorm
@@ -80,11 +81,6 @@ _Overview:_
   1. * [ ] Related to roadmap is review if our strategy is current https://github.com/BlockchainCommons/Community/blob/master/Strategies.md
   1. * [ ] Discuss Vinay's post-mortem recommendations
     1. * [ ] Vinay would like to volunteer againt if we in particular focusing on "responsible key management" and funding opportunities in ethereum community for that.
-
-_Quarterly Report:_
-
-1. * [ ] Review Intern Projects (of September 19)
-1. * [ ] Write Quarterly report (end of September, start of October)
 
 
 _Web/Repo Tasks (Small):_
