@@ -260,12 +260,3 @@ _Gordian Wallet:_
 1. * [X] Merge any final changes
 1. * [X] Tag 2.1 when all translations are done (awaiting completion of Translations)
 1. * [X] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
-1. * [X] Integrate Cipherpay PR
-1. * [X] Improving listing/ordering of options in Stackscript
-1. * [X] Add Keystone as Project Sponsor (awaiting response)
-1. * [X] Bump up Patronage Levels
-1. * [X] QA New Server RC.
-1. * [X] Update SSI Collection Info
-1. * [X] Write TS for our Ethereum Work
-1. * [X] Check comments on Secure Setup PR
-1. * [X] Look over Secure Setup GPG file
