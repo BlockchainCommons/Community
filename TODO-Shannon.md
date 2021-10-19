@@ -18,6 +18,11 @@ _Gordian Server:_
 3. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
 4. * [ ] Update screen shots of Gordian Server
 
+_Request/Response Docs:_
+
+1. * [ ] Get Overdub Voice from W.
+2. * [ ] Edit New R/R Doc
+
 _Standup Scripts:_
 
 1. * [ ] Try to get j's better scripting back on track
