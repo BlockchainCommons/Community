@@ -20,7 +20,6 @@ _Gordian Server:_
 
 _Request/Response Docs:_
 
-1. * [ ] Get Overdub Voice from W.
 2. * [ ] Edit New R/R Doc
 
 _Standup Scripts:_
@@ -251,6 +250,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Get Overdub Voice from W.
 1. * [X] Add info on ST 1.2.1. to Docs (see feature list) [by tomorrow]
 1. * [X] Review Newest V. Letter
 1. * [X] Make & Sign DMG, Release
