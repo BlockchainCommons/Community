@@ -84,10 +84,12 @@ _Overview:_
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
-1. * [ ] Add diagram of forks & branches to TRANSLATING
-1. * [ ] Coordinate W's Tech Excerpts (from big video)
-1. * [ ] Find out what "image" action doesn't work in blog posts
+1. * [ ] Test Main Web Pages, GitHub Pages in Twitter Validator https://cards-dev.twitter.com/validator 
+2. * [ ] Make community logo work in GitHub dark mode
+3. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
+4. * [ ] Add diagram of forks & branches to TRANSLATING
+5. * [ ] Coordinate W's Tech Excerpts (from big video)
+6. * [ ] Find out what "image" action doesn't work in blog posts
 
 _Web/Repo Tasks (Large):_
 
