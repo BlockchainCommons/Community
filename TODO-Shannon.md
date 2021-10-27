@@ -4,7 +4,8 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _News_
 
-1. * [ ] Q3 Report
+1. * [ ] Respond to Q3 Report Comments
+1. * [ ] Release Q3 Report
 
 _Secure Development_
 
