@@ -13,10 +13,7 @@ _Secure Development_
 
 _Gordian Server:_ 
 
-1. * [ ] Write up my DMG making instructions better
-2. * [ ] Release Server 1.0.1?
 3. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
-4. * [ ] Update screen shots of Gordian Server
 
 _Request/Response Docs:_
 
@@ -252,6 +249,10 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write up my DMG making instructions better
+1. * [X] Release Server 1.0.1?
+1. * [X] Update screen shots of Gordian Server
+1. * [X] Update GOrdian Server README & Docs
 1. * [X] Get Overdub Voice from W.
 1. * [X] Add info on ST 1.2.1. to Docs (see feature list) [by tomorrow]
 1. * [X] Review Newest V. Letter
