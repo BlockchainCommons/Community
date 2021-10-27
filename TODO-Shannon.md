@@ -15,9 +15,10 @@ _Gordian Server:_
 
 3. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
 
-_Request/Response Docs:_
+_Request/Response Video:_
 
-2. * [ ] Edit New R/R Doc
+1. * [ ] Edit New R/R Video
+2. * [ ] Ken Burns (Zoom) pictures as appropriate
 
 _Standup Scripts:_
 
