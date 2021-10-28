@@ -8,8 +8,8 @@ _News_
 
 _Secure Development_
 
-1. * [ ] Review, Comment & Merge New Pseudonymity PR
-1. * [ ] Make sure Main README says how to run scripts
+1. * [ ] Line edit Pseudonymity Guide, one section at a time.
+3. * [ ] Make sure Main README says how to run scripts
 
 _Gordian Server:_ 
 
@@ -252,6 +252,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Review, Comment & Merge New Pseudonymity PR
 1. * [X] Respond to Q3 Report Comments
 1. * [X] Write up my DMG making instructions better
 1. * [X] Release Server 1.0.1?
