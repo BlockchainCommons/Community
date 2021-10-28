@@ -82,6 +82,8 @@ _Overview:_
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Review Projects on web site
+1. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts?
 1. * [ ] Test Main Web Pages, GitHub Pages in Twitter Validator https://cards-dev.twitter.com/validator 
 2. * [ ] Make community logo work in GitHub dark mode
 3. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
