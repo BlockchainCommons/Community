@@ -2,9 +2,6 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
-_News_
-
-1. * [ ] Release Q3 Report
 
 _Secure Development_
 
@@ -252,6 +249,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Release Q3 Report
 1. * [X] Review, Comment & Merge New Pseudonymity PR
 1. * [X] Respond to Q3 Report Comments
 1. * [X] Write up my DMG making instructions better
