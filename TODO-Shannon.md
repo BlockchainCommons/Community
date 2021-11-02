@@ -2,21 +2,48 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
-
 _Secure Development_
 
-1. * [ ] Line edit Pseudonymity Guide, one section at a time.
-3. * [ ] Make sure Main README says how to run scripts
+1. * [ ] Line edit Pseudonymity Guide, one section at a time. (U)
+1. * [ ] Make sure Main README says how to run scripts
 
 _Gordian Server:_ 
 
-3. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
+1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
 
 _Request/Response Video:_
 
 1. * [ ] Edit New R/R Video
 2. * [ ] Ken Burns (Zoom) pictures as appropriate
 
+_Web/Repo Tasks (Small):_
+
+1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
+   * [ ] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
+3. * [ ] Review Projects on web site (BY DECEMBER)
+4. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts?
+5. * [ ] Test Main Web Pages, GitHub Pages in Twitter Validator https://cards-dev.twitter.com/validator 
+6. * [ ] Make community logo work in GitHub dark mode
+7. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
+8. * [ ] Add diagram of forks & branches to TRANSLATING
+9. * [ ] Coordinate W's Tech Excerpts (from big video)
+10. * [ ] Find out what "image" action doesn't work in blog posts
+
+_Possible Grants:_
+
+1. * [ ] Write up Short Proposals
+   * [ ] #SC for NFTs
+   * [ ] #SC for Treasuries
+   * [ ] A Guide to Gnosis Multsig
+   * [ ] Start Sending Them Out on a Regular Basis
+1. * [ ] Schedule Call with V.
+3. * [ ] HRF. Possible Projects
+   * [ ] How to use Cypherpunk Pay
+   * [ ] New Article on Intersection of Pseudonymity for Doing Secure Software Development?
+   * [ ] How to Protect Yourselves, Minimally
+4. * [ ] Ethereum / NFTs
+5. * [ ] Community Membership / Collaboration
+ 
 _Standup Scripts:_
 
 1. * [ ] Try to get j's better scripting back on track
@@ -30,6 +57,18 @@ _SSKR Report:_
 
 1. * [ ] Add discussion of tradeoff to bc-shamir repo
 
+_Gordian Server:_
+
+1. * [ ] Incorporate RPC PR (pending)
+1. * [ ] Incorporate Crash Fish PR (pending)
+
+_CryptoRequest:_
+
+1 * [ ] Video or Doc on *Why* You should do CryptoRequest
+  * More relevant under Taproot
+  * Things like FROST: more interactions where you need a sequence
+  * [ ] Edit & Release Video from W. (pending)
+  
 _Learning Bitcoin:_
 
 1. * [ ] Merge Portuguese PR (awaiting PR)
@@ -46,6 +85,10 @@ _Seed Tool:_
 1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
 1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
 1. * [ ] Write Tweetstorm to go with Video
+1. * [ ] Test Bare-PSBT version (pending)
+1. * [ ] Document Bare-PSBT version (pending)
+1. * [ ] Test WalletConnect version (pending)
+1. * [ ] Document WalletConnect in Guide (pending)
 
 _Community/Patron Tasks:_
 
@@ -78,16 +121,6 @@ _Overview:_
     1. * [ ] Vinay would like to volunteer againt if we in particular focusing on "responsible key management" and funding opportunities in ethereum community for that.
 
 
-_Web/Repo Tasks (Small):_
-
-1. * [ ] Review Projects on web site
-1. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts?
-1. * [ ] Test Main Web Pages, GitHub Pages in Twitter Validator https://cards-dev.twitter.com/validator 
-2. * [ ] Make community logo work in GitHub dark mode
-3. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
-4. * [ ] Add diagram of forks & branches to TRANSLATING
-5. * [ ] Coordinate W's Tech Excerpts (from big video)
-6. * [ ] Find out what "image" action doesn't work in blog posts
 
 _Web/Repo Tasks (Large):_
 
@@ -95,6 +128,8 @@ _Web/Repo Tasks (Large):_
 
 _Writing Tasks:_
 
+1. * [ ] Yearly Report: How Are We Succeeding at Milestones (DECEMBER)
+1. * [ ] Q4 Report (DECEMBER)
 1. * [ ] Write about SSKR for Identity Developers in W3C-CCG: keys in browsers, don't necessarily use BIP39
 1. * [ ] Write About Autonomy Chart
 1. * [ ] Tweetstorm OIBs, Seedtool
