@@ -10,7 +10,7 @@ _Secure Development_
 _Gordian Server:_ 
 
 1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
-2. * [ ] Document How to Verify, Like https://sparrowwallet.com/download/
+2. * [ ] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
 
 _Request/Response Video:_
 
