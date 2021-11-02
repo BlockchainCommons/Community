@@ -129,6 +129,7 @@ _Web/Repo Tasks (Large):_
 
 _Writing Tasks:_
 
+1. * [ ] Improve Docs on Signing CLA
 1. * [ ] Yearly Report: How Are We Succeeding at Milestones (DECEMBER)
 1. * [ ] Q4 Report (DECEMBER)
 1. * [ ] Write about SSKR for Identity Developers in W3C-CCG: keys in browsers, don't necessarily use BIP39
