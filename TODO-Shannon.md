@@ -14,7 +14,8 @@ _Gordian Server:_
 _Request/Response Video:_
 
 1. * [ ] Edit New R/R Video
-2. * [ ] Ken Burns (Zoom) pictures as appropriate
+2. * [ ] Edit Out Lags
+3. * [ ] Ken Burns (Zoom) pictures as appropriate
 
 _Web/Repo Tasks (Small):_
 
