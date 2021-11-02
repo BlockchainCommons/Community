@@ -35,7 +35,8 @@ _Learning Bitcoin:_
 1. * [ ] Merge Portuguese PR (awaiting PR)
 2. * [ ] Merge Spanish PR (awaiting CLAs, PR)
 3. * [ ] Benchmark 2.2.0 (awiting two PRs merged)
-5. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr, help support; best way to learn bitcoin the bitcoin-core way; review welcome; other translations desired; can support us)
+4. * [ ] Clean up 3.0-TODO list
+5. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future
 6. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
 7. * [ ] Article?
 
