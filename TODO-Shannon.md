@@ -58,7 +58,7 @@ _Web/Repo Tasks (Large):_
 
 _Possible Grants:_
 
-1. * [ ] Call with V&C
+1. * [ ] Fill in Open Sats for Victoria (Today or Tuesday)
 1. * [ ] Write up Short Proposals
    * [ ] #SC for NFTs
    * [ ] #SC for Treasuries
@@ -287,6 +287,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Call with V&C
 1. * [X] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
 1. * [X] Edit New R/R Video
 1. * [X] Edit Out Lags
