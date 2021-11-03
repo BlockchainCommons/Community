@@ -65,7 +65,7 @@ _Standup Scripts:_
 
 _CryptoRequest:_
 
-1 * [ ] Video or Doc on *Why* You should do CryptoRequest
+1. * [ ] Video or Doc on *Why* You should do CryptoRequest
    * More relevant under Taproot
    * Things like FROST: more interactions where you need a sequence
    * [ ] Edit & Release Video from W. (pending)
