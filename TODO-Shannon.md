@@ -5,7 +5,8 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _Videos_
 
 1. * [ ] Align video of Request/Response Video
- 
+1. * [ ] Add Tweetstorm
+
 _Secure Development_
  
 1. * [ ] Line edit Pseudonymity Guide, one section at a time. (U)
