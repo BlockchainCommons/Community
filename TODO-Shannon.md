@@ -2,16 +2,26 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Videos_
+
+1. * [ ] Align video of Request/Response Video
+ 
 _Secure Development_
-
+ 
 1. * [ ] Line edit Pseudonymity Guide, one section at a time. (U)
+   * [ ] Verify section by section that there isn't work that he's planning
 1. * [ ] Make sure Main README says how to run scripts
-
+1. * [ ] Do We Want to talk about Guide First?
+   * [ ] What are use cases? Even non-pseudonymous people who are interacting with pseudonyms.
+   * [ ] Does Pseudonymity Guide Overlap into Secure Development? 
+   * [ ] Supply chain attacks? Liability? Physical Threats in Less Secure Countries?
+   * [ ] Cover Thease Reasons? https://twitter.com/ChristopherA/status/1450971497174999041?s=20
+ 
 _Gordian Server:_ 
 
 1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
 1. * [ ] Incorporate RPC PR (pending)
-1. * [ ] Incorporate Crash Fish PR (pending)
+1. * [ ] Incorporate Crash PR (pending)
 
 _Web/Repo Tasks (Small):_
 
@@ -34,6 +44,7 @@ _Web/Repo Tasks (Small):_
 _Web/Repo Tasks (Large):_
 
 1. * [ ] Design UniversalResources.info
+1. * [ ] Do something with lifehash.info
 
 _Possible Grants:_
 
@@ -71,14 +82,17 @@ _CryptoRequest:_
   
 _Learning Bitcoin:_
 
+1. * [ ] Announce Weekly LBTCftCL Seminars (early January)
+1. * [ ] Organize outline of new 3.0 LBTCftCL topics
 1. * [ ] Merge Portuguese PR (awaiting PR)
-2. * [ ] Merge Spanish PR (awaiting CLAs, PR)
-3. * [ ] Benchmark 2.2.0 (awiting two PRs merged)
-4. * [ ] Clean up 3.0-TODO list
-5. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future
-6. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
-7. * [ ] Article?
+1. * [ ] Merge Spanish PR (awaiting CLAs, PR)
+1. * [ ] Benchmark 2.2.0 (awiting two PRs merged)
+1. * [ ] Clean up 3.0-TODO list
+1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0)
+1. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
+1. * [ ] Article?
 1. * [ ] Add diagram of forks & branches to TRANSLATING
+1. * [ ] First LBTCftCL Seminar (January 19th)
 
 _Seed Tool:_
 
@@ -101,6 +115,9 @@ _Overview:_
 
 _Writing Tasks:_
 
+1. * [ ] Write about Object Identity BLock (OIB)
+1. * [ ] Why Are Web Assembly & Rust Strategy Important & What Are Those Strategies?
+1. * [ ] Write about Lifehash? (How to use it? Paths for development? Why?)
 1. * [ ] Improve Docs on Signing CLA
 1. * [ ] Yearly Report: How Are We Succeeding at Milestones (DECEMBER)
 1. * [ ] Q4 Report (DECEMBER)
