@@ -10,29 +10,35 @@ _Secure Development_
 _Gordian Server:_ 
 
 1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
-2. * [ ] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
-
-_Request/Response Video:_
-
-1. * [ ] Edit New R/R Video
-2. * [ ] Edit Out Lags
-3. * [ ] Ken Burns (Zoom) pictures as appropriate
+1. * [ ] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
+1. * [ ] Incorporate RPC PR (pending)
+1. * [ ] Incorporate Crash Fish PR (pending)
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Add discussion of tradeoff to bc-shamir repo from security review
 1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
    * [ ] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
-3. * [ ] Review Projects on web site (BY DECEMBER)
-4. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts?
-5. * [ ] Test Main Web Pages, GitHub Pages in Twitter Validator https://cards-dev.twitter.com/validator 
-6. * [ ] Make community logo work in GitHub dark mode
-7. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
-8. * [ ] Add diagram of forks & branches to TRANSLATING
-9. * [ ] Coordinate W's Tech Excerpts (from big video)
-10. * [ ] Find out what "image" action doesn't work in blog posts
+1. * [ ] Review Projects on web site (BY DECEMBER)
+1. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts?
+1. * [ ] Test Main Web Pages, GitHub Pages in Twitter Validator https://cards-dev.twitter.com/validator 
+1. * [ ] Make community logo work in GitHub dark mode
+1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
+1. * [ ] Coordinate W's Tech Excerpts (from big video)
+1. * [ ] Added newest testimony (Sign, email)
+1. * [ ] Change Seedtool to Seed Tool throughout repos
+1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
+1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
+1. * [ ] Review & Update C's LinkedIn Profile
+1. * [ ] See if We Should Have Vulnerability Disclosure Info in our Repos, Per https://openssf.org/blog/2021/09/27/announcing-the-openssf-vulnerability-disclosure-wg-guide-to-disclosure-for-oss-projects/
+
+_Web/Repo Tasks (Large):_
+
+1. * [ ] Design UniversalResources.info
 
 _Possible Grants:_
 
+1. * [ ] Call with V&C
 1. * [ ] Write up Short Proposals
    * [ ] #SC for NFTs
    * [ ] #SC for Treasuries
@@ -46,23 +52,16 @@ _Possible Grants:_
 4. * [ ] Ethereum / NFTs
 5. * [ ] Community Membership / Collaboration
  
+_Community/Patron Tasks:_
+
+1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
+1. * [ ] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
+1. * [ ] Fix dark background of sponsors page
+1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
+
 _Standup Scripts:_
 
 1. * [ ] Try to get j's better scripting back on track
-
-_Funding:_
-
-1. * [ ] Call with V & C?
-1. * [ ] Write #SC for NFT Overview
-
-_SSKR Report:_
-
-1. * [ ] Add discussion of tradeoff to bc-shamir repo
-
-_Gordian Server:_
-
-1. * [ ] Incorporate RPC PR (pending)
-1. * [ ] Incorporate Crash Fish PR (pending)
 
 _CryptoRequest:_
 
@@ -80,39 +79,18 @@ _Learning Bitcoin:_
 5. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future
 6. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
 7. * [ ] Article?
+1. * [ ] Add diagram of forks & branches to TRANSLATING
 
 _Seed Tool:_
 
 1. * [ ] Differentiate between Release & Developmental Releases
 1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-1. * [ ] Talk with W. about repo naming conventions (week of Aug 9)
 1. * [ ] Write Tweetstorm to go with Video
+1. * [ ] Talk with W. about repo naming conventions
 1. * [ ] Test Bare-PSBT version (pending)
 1. * [ ] Document Bare-PSBT version (pending)
 1. * [ ] Test WalletConnect version (pending)
 1. * [ ] Document WalletConnect in Guide (pending)
-
-_Community/Patron Tasks:_
-
-1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
-1. * [ ] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
-1. * [ ] Fix dark background of sponsors page
-1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
-
-_New Tasks:_
-
-1. * [ ] Added newest testimony (Sign, email)
-1. * [ ] Change Seedtool to Seed Tool throughout repos
-1. * [ ] Write UR for Users Tweetstorm (start of week)
-1. * [ ] Write UR for Developers Tweetstorm
-1. * [ ] Review Cyperpunk vs BTCPay
-   * [ ] Or just buttons for standard donations? for either app?
-1. * [ ] Review CypherpunkPay PR: https://github.com/BlockchainCommons/Bitcoin-Standup-Scripts/pull/31
-1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
-1. * [ ] Add Dangers to SSKR Developers
-1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
-1. * [ ] Review & Update C's LinkedIn Profile
-1. * [ ] See if We Should Have Vulnerability Disclosure Info in our Repos, Per https://openssf.org/blog/2021/09/27/announcing-the-openssf-vulnerability-disclosure-wg-guide-to-disclosure-for-oss-projects/
 
 _Overview:_
  
@@ -122,12 +100,6 @@ _Overview:_
   1. * [ ] Discuss Vinay's post-mortem recommendations
     1. * [ ] Vinay would like to volunteer againt if we in particular focusing on "responsible key management" and funding opportunities in ethereum community for that.
 
-
-
-_Web/Repo Tasks (Large):_
-
-1. * [ ] Design UniversalResources.info
-
 _Writing Tasks:_
 
 1. * [ ] Improve Docs on Signing CLA
@@ -135,14 +107,17 @@ _Writing Tasks:_
 1. * [ ] Q4 Report (DECEMBER)
 1. * [ ] Write about SSKR for Identity Developers in W3C-CCG: keys in browsers, don't necessarily use BIP39
 1. * [ ] Write About Autonomy Chart
-1. * [ ] Tweetstorm OIBs, Seedtool
-1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
-1. * [ ] Write Release Procedures
+1. * [ ] Write Release Procedures for iOS
 1. * [ ] Puzzle through what do to unpublished Open Development draft https://hackmd.io/md7blDMZQjCmP0qB7k1iiQ. @ChristopherA's biggest concern is that the principles are missing something, or are not quite right, or at wrong level (aren't principles but something else).
 
 _Writing Tasks (Small):_
 
 1. * [ ] Add `xfp` to multisig articles:  the [fingerprint/path/to/key]xpub is increasingly called an "xfp" = extended fingerprint. We've not been calling it that.
+
+_Tweetstorms_
+
+1. * [ ] Tweetstorm OIBs, Seedtool
+1. * [ ] BTCR: Article & Tweetstorm based on https://the-rubric.castos.com/episodes/the-granddaddy-of-dids, with quotes & links
 
 _#SC:_
 
@@ -193,8 +168,6 @@ _Cosigner:_
    * [ ] Create Images for Long Cosigner VIdeo
    * [ ] Write Tweetstorm to go with it
 1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
-
-_Wallet:_ 
 
 ## Stale Tasks
 
@@ -288,6 +261,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Edit New R/R Video
+1. * [X] Edit Out Lags
+1. * [X] Ken Burns (Zoom) pictures as appropriate
 1. * [X] Release Q3 Report
 1. * [X] Review, Comment & Merge New Pseudonymity PR
 1. * [X] Respond to Q3 Report Comments
@@ -298,11 +274,3 @@ _Gordian Wallet:_
 1. * [X] Get Overdub Voice from W.
 1. * [X] Add info on ST 1.2.1. to Docs (see feature list) [by tomorrow]
 1. * [X] Review Newest V. Letter
-1. * [X] Make & Sign DMG, Release
-1. * [X] Write Tweetstorm for GS
-1. * [X] QA 1.2.1
-1. * [X] Test New Commit for #150, GS
-1. * [X] Test New Commit with Old Version of Bitcoin Data for #148, GS
-1. * [X] Merge any final changes
-1. * [X] Tag 2.1 when all translations are done (awaiting completion of Translations)
-1. * [X] Tweetstorm 22.0 update for scripts & Server(?), utility for course, non-server wallet apps
