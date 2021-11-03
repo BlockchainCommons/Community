@@ -10,7 +10,6 @@ _Secure Development_
 _Gordian Server:_ 
 
 1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
-1. * [ ] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
 1. * [ ] Incorporate RPC PR (pending)
 1. * [ ] Incorporate Crash Fish PR (pending)
 
@@ -261,6 +260,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
 1. * [X] Edit New R/R Video
 1. * [X] Edit Out Lags
 1. * [X] Ken Burns (Zoom) pictures as appropriate
