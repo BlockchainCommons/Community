@@ -25,22 +25,32 @@ _Gordian Server:_
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Add discussion of tradeoff to bc-shamir repo from security review
+1. * [ ] Add discussion of tradeoff to bc-shamir repo from security review (U)
 1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
    * [ ] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
 1. * [ ] Review Projects on web site (BY DECEMBER)
-1. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts?
-1. * [ ] Test Main Web Pages, GitHub Pages in Twitter Validator https://cards-dev.twitter.com/validator 
-1. * [ ] Make community logo work in GitHub dark mode
+1. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
 1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 1. * [ ] Coordinate W's Tech Excerpts (from big video)
 1. * [ ] Added newest testimony (Sign, email)
-1. * [ ] Change Seedtool to Seed Tool throughout repos
 1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
 1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 1. * [ ] Review & Update C's LinkedIn Profile
-1. * [ ] See if We Should Have Vulnerability Disclosure Info in our Repos, Per https://openssf.org/blog/2021/09/27/announcing-the-openssf-vulnerability-disclosure-wg-guide-to-disclosure-for-oss-projects/
 
+_Repo Maintenance Tasks:_
+
+1. * [ ] Better standards for labels on PRs and issues
+1. * [ ] Better topics for Community Discussion Categories?
+1. * [ ] Test Main Web Pages, GitHub Pages in Twitter Validator https://cards-dev.twitter.com/validator 
+1. * [ ] Change Seedtool to Seed Tool throughout repos
+1. * [ ] Make community logo work in GitHub dark mode
+1. * [ ] See if We Should Have Vulnerability Disclosure Info in our Repos, Per https://openssf.org/blog/2021/09/27/announcing-the-openssf-vulnerability-disclosure-wg-guide-to-disclosure-for-oss-projects/
+1. * [ ] Get Vulnerability Disclosure into own repos
+1. * [ ] Do we want to have a blockchain commons shared GPG key?
+1. * [ ] Archive vs Update Old Projects Decisions?
+   * [ ] Itemize Them
+   * [ ] Decide
+  
 _Web/Repo Tasks (Large):_
 
 1. * [ ] Design UniversalResources.info
