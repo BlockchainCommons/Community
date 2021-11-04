@@ -4,8 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Videos_
 
-1. * [ ] Align video of Request/Response Video
-1. * [ ] Add Tweetstorm
 
 _Secure Development_
  
@@ -288,6 +286,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Align video of Request/Response Video
+1. * [X] Add Tweetstorm
 1. * [X] Call with V&C
 1. * [X] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
 1. * [X] Edit New R/R Video
