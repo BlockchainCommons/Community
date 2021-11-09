@@ -2,8 +2,62 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
-_Videos_
+_Web/Repo Tasks (Small):_
 
+1. * [ ] Review Projects on web site [U1]
+1. * [ ] Add discussion of tradeoff to bc-shamir repo from security review (U)
+1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
+   * [ ] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
+1. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
+1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
+1. * [ ] Coordinate W's Tech Excerpts (from big video)
+1. * [ ] Added newest testimony (Sign, email)
+1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
+1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
+1. * [ ] Review & Update C's LinkedIn Profile
+
+_Possible Grants:_
+
+1. * [ ] Write Up one-paragraph/one-sentence project info [U2]
+1. * [ ] Write up Short Proposals
+   * [ ] #SC for NFTs
+   * [ ] #SC for Treasuries
+   * [ ] A Guide to Gnosis Multsig
+   * [ ] Start Sending Them Out on a Regular Basis
+1. * [ ] Fill in Open Sats for Victoria (Today or Tuesday) [U3]
+1. * [ ] Schedule Call with V.
+3. * [ ] HRF. Possible Projects
+   * [ ] How to use Cypherpunk Pay
+   * [ ] New Article on Intersection of Pseudonymity for Doing Secure Software Development?
+   * [ ] How to Protect Yourselves, Minimally
+4. * [ ] Ethereum / NFTs
+5. * [ ] Community Membership / Collaboration
+ 
+_CryptoRequest:_
+
+1. * [ ] Any Support for W's CryptoRequest article [U4]
+   * More relevant under Taproot
+   * Things like FROST: more interactions where you need a sequence
+ 
+_Gordian Server:_ 
+
+1. * [ ] Test & Release 1.0.1 [U5]
+1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
+1. * [ ] Incorporate RPC PR (pending)
+1. * [ ] Incorporate Crash PR (pending)
+
+_Learning Bitcoin:_
+
+1. * [ ] Announce Weekly LBTCftCL Seminars (early January)
+1. * [ ] Organize outline of new 3.0 LBTCftCL topics
+1. * [ ] Merge Spanish PR (awaiting CLAs, PR)
+1. * [ ] Benchmark 2.2.0 (awiting two PRs merged)
+1. * [ ] Clean up 3.0-TODO list
+1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0) [U6]
+1. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
+1. * [ ] Article?
+1. * [ ] Add diagram of forks & branches to TRANSLATING
+1. * [ ] First LBTCftCL Seminar (January 19th)
 
 _Secure Development_
  
@@ -16,26 +70,6 @@ _Secure Development_
    * [ ] Supply chain attacks? Liability? Physical Threats in Less Secure Countries?
    * [ ] Cover Thease Reasons? https://twitter.com/ChristopherA/status/1450971497174999041?s=20
  
-_Gordian Server:_ 
-
-1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
-1. * [ ] Incorporate RPC PR (pending)
-1. * [ ] Incorporate Crash PR (pending)
-
-_Web/Repo Tasks (Small):_
-
-1. * [ ] Add discussion of tradeoff to bc-shamir repo from security review (U)
-1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
-   * [ ] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
-1. * [ ] Review Projects on web site (BY DECEMBER)
-1. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
-1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
-1. * [ ] Coordinate W's Tech Excerpts (from big video)
-1. * [ ] Added newest testimony (Sign, email)
-1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
-1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
-1. * [ ] Review & Update C's LinkedIn Profile
-
 _Repo Maintenance Tasks:_
 
 1. * [ ] Better standards for labels on PRs and issues
@@ -55,22 +89,7 @@ _Web/Repo Tasks (Large):_
 1. * [ ] Design UniversalResources.info
 1. * [ ] Do something with lifehash.info
 
-_Possible Grants:_
 
-1. * [ ] Fill in Open Sats for Victoria (Today or Tuesday)
-1. * [ ] Write up Short Proposals
-   * [ ] #SC for NFTs
-   * [ ] #SC for Treasuries
-   * [ ] A Guide to Gnosis Multsig
-   * [ ] Start Sending Them Out on a Regular Basis
-1. * [ ] Schedule Call with V.
-3. * [ ] HRF. Possible Projects
-   * [ ] How to use Cypherpunk Pay
-   * [ ] New Article on Intersection of Pseudonymity for Doing Secure Software Development?
-   * [ ] How to Protect Yourselves, Minimally
-4. * [ ] Ethereum / NFTs
-5. * [ ] Community Membership / Collaboration
- 
 _Community/Patron Tasks:_
 
 1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
@@ -81,26 +100,6 @@ _Community/Patron Tasks:_
 _Standup Scripts:_
 
 1. * [ ] Try to get j's better scripting back on track
-
-_CryptoRequest:_
-
-1. * [ ] Any Support for W's CryptoRequest article
-   * More relevant under Taproot
-   * Things like FROST: more interactions where you need a sequence
-  
-_Learning Bitcoin:_
-
-1. * [ ] Announce Weekly LBTCftCL Seminars (early January)
-1. * [ ] Organize outline of new 3.0 LBTCftCL topics
-1. * [ ] Merge Portuguese PR (awaiting PR)
-1. * [ ] Merge Spanish PR (awaiting CLAs, PR)
-1. * [ ] Benchmark 2.2.0 (awiting two PRs merged)
-1. * [ ] Clean up 3.0-TODO list
-1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0)
-1. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
-1. * [ ] Article?
-1. * [ ] Add diagram of forks & branches to TRANSLATING
-1. * [ ] First LBTCftCL Seminar (January 19th)
 
 _Seed Tool:_
 
@@ -192,6 +191,8 @@ _Cosigner:_
    * [ ] Create Images for Long Cosigner VIdeo
    * [ ] Write Tweetstorm to go with it
 1. * [ ] Proof https://github.com/BlockchainCommons/GordianCosigner-iOS/pull/43
+
+_Videos_
 
 ## Stale Tasks
 
@@ -285,6 +286,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Merge Portuguese PR (awaiting PR)
 1. * [X] Align video of Request/Response Video
 1. * [X] Add Tweetstorm
 1. * [X] Call with V&C
@@ -294,11 +296,3 @@ _Gordian Wallet:_
 1. * [X] Ken Burns (Zoom) pictures as appropriate
 1. * [X] Release Q3 Report
 1. * [X] Review, Comment & Merge New Pseudonymity PR
-1. * [X] Respond to Q3 Report Comments
-1. * [X] Write up my DMG making instructions better
-1. * [X] Release Server 1.0.1?
-1. * [X] Update screen shots of Gordian Server
-1. * [X] Update GOrdian Server README & Docs
-1. * [X] Get Overdub Voice from W.
-1. * [X] Add info on ST 1.2.1. to Docs (see feature list) [by tomorrow]
-1. * [X] Review Newest V. Letter
