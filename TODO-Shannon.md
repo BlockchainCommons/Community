@@ -4,7 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Review Projects on web site [U1]
 1. * [ ] Add discussion of tradeoff to bc-shamir repo from security review (U)
 1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
    * [ ] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
@@ -286,6 +285,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Review Projects on web site [U1]
 1. * [X] Merge Portuguese PR (awaiting PR)
 1. * [X] Align video of Request/Response Video
 1. * [X] Add Tweetstorm
