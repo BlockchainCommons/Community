@@ -15,9 +15,16 @@ _Web/Repo Tasks (Small):_
 1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 1. * [ ] Review & Update C's LinkedIn Profile
 
+_SmartCustody
+
+1. * [ ] Recovery of Multisigs Standards
+   * [ ] Need Standards
+   * [ ] Storing Metadata
+   * [ ] Working with Tap Root
+   * [ ] Not Having SPF
+
 _Possible Grants:_
 
-1. * [ ] Write Up one-paragraph/one-sentence project info [U2]
 1. * [ ] Write up Short Proposals
    * [ ] #SC for NFTs
    * [ ] #SC for Treasuries
@@ -87,7 +94,6 @@ _Web/Repo Tasks (Large):_
 
 1. * [ ] Design UniversalResources.info
 1. * [ ] Do something with lifehash.info
-
 
 _Community/Patron Tasks:_
 
@@ -285,6 +291,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write Up one-paragraph/one-sentence project info [U2]
 1. * [X] Review Projects on web site [U1]
 1. * [X] Merge Portuguese PR (awaiting PR)
 1. * [X] Align video of Request/Response Video
