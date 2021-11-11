@@ -25,11 +25,7 @@ _SmartCustody
 
 _Possible Grants:_
 
-1. * [ ] Write up Short Proposals
-   * [ ] #SC for NFTs
-   * [ ] #SC for Treasuries
-   * [ ] A Guide to Gnosis Multsig
-   * [ ] Start Sending Them Out on a Regular Basis
+1. * [ ] Incorporate Additional Notes for Short Grant Writeups
 1. * [ ] Fill in Open Sats for Victoria (Today or Tuesday) [U3]
 1. * [ ] Schedule Call with V.
 3. * [ ] HRF. Possible Projects
@@ -40,10 +36,6 @@ _Possible Grants:_
 5. * [ ] Community Membership / Collaboration
  
 _CryptoRequest:_
-
-1. * [ ] Any Support for W's CryptoRequest article [U4]
-   * More relevant under Taproot
-   * Things like FROST: more interactions where you need a sequence
  
 _Gordian Server:_ 
 
@@ -291,6 +283,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Any Support for W's CryptoRequest article [U4]
+   * More relevant under Taproot
+   * Things like FROST: more interactions where you need a sequence
 1. * [X] Write Up one-paragraph/one-sentence project info [U2]
 1. * [X] Review Projects on web site [U1]
 1. * [X] Merge Portuguese PR (awaiting PR)
