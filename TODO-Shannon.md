@@ -25,8 +25,8 @@ _SmartCustody
 
 _Possible Grants:_
 
-1. * [ ] Fill in Open Sats for Victoria (Today or Tuesday) [U3]
-1. * [ ] Schedule Call with V.
+1. * [ ] Fill in Open Sats for Victoria: LBTCftCL [U3]
+1. * [ ] Fill in Open Sats for Victoria: Intern [U3]
 3. * [ ] HRF. Possible Projects
    * [ ] How to use Cypherpunk Pay
    * [ ] New Article on Intersection of Pseudonymity for Doing Secure Software Development?
@@ -35,6 +35,8 @@ _Possible Grants:_
 5. * [ ] Community Membership / Collaboration
  
 _CryptoRequest:_
+
+1. * [ ] Release CryptoReQuest Article (when ready)
  
 _Gordian Server:_ 
 
@@ -47,7 +49,6 @@ _Learning Bitcoin:_
 
 1. * [ ] Announce Weekly LBTCftCL Seminars (early January)
 1. * [ ] Organize outline of new 3.0 LBTCftCL topics
-1. * [ ] Merge Spanish PR (awaiting CLAs, PR)
 1. * [ ] Benchmark 2.2.0 (awiting two PRs merged)
 1. * [ ] Clean up 3.0-TODO list
 1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0) [U6]
@@ -282,18 +283,20 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Merge Spanish PR (awaiting CLAs, PR)
 1. * [X] Test GS 1.0.1 [U5]
 1. * [X] Build GS 1.0.1 [U5]
 1. * [X] Incorporate Additional Notes for Short Grant Writeups
-1. * [X] Any Support for W's CryptoRequest article [U4]
+1. * [X] Schedule Call with V.
+3. * [X] Any Support for W's CryptoRequest article [U4]
    * More relevant under Taproot
    * Things like FROST: more interactions where you need a sequence
-1. * [X] Write Up one-paragraph/one-sentence project info [U2]
-1. * [X] Review Projects on web site [U1]
-1. * [X] Merge Portuguese PR (awaiting PR)
-1. * [X] Align video of Request/Response Video
-1. * [X] Add Tweetstorm
-1. * [X] Call with V&C
-1. * [X] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
-1. * [X] Edit New R/R Video
-1. * [X] Edit Out Lags
+4. * [X] Write Up one-paragraph/one-sentence project info [U2]
+5. * [X] Review Projects on web site [U1]
+6. * [X] Merge Portuguese PR (awaiting PR)
+7. * [X] Align video of Request/Response Video
+8. * [X] Add Tweetstorm
+9. * [X] Call with V&C
+10. * [X] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
+11. * [X] Edit New R/R Video
+12. * [X] Edit Out Lags
