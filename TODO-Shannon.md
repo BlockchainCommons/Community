@@ -25,7 +25,6 @@ _SmartCustody
 
 _Possible Grants:_
 
-1. * [ ] Incorporate Additional Notes for Short Grant Writeups
 1. * [ ] Fill in Open Sats for Victoria (Today or Tuesday) [U3]
 1. * [ ] Schedule Call with V.
 3. * [ ] HRF. Possible Projects
@@ -39,7 +38,7 @@ _CryptoRequest:_
  
 _Gordian Server:_ 
 
-1. * [ ] Test & Release 1.0.1 [U5]
+1. * [ ] Release GS 1.0.1 [U5]
 1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
 1. * [ ] Incorporate RPC PR (pending)
 1. * [ ] Incorporate Crash PR (pending)
@@ -283,6 +282,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Test GS 1.0.1 [U5]
+1. * [X] Build GS 1.0.1 [U5]
+1. * [X] Incorporate Additional Notes for Short Grant Writeups
 1. * [X] Any Support for W's CryptoRequest article [U4]
    * More relevant under Taproot
    * Things like FROST: more interactions where you need a sequence
@@ -295,6 +297,3 @@ _Gordian Wallet:_
 1. * [X] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
 1. * [X] Edit New R/R Video
 1. * [X] Edit Out Lags
-1. * [X] Ken Burns (Zoom) pictures as appropriate
-1. * [X] Release Q3 Report
-1. * [X] Review, Comment & Merge New Pseudonymity PR
