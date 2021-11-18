@@ -15,7 +15,7 @@ _Web/Repo Tasks (Small):_
 1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 1. * [ ] Review & Update C's LinkedIn Profile
 
-_SmartCustody
+_SmartCustody:_
 
 1. * [ ] Recovery of Multisigs Standards
    * [ ] Need Standards
@@ -25,7 +25,6 @@ _SmartCustody
 
 _Possible Grants:_
 
-1. * [ ] Fill in Open Sats for Victoria: LBTCftCL [U3]
 1. * [ ] Fill in Open Sats for Victoria: Intern [U3]
 3. * [ ] HRF. Possible Projects
    * [ ] How to use Cypherpunk Pay
@@ -48,9 +47,6 @@ _Gordian Server:_
 _Learning Bitcoin:_
 
 1. * [ ] Announce Weekly LBTCftCL Seminars (early January)
-1. * [ ] Organize outline of new 3.0 LBTCftCL topics
-1. * [ ] Benchmark 2.2.0 (awiting two PRs merged)
-1. * [ ] Clean up 3.0-TODO list
 1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0) [U6]
 1. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
 1. * [ ] Article?
@@ -283,6 +279,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Organize outline of new 3.0 LBTCftCL topics
+1. * [X] Release 2.2.0 (awiting two PRs merged)
+1. * [X] Fill in Open Sats for Victoria: LBTCftCL [U3]
 1. * [X] Merge Spanish PR (awaiting CLAs, PR)
 1. * [X] Test GS 1.0.1 [U5]
 1. * [X] Build GS 1.0.1 [U5]
