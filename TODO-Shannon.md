@@ -47,8 +47,6 @@ _Gordian Server:_
 _Learning Bitcoin:_
 
 1. * [ ] Announce Weekly LBTCftCL Seminars (early January)
-1. * [ ] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0) [U6]
-1. * [ ] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
 1. * [ ] Article?
 1. * [ ] Add diagram of forks & branches to TRANSLATING
 1. * [ ] First LBTCftCL Seminar (January 19th)
@@ -279,6 +277,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0) [U6]
+1. * [X] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
 1. * [X] Organize outline of new 3.0 LBTCftCL topics
 1. * [X] Release 2.2.0 (awiting two PRs merged)
 1. * [X] Fill in Open Sats for Victoria: LBTCftCL [U3]
