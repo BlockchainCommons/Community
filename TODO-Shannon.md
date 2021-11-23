@@ -277,6 +277,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Updated BTCpay
 1. * [X] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0) [U6]
 1. * [X] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
 1. * [X] Organize outline of new 3.0 LBTCftCL topics
@@ -287,15 +288,3 @@ _Gordian Wallet:_
 1. * [X] Build GS 1.0.1 [U5]
 1. * [X] Incorporate Additional Notes for Short Grant Writeups
 1. * [X] Schedule Call with V.
-3. * [X] Any Support for W's CryptoRequest article [U4]
-   * More relevant under Taproot
-   * Things like FROST: more interactions where you need a sequence
-4. * [X] Write Up one-paragraph/one-sentence project info [U2]
-5. * [X] Review Projects on web site [U1]
-6. * [X] Merge Portuguese PR (awaiting PR)
-7. * [X] Align video of Request/Response Video
-8. * [X] Add Tweetstorm
-9. * [X] Call with V&C
-10. * [X] Document How to Verify, Like https://sparrowwallet.com/download/: curl http://github.com/christophera.gpg | gpg --import
-11. * [X] Edit New R/R Video
-12. * [X] Edit Out Lags
