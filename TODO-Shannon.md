@@ -4,6 +4,12 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Look at GitHub Page Main Page
+1. * [ ] Look at Blockchain Commons Main Page
+1. * [ ] Look at WWW Main Page
+1. * [ ] Look at Sponsors Main Page
+1. * [ ] Pull Automated Listing of Sponsors That Doesn't Work
+1. * [ ] Include Names & Pictures of Notable Sponsors & More
 1. * [ ] Add discussion of tradeoff to bc-shamir repo from security review (U)
 1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
    * [ ] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
