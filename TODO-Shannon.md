@@ -15,6 +15,10 @@ _Web/Repo Tasks (Small):_
 1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 1. * [ ] Review & Update C's LinkedIn Profile
 
+_BTCPay:_
+
+1. * [ ] Enable Lightning
+
 _SmartCustody:_
 
 1. * [ ] Recovery of Multisigs Standards
