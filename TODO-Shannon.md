@@ -17,7 +17,8 @@ _Web/Repo Tasks (Small):_
 
 _BTCPay:_
 
-1. * [ ] Enable Lightning
+1. * [ ] Investigate Lightning
+1. * [ ] Enable Lightning (low-priority)
 
 _SmartCustody:_
 
