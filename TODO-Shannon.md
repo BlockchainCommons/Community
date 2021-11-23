@@ -29,6 +29,8 @@ _SmartCustody:_
 
 _Possible Grants:_
 
+1. * [ ] Write hRF Report
+2. * [ ] Suggest a Few new HRF Projects in 2-5 paragraphs (interns, privacy)
 3. * [ ] HRF. Possible Projects
    * [ ] How to use Cypherpunk Pay
    * [ ] New Article on Intersection of Pseudonymity for Doing Secure Software Development?
