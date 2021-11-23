@@ -29,7 +29,6 @@ _SmartCustody:_
 
 _Possible Grants:_
 
-1. * [ ] Fill in Open Sats for Victoria: Intern [U3]
 3. * [ ] HRF. Possible Projects
    * [ ] How to use Cypherpunk Pay
    * [ ] New Article on Intersection of Pseudonymity for Doing Secure Software Development?
@@ -281,6 +280,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Fill in Open Sats for Victoria: Intern [U3]
 1. * [X] Updated BTCpay
 1. * [X] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0) [U6]
 1. * [X] Tweetstorm (increases access to educate people in El Salvador, etc) (thanks to interns, which means HRF too)
