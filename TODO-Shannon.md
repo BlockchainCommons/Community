@@ -15,6 +15,11 @@ _Web/Repo Tasks (Small):_
 1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 1. * [ ] Review & Update C's LinkedIn Profile
 
+_#SC:_
+
+1. * [ ] Contact FD about hardware for #SC/URs (U3)
+1. * [ ] Contact L.L. about hardware for #SC/URs (U4)
+
 _BTCPay:_
 
 1. * [ ] Investigate Lightning
@@ -22,6 +27,7 @@ _BTCPay:_
 
 _SmartCustody:_
 
+1. * [ ] Update #SC with New Content with GitHub: Roadmap, White Papers [KISS] (U)
 1. * [ ] Recovery of Multisigs Standards
    * [ ] Need Standards
    * [ ] Storing Metadata
@@ -30,9 +36,13 @@ _SmartCustody:_
 
 _Possible Grants:_
 
-1. * [ ] Write hRF Report
-2. * [ ] Suggest a Few new HRF Projects in 2-5 paragraphs (interns, privacy)
+1. * [ ] Write hRF Report (U1)
+2. * [ ] Suggest a Few new HRF Projects in 2-5 paragraphs (interns, privacy) (U2)
 3. * [ ] HRF. Possible Projects
+   * [ ] Being Able to Accept Money
+      * Censorship Resistance / Protecting Clients
+      * Scripts
+      * How to Spend Them
    * [ ] How to use Cypherpunk Pay
    * [ ] New Article on Intersection of Pseudonymity for Doing Secure Software Development?
    * [ ] How to Protect Yourselves, Minimally
@@ -45,7 +55,6 @@ _CryptoRequest:_
  
 _Gordian Server:_ 
 
-1. * [ ] Release GS 1.0.1 [U5]
 1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
 1. * [ ] Incorporate RPC PR (pending)
 1. * [ ] Incorporate Crash PR (pending)
@@ -59,7 +68,7 @@ _Learning Bitcoin:_
 
 _Secure Development_
  
-1. * [ ] Line edit Pseudonymity Guide, one section at a time. (U)
+1. * [ ] Line edit Pseudonymity Guide, one section at a time. (U: Maybe Wednesday)
    * [ ] Verify section by section that there isn't work that he's planning
 1. * [ ] Make sure Main README says how to run scripts
 1. * [ ] Do We Want to talk about Guide First?
@@ -100,6 +109,7 @@ _Standup Scripts:_
 
 _Seed Tool:_
 
+1. * [ ] Document New Signing Responses (after Thanksgiving)
 1. * [ ] Differentiate between Release & Developmental Releases
 1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
 1. * [ ] Write Tweetstorm to go with Video
@@ -283,6 +293,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Release GS 1.0.1 [U5]
 1. * [X] Fill in Open Sats for Victoria: Intern [U3]
 1. * [X] Updated BTCpay
 1. * [X] Announcement to Bitcoin Dev List (v2++, in two translations, great strides in reaching out to more countries, quick review, planning for 3.0 [taproot/schnorr]; here's roadmap; what are we missing?; a pathway to developers for broader bitcoin ecosystem; most of our international interns got their start with course and many have since found employment in field; more properly educated people makes it easier for big transitions in the future, mention seminars (answer questions, create issues for 3.0) [U6]
