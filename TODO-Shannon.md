@@ -8,7 +8,6 @@ _Web/Repo Tasks (Small):_
 1. * [ ] Look at Blockchain Commons Main Page
 1. * [ ] Look at WWW Main Page
 1. * [ ] Look at Sponsors Main Page
-1. * [ ] Pull Automated Listing of Sponsors That Doesn't Work
 1. * [ ] Include Names & Pictures of Notable Sponsors & More
 1. * [ ] Add discussion of tradeoff to bc-shamir repo from security review (U)
 1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
@@ -95,8 +94,6 @@ _Web/Repo Tasks (Large):_
 _Community/Patron Tasks:_
 
 1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
-1. * [ ] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
-1. * [ ] Fix dark background of sponsors page
 1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
 
 _Standup Scripts:_
@@ -289,6 +286,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
+1. * [X] Fix dark background of sponsors page
+1. * [X] Pull Automated Listing of Sponsors That Doesn't Work
 1. * [X] Write hRF Report (U1)
 2. * [X] Suggest a Few new HRF Projects in 2-5 paragraphs (interns, privacy) (U2)
 3. * [X] HRF. Possible Projects
