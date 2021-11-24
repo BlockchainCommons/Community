@@ -42,16 +42,6 @@ _SmartCustody:_
 
 _Possible Grants:_
 
-1. * [ ] Write hRF Report (U1)
-2. * [ ] Suggest a Few new HRF Projects in 2-5 paragraphs (interns, privacy) (U2)
-3. * [ ] HRF. Possible Projects
-   * [ ] Being Able to Accept Money
-      * Censorship Resistance / Protecting Clients
-      * Scripts
-      * How to Spend Them
-   * [ ] How to use Cypherpunk Pay
-   * [ ] New Article on Intersection of Pseudonymity for Doing Secure Software Development?
-   * [ ] How to Protect Yourselves, Minimally
 4. * [ ] Ethereum / NFTs
 5. * [ ] Community Membership / Collaboration
  
@@ -299,6 +289,16 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write hRF Report (U1)
+2. * [X] Suggest a Few new HRF Projects in 2-5 paragraphs (interns, privacy) (U2)
+3. * [X] HRF. Possible Projects
+   * [X] Being Able to Accept Money
+      * Censorship Resistance / Protecting Clients
+      * Scripts
+      * How to Spend Them
+   * [X] How to use Cypherpunk Pay
+   * [X] New Article on Intersection of Pseudonymity for Doing Secure Software Development?
+   * [X] How to Protect Yourselves, Minimally
 1. * [X] Release GS 1.0.1 [U5]
 1. * [X] Fill in Open Sats for Victoria: Intern [U3]
 1. * [X] Updated BTCpay
