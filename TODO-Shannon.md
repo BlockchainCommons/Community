@@ -8,7 +8,6 @@ _Web/Repo Tasks (Small):_
 1. * [ ] Look at Blockchain Commons Main Page
 1. * [ ] Look at WWW Main Page
 1. * [ ] Look at Sponsors Main Page
-1. * [ ] Include Names & Pictures of Notable Sponsors & More
 1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
    * [ ] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
 1. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
@@ -285,6 +284,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Include Names & Pictures of Notable Sponsors & More
 1. * [X] Add discussion of tradeoff to bc-shamir repo from security review (U)
 1. * [X] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
 1. * [X] Fix dark background of sponsors page
