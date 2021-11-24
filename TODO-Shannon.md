@@ -4,7 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Look at GitHub Page Main Page
 1. * [ ] Look at Blockchain Commons Main Page
 1. * [ ] Look at WWW Main Page
 1. * [ ] Look at Sponsors Main Page
@@ -284,6 +283,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Look at GitHub Page Main Page
 1. * [X] Include Names & Pictures of Notable Sponsors & More
 1. * [X] Add discussion of tradeoff to bc-shamir repo from security review (U)
 1. * [X] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
