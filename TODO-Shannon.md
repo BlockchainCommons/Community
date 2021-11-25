@@ -4,18 +4,17 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Look at Blockchain Commons Main Page
-1. * [ ] Look at WWW Main Page
-1. * [ ] Look at Sponsors Main Page
-1. * [ ] Get Strategy/Tactics onto web site (BY DECEMBER)
-   * [ ] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
-1. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
-1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
-1. * [ ] Coordinate W's Tech Excerpts (from big video)
-1. * [ ] Added newest testimony (Sign, email)
-1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
-1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
-1. * [ ] Review & Update C's LinkedIn Profile
+1. * [ ] Make Mission Statement Larger on Main Web Page
+1. * [ ] Released Updated Home Page 
+4. * [ ] Look at WWW Main Page
+5. * [ ] Look at Sponsors Main Page
+7. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
+8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
+9. * [ ] Coordinate W's Tech Excerpts (from big video)
+10. * [ ] Added newest testimony (Sign, email)
+11. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
+12. * [ ] Review & Update https://github.com/BlockchainCommons/Community
+13. * [ ] Review & Update C's LinkedIn Profile
 
 _#SC:_
 
@@ -283,6 +282,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+6. * [X] Get Strategy/Tactics onto web site (BY DECEMBER)
+   * [X] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
+1. * [X] Look at Blockchain Commons Main Page
 1. * [X] Look at GitHub Page Main Page
 1. * [X] Include Names & Pictures of Notable Sponsors & More
 1. * [X] Add discussion of tradeoff to bc-shamir repo from security review (U)
