@@ -5,7 +5,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _Web/Repo Tasks (Small):_
 
 1. * [ ] Released Updated Home Page 
-7. * [ ] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
 8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 9. * [ ] Coordinate W's Tech Excerpts (from big video)
 10. * [ ] Added newest testimony (Sign, email)
@@ -279,6 +278,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
 1. * [X] Make Mission Statement Larger on Main Web Page
 5. * [X] Look at Sponsors Main Page
 1. * [X] Figure out mission statement
