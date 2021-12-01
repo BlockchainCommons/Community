@@ -19,7 +19,8 @@ _BTCPay:_
 _SmartCustody:_
 
 1. * [ ] Update #SC WEB PAGE with New Content with GitHub: Roadmap, White Papers [KISS] (U)
-1. * [ ] Recovery of Multisigs Standards
+2. * [ ] Fix Twitter Images for #SC
+3. * [ ] Recovery of Multisigs Standards
    * [ ] Need Standards
    * [ ] Storing Metadata
    * [ ] Working with Tap Root
