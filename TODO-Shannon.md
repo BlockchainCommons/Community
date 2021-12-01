@@ -14,6 +14,7 @@ _Lifehash_
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Release Re-REvised BC Home Page
 8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 9. * [ ] Coordinate W's Tech Excerpts (from big video)
 10. * [ ] Added newest testimony (Sign, email)
@@ -28,8 +29,6 @@ _BTCPay:_
 
 _SmartCustody:_
 
-1. * [ ] Update #SC WEB PAGE with New Content with GitHub: Roadmap, White Papers [KISS] (U)
-2. * [ ] Fix Twitter Images for #SC
 3. * [ ] Recovery of Multisigs Standards
    * [ ] Need Standards
    * [ ] Storing Metadata
@@ -278,6 +277,10 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Re-revise BC Home Page
+1. * [X] Do Security Updates for #SC Page
+1. * [X] Update #SC WEB PAGE with New Content with GitHub: Roadmap, White Papers [KISS] (U)
+2. * [X] Fix Twitter Images for #SC
 1. * [X] Get Vulnerability Disclosure into own repos
 1. * [X] Incorporate Crash PR (pending)
 1. * [X] Contact FD about hardware for #SC/URs (U3)
