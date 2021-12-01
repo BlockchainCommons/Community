@@ -11,11 +11,6 @@ _Web/Repo Tasks (Small):_
 12. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 13. * [ ] Review & Update C's LinkedIn Profile
 
-_#SC:_
-
-1. * [ ] Contact FD about hardware for #SC/URs (U3)
-1. * [ ] Contact L.L. about hardware for #SC/URs (U4)
-
 _BTCPay:_
 
 1. * [ ] Investigate Lightning
@@ -277,6 +272,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Contact FD about hardware for #SC/URs (U3)
+1. * [X] Contact L.L. about hardware for #SC/URs (U4)
 1. * [X] Create default image solution for web pages
 1. * [X] Released Updated Home Page 
 1. * [X] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
