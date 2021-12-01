@@ -2,6 +2,10 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Yearly:_
+
+1. Write Yearly
+
 _Lifehash_
 
 1. * [ ] ARTICLE: Write about Lifehash? (How to use it? Paths for development? Why?)
@@ -117,7 +121,6 @@ _Writing Tasks:_
 1. * [ ] Write about Object Identity BLock (OIB)
 1. * [ ] Why Are Web Assembly & Rust Strategy Important & What Are Those Strategies?
 1. * [ ] Improve Docs on Signing CLA
-1. * [ ] Yearly Report: How Are We Succeeding at Milestones (DECEMBER) (U)
 1. * [ ] Q4 Report (DECEMBER)
 1. * [ ] Write about SSKR for Identity Developers in W3C-CCG: keys in browsers, don't necessarily use BIP39
 1. * [ ] Write About Autonomy Chart
@@ -277,6 +280,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Outlined Yearly Report
 1. * [X] Re-revise BC Home Page
 1. * [X] Do Security Updates for #SC Page
 1. * [X] Update #SC WEB PAGE with New Content with GitHub: Roadmap, White Papers [KISS] (U)
