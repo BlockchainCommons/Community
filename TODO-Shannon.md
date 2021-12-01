@@ -2,13 +2,23 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Lifehash_
+
+1. * [ ] ARTICLE: Write about Lifehash? (How to use it? Paths for development? Why?)
+   * lifehash.info
+   * Blockies exist
+   * We think this is better: detail, work with black & white, low-resolution screen
+   * Compare against airgaps
+   * Did I get what I thought I did
+2. Tweetstorm
+
 _Web/Repo Tasks (Small):_
 
 8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 9. * [ ] Coordinate W's Tech Excerpts (from big video)
 10. * [ ] Added newest testimony (Sign, email)
-11. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
 12. * [ ] Review & Update https://github.com/BlockchainCommons/Community
+11. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
 13. * [ ] Review & Update C's LinkedIn Profile
 
 _BTCPay:_
@@ -33,13 +43,12 @@ _Possible Grants:_
  
 _CryptoRequest:_
 
-1. * [ ] Release CryptoReQuest Article (when ready)
+1. * [ ] Release CryptoReQuest Article (start of December)
  
 _Gordian Server:_ 
 
 1. * [ ] Put Gordian Server in LBTCftCL (requires PATH)
 1. * [ ] Incorporate RPC PR (pending)
-1. * [ ] Incorporate Crash PR (pending)
 
 _Learning Bitcoin:_
 
@@ -67,7 +76,6 @@ _Repo Maintenance Tasks:_
 1. * [ ] Change Seedtool to Seed Tool throughout repos
 1. * [ ] Make community logo work in GitHub dark mode
 1. * [ ] See if We Should Have Vulnerability Disclosure Info in our Repos, Per https://openssf.org/blog/2021/09/27/announcing-the-openssf-vulnerability-disclosure-wg-guide-to-disclosure-for-oss-projects/
-1. * [ ] Get Vulnerability Disclosure into own repos
 1. * [ ] Do we want to have a blockchain commons shared GPG key?
 1. * [ ] Archive vs Update Old Projects Decisions?
    * [ ] Itemize Them
@@ -76,12 +84,10 @@ _Repo Maintenance Tasks:_
 _Web/Repo Tasks (Large):_
 
 1. * [ ] Design UniversalResources.info
-1. * [ ] Do something with lifehash.info
 
 _Community/Patron Tasks:_
 
 1. * [ ] Add to Airgapped README.md links for UR overview and other topics, repos, and important discussions, that might be needed by a newly arrived airgapped community person (Issue [#66](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/issues/66))
-1. * [ ] Review the 6 pinned top level repos to see if someone arriving fresh has what they need to know:
 
 _Standup Scripts:_
 
@@ -111,9 +117,8 @@ _Writing Tasks:_
 
 1. * [ ] Write about Object Identity BLock (OIB)
 1. * [ ] Why Are Web Assembly & Rust Strategy Important & What Are Those Strategies?
-1. * [ ] Write about Lifehash? (How to use it? Paths for development? Why?)
 1. * [ ] Improve Docs on Signing CLA
-1. * [ ] Yearly Report: How Are We Succeeding at Milestones (DECEMBER)
+1. * [ ] Yearly Report: How Are We Succeeding at Milestones (DECEMBER) (U)
 1. * [ ] Q4 Report (DECEMBER)
 1. * [ ] Write about SSKR for Identity Developers in W3C-CCG: keys in browsers, don't necessarily use BIP39
 1. * [ ] Write About Autonomy Chart
@@ -273,6 +278,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Get Vulnerability Disclosure into own repos
+1. * [X] Incorporate Crash PR (pending)
 1. * [X] Contact FD about hardware for #SC/URs (U3)
 1. * [X] Contact L.L. about hardware for #SC/URs (U4)
 1. * [X] Create default image solution for web pages
