@@ -10,6 +10,8 @@ _Lifehash_
 
 1. * [ ] Release LifeHash article (U)
 2. * [ ] Write LifeHash.info repo as centrl repo (U)
+3. * [ ] Write other scenarios for LifeHash repo (U)
+1. * [ ] Write CCG Letter (U)
 
 _Web/Repo Tasks (Small):_
 
@@ -37,7 +39,6 @@ _SmartCustody:_
 
 _Possible Grants:_
 
-1. * [ ] Write CCG Letter (U)
 4. * [ ] Ethereum / NFTs
 5. * [ ] Community Membership / Collaboration
  
