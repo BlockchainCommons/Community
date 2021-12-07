@@ -4,7 +4,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Yearly:_
 
-1. Write Yearly (U)
+1. * [ ] Write Yearly (U)
 
 _Lifehash_
 
