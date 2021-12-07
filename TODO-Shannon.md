@@ -4,17 +4,12 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Yearly:_
 
-1. Write Yearly
+1. Write Yearly (U)
 
 _Lifehash_
 
-1. * [ ] ARTICLE: Write about Lifehash? (How to use it? Paths for development? Why?)
-   * lifehash.info
-   * Blockies exist
-   * We think this is better: detail, work with black & white, low-resolution screen
-   * Compare against airgaps
-   * Did I get what I thought I did
-2. Tweetstorm
+1. * [ ] Release LifeHash article (U)
+2. * [ ] Write LifeHash.info repo as centrl repo (U)
 
 _Web/Repo Tasks (Small):_
 
@@ -41,6 +36,7 @@ _SmartCustody:_
 
 _Possible Grants:_
 
+1. * [ ] Write CCG Letter (U)
 4. * [ ] Ethereum / NFTs
 5. * [ ] Community Membership / Collaboration
  
@@ -280,6 +276,13 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] ARTICLE: Write about Lifehash? (How to use it? Paths for development? Why?)
+   * lifehash.info
+   * Blockies exist
+   * We think this is better: detail, work with black & white, low-resolution screen
+   * Compare against airgaps
+   * Did I get what I thought I did
+1. * [X] LifeHash Tweetstorm
 1. * [X] Outlined Yearly Report
 1. * [X] Re-revise BC Home Page
 1. * [X] Do Security Updates for #SC Page
@@ -290,20 +293,3 @@ _Gordian Wallet:_
 1. * [X] Contact FD about hardware for #SC/URs (U3)
 1. * [X] Contact L.L. about hardware for #SC/URs (U4)
 1. * [X] Create default image solution for web pages
-1. * [X] Released Updated Home Page 
-1. * [X] Why isn't "image" directive for Twitter cards working on BC blog posts? (U)
-1. * [X] Make Mission Statement Larger on Main Web Page
-5. * [X] Look at Sponsors Main Page
-1. * [X] Figure out mission statement
-1. * [X] Get Strategy/Tactics onto web site (BY DECEMBER)
-   * [X] Link Strategy/Tactics to Projects (Projects Page) (BY DECEMBER)
-1. * [X] Look at Blockchain Commons Main Page
-1. * [X] Look at GitHub Page Main Page
-1. * [X] Include Names & Pictures of Notable Sponsors & More
-1. * [X] Add discussion of tradeoff to bc-shamir repo from security review (U)
-1. * [X] If Sponsors list isn't fixed, remove it from sponsors page (September 8?)
-1. * [X] Fix dark background of sponsors page
-1. * [X] Pull Automated Listing of Sponsors That Doesn't Work
-1. * [X] Write hRF Report (U1)
-1. * [X] Suggest a Few new HRF Projects in 2-5 paragraphs (interns, privacy) (U2)
-
