@@ -8,7 +8,6 @@ _Yearly:_
 
 _Lifehash_
 
-1. * [ ] Release LifeHash Repo
 1. * [ ] Link Articles in LifeHash Repo to Crypto Commons Repo
 1. * [ ] Add bc-lifehash to Crypto Commons Repo
 
@@ -277,6 +276,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Release LifeHash Repo
 3. * [X] Write CCG Letter (U)
 1. * [X] Release LifeHash article (U)
 2. * [X] Write LifeHash.info repo as centrl repo (U)
