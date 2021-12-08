@@ -8,10 +8,10 @@ _Yearly:_
 
 _Lifehash_
 
-1. * [ ] Release LifeHash article (U)
-2. * [ ] Write LifeHash.info repo as centrl repo (U)
-3. * [ ] Write other scenarios for LifeHash repo (U)
-1. * [ ] Write CCG Letter (U)
+1. * [ ] Release LifeHash Repo
+1. * [ ] Link Articles in LifeHash Repo to Crypto Commons Repo
+1. * [ ] Add bc-lifehash to Crypto Commons Repo
+3. * [ ] Write CCG Letter (U)
 
 _Web/Repo Tasks (Small):_
 
@@ -278,6 +278,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Release LifeHash article (U)
+2. * [X] Write LifeHash.info repo as centrl repo (U)
+3. * [X] Write other scenarios for LifeHash repo (U)
 1. * [X] ARTICLE: Write about Lifehash? (How to use it? Paths for development? Why?)
    * lifehash.info
    * Blockies exist
