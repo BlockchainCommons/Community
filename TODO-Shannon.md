@@ -4,7 +4,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Yearly:_
 
-1. * [ ] Write Yearly (U)
+1. * [ ] Revise Yearly
 
 _Lifehash_
 
@@ -276,6 +276,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write Yearly (U)
 1. * [X] Release LifeHash Repo
 3. * [X] Write CCG Letter (U)
 1. * [X] Release LifeHash article (U)
