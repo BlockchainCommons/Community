@@ -13,7 +13,6 @@ _Lifehash_
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Redo Tags on www article
 1. * [ ] Release Re-REvised BC Home Page
 8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 9. * [ ] Coordinate W's Tech Excerpts (from big video)
@@ -276,6 +275,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Redo Tags on www article
 1. * [X] Write Yearly (U)
 1. * [X] Release LifeHash Repo
 3. * [X] Write CCG Letter (U)
@@ -290,12 +290,3 @@ _Gordian Wallet:_
    * Did I get what I thought I did
 1. * [X] LifeHash Tweetstorm
 1. * [X] Outlined Yearly Report
-1. * [X] Re-revise BC Home Page
-1. * [X] Do Security Updates for #SC Page
-1. * [X] Update #SC WEB PAGE with New Content with GitHub: Roadmap, White Papers [KISS] (U)
-2. * [X] Fix Twitter Images for #SC
-1. * [X] Get Vulnerability Disclosure into own repos
-1. * [X] Incorporate Crash PR (pending)
-1. * [X] Contact FD about hardware for #SC/URs (U3)
-1. * [X] Contact L.L. about hardware for #SC/URs (U4)
-1. * [X] Create default image solution for web pages
