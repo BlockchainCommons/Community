@@ -14,7 +14,8 @@ _Lifehash_
 _Web/Repo Tasks (Small):_
 
 1. * [ ] Clean Out HackMD
-1. * [ ] Release Re-REvised BC Home Page
+2. * [ ] Flag Unpublished in HackMD
+3. * [ ] Release Re-REvised BC Home Page
 8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 9. * [ ] Coordinate W's Tech Excerpts (from big video)
 10. * [ ] Added newest testimony (Sign, email)
