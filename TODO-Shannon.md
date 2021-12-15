@@ -30,6 +30,7 @@ _BTCPay:_
 
 _SmartCustody:_
 
+1. * [ ] Write about Defining/Creating Adversaries
 3. * [ ] Recovery of Multisigs Standards
    * [ ] Need Standards
    * [ ] Storing Metadata
