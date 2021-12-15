@@ -2,6 +2,24 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Seed Tool:_
+
+1. * [ ] Document New Signing Responses for 1.3
+1. * [ ] Test Out Sparrow / ST Interaction
+   * [ ] Create a Multisig on Sparrow with ST Key
+   * [ ] Send Funds to Multisig
+   * [ ] Create a PSBT for Multisig
+   * [ ] Document It All
+   * [ ] Offer any Suggestions fot Sparrow Integration of UR
+3. * [ ] Differentiate between Release & Developmental Releases
+4. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+5. * [ ] Write Tweetstorm to go with Video
+6. * [ ] Talk with W. about repo naming conventions
+7. * [ ] Test Bare-PSBT version (pending)
+8. * [ ] Document Bare-PSBT version (pending)
+9. * [ ] Test WalletConnect version (pending)
+10. * [ ] Document WalletConnect in Guide (pending)
+
 _Yearly:_
 
 1. * [ ] Revise Yearly
@@ -94,17 +112,6 @@ _Standup Scripts:_
 
 1. * [ ] Try to get j's better scripting back on track
 
-_Seed Tool:_
-
-1. * [ ] Document New Signing Responses (after Thanksgiving)
-1. * [ ] Differentiate between Release & Developmental Releases
-1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-1. * [ ] Write Tweetstorm to go with Video
-1. * [ ] Talk with W. about repo naming conventions
-1. * [ ] Test Bare-PSBT version (pending)
-1. * [ ] Document Bare-PSBT version (pending)
-1. * [ ] Test WalletConnect version (pending)
-1. * [ ] Document WalletConnect in Guide (pending)
 
 _Overview:_
  
