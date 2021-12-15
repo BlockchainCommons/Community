@@ -115,6 +115,7 @@ _Overview:_
 
 _Writing Tasks:_
 
+1. * [ ] Write About Writing Use Cases
 1. * [ ] Write about Object Identity BLock (OIB)
 1. * [ ] Why Are Web Assembly & Rust Strategy Important & What Are Those Strategies?
 1. * [ ] Improve Docs on Signing CLA
