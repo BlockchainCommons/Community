@@ -2,15 +2,15 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Writing:_
+
+1. * [ ] Write Christmas Stuff
+1. * [ ] Comment on H's Q&A
+
 _Seed Tool:_
 
-1. * [ ] Document New Signing Responses for 1.3
-1. * [ ] Test Out Sparrow / ST Interaction
-   * [ ] Create a Multisig on Sparrow with ST Key
-   * [ ] Send Funds to Multisig
-   * [ ] Create a PSBT for Multisig
-   * [ ] Document It All
-   * [ ] Offer any Suggestions fot Sparrow Integration of UR
+1. * [ ] Test with Foundation Devices
+2. * [ ] Test with Keystone
 3. * [ ] Differentiate between Release & Developmental Releases
 4. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
 5. * [ ] Write Tweetstorm to go with Video
@@ -286,6 +286,13 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Document New Signing Responses for 1.3
+1. * [X] Test Out Sparrow / ST Interaction
+   * [X] Create a Multisig on Sparrow with ST Key
+   * [X] Send Funds to Multisig
+   * [X] Create a PSBT for Multisig
+   * [X] Document It All
+   * [X] Offer any Suggestions fot Sparrow Integration of UR
 1. * [X] Redo Tags on www article
 1. * [X] Write Yearly (U)
 1. * [X] Release LifeHash Repo
