@@ -4,21 +4,23 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-1. * [ ] Write Christmas Stuff
-1. * [ ] Comment on H's Q&A
+1. * [ ] Write Christmas Stuff (Tuesday)
+1. * [ ] Comment on H's Q&A (Thursday)
 
 _Seed Tool:_
 
-1. * [ ] Test with Foundation Devices
-2. * [ ] Test with Keystone
-3. * [ ] Differentiate between Release & Developmental Releases
-4. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-5. * [ ] Write Tweetstorm to go with Video
-6. * [ ] Talk with W. about repo naming conventions
-7. * [ ] Test Bare-PSBT version (pending)
-8. * [ ] Document Bare-PSBT version (pending)
-9. * [ ] Test WalletConnect version (pending)
-10. * [ ] Document WalletConnect in Guide (pending)
+1. * [ ] Tag Release
+2. * [ ] Send Out Crypto-Request Article
+3. * [ ] Test with Foundation Devices
+4. * [ ] Test with Keystone
+5. * [ ] Differentiate between Release & Developmental Releases
+6. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+7. * [ ] Write Tweetstorm to go with Video
+8. * [ ] Talk with W. about repo naming conventions
+9. * [ ] Test Bare-PSBT version (pending)
+10. * [ ] Document Bare-PSBT version (pending)
+11. * [ ] Test WalletConnect version (pending)
+12. * [ ] Document WalletConnect in Guide (pending)
 
 _Yearly:_
 
