@@ -4,8 +4,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-1. * [ ] Write Christmas Stuff (Tuesday)
-1. * [ ] Comment on H's Q&A (Thursday)
+1. * [ ] More Work on H's Q&A
 
 _Seed Tool:_
 
@@ -288,6 +287,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write Christmas Stuff (Tuesday)
+1. * [X] Comment on H's Q&A (Thursday)
 1. * [X] Document New Signing Responses for 1.3
 1. * [X] Test Out Sparrow / ST Interaction
    * [X] Create a Multisig on Sparrow with ST Key
@@ -308,5 +309,3 @@ _Gordian Wallet:_
    * We think this is better: detail, work with black & white, low-resolution screen
    * Compare against airgaps
    * Did I get what I thought I did
-1. * [X] LifeHash Tweetstorm
-1. * [X] Outlined Yearly Report
