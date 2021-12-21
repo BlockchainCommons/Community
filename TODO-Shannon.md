@@ -8,7 +8,6 @@ _Writing:_
 
 _Seed Tool:_
 
-1. * [ ] Tag Release
 2. * [ ] Send Out Crypto-Request Article
 3. * [ ] Test with Foundation Devices
 4. * [ ] Test with Keystone
@@ -16,8 +15,6 @@ _Seed Tool:_
 6. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
 7. * [ ] Write Tweetstorm to go with Video
 8. * [ ] Talk with W. about repo naming conventions
-9. * [ ] Test Bare-PSBT version (pending)
-10. * [ ] Document Bare-PSBT version (pending)
 11. * [ ] Test WalletConnect version (pending)
 12. * [ ] Document WalletConnect in Guide (pending)
 
@@ -287,6 +284,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+9. * [X] Test Bare-PSBT version of GST (pending)
+10. * [X] Document Bare-PSBT version of GST (pending)
+1. * [X] Tag Release
 1. * [X] Write Christmas Stuff (Tuesday)
 1. * [X] Comment on H's Q&A (Thursday)
 1. * [X] Document New Signing Responses for 1.3
