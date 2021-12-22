@@ -4,11 +4,12 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-1. * [ ] More Work on H's Q&A
+1. * [ ] More Work on H's Q&A [2022 #2]
+1. * [ ] Finalize Yearly Update [2022 #3]
 
 _Seed Tool:_
 
-2. * [ ] Send Out Crypto-Request Article
+1. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
 3. * [ ] Test with Foundation Devices
 4. * [ ] Test with Keystone
 5. * [ ] Differentiate between Release & Developmental Releases
@@ -284,6 +285,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+2. * [X] Send Out Crypto-Request Article
 9. * [X] Test Bare-PSBT version of GST (pending)
 10. * [X] Document Bare-PSBT version of GST (pending)
 1. * [X] Tag Release
