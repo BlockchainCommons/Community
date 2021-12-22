@@ -6,16 +6,20 @@ _Writing:_
 
 1. * [ ] More Work on H's Q&A [2022 #2]
 1. * [ ] Finalize Yearly Update [2022 #3]
+1. * [ ] Write Article or Tweets about Translations [2022]
+2. * [ ] Write Article or Website Update (Page?) to talk about Gordian Principals [2022]
 
 _Seed Tool:_
 
-1. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
-3. * [ ] Test with Foundation Devices
-4. * [ ] Test with Keystone
-5. * [ ] Differentiate between Release & Developmental Releases
-6. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-7. * [ ] Write Tweetstorm to go with Video
-8. * [ ] Talk with W. about repo naming conventions
+1. * [ ] Setup Discounts on GST on Satoshi Dates, or just early Jan [2022 #0: DO THIS FIRST THING on JANUARY 3, which is blockchain day]
+2. * [ ] Update Description of Seed Tool (PR?) [2022]
+3. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+4. * [ ] Test with Foundation Devices
+5. * [ ] Test with Keystone
+6. * [ ] Differentiate between Release & Developmental Releases
+7. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+8. * [ ] Write Tweetstorm to go with Video
+9. * [ ] Talk with W. about repo naming conventions
 11. * [ ] Test WalletConnect version (pending)
 12. * [ ] Document WalletConnect in Guide (pending)
 
