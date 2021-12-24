@@ -13,13 +13,14 @@ _Seed Tool:_
 
 1. * [ ] Setup Discounts on GST on Satoshi Dates, or just early Jan [2022 #0: DO THIS FIRST THING on JANUARY 3, which is blockchain day]
 2. * [ ] Update Description of Seed Tool (PR?) [2022]
-3. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
-4. * [ ] Test with Foundation Devices
-5. * [ ] Test with Keystone
-6. * [ ] Differentiate between Release & Developmental Releases
-7. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-8. * [ ] Write Tweetstorm to go with Video
-9. * [ ] Talk with W. about repo naming conventions
+3. * [ ] In those repos that mention Gordian Wallet, Seed Tool should be mentioned first and foremost, and possibly in a different section.
+4. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+5. * [ ] Test with Foundation Devices
+6. * [ ] Test with Keystone
+7. * [ ] Differentiate between Release & Developmental Releases
+8. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+9. * [ ] Write Tweetstorm to go with Video
+10. * [ ] Talk with W. about repo naming conventions
 11. * [ ] Test WalletConnect version (pending)
 12. * [ ] Document WalletConnect in Guide (pending)
 
