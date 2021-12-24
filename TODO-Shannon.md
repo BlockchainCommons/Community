@@ -34,6 +34,7 @@ _Lifehash_
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Update https://github.com/BlockchainCommons/Community/blob/master/standard-communications-text.md
 1. * [ ] Clean Out HackMD
 2. * [ ] Flag Unpublished in HackMD
 3. * [ ] Release Re-REvised BC Home Page
