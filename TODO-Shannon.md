@@ -47,6 +47,7 @@ _Web/Repo Tasks (Small):_
 
 _BTCPay:_
 
+1. * [ ] Move BTCPay to New Account (2022): 1 of 2
 1. * [ ] Investigate Lightning
 1. * [ ] Enable Lightning (low-priority)
 
