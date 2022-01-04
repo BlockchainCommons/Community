@@ -199,6 +199,10 @@ _Cosigner:_
 
 _Videos_
 
+_Jekyll Tasks_
+
+1. * [ ] Link Anchors for Headers on Web Pages
+
 ## Stale Tasks
 
 _Writing Tasks:_
