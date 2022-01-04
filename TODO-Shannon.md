@@ -14,8 +14,8 @@ _Seed Tool:_
 2. * [ ] Update Description of Seed Tool (PR?) [2022]
 3. * [ ] In those repos that mention Gordian Wallet, Seed Tool should be mentioned first and foremost, and possibly in a different section.
 4. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+6. * [ ] Test with Keystone (P***)
 5. * [ ] Test with Foundation Devices
-6. * [ ] Test with Keystone
 7. * [ ] Differentiate between Release & Developmental Releases
 8. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
 9. * [ ] Write Tweetstorm to go with Video
