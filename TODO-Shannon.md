@@ -11,7 +11,6 @@ _Writing:_
 
 _Seed Tool:_
 
-1. * [ ] Setup Discounts on GST on Satoshi Dates, or just early Jan [2022 #0: DO THIS FIRST THING on JANUARY 3, which is blockchain day]
 2. * [ ] Update Description of Seed Tool (PR?) [2022]
 3. * [ ] In those repos that mention Gordian Wallet, Seed Tool should be mentioned first and foremost, and possibly in a different section.
 4. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
@@ -291,6 +290,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Setup Discounts on GST on Satoshi Dates, or just early Jan [2022 #0: DO THIS FIRST THING on JANUARY 3, which is blockchain day]
 2. * [X] Send Out Crypto-Request Article
 9. * [X] Test Bare-PSBT version of GST (pending)
 10. * [X] Document Bare-PSBT version of GST (pending)
