@@ -9,7 +9,6 @@ _Writing:_
 
 _Seed Tool:_
 
-2. * [ ] Update Description of Seed Tool (PR?) [2022]
 4. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
 6. * [ ] Test with Keystone (P***)
 5. * [ ] Test with Foundation Devices
@@ -293,6 +292,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Update Description of Seed Tool (PR?) [2022]
 1. * [X] Responses for L. Questions [2022]
 2. * [X] Write Article or Website Update (Page?) to talk about Gordian Principals [2022]
 1. * [X] Remove Testflight Links [2022]
