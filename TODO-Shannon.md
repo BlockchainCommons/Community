@@ -7,6 +7,7 @@ _Writing:_
 1. * [ ] More Work on H's Q&A [2022 #2]
 1. * [ ] Write Article or Tweets about Translations [2022]
 2. * [ ] Write Article or Website Update (Page?) to talk about Gordian Principals [2022]
+3. * [ ] Canned Responses for L. Questions [2022]
 
 _Seed Tool:_
 
@@ -21,17 +22,9 @@ _Seed Tool:_
 11. * [ ] Test WalletConnect version (pending)
 12. * [ ] Document WalletConnect in Guide (pending)
 
-_Yearly:_
-
-1. * [ ] Revise Yearly
-
-_Lifehash_
-
-1. * [ ] Link Articles in LifeHash Repo to Crypto Commons Repo
-1. * [ ] Add bc-lifehash to Crypto Commons Repo
-
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Remove Testflight Links [2022]
 1. * [ ] Update https://github.com/BlockchainCommons/Community/blob/master/standard-communications-text.md
 1. * [ ] Clean Out HackMD
 2. * [ ] Flag Unpublished in HackMD
@@ -42,6 +35,16 @@ _Web/Repo Tasks (Small):_
 12. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 11. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
 13. * [ ] Review & Update C's LinkedIn Profile
+
+_Yearly:_
+
+1. * [ ] Revise Yearly
+
+_Lifehash_
+
+1. * [ ] Link Articles in LifeHash Repo to Crypto Commons Repo
+1. * [ ] Add bc-lifehash to Crypto Commons Repo
+
 
 _BTCPay:_
 
