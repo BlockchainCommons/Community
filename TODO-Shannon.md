@@ -24,7 +24,6 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
-1. * [ ] Remove Testflight Links [2022]
 1. * [ ] Update https://github.com/BlockchainCommons/Community/blob/master/standard-communications-text.md
 1. * [ ] Clean Out HackMD
 2. * [ ] Flag Unpublished in HackMD
@@ -296,6 +295,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Remove Testflight Links [2022]
 1. * [X] In those repos that mention Gordian Wallet, Seed Tool should be mentioned first and foremost, and possibly in a different section.
 1. * [X] Finalize Yearly Update [2022 #3]
 1. * [X] Setup Discounts on GST on Satoshi Dates, or just early Jan [2022 #0: DO THIS FIRST THING on JANUARY 3, which is blockchain day]
