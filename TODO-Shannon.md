@@ -6,6 +6,9 @@ _Writing:_
 
 1. * [ ] More Work on H's Q&A [2022 #2]
 1. * [ ] Write Article or Tweets about Translations [2022]
+1. * [ ] Talk About, Write Up Ethereum Support Plans [P]
+   * [ ] Crypto-envelope plans (Phase 1)
+   * [ ] Wallet Connect, Ethereum, VCs plans (Phase 2)
 
 _Seed Tool:_
 
@@ -22,7 +25,7 @@ _Seed Tool:_
 _Web/Repo Tasks (Small):_
 
 1. * [ ] Update https://github.com/BlockchainCommons/Community/blob/master/standard-communications-text.md
-1. * [ ] Clean Out HackMD
+1. * [ ] Clean Out HackMD (P***)
 2. * [ ] Flag Unpublished in HackMD
 3. * [ ] Release Re-REvised BC Home Page
 8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
@@ -31,6 +34,14 @@ _Web/Repo Tasks (Small):_
 12. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 11. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
 13. * [ ] Review & Update C's LinkedIn Profile
+
+_Admin:_
+
+1. * [ ] Get Access to Team Email
+1. * [ ] Get Access to Accounting Email
+2. * [ ] Get Access to Bank Account
+3. * [ ] Get Access to Credit Card
+4. * [ ] Get Access to Multisig
 
 _Yearly:_
 
