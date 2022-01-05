@@ -8,19 +8,20 @@ _Writing:_
 1. * [ ] Write Article or Tweets about Translations [2022]
 1. * [ ] Talk About, Write Up Ethereum Support Plans [P]
    * [ ] Crypto-envelope plans (Phase 1)
-   * [ ] Wallet Connect, Ethereum, VCs plans (Phase 2)
+   * [ ] Wallet Connect, Ethereum, Contracts, VCs plans (Phase 2)
+   * [ ] Implementation (Phase 3)
 
 _Seed Tool:_
 
-4. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
-6. * [ ] Test with Keystone (P***)
-5. * [ ] Test with Foundation Devices
-7. * [ ] Differentiate between Release & Developmental Releases
-8. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-9. * [ ] Write Tweetstorm to go with Video
-10. * [ ] Talk with W. about repo naming conventions
-11. * [ ] Test WalletConnect version (pending)
-12. * [ ] Document WalletConnect in Guide (pending)
+1. * [ ] Test with Keystone (P***)
+1. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+1. * [ ] Test with Foundation Devices
+1. * [ ] Differentiate between Release & Developmental Releases
+1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+1. * [ ] Write Tweetstorm to go with Video
+1. * [ ] Talk with W. about repo naming conventions
+1. * [ ] Test WalletConnect version (pending)
+1. * [ ] Document WalletConnect in Guide (pending)
 
 _Web/Repo Tasks (Small):_
 
