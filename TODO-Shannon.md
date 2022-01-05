@@ -6,7 +6,6 @@ _Writing:_
 
 1. * [ ] More Work on H's Q&A [2022 #2]
 1. * [ ] Write Article or Tweets about Translations [2022]
-3. * [ ] Canned Responses for L. Questions [2022]
 
 _Seed Tool:_
 
@@ -294,6 +293,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Responses for L. Questions [2022]
 2. * [X] Write Article or Website Update (Page?) to talk about Gordian Principals [2022]
 1. * [X] Remove Testflight Links [2022]
 1. * [X] In those repos that mention Gordian Wallet, Seed Tool should be mentioned first and foremost, and possibly in a different section.
