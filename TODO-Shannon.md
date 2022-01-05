@@ -5,7 +5,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 _Writing:_
 
 1. * [ ] More Work on H's Q&A [2022 #2]
-1. * [ ] Finalize Yearly Update [2022 #3]
 1. * [ ] Write Article or Tweets about Translations [2022]
 2. * [ ] Write Article or Website Update (Page?) to talk about Gordian Principals [2022]
 
@@ -295,6 +294,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Finalize Yearly Update [2022 #3]
 1. * [X] Setup Discounts on GST on Satoshi Dates, or just early Jan [2022 #0: DO THIS FIRST THING on JANUARY 3, which is blockchain day]
 2. * [X] Send Out Crypto-Request Article
 9. * [X] Test Bare-PSBT version of GST (pending)
