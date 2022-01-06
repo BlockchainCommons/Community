@@ -4,7 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-1. * [ ] More Work on H's Q&A [2022 #2]
 1. * [ ] Write Article or Tweets about Translations [2022]
 1. * [ ] Talk About, Write Up Ethereum Support Plans [P]
    * [ ] Crypto-envelope plans (Phase 1)
@@ -304,6 +303,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] More Work on H's Q&A [2022 #2]
 1. * [X] Update Description of Seed Tool (PR?) [2022]
 1. * [X] Responses for L. Questions [2022]
 2. * [X] Write Article or Website Update (Page?) to talk about Gordian Principals [2022]
