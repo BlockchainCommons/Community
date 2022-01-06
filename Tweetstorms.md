@@ -97,3 +97,8 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 ## Other
 
 * *Codifying Best Practices* https://twitter.com/ChristopherA/status/1354879553059999744 (1/28/21)
+
+# Blockchain Mailing List Posts
+
+* 5/13/21: [Introductory Video on Blockchain Commons Tech Now Available](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/018927.html)
+
