@@ -9,9 +9,11 @@ _Writing:_
    * [ ] Crypto-envelope plans (Phase 1)
    * [ ] Wallet Connect, Ethereum, Contracts, VCs plans (Phase 2)
    * [ ] Implementation (Phase 3)
+1. * [ ] Further integration of Gordian Seed Tool 
 
 _Seed Tool:_
 
+1. * [ ] Possibly rewrite GST Description?
 1. * [ ] Test with Keystone (P***)
 1. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
 1. * [ ] Test with Foundation Devices
