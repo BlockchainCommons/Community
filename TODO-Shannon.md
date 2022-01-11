@@ -11,7 +11,8 @@ _Writing:_
    * [ ] Wallet Connect, Ethereum, Contracts, VCs plans (Phase 2)
    * [ ] Implementation (Phase 3)
 1. * [ ] Further integration of Gordian Seed Tool 
-2. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696
+2. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
+
 
 _Seed Tool:_
 
