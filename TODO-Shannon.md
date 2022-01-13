@@ -6,17 +6,11 @@ _Writing:_
 
 1. * [ ] Mention we're working with wallet partners for other sorts of crypto-request
 1. * [ ] Write Article or Tweets about Translations [2022]
-1. * [ ] Talk About, Write Up Ethereum Support Plans [P]
-   * [ ] Crypto-envelope plans (Phase 1)
-   * [ ] Wallet Connect, Ethereum, Contracts, VCs plans (Phase 2)
-   * [ ] Implementation (Phase 3)
 1. * [ ] Further integration of Gordian Seed Tool 
 2. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
 
-
 _Seed Tool:_
 
-1. * [ ] Possibly rewrite GST Description?
 1. * [ ] Test with Keystone (P***)
 1. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
 1. * [ ] Test with Foundation Devices
@@ -308,6 +302,11 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Possibly rewrite GST Description?
+1. * [X] Talk About, Write Up Ethereum Support Plans [P]
+   * [X] Crypto-envelope plans (Phase 1)
+   * [X] Wallet Connect, Ethereum, Contracts, VCs plans (Phase 2)
+   * [X] Implementation (Phase 3)
 1. * [X] More Work on H's Q&A [2022 #2]
 1. * [X] Update Description of Seed Tool (PR?) [2022]
 1. * [X] Responses for L. Questions [2022]
