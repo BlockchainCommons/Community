@@ -27,7 +27,6 @@ _Web/Repo Tasks (Small):_
 1. * [ ] Update https://github.com/BlockchainCommons/Community/blob/master/standard-communications-text.md
 1. * [ ] Clean Out HackMD (P***)
 2. * [ ] Flag Unpublished in HackMD
-3. * [ ] Release Re-REvised BC Home Page
 8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 9. * [ ] Coordinate W's Tech Excerpts (from big video)
 10. * [ ] Added newest testimony (Sign, email)
@@ -303,6 +302,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Release Re-REvised BC Home Page
 1. * [X] Mention we're working with wallet partners for other sorts of crypto-request
 1. * [X] Test with Foundation Devices
 1. * [X] Test with Keystone (P***)
@@ -322,26 +322,3 @@ _Gordian Wallet:_
 2. * [X] Send Out Crypto-Request Article
 9. * [X] Test Bare-PSBT version of GST (pending)
 10. * [X] Document Bare-PSBT version of GST (pending)
-1. * [X] Tag Release
-1. * [X] Write Christmas Stuff (Tuesday)
-1. * [X] Comment on H's Q&A (Thursday)
-1. * [X] Document New Signing Responses for 1.3
-1. * [X] Test Out Sparrow / ST Interaction
-   * [X] Create a Multisig on Sparrow with ST Key
-   * [X] Send Funds to Multisig
-   * [X] Create a PSBT for Multisig
-   * [X] Document It All
-   * [X] Offer any Suggestions fot Sparrow Integration of UR
-1. * [X] Redo Tags on www article
-1. * [X] Write Yearly (U)
-1. * [X] Release LifeHash Repo
-3. * [X] Write CCG Letter (U)
-1. * [X] Release LifeHash article (U)
-2. * [X] Write LifeHash.info repo as centrl repo (U)
-3. * [X] Write other scenarios for LifeHash repo (U)
-1. * [X] ARTICLE: Write about Lifehash? (How to use it? Paths for development? Why?)
-   * lifehash.info
-   * Blockies exist
-   * We think this is better: detail, work with black & white, low-resolution screen
-   * Compare against airgaps
-   * Did I get what I thought I did
