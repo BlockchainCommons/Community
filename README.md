@@ -12,7 +12,7 @@ The Blockchain Commons Community is a central location for discussion and inform
 1. **Demand:** Define and advocate a new techno-social contract of decentralized infrastructure, based on human dignity, respect for the individual, and mutual benefit for all contributors.
 1. **Peers:** Increase the demand for, and population of, people who understand the effective development, and use of, secure decentralized systems.
 
-See also [our current strategies](Strategies.md).
+See also [our current strategies](Strategies.md) and our [vision page](https://www.blockchaincommons.com/vision.html).
 
 ## More Information
 
@@ -36,7 +36,7 @@ The following servers are currently running Blockchain Commons services. If you 
       * Our secure server, currently used for BTCPay
    * Spotbit: 45.56.94.96
       * Our services server, currently used for Spotbit (http://h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion)
-   * Standupsh: 45.56.94.106
+   * Wallet: 45.56.94.106
       * ?. This may be our default full node for Gordian Wallet
    * Research-0: 45.56.94.175
       * Our main server for research projects
@@ -45,30 +45,25 @@ The following servers are currently running Blockchain Commons services. If you 
       
 ## Projects
 
-* Current Projects:
+See [Projects](https://www.blockchaincommons.com/projects.html) for our most comprehensive list.
+
+* Recent Projects:
   * [The Gordian system](https://github.com/BlockchainCommons/Gordian)
+     * [GordianSeedTool-iOS](https://github.com/BlockchainCommons/GordianSeedTool-iOS)
+     * [GordianQRTool-iOS](https://github.com/BlockchainCommons/GordianQRTool-iOS)
      * [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS)
-     * [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS)
-     * GordianSigner
-        * [Android](https://github.com/BlockchainCommons/GordianSigner-Android)
-        * [Catalyst](https://github.com/BlockchainCommons/GordianSigner-Catalyst)
-        * [macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)
+  * [LifeHash](https://github.com/BlockchainCommons/lifehash.info)
   * [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
-  * [LetheKit](https://github.com/BlockchainCommons/bc-lethekit)
-  * [#SmartCustody](https://github.com/BlockchainCommons/SmartCustodyBook)
-  * [Spotbit](https://github.com/BlockchainCommons/spotbit)
-  * [URKit](https://github.com/BlockchainCommons/URKit)
+  * [#SmartCustody](https://github.com/BlockchainCommons/SmartCustody)
+  * [Pseudonymity Guide](https://github.com/BlockchainCommons/Pseudonymity-Guide)
 * Projects under consideration:
-  * (TBW)
+  * Learning Bitcoin 3.0
+  * #SmartCustody 2.0
+  * Gordian Recovery
   * P & Q Bulletproofs Reference Implementation
   * Sidechain Security & Architecture Review
 
 If you are interested in supporting a specific blockchain FOSS (free and open-source software) project, feature, or bug bounty, or wish to support the Blockchain Commons or open infrastructure in general, please [become an ongoing sponsor](https://github.com/sponsors/BlockchainCommons) or if you prefer [make a donation to our BTCPay](https://btcpay.blockchaincommons.com/). We are investigating non-profit options (such as working with the Human Rights Founding) but we are not a charitable non-profit at this time, so any contributions are not individually tax-deductible; however, any contributions by businesses are tax-deductible as an expense. See https://github.com/sponsors/BlockchainCommons for details.
-
-## Learning Resources
-
-- [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) — The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.
-- [#SmartCustody](https://github.com/BlockchainCommons/SmartCustodyBook) — The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets
 
 ## Members
 
@@ -104,7 +99,7 @@ The Blockchain Commons maintains the following communication channels:
 
 - Shared Document Repositories (github): https://github.com/BlockchainCommons
 - Community Documents (github): https://github.com/BlockchainCommons/Community
-- Research Agenda (github): https://github.com/BlockchainCommons/ResearchAgenda
+- Research Papers (github): https://github.com/BlockchainCommons/Research
 - Twitter: https://twitter.com/BlockchainCmns
 - Forum/Mailing List: TBD
 
@@ -157,6 +152,8 @@ The Community is a project of [Blockchain Commons](https://www.blockchaincommons
 To financially support further development of `$projectname` and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
 
 ### Current Sustaining Patrons
+
+Please see our [Sponsors page](https://www.blockchaincommons.com/sponsors.html) for our best list of sustaining patrons. 
 
 ### Past Sustaining Patrons
 
