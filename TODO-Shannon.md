@@ -8,7 +8,6 @@ _Writing:_
 1. * [ ] Upgrade Passport Firmware
 1. * [ ] Finalize Keystone Article
 2. * [ ] Finalize Passport Article
-3. * [ ] Mention we're working with wallet partners for other sorts of crypto-request
 4. * [ ] Write Article or Tweets about Translations [2022]
 5. * [ ] Further integration of Gordian Seed Tool 
 6. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
@@ -304,6 +303,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Mention we're working with wallet partners for other sorts of crypto-request
 1. * [X] Test with Foundation Devices
 1. * [X] Test with Keystone (P***)
 1. * [X] Possibly rewrite GST Description?
