@@ -24,13 +24,13 @@ _Seed Tool:_
 
 _Web/Repo Tasks (Small):_
 
+1. * [ ] Update members on community page
 1. * [ ] Update https://github.com/BlockchainCommons/Community/blob/master/standard-communications-text.md
 1. * [ ] Clean Out HackMD (P***)
 2. * [ ] Flag Unpublished in HackMD
 8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
 9. * [ ] Coordinate W's Tech Excerpts (from big video)
 10. * [ ] Added newest testimony (Sign, email)
-12. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 11. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
 13. * [ ] Review & Update C's LinkedIn Profile
 
@@ -302,6 +302,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [ ] Review & Update https://github.com/BlockchainCommons/Community
 1. * [X] Release Re-REvised BC Home Page
 1. * [X] Mention we're working with wallet partners for other sorts of crypto-request
 1. * [X] Test with Foundation Devices
