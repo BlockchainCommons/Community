@@ -40,8 +40,8 @@ The following servers are currently running Blockchain Commons services. If you 
       * ?. This may be our default full node for Gordian Wallet
    * Research-0: 45.56.94.175
       * Our main server for research projects
-   * Ss-conf: 45.56.94.83
-      * A temporary research server, currently being used for esplora experimentation
+   * Esplora: 45.56.94.83
+      * Server for Esplora implementation
       
 ## Projects
 
