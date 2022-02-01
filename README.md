@@ -41,7 +41,7 @@ The following servers are currently running Blockchain Commons services. If you 
    * Research-0: 45.56.94.175
       * Our main server for research projects
    * Esplora: 45.56.94.83
-      * Server for Esplora implementation
+      * Server for Esplora implementation (http://pf4awrbzt3ohrtukpq6xx6y73gxqlnon4zh35ik7ald3kwfb5iedogad.onion/)
       
 ## Projects
 
