@@ -4,12 +4,14 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-1. * [ ] Finalize Keystone Article
-1. * [ ] Release KeystonE Article
-2. * [ ] Release Passport Article
-4. * [ ] Write Article or Tweets about Translations [2022]
-5. * [ ] Further integration of Gordian Seed Tool 
-6. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
+1. * [ ] Write Sparrow Article
+2. * [ ] Write Seed Tool ARticle
+3. * [ ] Finalize Keystone Article
+4. * [ ] Release KeystonE Article
+5. * [ ] Release Passport Article
+6. * [ ] Write Article or Tweets about Translations [2022]
+7. * [ ] Further integration of Gordian Seed Tool 
+8. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
 
 _Seed Tool:_
 
