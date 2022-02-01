@@ -4,6 +4,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
+1. * [ ] Write Multisig Article
 1. * [ ] Write Sparrow Article
 2. * [ ] Write Seed Tool ARticle
 3. * [ ] Finalize Keystone Article
