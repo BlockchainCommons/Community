@@ -4,7 +4,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-2. * [ ] Finalize Passport Article
+1. * [ ] Finalize Keystone Article
 1. * [ ] Release KeystonE Article
 2. * [ ] Release Passport Article
 4. * [ ] Write Article or Tweets about Translations [2022]
@@ -13,13 +13,15 @@ _Writing:_
 
 _Seed Tool:_
 
-1. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
-1. * [ ] Differentiate between Release & Developmental Releases
-1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-1. * [ ] Write Tweetstorm to go with Video
-1. * [ ] Talk with W. about repo naming conventions
-1. * [ ] Test WalletConnect version (pending)
-1. * [ ] Document WalletConnect in Guide (pending)
+1. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
+2. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
+3. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+4. * [ ] Differentiate between Release & Developmental Releases
+5. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+6. * [ ] Write Tweetstorm to go with Video
+7. * [ ] Talk with W. about repo naming conventions
+8. * [ ] Test WalletConnect version (pending)
+9. * [ ] Document WalletConnect in Guide (pending)
 
 _Web/Repo Tasks (Small):_
 
@@ -303,6 +305,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+2. * [X] Finalize Passport Article
 1. * [X] Upgrade Keystone Firmware
 1. * [X] Upgrade Passport Firmware
 1. * [X] Finalize Keystone Article
