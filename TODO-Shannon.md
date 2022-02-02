@@ -6,13 +6,12 @@ _Writing:_
 
 1. * [ ] Write Multisig Article
 1. * [ ] Write Sparrow Article
-2. * [ ] Write Seed Tool ARticle
-3. * [ ] Finalize Keystone Article
-4. * [ ] Release KeystonE Article
-5. * [ ] Release Passport Article
-6. * [ ] Write Article or Tweets about Translations [2022]
-7. * [ ] Further integration of Gordian Seed Tool 
-8. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
+3. * [ ] Update Keystone Article
+4. * [ ] Revise Seed Tool Article
+5. * [ ] Write Overview: what we've done, why, links to Principles, Adversaries, link to articles.
+8. * [ ] Write Article or Tweets about Translations [2022]
+9. * [ ] Further integration of Gordian Seed Tool 
+10. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
 
 _Seed Tool:_
 
@@ -308,6 +307,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+2. * [X] Write Seed Tool ARticle
 2. * [X] Finalize Passport Article
 1. * [X] Upgrade Keystone Firmware
 1. * [X] Upgrade Passport Firmware
