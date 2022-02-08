@@ -4,6 +4,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
+1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works
 1. * [ ] Write Multisig Article
 1. * [ ] Write Sparrow Article
 3. * [ ] Update Keystone Article
