@@ -18,8 +18,6 @@ _Writing:_
 
 _Seed Tool:_
 
-1. * [ ] Release 1.3.2 (Today)
-1. * [ ] Update Docs to Talk about Long-hold (Today)
 2. * [ ] Test out 1.3.3 for use with multisigs (Tomorrow)
    * [ ] Add explanatory text to Cover Page? (Tomorrow)
 4. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
@@ -314,6 +312,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Release 1.3.2 (Today)
+1. * [X] Update Docs to Talk about Long-hold (Today)
 2. * [X] Write Seed Tool ARticle
 2. * [X] Finalize Passport Article
 1. * [X] Upgrade Keystone Firmware
