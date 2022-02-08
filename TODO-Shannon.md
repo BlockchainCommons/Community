@@ -4,12 +4,14 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works
-1. * [ ] Write Multisig Article
-1. * [ ] Write Sparrow Article
-3. * [ ] Update Keystone Article
-4. * [ ] Revise Seed Tool Article
-5. * [ ] Write Overview: what we've done, why, links to Principles, Adversaries, link to articles, list adversaries in each document.
+1. * [ ] Letter to C.
+1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works 
+1. * [ ] Respond to SoB about Internships
+3. * [ ] Write Multisig Article
+4. * [ ] Write Sparrow Article
+5. * [ ] Update Keystone Article
+6. * [ ] Revise Seed Tool Article
+7. * [ ] Write Overview: what we've done, why, links to Principles, Adversaries, link to articles, list adversaries in each document.
 8. * [ ] Write Article or Tweets about Translations [2022]
 9. * [ ] Further integration of Gordian Seed Tool 
 10. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
