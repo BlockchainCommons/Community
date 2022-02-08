@@ -4,9 +4,9 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-1. * [ ] Letter to C.
-1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works 
-1. * [ ] Respond to SoB about Internships
+1. * [ ] Letter to C. [Tuesday]
+1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
+1. * [ ] Respond to SoB about Internships [Wednesday]
 3. * [ ] Write Multisig Article
 4. * [ ] Write Sparrow Article
 5. * [ ] Update Keystone Article
@@ -18,15 +18,19 @@ _Writing:_
 
 _Seed Tool:_
 
-1. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
-2. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
-3. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
-4. * [ ] Differentiate between Release & Developmental Releases
-5. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-6. * [ ] Write Tweetstorm to go with Video
-7. * [ ] Talk with W. about repo naming conventions
-8. * [ ] Test WalletConnect version (pending)
-9. * [ ] Document WalletConnect in Guide (pending)
+1. * [ ] Release 1.3.2 (Today)
+1. * [ ] Update Docs to Talk about Long-hold (Today)
+2. * [ ] Test out 1.3.3 for use with multisigs (Tomorrow)
+   * [ ] Add explanatory text to Cover Page? (Tomorrow)
+4. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
+5. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
+6. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+7. * [ ] Differentiate between Release & Developmental Releases
+8. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+9. * [ ] Write Tweetstorm to go with Video
+10. * [ ] Talk with W. about repo naming conventions
+11. * [ ] Test WalletConnect version (pending)
+12. * [ ] Document WalletConnect in Guide (pending)
 
 _Web/Repo Tasks (Small):_
 
@@ -321,11 +325,3 @@ _Gordian Wallet:_
 1. * [X] Mention we're working with wallet partners for other sorts of crypto-request
 1. * [X] Test with Foundation Devices
 1. * [X] Test with Keystone (P***)
-1. * [X] Possibly rewrite GST Description?
-1. * [X] Talk About, Write Up Ethereum Support Plans [P]
-   * [X] Crypto-envelope plans (Phase 1)
-   * [X] Wallet Connect, Ethereum, Contracts, VCs plans (Phase 2)
-   * [X] Implementation (Phase 3)
-1. * [X] More Work on H's Q&A [2022 #2]
-1. * [X] Update Description of Seed Tool (PR?) [2022]
-1. * [X] Responses for L. Questions [2022]
