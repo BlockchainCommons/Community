@@ -4,22 +4,15 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-1. * [ ] Letter to C. [Tuesday]
-1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
-1. * [ ] Respond to SoB about Internships [Wednesday]
-3. * [ ] Write Multisig Article
-4. * [ ] Write Sparrow Article
-5. * [ ] Update Keystone Article
-6. * [ ] Revise Seed Tool Article
-7. * [ ] Write Overview: what we've done, why, links to Principles, Adversaries, link to articles, list adversaries in each document.
+1. * [ ] Tweetstorm Case Studies
+4. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
+5. * [ ] Respond to SoB about Internships [Wednesday]
 8. * [ ] Write Article or Tweets about Translations [2022]
 9. * [ ] Further integration of Gordian Seed Tool 
 10. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
 
 _Seed Tool:_
 
-2. * [ ] Test out 1.3.3 for use with multisigs (Tomorrow)
-   * [ ] Add explanatory text to Cover Page? (Tomorrow)
 4. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
 5. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
 6. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
@@ -312,6 +305,14 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+2. * [X] Test out 1.3.3 for use with multisigs (Tomorrow)
+   * [X] Add explanatory text to Cover Page? (Tomorrow)
+3. * [X] Write Multisig Article
+4. * [X] Write Sparrow Article
+5. * [X] Update Keystone Article
+6. * [X] Revise Seed Tool Article
+7. * [X] Write Overview: what we've done, why, links to Principles, Adversaries, link to articles, list adversaries in each document.
+3. * [X] Letter to C. [Tuesday]
 1. * [X] Release 1.3.2 (Today)
 1. * [X] Update Docs to Talk about Long-hold (Today)
 2. * [X] Write Seed Tool ARticle
