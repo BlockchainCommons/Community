@@ -4,45 +4,45 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-4. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
-5. * [ ] Respond to SoB about Internships [Wednesday]
-8. * [ ] Write Article or Tweets about Translations [2022]
-9. * [ ] Further integration of Gordian Seed Tool 
-10. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
+1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
+1. * [ ] Respond to SoB about Internships [Wednesday]
+1. * [ ] Write Article or Tweets about Translations [2022]
+1. * [ ] Further integration of Gordian Seed Tool 
+1. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
 
 _Seed Tool:_
 
-4. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
-5. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
-6. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
-7. * [ ] Differentiate between Release & Developmental Releases
-8. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-9. * [ ] Write Tweetstorm to go with Video
-10. * [ ] Talk with W. about repo naming conventions
-11. * [ ] Test WalletConnect version (pending)
-12. * [ ] Document WalletConnect in Guide (pending)
+1. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
+1. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
+1. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+1. * [ ] Differentiate between Release & Developmental Releases
+1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+1. * [ ] Write Tweetstorm to go with Video
+1. * [ ] Talk with W. about repo naming conventions
+1. * [ ] Test WalletConnect version (pending)
+1. * [ ] Document WalletConnect in Guide (pending)
 
 _Web/Repo Tasks (Small):_
 
 1. * [ ] Set policy for closing repos without leaders
 1. * [ ] Regularly assess old repos that may be defunct
-3. * [ ] Update members on community page
-4. * [ ] Update https://github.com/BlockchainCommons/Community/blob/master/standard-communications-text.md
-5. * [ ] Clean Out HackMD (P***)
-6. * [ ] Flag Unpublished in HackMD
-8. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
-9. * [ ] Coordinate W's Tech Excerpts (from big video)
-10. * [ ] Added newest testimony (Sign, email)
-11. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
-13. * [ ] Review & Update C's LinkedIn Profile
+1. * [ ] Update members on community page
+1. * [ ] Update https://github.com/BlockchainCommons/Community/blob/master/standard-communications-text.md
+1. * [ ] Clean Out HackMD (P***)
+1. * [ ] Flag Unpublished in HackMD
+1. * [ ] Any Feedback on https://github.com/BlockchainCommons/Community/issues/62
+1. * [ ] Coordinate W's Tech Excerpts (from big video)
+1. * [ ] Added newest testimony (Sign, email)
+1. * [ ] Review https://twitter.com/ChristopherA/status/1435664587479650308 for messaging for other docs
+1. * [ ] Review & Update C's LinkedIn Profile
 
 _Admin:_
 
 1. * [ ] Get Access to Team Email
 1. * [ ] Get Access to Accounting Email
-2. * [ ] Get Access to Bank Account
-3. * [ ] Get Access to Credit Card
-4. * [ ] Get Access to Multisig
+1. * [ ] Get Access to Bank Account
+1. * [ ] Get Access to Credit Card
+1. * [ ] Get Access to Multisig
 
 _Yearly:_
 
@@ -63,7 +63,7 @@ _BTCPay:_
 _SmartCustody:_
 
 1. * [ ] Write about Defining/Creating Adversaries
-3. * [ ] Recovery of Multisigs Standards
+1. * [ ] Recovery of Multisigs Standards
    * [ ] Need Standards
    * [ ] Storing Metadata
    * [ ] Working with Tap Root
@@ -71,8 +71,8 @@ _SmartCustody:_
 
 _Possible Grants:_
 
-4. * [ ] Ethereum / NFTs
-5. * [ ] Community Membership / Collaboration
+1. * [ ] Ethereum / NFTs
+1. * [ ] Community Membership / Collaboration
  
 _CryptoRequest:_
 
@@ -131,9 +131,9 @@ _Overview:_
  
 1. * [ ] Review V's Notes (week of September 19)
 1. * [ ] Review Roadmap for Rest of Year (week of September 19)
-  1. * [ ] Related to roadmap is review if our strategy is current https://github.com/BlockchainCommons/Community/blob/master/Strategies.md
-  1. * [ ] Discuss Vinay's post-mortem recommendations
-    1. * [ ] Vinay would like to volunteer againt if we in particular focusing on "responsible key management" and funding opportunities in ethereum community for that.
+1. * [ ] Related to roadmap is review if our strategy is current https://github.com/BlockchainCommons/Community/blob/master/Strategies.md
+1. * [ ] Discuss Vinay's post-mortem recommendations
+ 1. * [ ] Vinay would like to volunteer againt if we in particular focusing on "responsible key management" and funding opportunities in ethereum community for that.
 
 _Writing Tasks:_
 
