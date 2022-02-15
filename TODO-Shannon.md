@@ -11,13 +11,14 @@ _Writing:_
 1. * [ ] Write Article or Tweets about Translations [2022]
 1. * [ ] Further integration of Gordian Seed Tool 
 1. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
-1. * [ ] Write Doc About Using URs (Test Vectors / Conformance Test)
+1. * [ ] Write Doc About Using URs (Test Vectors / Conformance Test) (PRIORITY)
    * [ ] Plain Seed
    * [ ] Seed with Metadata
    * [ ] Seed with Other Info
    * [ ] Both 12-word and 24-word
    * [ ] Crypto-Request/Reponse
    * [ ] Up to crypto-psbt
+   * [ ] Best practices for what to do with Crypto-Request (what you show) -- maybe screenshot GST
 
 _Seed Tool:_
 
