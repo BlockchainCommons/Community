@@ -14,6 +14,7 @@ _Writing:_
 1. * [ ] Write Doc About Using URs (Test Vectors / Conformance Test)
    * [ ] Plain Seed
    * [ ] Seed with Metadata
+   * [ ] Seed with Other Info
    * [ ] Crypto-Request/Reponse
    * [ ] Up to crypto-psbt
 
