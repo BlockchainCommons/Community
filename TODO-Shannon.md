@@ -4,6 +4,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
+1. * [ ] Document Coldcard & Passport Seed Backup Methodologies
 1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
 1. * [ ] Respond to SoB about Internships [Wednesday]
 1. * [ ] Write Article or Tweets about Translations [2022]
