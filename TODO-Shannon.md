@@ -4,7 +4,6 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
-1. * [ ] Tweetstorm Case Studies
 4. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
 5. * [ ] Respond to SoB about Internships [Wednesday]
 8. * [ ] Write Article or Tweets about Translations [2022]
@@ -305,6 +304,7 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Tweetstorm Case Studies
 2. * [X] Test out 1.3.3 for use with multisigs (Tomorrow)
    * [X] Add explanatory text to Cover Page? (Tomorrow)
 3. * [X] Write Multisig Article
@@ -315,14 +315,3 @@ _Gordian Wallet:_
 3. * [X] Letter to C. [Tuesday]
 1. * [X] Release 1.3.2 (Today)
 1. * [X] Update Docs to Talk about Long-hold (Today)
-2. * [X] Write Seed Tool ARticle
-2. * [X] Finalize Passport Article
-1. * [X] Upgrade Keystone Firmware
-1. * [X] Upgrade Passport Firmware
-1. * [X] Finalize Keystone Article
-1. * [X] Write #SC for NFTs
-1. * [X] Review & Update https://github.com/BlockchainCommons/Community
-1. * [X] Release Re-REvised BC Home Page
-1. * [X] Mention we're working with wallet partners for other sorts of crypto-request
-1. * [X] Test with Foundation Devices
-1. * [X] Test with Keystone (P***)
