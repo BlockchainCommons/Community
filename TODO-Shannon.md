@@ -149,15 +149,16 @@ _Overview:_
 
 _Writing Tasks:_
 
-1. * [ ] Write About Writing Use Cases
-1. * [ ] Write about Object Identity BLock (OIB)
-1. * [ ] Why Are Web Assembly & Rust Strategy Important & What Are Those Strategies?
-1. * [ ] Improve Docs on Signing CLA
-1. * [ ] Q4 Report (DECEMBER)
-1. * [ ] Write about SSKR for Identity Developers in W3C-CCG: keys in browsers, don't necessarily use BIP39
-1. * [ ] Write About Autonomy Chart
-1. * [ ] Write Release Procedures for iOS
-1. * [ ] Puzzle through what do to unpublished Open Development draft https://hackmd.io/md7blDMZQjCmP0qB7k1iiQ. @ChristopherA's biggest concern is that the principles are missing something, or are not quite right, or at wrong level (aren't principles but something else).
+1. * [ ] Write About Writing Use Cases (SOON)
+   * [ ] Write Some Use Cases for Our Usage
+3. * [ ] Write about Object Identity BLock (OIB)
+4. * [ ] Why Are Web Assembly & Rust Strategy Important & What Are Those Strategies?
+5. * [ ] Improve Docs on Signing CLA
+6. * [ ] Q4 Report (DECEMBER)
+7. * [ ] Write about SSKR for Identity Developers in W3C-CCG: keys in browsers, don't necessarily use BIP39
+8. * [ ] Write About Autonomy Chart
+9. * [ ] Write Release Procedures for iOS
+10. * [ ] Puzzle through what do to unpublished Open Development draft https://hackmd.io/md7blDMZQjCmP0qB7k1iiQ. @ChristopherA's biggest concern is that the principles are missing something, or are not quite right, or at wrong level (aren't principles but something else).
 
 _Writing Tasks (Small):_
 
