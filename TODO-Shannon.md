@@ -15,6 +15,7 @@ _Writing:_
    * [ ] Plain Seed
    * [ ] Seed with Metadata
    * [ ] Seed with Other Info
+   * [ ] Both 12-word and 24-word
    * [ ] Crypto-Request/Reponse
    * [ ] Up to crypto-psbt
 
