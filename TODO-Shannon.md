@@ -4,12 +4,18 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Writing:_
 
+1. * [ ] Make Sure UR Docs Talk About Creation
 1. * [ ] Document Coldcard & Passport Seed Backup Methodologies
 1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
 1. * [ ] Respond to SoB about Internships [Wednesday]
 1. * [ ] Write Article or Tweets about Translations [2022]
 1. * [ ] Further integration of Gordian Seed Tool 
 1. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
+1. * [ ] Write Doc About Using URs (Test Vectors / Conformance Test)
+   * [ ] Plain Seed
+   * [ ] Seed with Metadata
+   * [ ] Crypto-Request/Reponse
+   * [ ] Up to crypto-psbt
 
 _Seed Tool:_
 
@@ -72,6 +78,7 @@ _SmartCustody:_
 
 _Possible Grants:_
 
+1. * [ ] Reach Out About #SC 2 (PRI)
 1. * [ ] Ethereum / NFTs
 1. * [ ] Community Membership / Collaboration
  
