@@ -22,6 +22,7 @@ _Writing:_
 
 _Seed Tool:_
 
+1. * [ ] Look at updated GST SSKR Cover Page, Should We Add Stuff (**TODAY**): Master Key Fingerprint, Ethereum Fingerprint, URL for seedtool? mention other places to recover (or just a page: GST, seedtool-cli)
 1. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
 1. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
 1. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
