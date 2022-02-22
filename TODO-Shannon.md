@@ -32,6 +32,7 @@ _Writing:_
 
 _Seed Tool:_
 
+1. * [ ] Suggest changes to Cosigner Public Key pop-up, encourage use of multisig segwit
 1. * [ ] Write responses for different sorts of crypto-requests, per derivation
 1. * [ ] Thoroughly test file names of new GST
 2. * [ ] Update manual for GST 1.4
