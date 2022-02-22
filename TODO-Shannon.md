@@ -32,6 +32,7 @@ _Writing:_
 
 _Seed Tool:_
 
+1. * [ ] Write responses for different sorts of crypto-requests, per derivation
 1. * [ ] Thoroughly test file names of new GST
 2. * [ ] Update manual for GST 1.4
 3. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
