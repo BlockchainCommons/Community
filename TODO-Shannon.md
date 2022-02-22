@@ -2,12 +2,22 @@
 
 Additional tasks at [the delegated list](TODO-Delegated.md) may be done by others.
 
+_Research_
+
+1. * [ ] Research calback queries (U)
+```
+Support some minimal x-callback function.
+
+http://x-callback-url.com
+
+Some research questions: can you know who called you, and check who are are sending to, to do some security or UX differently.
+```
+
 _Writing:_
 
 1. * [ ] Make Sure UR Docs Talk About Creation
 1. * [ ] Document Coldcard & Passport Seed Backup Methodologies
 1. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
-1. * [ ] Respond to SoB about Internships [Wednesday]
 1. * [ ] Write Article or Tweets about Translations [2022]
 1. * [ ] Further integration of Gordian Seed Tool 
 1. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
@@ -22,16 +32,17 @@ _Writing:_
 
 _Seed Tool:_
 
-1. * [ ] Look at updated GST SSKR Cover Page, Should We Add Stuff (**TODAY**): Master Key Fingerprint, Ethereum Fingerprint, URL for seedtool? mention other places to recover (or just a page: GST, seedtool-cli)
-1. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
-1. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
-1. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
-1. * [ ] Differentiate between Release & Developmental Releases
-1. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-1. * [ ] Write Tweetstorm to go with Video
-1. * [ ] Talk with W. about repo naming conventions
-1. * [ ] Test WalletConnect version (pending)
-1. * [ ] Document WalletConnect in Guide (pending)
+1. * [ ] Thoroughly test file names of new GST
+2. * [ ] Update manual for GST 1.4
+3. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
+4. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
+5. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+6. * [ ] Differentiate between Release & Developmental Releases
+7. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+8. * [ ] Write Tweetstorm to go with Video
+9. * [ ] Talk with W. about repo naming conventions
+10. * [ ] Test WalletConnect version (pending)
+11. * [ ] Document WalletConnect in Guide (pending)
 
 _Web/Repo Tasks (Small):_
 
@@ -317,6 +328,8 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Look at updated GST SSKR Cover Page, Should We Add Stuff (**TODAY**): Master Key Fingerprint, Ethereum Fingerprint, URL for seedtool? mention other places to recover (or just a page: GST, seedtool-cli)
+1. * [X] Respond to SoB about Internships [Wednesday]
 1. * [X] Tweetstorm Case Studies
 2. * [X] Test out 1.3.3 for use with multisigs (Tomorrow)
    * [X] Add explanatory text to Cover Page? (Tomorrow)
