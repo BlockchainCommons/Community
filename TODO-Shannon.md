@@ -36,6 +36,7 @@ _Writing:_
 
 _Seed Tool:_
 
+1. * [ ] Write GST Use Cases, per https://github.com/BlockchainCommons/GordianSeedTool-iOS/issues/93#event-6164780548
 1. * [ ] Suggest changes to Cosigner Public Key pop-up, encourage use of multisig segwit
 1. * [ ] Write responses for different sorts of crypto-requests, per derivation
 1. * [ ] Thoroughly test file names of new GST
