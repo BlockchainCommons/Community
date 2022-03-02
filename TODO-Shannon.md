@@ -36,20 +36,19 @@ _Writing:_
 
 _Seed Tool:_
 
-1. * [ ] Write GST Use Cases, per https://github.com/BlockchainCommons/GordianSeedTool-iOS/issues/93#event-6164780548
-1. * [ ] Suggest changes to Cosigner Public Key pop-up, encourage use of multisig segwit
-1. * [ ] Write responses for different sorts of crypto-requests, per derivation
-1. * [ ] Thoroughly test file names of new GST
-2. * [ ] Update manual for GST 1.4
-3. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
-4. * [ ] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
-5. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
-6. * [ ] Differentiate between Release & Developmental Releases
-7. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-8. * [ ] Write Tweetstorm to go with Video
-9. * [ ] Talk with W. about repo naming conventions
-10. * [ ] Test WalletConnect version (pending)
-11. * [ ] Document WalletConnect in Guide (pending)
+1. * [ ] Finalize GST Manual Changes for 1.4 (52+) [NW1]
+2. * [ ] Update All GST Pics as Needed in Manual [NW2]
+3. * [ ] Do Final Edit of GST 1.4 Manual [NW3]
+4. * [ ] Write GST Use Cases, per https://github.com/BlockchainCommons/GordianSeedTool-iOS/issues/93#event-6164780548
+5. * [ ] Suggest changes to Cosigner Public Key pop-up, encourage use of multisig segwit
+6. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
+7. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+8. * [ ] Differentiate between Release & Developmental Releases
+9. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+10. * [ ] Write Tweetstorm to go with Video
+11. * [ ] Talk with W. about repo naming conventions
+12. * [ ] Test WalletConnect version (pending)
+13. * [ ] Document WalletConnect in Guide (pending)
 
 _Web/Repo Tasks (Small):_
 
@@ -335,6 +334,10 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Write responses for different sorts of crypto-requests, per derivation
+1. * [X] Thoroughly test file names of new GST
+2. * [X] Update manual for GST 1.4
+4. * [X] Write Printing Cover Sheet as Suggested in  https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325
 1. * [X] Look at updated GST SSKR Cover Page, Should We Add Stuff (**TODAY**): Master Key Fingerprint, Ethereum Fingerprint, URL for seedtool? mention other places to recover (or just a page: GST, seedtool-cli)
 1. * [X] Respond to SoB about Internships [Wednesday]
 1. * [X] Tweetstorm Case Studies
