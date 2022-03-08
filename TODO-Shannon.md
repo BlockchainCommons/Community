@@ -15,6 +15,7 @@ Some research questions: can you know who called you, and check who are are send
 
 _Writing:_
 
+1. * [ ] Article on Best Practices / Language for Crypto-Requests & Responses
 1. * [ ] Consolidate Three Eth/NFT Articles Into One For Blog
    * Goal: Do You Want to Talk About Major Architectural Changes? If so, let us know; if not, we won't do it
 3. * [ ] Add URs to all test vectors
