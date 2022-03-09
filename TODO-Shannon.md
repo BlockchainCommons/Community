@@ -15,6 +15,8 @@ Some research questions: can you know who called you, and check who are are send
 
 _Writing:_
 
+1. * [ ] Why 25519 HD-keys on bad
+1. * [ ] Expand on crypto-envelope
 1. * [ ] Best Practices Topics
    * [ ] Article on File Name Best Practice (RFC)
    * [ ] Article on Best Practices / Language for Crypto-Requests & Responses (RFC)
