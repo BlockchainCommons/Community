@@ -15,19 +15,25 @@ Some research questions: can you know who called you, and check who are are send
 
 _Writing:_
 
-1. * [ ] Article eon File Name Best Practice (RFC)
-1. * [ ] Article on Best Practices / Language for Crypto-Requests & Responses (RFC)
-1. * [ ] Consolidate Three Eth/NFT Articles Into One For Blog
+1. * [ ] Best Practices Topics
+   * [ ] Article on File Name Best Practice (RFC)
+   * [ ] Article on Best Practices / Language for Crypto-Requests & Responses (RFC)
+   * [ ] Article on Best Practices for Notes + what shouldn't be there (because not encrypted) + what not to put there in adversarial situations, such as some govt's (real names, IDs)
+      - Source of Entropy
+      - what used for
+      - why
+      - possibly account info (if safe)
+3. * [ ] Consolidate Three Eth/NFT Articles Into One For Blog
    * Goal: Do You Want to Talk About Major Architectural Changes? If so, let us know; if not, we won't do it
-3. * [ ] Add URs to all test vectors
-4. * [ ] Add file names to test vectors
-5. * [ ] Make Sure UR Docs Talk About Creation
-6. * [ ] Document Coldcard & Passport Seed Backup Methodologies
-7. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
-8. * [ ] Write Article or Tweets about Translations [2022]
-9. * [ ] Further integration of Gordian Seed Tool 
-10. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
-11. * [ ] Write Doc About Using URs (Test Vectors / Conformance Test) (PRIORITY)
+4. * [ ] Add URs to all test vectors
+5. * [ ] Add file names to test vectors
+6. * [ ] Make Sure UR Docs Talk About Creation
+7. * [ ] Document Coldcard & Passport Seed Backup Methodologies
+8. * [ ] Update Internship Info, matching dates of https://www.summerofbitcoin.org/how-it-works [Wednesday]
+9. * [ ] Write Article or Tweets about Translations [2022]
+10. * [ ] Further integration of Gordian Seed Tool 
+11. * [ ] Write article on Algorithmic Agility problems, pro-functional agility. See https://news.ycombinator.com/item?id=27265971, https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/. Balancing 3.1 and 3.2 in https://datatracker.ietf.org/doc/html/rfc7696. JOSE/JWT Problems: https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid. Versions vs Agility: https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
+12. * [ ] Write Doc About Using URs (Test Vectors / Conformance Test) (PRIORITY)
    * [ ] Plain Seed
    * [ ] Seed with Metadata
    * [ ] Seed with Other Info
