@@ -44,19 +44,18 @@ _Writing:_
 
 _Seed Tool:_
 
-1. * [ ] Finalize GST Manual Changes for 1.4 (52+) [NW1]
-2. * [ ] Update All GST Pics as Needed in Manual [NW2]
-3. * [ ] Do Final Edit of GST 1.4 Manual [NW3]
-4. * [ ] Write GST Use Cases, per https://github.com/BlockchainCommons/GordianSeedTool-iOS/issues/93#event-6164780548
-5. * [ ] Suggest changes to Cosigner Public Key pop-up, encourage use of multisig segwit
-6. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
-7. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
-8. * [ ] Differentiate between Release & Developmental Releases
-9. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
-10. * [ ] Write Tweetstorm to go with Video
-11. * [ ] Talk with W. about repo naming conventions
-12. * [ ] Test WalletConnect version (pending)
-13. * [ ] Document WalletConnect in Guide (pending)
+1. * [ ] Write walkthrough for GST
+   * How can a sophisticated user see how everything works?
+6. * [ ] Write GST Use Cases, per https://github.com/BlockchainCommons/GordianSeedTool-iOS/issues/93#event-6164780548
+7. * [ ] Suggest changes to Cosigner Public Key pop-up, encourage use of multisig segwit
+8. * [ ] Scout https://github.com/BlockchainCommons/Gordian/discussions/82#discussioncomment-2087325 for concrete features for Seedtool (TW)
+9. * [ ] Write Seed Tool / Sparrow Interaction as Airgapped Wallet [2022 #1]
+10. * [ ] Differentiate between Release & Developmental Releases
+11. * [ ] Turn Chris' recording of SSKR for Users into Video (once recorded)
+12. * [ ] Write Tweetstorm to go with Video
+13. * [ ] Talk with W. about repo naming conventions
+14. * [ ] Test WalletConnect version (pending)
+15. * [ ] Document WalletConnect in Guide (pending)
 
 _Web/Repo Tasks (Small):_
 
@@ -342,6 +341,9 @@ _Gordian Wallet:_
 
 ## Recently Completed
 
+1. * [X] Finalize GST Manual Changes for 1.4 (52+) [NW1]
+1. * [X] Update All GST Pics as Needed in Manual [NW2]
+1. * [X] Do Final Edit of GST 1.4 Manual [NW3]
 1. * [X] Write responses for different sorts of crypto-requests, per derivation
 1. * [X] Thoroughly test file names of new GST
 2. * [X] Update manual for GST 1.4
@@ -349,13 +351,3 @@ _Gordian Wallet:_
 1. * [X] Look at updated GST SSKR Cover Page, Should We Add Stuff (**TODAY**): Master Key Fingerprint, Ethereum Fingerprint, URL for seedtool? mention other places to recover (or just a page: GST, seedtool-cli)
 1. * [X] Respond to SoB about Internships [Wednesday]
 1. * [X] Tweetstorm Case Studies
-2. * [X] Test out 1.3.3 for use with multisigs (Tomorrow)
-   * [X] Add explanatory text to Cover Page? (Tomorrow)
-3. * [X] Write Multisig Article
-4. * [X] Write Sparrow Article
-5. * [X] Update Keystone Article
-6. * [X] Revise Seed Tool Article
-7. * [X] Write Overview: what we've done, why, links to Principles, Adversaries, link to articles, list adversaries in each document.
-3. * [X] Letter to C. [Tuesday]
-1. * [X] Release 1.3.2 (Today)
-1. * [X] Update Docs to Talk about Long-hold (Today)
