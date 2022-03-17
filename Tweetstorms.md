@@ -24,12 +24,15 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 
 * *1.2*: https://twitter.com/ChristopherA/status/1435287614785941508 (9/7/21)
 * *1.2.1*: https://twitter.com/BlockchainComns/status/1443389265379934212 (9/29/21)
+* *1.3*: https://twitter.com/ChristopherA/status/1478067332962349056 (1/3/22)
+* *1.4*: https://twitter.com/BlockchainComns/status/1504265676692680704 (3/16/22)
 
 ## Interns
 
 * *Summer 2021 / HRF Grant* https://twitter.com/ChristopherA/status/1366880813845909506 (3/2/21)
 * *Summer 2021 Reminder* https://twitter.com/ChristopherA/status/1379864030853038080 (4/7/21)
- 
+* *Summer 2022 Announcement* https://twitter.com/ChristopherA/status/1496912289722560513 (2/24/22)
+
 ## Learning Bitcoin from the Command Line
 
 * *Release 1.0*: https://twitter.com/christophera/status/1296126832010436609 (8/19/20)
@@ -67,6 +70,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 
 * *#SC1.0: Bitcoin Valuation* https://twitter.com/ChristopherA/status/1354485791154528261?s=20 (1/27/21)
 * *#SC1.0: Full Info* https://twitter.com/ChristopherA/status/1267560481855639553 (6/1/20)
+* *Case Studies* https://twitter.com/ChristopherA/status/1491828864753930240 (2/10/22)
 * *Convenience* https://twitter.com/ChristopherA/status/1280230853117804545 (7/6/20)
 * *Process Fatigue* https://twitter.com/ChristopherA/status/1280953891006197760 (7/8/20)
 * *Key Fragility* https://twitter.com/ChristopherA/status/1280623626287341568 (7/8/20)
