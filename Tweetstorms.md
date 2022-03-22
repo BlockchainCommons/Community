@@ -26,6 +26,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *1.2.1*: https://twitter.com/BlockchainComns/status/1443389265379934212 (9/29/21)
 * *1.3*: https://twitter.com/ChristopherA/status/1478067332962349056 (1/3/22)
 * *1.4*: https://twitter.com/BlockchainComns/status/1504265676692680704 (3/16/22)
+* *Discount*: https://twitter.com/ChristopherA/status/1477927558884716547 (1/2/22)
 
 ## Interns
 
@@ -94,6 +95,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 
 ## UR
 
+* *crypto-request/crypto-response*: https://twitter.com/christophera/status/1506275746288857088?s=21 (3/22/22)
 * *URs on e-paper*: https://twitter.com/gorazdko/status/1311761068868468736 (10/1/20)
 * *UR Overview*: https://twitter.com/ChristopherA/status/1336393186701266945 (12/8/20)
 * *UR Crypto Request/Response*: https://twitter.com/christophera/status/1367554235139641344?s=21 (3/4/21)
