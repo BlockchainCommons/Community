@@ -4,6 +4,7 @@ Additional tasks at [the delegated list](TODO-Delegated.md) may be done by other
 
 _Research_
 
+1. * [ ] Research How Casa WOrks
 1. * [ ] Research calback queries (U)
 ```
 Support some minimal x-callback function.
