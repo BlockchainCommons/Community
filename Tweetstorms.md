@@ -14,6 +14,10 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *Integration with LetheKit* https://twitter.com/gorazdko/status/1377253593158402053 (3/31/21)
    * *Comments:* https://twitter.com/ChristopherA/status/1377327244465500160 (3/31/21)
 
+## Gordian Server
+
+* *1.0*: https://twitter.com/ChristopherA/status/1453653837978365958 (10/27/21)
+
 ## Gordian Wallet
 
 * *Introduction*: https://twitter.com/ChristopherA/status/1288160195382611968 (7/28/20)
@@ -39,6 +43,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *Release 1.0*: https://twitter.com/christophera/status/1296126832010436609 (8/19/20)
 * *Chapter 15-17*: https://twitter.com/ChristopherA/status/1313177516308230146 (10/5/20)
 * *Release 2.0*: https://twitter.com/christophera/status/1322256471296339968?s=21 (10/30/20)
+* *Translations*: https://twitter.com/ChristopherA/status/1466101784590442496 (12/1/21)
 
 ## LetheKit
 
@@ -59,6 +64,9 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *Q4, 2020 Report:* https://twitter.com/BlockchainComns/status/1347274478502350848 (1/7/21)
    * *Comments:* https://twitter.com/ChristopherA/status/1347280840879861760 (1/7/21)
 * *Q1, 2021 Report:* https://twitter.com/ChristopherA/status/1382782509398650881 (4/15/21)
+* *Q2, 2021 Report:* https://twitter.com/ChristopherA/status/1421151833205002250 (7/30/21)
+* *Q3, 2021 Report:* https://twitter.com/christophera/status/1454174999644831745 (10/29/21)
+* *2021 in Review:* https://twitter.com/ChristopherA/status/1478803491019583494 (1/5/22)
 
 ## Self-sovereign Identity
 
