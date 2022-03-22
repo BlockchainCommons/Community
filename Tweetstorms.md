@@ -26,6 +26,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 
 ## Gordian Seed Tool
 
+* *1.0*: https://twitter.com/ChristopherA/status/1415762450280976384 (7/15/21)
 * *1.2*: https://twitter.com/ChristopherA/status/1435287614785941508 (9/7/21)
 * *1.2.1*: https://twitter.com/BlockchainComns/status/1443389265379934212 (9/29/21)
 * *1.3*: https://twitter.com/ChristopherA/status/1478067332962349056 (1/3/22)
@@ -107,6 +108,10 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *URs on e-paper*: https://twitter.com/gorazdko/status/1311761068868468736 (10/1/20)
 * *UR Overview*: https://twitter.com/ChristopherA/status/1336393186701266945 (12/8/20)
 * *UR Crypto Request/Response*: https://twitter.com/christophera/status/1367554235139641344?s=21 (3/4/21)
+
+## Videos
+
+* *Technology Overview Video*: https://twitter.com/ChristopherA/status/1392847322904547328 (5/13/21)
 
 ## Other
 
