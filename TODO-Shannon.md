@@ -16,7 +16,7 @@ Some research questions: can you know who called you, and check who are are send
 
 _Writing:_
 
-1. * [ ] Write case study of Square setup
+1. * [ ] Write case study of Square setup (https://wallet.build/march-update/)
 1. * [ ] Write about current best practices for Ethereum/Tezos
    * See https://tor.us/, https://docs.web3auth.io/key-infrastructure/overview, https://docs.web3auth.io/key-infrastructure/powered-by-torus
 3. * [ ] Write Our Own NFC Specs
