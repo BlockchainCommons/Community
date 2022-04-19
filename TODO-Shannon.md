@@ -16,6 +16,7 @@ Some research questions: can you know who called you, and check who are are send
 
 _Writing:_
 
+1. * [ ] Write high-level vision of next-generation architecture
 1. * [ ] Suggest text updates for seedtool.info based on lifehash.info
 1. * [ ] Write case study of Square setup (https://wallet.build/march-update/)
 1. * [ ] Write about current best practices for Ethereum/Tezos
