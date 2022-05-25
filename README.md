@@ -16,14 +16,23 @@ See also [our current strategies](Strategies.md) and our [vision page](https://w
 
 ## More Information
 
-   * [Repo Creation Conventions](repo-conventions.md) - how to create a new repo
-   * [Release Best Practices](release.md) — How to release
-   * [Release: Creating an Ad-Hoc DMG for the Mac](release-dmg.md) — How to do so
-   * [Release Path](release-path.md) — what alpha, beta, etc mean
-      * [Release Path Best Practices Standards](release-path-standards.md) — what to do at various stages
+**Announcements:**
+
    * [Tweetstorms](Tweetstorms.md) — incomplete list of past tweetstorms
       * [Best Practices](Tweetstorms-Best-Practices.md) — how to write BCC tweets
-      
+
+**Repos & Repo Releases:**
+
+   * [Repo Creation Conventions](repo-conventions.md) - how to create a new repo
+   * [Release Best Practices](release.md) — How to release
+   * [Release Path](release-path.md) — what alpha, beta, etc mean
+      * [Release Path Best Practices Standards](release-path-standards.md) — what to do at various stages
+
+**App Releases:**
+
+   * [Release: Creating an Ad-Hoc DMG for the Mac](release-dmg.md) — How to do so
+   * [Versioning Notes for Apple & Android](https://github.com/BlockchainCommons/Community/issues/35) — Issues discussion of version #s
+ 
 ## Virtual Internships
 
 We have run [well-received](https://www.coindesk.com/blockchain-commons-interns-open-source-developers) virtual internship programs in both Summer 2020 and Summer 2021. Discussion of our most recent internship program can be found [here](https://github.com/BlockchainCommons/Community/discussions/32), while a lot of our intern work occurs in our [Community Discussion](https://github.com/BlockchainCommons/Community/discussions). 
