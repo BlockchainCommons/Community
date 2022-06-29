@@ -4,6 +4,9 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 
 * [Best Practices](Tweetstorms-Best-Practices.md) - best practices for writing tweets
 
+## Best Practices
+
+* *Release Paths:* https://twitter.com/ChristopherA/status/1354879553059999744 (1/28/21)
 ## Fundraising
 
 * *Identimancer #1 NFT*: https://twitter.com/ChristopherA/status/1445482968869343238?s=20 (10/5/21)
