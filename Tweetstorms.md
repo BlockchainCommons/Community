@@ -35,12 +35,14 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *1.3*: https://twitter.com/ChristopherA/status/1478067332962349056 (1/3/22)
 * *1.4*: https://twitter.com/BlockchainComns/status/1504265676692680704 (3/16/22)
 * *Discount*: https://twitter.com/ChristopherA/status/1477927558884716547 (1/2/22)
-
+* *1.5: https://twitter.com/ChristopherA/status/1527001028444311552* (5/18/22)
+* 
 ## Interns
 
 * *Summer 2021 / HRF Grant* https://twitter.com/ChristopherA/status/1366880813845909506 (3/2/21)
 * *Summer 2021 Reminder* https://twitter.com/ChristopherA/status/1379864030853038080 (4/7/21)
 * *Summer 2022 Announcement* https://twitter.com/ChristopherA/status/1496912289722560513 (2/24/22)
+* *Summer 2022 Projects:* https://twitter.com/ChristopherA/status/1511765254744682499 (4/26/22)
 
 ## Learning Bitcoin from the Command Line
 
@@ -75,6 +77,7 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *Q2, 2021 Report:* https://twitter.com/ChristopherA/status/1421151833205002250 (7/30/21)
 * *Q3, 2021 Report:* https://twitter.com/christophera/status/1454174999644831745 (10/29/21)
 * *2021 in Review:* https://twitter.com/ChristopherA/status/1478803491019583494 (1/5/22)
+* *Q1, 2022 Report:* https://twitter.com/ChristopherA/status/1514566387053654020 (4/14/22)
 
 ## Self-sovereign Identity
 
@@ -82,6 +85,11 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 * *Rebooting Web of Trust* https://twitter.com/ChristopherA/status/1354545557222486016 (1/27/20)
 * *Digital Identity Act*: https://twitter.com/ChristopherA/status/1374488043835387910 (3/23/21)
 * *Principal Authority*: https://twitter.com/ChristopherA/status/1438258074188353537 (9/15/21)
+
+## Silicon Salon
+
+* *Silicon Salon Announcement:* https://twitter.com/ChristopherA/status/1524934871637819392 (5/12/22)
+* *Silicon Salon 1:* https://twitter.com/ChristopherA/status/1532238387280629760 (6/1/22)
 
 ## #SmartCustody
 
@@ -104,6 +112,12 @@ This is a list of TWeetstorms for Blockchain Commons, with links to the first Tw
 
 * *SSKR for Developers:* https://twitter.com/ChristopherA/status/1436057197394350095
 * *SSKR for Users:* https://twitter.com/ChristopherA/status/1435664581536346121?s=20
+
+## Testimony
+
+* *Wyoming: eResidency:* https://twitter.com/ChristopherA/status/1537084465112940544 (6/15/22)
+* *Wyoming: Private Keys:* https://twitter.com/ChristopherA/status/1537092647507988480 (6/15/22)
+* *Wyoming: WRDA:* https://twitter.com/ChristopherA/status/1536805285712437249 (6/15/22)
 
 ## Torgap
 
