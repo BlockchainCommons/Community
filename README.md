@@ -33,6 +33,10 @@ See also [our current strategies](Strategies.md) and our [vision page](https://w
    * [Release: Creating an Ad-Hoc DMG for the Mac](release-dmg.md) — How to do so
    * [Versioning Notes for Apple & Android](https://github.com/BlockchainCommons/Community/issues/35) — Issues discussion of version #s
  
+**Events:**
+
+   * [Blockchain, Digital Identity & Related Events Listing](Conferences.md) —  A listing of related events & groups
+   
 ## Virtual Internships
 
 We have run [well-received](https://www.coindesk.com/blockchain-commons-interns-open-source-developers) virtual internship programs in both Summer 2020 and Summer 2021. Discussion of our most recent internship program can be found [here](https://github.com/BlockchainCommons/Community/discussions/32), while a lot of our intern work occurs in our [Community Discussion](https://github.com/BlockchainCommons/Community/discussions). 
