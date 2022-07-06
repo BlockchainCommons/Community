@@ -36,6 +36,7 @@ See also [our current strategies](Strategies.md) and our [vision page](https://w
 **Events:**
 
    * [Blockchain, Digital Identity & Related Events Listing](Conferences.md) —  A listing of related events & groups
+   * [Blockchain Calendar](Calendar.md) — Anniversary dates to celebrate Bitcoin
    
 ## Virtual Internships
 
