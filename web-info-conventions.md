@@ -13,3 +13,5 @@ You can align-left the picture in GitHub:
 For a non GitHub page you may need to change the align-left to float-left for correct flow:
 
 <img src="images/logos/bc-logo-black.png" height=150 style="float: left"><hr><i>This site is a proof-of-concept. It is intended to demonstrate the <a href="https://github.com/BlockchainCommons/Gordian#gordian-principles">Principles</a> of the <a href="https://github.com/BlockchainCommons/Gordian/blob/master/README.md">Gordian Architecture</a>. Use at your own risk. For more info on this site, please see its <a href="LINK-TO-REPO">repo</a>. For more info on Blockchain Commons, please see our <a href="https://www.blockchaincommons.com/">main web page</a>. If you'd like to become a sponsor of work like this, please visit our <a href="https://github.com/sponsors/BlockchainCommons">Sponsors Page</a>.</i><hr>
+
+If you copy once of these, please be sure to change the LINK-TO-REPO link!
