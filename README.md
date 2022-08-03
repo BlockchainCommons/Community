@@ -28,6 +28,10 @@ See also [our current strategies](Strategies.md) and our [vision page](https://w
    * [Release Path](release-path.md) — what alpha, beta, etc mean
       * [Release Path Best Practices Standards](release-path-standards.md) — what to do at various stages
 
+**Web Page Releases:**
+
+  * [Info Web Page Conventions](
+ 
 **App Releases:**
 
    * [Release: Creating an Ad-Hoc DMG for the Mac](release-dmg.md) — How to do so
