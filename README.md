@@ -30,7 +30,7 @@ See also [our current strategies](Strategies.md) and our [vision page](https://w
 
 **Web Page Releases:**
 
-  * [Info Web Page Conventions](
+  * [Info Web Page Conventions](web-info-conventions.md) — Standard content for our proof-of-concept info web pages
  
 **App Releases:**
 
