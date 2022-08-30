@@ -22,4 +22,8 @@ A listing of Blockchain Commons accounts and pages with notable information on t
 
 ## Twitter
 
+- [ ] Twitter Profile: https://twitter.com/BlockchainComns ["Edit Profile"]
+
 ## Youtube
+
+- [ ] Blockchain Commons Channel: Channel -> Customization -> Basic Info: https://studio.youtube.com/channel/UCPQ9LtDWZAkfItMF4B5tztw/editing/details
