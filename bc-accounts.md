@@ -4,8 +4,8 @@ A listing of Blockchain Commons accounts and pages with notable information on t
 
 ## GitHub
 
-- [ ] Information appears in the organizational README: https://github.com/BlockchainCommons/.github/blob/master/profile/README.md
-- [ ] Information appears on the Sponsors page: https://github.com/sponsors/BlockchainCommons
+- [ ] Organizational README: https://github.com/BlockchainCommons/.github/blob/master/profile/README.md
+- [ ] Sponsors page: https://github.com/sponsors/BlockchainCommons
 
 ## GitHub Repos of Note
 
