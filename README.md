@@ -24,6 +24,10 @@ See also [our current strategies](Strategies.md) and our [vision page](https://w
 **Blockchain Commons Info:**
 
    * [Account Listing](bc-accounts.md) — Listing of accounts with info about Blockchain Commons
+
+**GitHub Usage:**
+
+   * [GitHub Primer](github-primer.md) — An overview of using GitHub
    
 **Repos & Repo Releases:**
 
