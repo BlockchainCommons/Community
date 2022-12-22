@@ -11,7 +11,7 @@ Following is a list of major blockchain, digital identity, and other events.
 * **Dweb Camp** <https://dwebcamp.org/>
     * 2023/06/21 - 2023/06/25 | Camp Navarro CA
 * **OAuth Security Workshop** <https://oauth.secworkshop.events/>
-* 2023/08/22 - 2023/08/24 | Royal Holloway University, London/UK
+    * 2023/08/22 - 2023/08/24 | Royal Holloway University, London/UK
 * **IIW** XXXVII Fall: 2023/10/10 - 2023/10/12     
 * **Identity Week Asia** <https://www.terrapinn.com/exhibition/identity-week-asia/index.stm>
     * 2023/11/07 - 2023/11/08 | Suntec Convention Centre, Singapore
@@ -21,8 +21,7 @@ Following is a list of major blockchain, digital identity, and other events.
 * APAC Digital Identity unConference Bangkok, Thailand <https://identitywoman.net/save-the-date-apac-digital-identity-unconference-march-1-3-2023/>
     * 2023/03/1 - 2023/03/03 | Bangkok, Thailand
 
-* IETF <https://www.ietf.org/>
-    
+* IETF <https://www.ietf.org/> 
     * IETF 116 2023/03/25 - 2023/03/31 | Yokohama Japan
     * IETF 117 2023/07/22 - 2023/07/28 | San Francisco 
 
@@ -43,16 +42,22 @@ Following is a list of major blockchain, digital identity, and other events.
     * 2023/05/31 - 2023/06/01 | Helsinki Finland
 
 ## Major Blockhain Conferences
+
 * The Blockchain event <https://www.theblockchainevent.com/east/>
     * 2023/02/14 - 2023/02/17 | Fort Lauderdale, Florida
+
 * The World’s NFT Meeting <https://www.nftparis.xyz/>
     * 2023/02/24 - 2023/02/25 | Grand Palais, Paris
+
 * Consensus <https://www.coindesk.com/events>
     * 2023/04/26 - 2023/04/28
+
 * Web Summit Rio <https://rio.websummit.com//>   
-    * 2023/05/01 - 2023/05/04 | Rio de Janeiro, Brazil.    
+    * 2023/05/01 - 2023/05/04 | Rio de Janeiro, Brazil.   
+
 * Web3 <http://web3summit.com>   
     * 2023/06/28 - 2023/06/29 | London, Hornsey Rd, London N7 7AJ, UK
+
 * EthCon
 * Scaling Bitcoin
 
@@ -66,4 +71,4 @@ Following is a list of major blockchain, digital identity, and other events.
 * TPAC <https://www.w3.org/wiki/TPAC>
     * Events typically late October  
 
-* **Singapore Blockchain Week** <https://singaporeblockchain.org/singapore-blockchain-week-one-of-asias-largest-blockchain-events-returns-from-25-to-29-july-2022/>  
+* Singapore Blockchain Week <https://singaporeblockchain.org/singapore-blockchain-week-one-of-asias-largest-blockchain-events-returns-from-25-to-29-july-2022/>  
