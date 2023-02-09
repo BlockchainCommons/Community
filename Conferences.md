@@ -4,7 +4,7 @@ Following is a list of major blockchain, digital identity, and other events.
 
 ## Upcoming Events
 
-* **European Blockchain Convention** <https://eblockchainconvention.com/>
+* **[European Blockchain Convention]** (https://eblockchainconvention.com/)
     * 2023/02/15 - 2023/02/17 | Barcelona
 * **Real World Crypto 2023** 2023/03/27 - 2023/03/29 | Tokyo, Japan
 * **Bitcoin Miami** 2023/05/18 - 2023/05/20 | Miami Beach
