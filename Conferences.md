@@ -30,7 +30,7 @@ Following is a list of major blockchain, digital identity, and other events.
 
 * [Identiverse](https://identiverse.com) 2023/05/30 - 2023/06/02 Aria Resort & Casino, Las Vegas, NV
 
-* [MyData](https://mydata.org] 2023/05/31 - 2023/06/01 Helsinki Finland
+* [MyData](https://mydata.org) 2023/05/31 - 2023/06/01 Helsinki Finland
 
 * [TPAC 2023](https://www.w3.org/wiki/TPAC) 2023/09/11 - 2023/09/15 Sevilla, Spain.
 
