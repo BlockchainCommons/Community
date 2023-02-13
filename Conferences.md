@@ -40,11 +40,20 @@ Following is a list of major blockchain, digital identity, and other events.
 
 * [The World’s NFT Meeting](https://www.nftparis.xyz) 2023/02/24 - 2023/02/25 Grand Palais, Paris
 
-* [Consensus](https://www.coindesk.com/events) 2023/04/26 - 2023/04/28
+* [Consensus](https://www.coindesk.com/events) 2023/04/26 - 2023/04/28 Austin, Texas
 
-* [Web Summit Rio](https://rio.websummit.com/) 2023/05/01 - 2023/05/04 Rio de Janeiro, Brazil.  
+* [Web Summit Rio](https://rio.websummit.com/) 2023/05/01 - 2023/05/04 Rio de Janeiro, Brazil   
 
-* [Web3](http://web3summit.com)  2023/06/28 - 2023/06/29 London, Hornsey Rd, London N7 7AJ, UK
+* [Web3](http://web3summit.com)  2023/06/28 - 2023/06/29 London, Hornsey Rd, UK
+
+* [The Advancing Bitcoin Conference](https://www.advancingbitcoin.com/enterprise/2023/) 2023/09/14 - 2023/09/15 Malaga, Spain
+
+* [Crypto 2023](https://crypto.iacr.org/2023/) 2023/08/19 - 2023/08/24 Santa Barbara, USA Submission deadline: 16 February 2023
+
+* [TABConf 2023](https://2023.tabconf.com/) 2023/09/06 - 2023/09/09 Atlanta, Georgia, USA
+
+
+
 * EthCon
 * Scaling Bitcoin
 
