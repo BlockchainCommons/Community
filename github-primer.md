@@ -110,3 +110,67 @@ You will then see a PR created on the original repo, which will incorporate your
 
 (Whew.)
 
+## Avoiding Merge Conflicts
+
+A merge conflict means that some changes you made conflict (or seem to conflict) with some other changes made between when you started your edit (usually when you did a fork or clone) and when you ended your edit (usually when you submit your pull, though alternatively when someone looks at your PR if it's been sitting around for a while). (We say "seem to" because the GitHub merging isn't always as robust as we'd like and sometimes there are actually no changes to the section that you also changed but GitHub is just confused due to to other changes in the document.)
+
+The only way to really avoid merge conflicts is to be quick: to make sure that your fork/clone is 100% up-to-date when you start making changes, and then to submit your PR as soon as possible. On the web, you can keep up-to-date by going to the main page of your fork and seeing if it's some number of "commits behind" and if so choosing to "Sync Fork"; on a local clone, you can similarly do so by "git pull"ing down changes before you make updates. Once you start making changes on your side, things get more complex, so do the update first!
+
+## Resolving Merge Conflicts
+
+When you don'd avoid a merge conflict (and obviously that's not always possible: sometimes you're working on things for a while and sometimes someone else is working exactly when you are), then the dreaded resolve-conflicts box shows up:
+
+<img width="1075" alt="Screenshot 2023-02-14 at 7 43 56 AM" src="https://user-images.githubusercontent.com/1110886/218817096-7587e07c-ce9d-47ce-aa77-b90c3d35572d.png">
+
+This typically means that your fork/clone was some number of commits behind when you started making your own changes _and_ GitHub can't figure out how to integrate those two sets of changes (though often it'll be able to):
+
+```
+This branch is 4 commits ahead, 3 commits behind BlockchainCommons:master.
+```
+When you click on the "Resolve Conflicts" button, you see all the conflicted areas.
+
+For example:
+```
+<<<<<<< update-dates
+* **[European Blockchain Convention](https://eblockchainconvention.com)** 2023/02/15 - 2023/02/17  Barcelona
+* **Real World Crypto 2023** 2023/03/27 - 2023/03/29 Tokyo, Japan
+* **Bitcoin Miami** 2023/05/18 - 2023/05/20  Miami Beach
+* **[Dweb Camp](https://dwebcamp.org)** 2023/06/21 - 2023/06/25  Camp Navarro CA
+* **[OAuth Security Workshop](https://oauth.secworkshop.events)** 2023/08/22 - 2023/08/24  Royal Holloway University, London/UK
+* **[IIW](https://internetidentityworkshop.com)** XXXVII Fall: 2023/10/10 - 2023/10/12
+* **[Identity Week Asia](https://www.terrapinn.com/exhibition/identity-week-asia/index.stm)** 2023/11/07 - 2023/11/08  Suntec Convention Centre, Singapore
+=======
+* **European Blockchain Convention** <https://eblockchainconvention.com/>
+    * 2023/02/15 - 2023/02/17 | Barcelona
+* **Real World Crypto 2023** 2023/03/27 - 2023/03/29 | Tokyo, Japan
+* **Bitcoin Miami** 2023/05/18 - 2023/05/20 | Miami Beach
+* **Dweb Camp** <https://dwebcamp.org/>
+    * 2023/06/21 - 2023/06/25 | Camp Navarro CA
+* **OAuth Security Workshop** <https://oauth.secworkshop.events/>
+    * 2023/08/22 - 2023/08/24 | Royal Holloway University, London/UK
+* **IIW** XXXVII Fall: 2023/10/10 - 2023/10/12     
+* **Identity Week Asia** <https://www.terrapinn.com/exhibition/identity-week-asia/index.stm>
+    * 2023/11/07 - 2023/11/08 | Suntec Convention Centre, Singapore
+>>>>>>> master
+```
+
+In each case, it shows your update between `<<<<<<< your-branch-name` and `=======` and the current state of the repo between `=======` and `>>>>>>> master`. So what you need to do is integrate the two conflicted states into a coherent whole and remove the `<<<<<<< your-branch-name`, `=======`, and `>>>>>>> master` lines.
+
+Often it's really easy, and you just need to excise the old version and include your new version (or vice versa), because GitHub claimed there was a conflict when there wasn't. 
+
+The above example was a _real_ conflict. The new update had a URL for IIW, while the new master had a better organization. So a resolution might look something like the following: note the "IIW" line in particular, which takes elements from both branches:
+
+```
+* **European Blockchain Convention** <https://eblockchainconvention.com/>
+    * 2023/02/15 - 2023/02/17 | Barcelona
+* **Real World Crypto 2023** 2023/03/27 - 2023/03/29 | Tokyo, Japan
+* **Bitcoin Miami** 2023/05/18 - 2023/05/20 | Miami Beach
+* **Dweb Camp** <https://dwebcamp.org/>
+    * 2023/06/21 - 2023/06/25 | Camp Navarro CA
+* **OAuth Security Workshop** <https://oauth.secworkshop.events/>
+    * 2023/08/22 - 2023/08/24 | Royal Holloway University, London/UK
+* **IIW** XXXVII Fall <https://internetidentityworkshop.com> 
+    * 2023/10/10 - 2023/10/12     
+* **Identity Week Asia** <https://www.terrapinn.com/exhibition/identity-week-asia/index.stm>
+    * 2023/11/07 - 2023/11/08 | Suntec Convention Centre, Singapore
+```
