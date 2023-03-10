@@ -57,9 +57,10 @@ Following is a list of major blockchain, digital identity, and other events.
 
 ## No New Dates
 
+### (investigate monthly)
+
 * [RWOT](https://www.eventbrite.com/e/rebooting-the-web-of-trust-xi-2022-the-hague-tickets-347605426187)
-
 * [KNOW](https://www.knowidentity.com/2020-conference)
-
 * [Singapore Blockchain Week](https://singaporeblockchain.org/singapore-blockchain-week-one-of-asias-largest-blockchain-events-returns-from-25-to-29-july-2022)
+* [IDNext](https://idnext.eu/events)
 
