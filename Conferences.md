@@ -17,6 +17,8 @@ Following is a list of major blockchain, digital identity, and other events.
 * **[IACR](https://iacr.org/events/)** [(Submit)](https://iacr.org/events/edit.php)
 * **[Conference-Service](https://conference-service.com/conferences/mathematical-cryptography.html)** [(Submit)](https://conference-service.com/auxiliary/submit.html)
 * **[IEEE Cipher](https://www.ieee-security.org/Calendar/cipher-hypercalendar.html)** (submit a plain text version of the CFP to cipher-cfp @ ieee-security.org) (paper-focused)
+* **[Security & Privacy Conferences](https://sec-deadlines.github.io/)** ([Submit a PR](https://github.com/sec-deadlines/sec-deadlines.github.io))
+* **[ITEZ](https://itez.com/events)** (no submit?)
 
 ## Identity-Related Groups
 
