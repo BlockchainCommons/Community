@@ -15,8 +15,8 @@ Following is a list of major blockchain, digital identity, and other events.
 ## Crypto Calendars
 
 * **[IACR](https://iacr.org/events/)** [(Submit)](https://iacr.org/events/edit.php)
-* **[Conference-Service](https://conference-service.com/conferences/mathematical-cryptography.html) [(Submit)](https://conference-service.com/auxiliary/submit.html)
-* **[IEEE Cipher](https://www.ieee-security.org/Calendar/cipher-hypercalendar.html) (submit a plain text version of the CFP to cipher-cfp @ ieee-security.org) (paper-focused)
+* **[Conference-Service](https://conference-service.com/conferences/mathematical-cryptography.html)** [(Submit)](https://conference-service.com/auxiliary/submit.html)
+* **[IEEE Cipher](https://www.ieee-security.org/Calendar/cipher-hypercalendar.html)** (submit a plain text version of the CFP to cipher-cfp @ ieee-security.org) (paper-focused)
 
 ## Identity-Related Groups
 
