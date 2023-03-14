@@ -12,6 +12,12 @@ Following is a list of major blockchain, digital identity, and other events.
 * **[IIW](https://internetidentityworkshop.com)** XXXVII Fall: 2023/10/10 - 2023/10/12
 * **[Identity Week Asia](https://www.terrapinn.com/exhibition/identity-week-asia/index.stm)** 2023/11/07 - 2023/11/08  Suntec Convention Centre, Singapore
 
+## Crypto Calendars
+
+* **[IACR](https://iacr.org/events/)** [(Submit)](https://iacr.org/events/edit.php)
+* **[Conference-Service](https://conference-service.com/conferences/mathematical-cryptography.html) [(Submit)](https://conference-service.com/auxiliary/submit.html)
+* **[IEEE Cipher](https://www.ieee-security.org/Calendar/cipher-hypercalendar.html) (submit a plain text version of the CFP to cipher-cfp @ ieee-security.org) (paper-focused)
+
 ## Identity-Related Groups
 
 * [APAC Digital Identity unConference Bangkok, Thailand](https://identitywoman.net/save-the-date-apac-digital-identity-unconference-march-1-3-2023) 2023/03/1 - 2023/03/03  Bangkok, Thailand
