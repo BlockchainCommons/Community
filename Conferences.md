@@ -24,7 +24,7 @@ Following is a list of major blockchain, digital identity, and other events.
 
 (May be less useful)
 
-* **[Conference Index](https://conferenceindex.org/conferences/cryptography) (doesn't seem to support virtual conferences)
+* **[Conference Index](https://conferenceindex.org/conferences/cryptography)** (doesn't seem to support virtual conferences)
 * **[Conference-Service](https://conference-service.com/conferences/mathematical-cryptography.html)** [(Submit)](https://conference-service.com/auxiliary/submit.html)
 
 ## Identity-Related Groups
