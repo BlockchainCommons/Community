@@ -14,6 +14,13 @@ The Blockchain Commons Community is a central location for discussion and inform
 
 See also [our current strategies](Strategies.md) and our [vision page](https://www.blockchaincommons.com/vision.html).
 
+## Websites
+
+* [Main Website](https://www.blockchaincommons.com)
+* [Advocacy Website](https://advocacy.blockchaincommons.com)
+* [GitHub Repos](https://github.com/BlockchainCommons/)
+* [BTCPay](https://btcpay.blockchaincommons.com/)
+
 ## More Information
 
 **Announcements:**
