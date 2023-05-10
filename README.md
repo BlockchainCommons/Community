@@ -56,6 +56,10 @@ See also [our current strategies](Strategies.md) and our [vision page](https://w
 
    * [Blockchain, Digital Identity & Related Events Listing](Conferences.md) —  A listing of related events & groups
    * [Blockchain Calendar](Calendar.md) — Anniversary dates to celebrate Bitcoin
+
+**Administrative Utilities:**
+
+   * [Codeowners Reports](script-codeowners.md) — A listing for repo metadata
    
 ## Virtual Internships
 
