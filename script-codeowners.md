@@ -1,5 +1,7 @@
 # Codeowners Report
 
+Also see: [current run for Blockchain Commons](script-codeowners-results.md).
+
 This `python` script is intended to list out codeowners and the total open issues + PR (and potentially other metadata) for each repo in an organization or owner by a person.
 
 To use it:
