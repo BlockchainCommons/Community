@@ -58,6 +58,12 @@ def get_codeowners_file_contents(owner, repo_name):
     else:
         return None
 
+def get_codeowners_open_issues(owner, repo_name):
+    url = f'{GITHUB_API_BASE_URL}/repos/{owner}/{repo_name}'
+    headers = {'Authorization': f'token {GITHUB_PAT}'}
+    response = requests.get(url, headers=headers)
+    return response.json()
+
 def extract_usernames(codeowners_content):
     pattern = r'@(\w+)'
     usernames = re.findall(pattern, codeowners_content)
@@ -66,22 +72,25 @@ def extract_usernames(codeowners_content):
 def main():
     account = input('Enter the GitHub account username: ')
 
-    print("\n| Repo | Code Owners |")
-    print("|------|-------------|")
+    print("\n| Repo | Code Owners | Issues & PRs|")
+    print("|------|-------------|------------|")
 
     for repo in get_user_repos(account):
         if repo["name"] == '.github':
             continue
 
         codeowners = get_codeowners_file_contents(account, repo['name'])
+        issues = get_codeowners_open_issues(account, repo['name'])
 
         if codeowners:
             content = requests.get(codeowners['download_url']).text
             usernames = extract_usernames(content)
-            print(f'| {repo["name"]} | {", ".join(usernames)} |')
+            print(f'| {repo["name"]} | {", ".join(usernames)} | {issues["open_issues_count"]} |')
         else:
-            print(f'| {repo["name"]} | |')
+            print(f'| {repo["name"]} | | {issues["open_issues_count"]} |')
+
 
 if __name__ == '__main__':
     main()
+
 ```
