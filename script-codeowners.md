@@ -1,6 +1,6 @@
 # Codeowners Report
 
-This `python` script is intended to list out codeowners (and potentially other metadata) for each repo in an organization or owner by a person.
+This `python` script is intended to list out codeowners and the total open issues + PR (and potentially other metadata) for each repo in an organization or owner by a person.
 
 To use it:
 
