@@ -20,6 +20,8 @@ Each WIP or repo should be identified with its level of stability.
 
 ***Late Alpha.*** By the time a concept reaches late alpha, we have had some success with the idea, but it is still not feature-complete. By this time, we are trying to limit backward incompatibilities, but they may still occur.
 
+***Community Review.*** Many projects will enter a Community Review stage between Alpha and Beta, when we ask the community for feedback. Obviously, let us know if you find any mistakes or problems. But also let us know if the API/UX meets your needs, if the functionality is easy to use, if the usage of any coding language feels properly standardized, and if the project solves any problems you are encountering when doing this kind of coding. Also let us know how it could be improved and what else you'd need for this to be just right for your usage.
+
 ***Beta.*** At this stage, we hope to stabilize the protocols and data formats to maintain compatibility, though there could still be surprises if we discover security issues. We may still be adding features. Security reviews may be in process at this point, or they may not yet have occurred. We prefer to have at least two companies who have implemented an idea before advancing it from Late Alpha to Beta.
 
 ***Feature-Complete.*** A product has reached its full feature set and is by now definitely undergoing security reviews if it has not already.
