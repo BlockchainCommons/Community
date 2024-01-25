@@ -30,6 +30,16 @@ Each WIP or repo should be identified with its level of stability.
 
 Repos will primarily be identified by these development phases; WIPs will additionally be identified by semantic numbering, with numbers of less than 1.0 being at best alpha.
 
+## Unsupported Path
+
+Sometimes, repos previously on the release path may become unsupported due to the release of other repos, the disappearance of project leads, or other reasons. These repos may not be up to current security standards, and may even not work any more, though the exact reason for their becoming unsupported may vary and may be of note to people considering the repo.
+
+**Superseded:** This is a repo that has been replaced by a more up-to-date repo or one that we feel better covers the material in question.
+
+***Unsupported:*** This is a repo that is no longer supported for reasons having nothing to do with the core content, possibly meaning that a project lead has moved on, or possibly that the project is just no longer relevant to the current ecosystem. If you'd like to become a new lead for the project, please file an issue.
+
+**Withdrawn:** This is a repo that contains material where we actively suggest against using the material because we feel that it has some flaw in it.
+
 ## Best Practices Standards for Release-Path
 
 We believe in creating and promoting best practices such as the [Core Infrastructure Initiative Best Practices Badge](https://github.com/coreinfrastructure/best-practices-badge). We have begun our own [Best Practices Standards for Blockchain Commons](release-path-standards.md), which we will ultimately use to assess whether each protocol or product meets the criteria for its level of release. We would appreciate your feedback and expansion of this work.
