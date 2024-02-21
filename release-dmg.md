@@ -16,7 +16,7 @@ _To create a DMG for release:_
 
 ## Notarize Your App
 
-5. Choose "Distribute App" from the "Archives" screen, then use "Developer ID" for your method of distribution. Choose "Upload" and "Automatically Manage Signing" and (again) "Upload". (This is effectively ad-hoc release for the Mac: it doesn't go through the app store.)
+5. Choose "Distribute App" from the "Archives" screen, then use "Custom" [Next] / "Developer ID" for your method of distribution. Choose "Upload" and "Automatically Manage Signing" and (again) "Upload". (This is effectively ad-hoc release for the Mac: it doesn't go through the app store.)
 
 _If the Upload works, great, you should wait around a bit, and then your copy of the app you should be notarized. After you've been alerted that your app is notarized, choose "Distribute > Copy App" from the Organizer. Double-check the name as noted in 8a. Then skip to step 11._
 
