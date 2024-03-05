@@ -108,6 +108,17 @@ gpg: Signature made Wed Oct 27 09:34:57 2021 HST
 gpg:                using RSA key A4889A09F9819D8C054004507EC6B928606F27AD
 gpg: Good signature from "Shannon Appelcline <shannon.appelcline@gmail.com>" [ultimate]
 ```
+### Signing Alternative
+
+If you are signing with an SSH key instead of a GPG key, the process looks more like this:
+```
+$ ssh-keygen -Y sign -n file -f ~/.ssh/sign_id_ed25519-DragonBook.local-ShannonA-2024-01-31@github SHA256SUMS
+$ mv SHA256SUMS.sig SHA256SUMS.shannona.ssh-1oCAdW5UY7LtbO723rCxI3YqfFDWf2SqJpu6EebgaKM.sig
+```
+It can then be checked as follows:
+```
+$ cat SHA256SUMS | ssh-keygen -Y check-novalidate -n file -f ~/.ssh/sign_id_ed25519-DragonBook.local-ShannonA-2024-01-31@github.pub -s SHA256SUMS.shannona.ssh-1oCAdW5UY7LtbO723rCxI3YqfFDWf2SqJpu6EebgaKM.sig
+```
 
 ### Create the Release & Upload
 
