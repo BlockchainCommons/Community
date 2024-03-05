@@ -120,6 +120,22 @@ It can then be checked as follows:
 $ cat SHA256SUMS | ssh-keygen -Y check-novalidate -n file -f ~/.ssh/sign_id_ed25519-DragonBook.local-ShannonA-2024-01-31@github.pub -s SHA256SUMS.shannona.ssh-1oCAdW5UY7LtbO723rCxI3YqfFDWf2SqJpu6EebgaKM.sig
 ```
 
+### New Release Test
+
+17a. Test Out Creating a tag by hand
+
+```
+git tag -s v1.1.1
+```
+
+Test it with:
+
+```
+git tag -v v1.1.1
+```
+
+If it works, `git push` and then grab the tag when you do the release in #17, below.
+
 ### Create the Release & Upload
 
 17. Create a new release on the releases page for your repo
