@@ -42,7 +42,8 @@ See also [our current strategies](Strategies.md) and our [vision page](https://w
    * [Release Best Practices](release.md) — How to release
    * [Release Path](release-path.md) — what alpha, beta, etc mean
       * [Release Path Best Practices Standards](release-path-standards.md) — what to do at various stages
-
+   * [Licensing: Why We Chose the BSD 2-Clause Plus Patent License](why-bsd.md)
+     
 **Web Page Releases:**
 
   * [Info Web Page Conventions](web-info-conventions.md) — Standard content for our proof-of-concept info web pages
